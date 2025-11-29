@@ -15,11 +15,11 @@ import os
 # Configuration
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MAX_SAMPLES = 1000  # Start with 1000 samples for testing, set to None for full dataset
+MAX_SAMPLES = 100  # Start with 1000 samples for testing, set to None for full dataset
 BATCH_SIZE = 1  # Process one at a time for instruction-following models
 
 # Verdict categories
-VERDICTS = ["true", "mostly-true", "half-true", "mostly-false", "false", "pants-fire"]
+VERDICTS = ["mostly-true", "half-true", "true", "mostly-false", "false", "pants-fire"]
 
 def load_data(file_path, max_samples=None):
     """Load JSONL data and prepare for classification"""
@@ -42,12 +42,12 @@ Date: {date}
 Source: {source}
 
 Based on this information, classify the statement into one of these categories:
-- true: The statement is accurate
-- mostly-true: The statement is mostly accurate with minor issues
-- half-true: The statement is partially accurate
-- mostly-false: The statement is mostly inaccurate
-- false: The statement is inaccurate
-- pants-fire: The statement is ridiculously false
+- true: The statement is accurate and there is nothing significant missing.
+- mostly-true: The statement is accurate but needs clarification or additional information.
+- half-true: The statement is partially accurate but leaves out important details or takes things out of context.
+- mostly-false: The statement contains an element of truth but ignores critical facts that would give a different impression.
+- false: The statement is not accurate.
+- pants-fire: The statement is not accurate and makes a ridiculous claim.
 
 Respond with ONLY the verdict category (one word from the list above), nothing else."""
     
@@ -57,10 +57,12 @@ def extract_verdict(response_text):
     """Extract verdict from LLM response"""
     # Clean the response
     response = response_text.strip().lower()
-    
+    # print(f"LLM Response: {response}")
     # Look for exact matches
     for verdict in VERDICTS:
-        if verdict in response:
+        # print(f"Checking verdict: {verdict}")
+        if response == verdict:
+            # print(f"Matched verdict: {verdict}")
             return verdict
     
     # If no match found, return the most likely based on keywords
@@ -96,7 +98,7 @@ def classify_statements(data, generator):
                 messages,
                 max_new_tokens=50,
                 temperature=0.1,  # Low temperature for more deterministic output
-                do_sample=True,
+                do_sample=False,
                 top_p=0.9,
                 pad_token_id=generator.tokenizer.eos_token_id
             )
@@ -175,6 +177,7 @@ def main():
     print("="*80)
     print(f"Model: {MODEL_NAME}")
     print(f"Device: {DEVICE}")
+    print(f"torch cuda available: {torch.cuda.is_available()}")
     print(f"Max samples: {MAX_SAMPLES if MAX_SAMPLES else 'All'}")
     
     # Check for GPU
