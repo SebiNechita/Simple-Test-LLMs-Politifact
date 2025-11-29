@@ -13,6 +13,7 @@ from datetime import datetime
 import os
 
 # Configuration
+# MODEL_NAME = "google/gemma-2-9b-it"
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 MAX_SAMPLES = 100  # Start with 1000 samples for testing, set to None for full dataset
@@ -156,7 +157,7 @@ def evaluate_results(predictions, true_labels, data):
     })
     
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    results_file = f"verdict_classification_results_{timestamp}.csv"
+    results_file = f"verdict_classification_results_{MODEL_NAME.replace('/', '_')}_{MAX_SAMPLES}_{timestamp}.csv"
     results_df.to_csv(results_file, index=False, encoding='utf-8')
     print(f"\nDetailed results saved to: {results_file}")
     
