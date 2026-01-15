@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+
+# Virtual Environments
+venv/
+venv311/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyTorch / ML Models
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+model_cache/
+models/
+
+# HuggingFace Cache
+.cache/
+huggingface/
+
+# Results and Outputs
+results/
+verdict_classification_results_*.csv
+*.log
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (optional - uncomment if you don't want to track large datasets)
+# *.json
+# *.csv
+# *.tsv
+
+# Environment variables
+.env
+.env.local
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Test outputs
+test_output/
+experiments/
