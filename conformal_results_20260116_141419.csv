@@ -1,0 +1,701 @@
+statement,true_verdict,predicted_verdict,prediction_set,set_size,is_covered
+"Says that Wall Street hedge fund managers ""pay a lower tax rate than does a sheet metal worker in Parma or a school teacher in Cleveland.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"John Kasich says he won, despite ""12 visits by a president, somewhere between $45 (million) and $50 million (spent against him,) 500 paid volunteers in here calling me every name in the book, former presidents, first ladies and God-knows-who-else.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Erv Nelson voted ""yes on the pro-amnesty SJR 21, a bill urging Congress to provide citizenship for those residing illegally in our country.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Between 27,000 and 200,000 Wisconsinites were ""turned away"" from the polls in 2016 due to lack of proper identification.",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Cuomo ended cash bail ... and now the crime rate has gone through the roof.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Sen. John McCain ""has taken more money from Wall Street than any other sitting senator.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Mitt Romney has changed his position on supporting the TARP program.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Cuyahoga County ""passed a program to guarantee a college savings account for every single child who enters kindergarten in this county -- the first county in the United States to do so.""",true,true,"['true', 'mostly-true']",2,True
+"Says Jeb Bush ""said low-income women should ‘get their life together and find a husband.' """,mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""There hasn’t been a Republican in the legislature or the City Council in Providence in over 30 years.""",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+"""(George) Soros Provides Migrants With Prepaid Debit Cards To Fund Illegal Journeys""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Ted Strickland supported giving $150 billion to Iranian regime that persecutes women, Christians and gays.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Half of illegal immigrants ""come on legal visas and then overstay.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says an array of statistics show that conditions in some parts of Baltimore rival that of ""the West Bank in Palestine,"" ""North Korea,"" and ""distressed cities in Nigeria, India, China and South Africa.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+A video shows Joe Biden lost and confused on stage.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Closing the tobacco loophole would save Missouri taxpayers $50,000,000""",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Trump supporters tackled an Antifa thug, unmasked him, duct taped him to an electrical box.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Starting in March if you travel outside of the United States you won’t be allowed back in the country ""due to high risk of the coronavirus.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Rick Scott ""doesn't have any ties to a lobbyist.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Texas GOP platform calls for end to teaching ""critical thinking"" in public schools.",half-true,true,"['true', 'mostly-true', 'mostly-false']",3,False
+"Scott Walker ""had a 2.3 GPA when he was asked to leave Marquette University for cheating.""",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Missouri still owes $60 million on bonds issued to build the 23-year-old Edward Jones Dome, the former home of the St. Louis Rams.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"Under Obamacare, ""The IRS will have access to the American people’s protected health care information.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"In England, ""official data shows children are up to 52 times more likely to die following COVID-19 vaccination than unvaccinated children.""",false,false,"['false', 'pants-fire']",2,True
+"When it comes to aid, ""the United States is still about half as what European countries give as a percentage.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Trump: ‘I am sending troops to South Africa and they will not leave until the killing stop and the land issue resolved.’ """,pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Bernie Sanders opposes ""requiring all children to have a K-12 education.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"The  Georgia Department of Economic Development assisted with the creation of 28,776 jobs, an increase of 29 percent from last fiscal year, and $5.97 billion in investments, a 32 percent increase.",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"The ""average taxpayer will see the equivalent of a 2 percent pay raise as a result of low fuel prices.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Austin’s the fastest-growing city in the country the last five years.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"The Koch Brothers are ""spending more money than either the Democratic or Republican parties"" in the 2016 elections.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Hunters contribute more than $500 million"" to West Virginia.",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Martin Luther King said our lives begin to end the day we become silent on things that matter.""",half-true,true,"['true', 'mostly-true']",2,False
+"Says Brendan Kelly ""allowed half of the criminals he faced to walk free"" and ""failed to protect women who were violently assaulted,"" allowing ""those guilty of sexual assault to cut inexcusable plea deals.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"John McCain opposed bankruptcy protections for families ""who were only in bankruptcy because of medical expenses they couldn't pay.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+The U.S. ranks 37th in the world for health care.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In the United Kingdom, ""70-plus percent of the people who die now from COVID are fully vaccinated.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Wendy Davis’ legal work is currently under FBI investigation.""",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""For most black people in the history of this country … it was illegal to pass as a white person. You were actually put in jail if you tried to pass.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""President Trump has the strongest support percentage-wise in our state than any other state in the nation. He won West Virginia by almost 43 percentage points and he's been carrying close to 60 percent approval.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The 5-4 decisions the Supreme Court reaches ""are going up.""",false,true,"['true', 'mostly-true']",2,False
+"Says Kamala Harris said there will be ""a federal tax on your home for reparations.""",false,false,"['mostly-false', 'false']",2,True
+"""How is a misogynist bigot of epic proportions (like U.S. Rep. Steven Smith) allowed to serve?""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Twenty million Americans are ""out of work.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The New England Journal of Medicine released a survey the week that President Obama signed Obamacare stating that over 30 percent of American physicians would leave the profession if the government took over health care.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""An independent analysis shows that payments for cancer care will be slashed by close to 45% causing cancer clinics to close and massively raising your healthcare costs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have over 100,000 children, which we’ve never had before, in serious condition, and many on ventilators"" due to the coronavirus.",false,mostly-true,"['true', 'mostly-true']",2,False
+"The government ""made accommodation to the Fort Hood shooter to let him grow a beard"" for religious reasons.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The budget currently being debated ""significantly decreases the use of one-time resources.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says the lines on the signature Solo cup are actually markings to designate various measurements.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says withdrawing troops from Afghanistan could save the U.S. $50 billion.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says ""Bill Clinton and George Bush both say build the Keystone XL.""",true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"""During the last election, Democrats won over a million votes more than Republicans, but because of the way districts are designed, the Republicans got 33 more members of the House of Representatives than the Democrats did.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+There is no ‘backlog’ of untested rape kits in Wisconsin.,pants-fire,false,"['mostly-true', 'mostly-false', 'false']",3,False
+"""Switzerland (where the government) issues every household a gun . . . has the lowest gun related crime rate of any civilized country in the world!!!""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"""It’s not that there’s a virus shield between Canada (4,500 deaths) and the U.S. (80,000 deaths). What exists is a difference in leadership.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Half of all NC legislative candidates are unopposed because of gerrymandering.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Under the Tax Cuts and Jobs Act, the average American family of four will receive a $1,182 tax cut.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Under energy efficiency legislation sponsored by U.S. Sen. Jeanne Shaheen, ""federal bureaucrats could take over the local building code enforcement in your city if so-called ‘green mandates’ are not complied with quickly enough.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In the last two years, I have supported and proposed $155 billion worth of targeting cuts. Dr. Gingrey has presented zero.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Manufacturing is having its best employment year in almost 15 years.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""80 percent of the (individual mandate) tax falls on those who make $50,000 a year or less.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Texas has launched ‘Operation Lone Star’ to finish the border wall themselves.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""163 paid protesters just filed a lawsuit against George Soros for not paying their bail.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The DREAM Act the ""would give amnesty to over two million illegal aliens.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Marco Rubio ""has a 98 percent voting record with the Koch brothers.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The latest Quinnipiac poll found that nearly six-in-ten Americans oppose ObamaCare -- 30% support the law and 57% oppose it.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Walmart rewards everyone with $75 coupon to celebrate its 125th Anniversary""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Bill White ""is discriminating. He's taking jobs from African Americans and giving them to his friends.""",pants-fire,mostly-false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Sen. Thom Tillis ""doesn’t think restaurant workers should have to wash their hands.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Estimates say individuals who escaped these high tax states have taken with them around $2 trillion in adjusted gross income.""",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+The city of Atlanta has either the highest or second-highest average water bills in the country.,true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The geography of poverty has changed fundamentally in the last 15 years,"" with more of it concentrated in fragile and conflict states.",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says Mitt Romney said ""we are going to have to live with high gas prices, it's a good thing because it will reduce consumption, we don't want to produce any more gasoline.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""My husband and I have never gotten a penny of money from the farm.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Studies show that if we opened one reserve in Alaska now, in five years, gas prices could be at $2 a gallon.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Minnesota has passed and Indiana has passed"" right to work laws making union membership and dues optional",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Children and teen suicide attempts ""skyrocketed 250% in 2020"" according to ""one study done by a hospital.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Under the House Republican tax plan, in Wisconsin, ""the median household of four gets about a $2,000 tax cut, on average.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""Breaking: FBI just raided the White House, 6 people thrown out.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Matt Dolan sponsored Michael Bloomberg's ""red-flag gun confiscation law, letting the people reporting your social media posts send SWAT teams to your house to take your guns.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says that during his eight years as Florida governor, ""we created 1.3 million net new jobs -- more jobs created than Texas.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""The Spanish High Court has announced (COVID-19) is a bio weapon with a patent, not a virus.""",false,false,"['false', 'pants-fire']",2,True
+"The cap-and-trade bill will mean ""2 million jobs lost.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Nobody is leaving Memphis. That's a myth.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Tommy Thompson created the first school choice program in the nation, giving thousands of Milwaukee students the choice of where they go to school – no matter where they live or how much money their parents make.""",true,true,"['true', 'mostly-true']",2,True
+"Four years after Gov. Andrew Cuomo promised universal pre-K, ""79 percent of 4-year olds outside New York City lack full-day pre-K.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says that ""unlike Texas, Missouri has a perfect AAA credit rating.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""the headlines … tell the story"" of how Walker has ""mismanaged"" Milwaukee County",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Says Dino Rossi ""stripped"" health care ""from 45,000 children.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"John McCain wants to ""give oil companies another $4-billion"" in tax breaks.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""over 1 million signatures"" were submitted in attempt to recall Gov. Scott Walker.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Donald Trump is for a single-payer health care system.,half-true,false,"['false', 'pants-fire']",2,False
+"""I've taken on the federal government and won.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Joe Biden owns a private island next to Jeffrey Epstein’s.,pants-fire,false,"['false', 'pants-fire']",2,True
+"""By using a little-known loophole ... Obama minions are allowing Nestle Company to export precious fresh water out of Lake Michigan.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"When it comes to urgency on passing a budget repair bill, ""there’s no rush on this thing"" because the fiscal year doesn’t end until June 30, 2011.",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+"The property appraiser's budget ""is $1 million less today than when I took office 16 years ago.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says Italy arrested a doctor ""for intentionally killing over 3,000 coronavirus patients.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Sen. Rubio has the worst vote attendance record of any Florida senator in nearly 50 years.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""In the entire public school system in Camden last year, only three students graduated college ready.""",mostly-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says U.S. Senate candidate Eric Hovde has ‘no problem with raising taxes.’,mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Texas women make an average of $8,355 less per year than men doing the very same job.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""The EPA has tried to define a puddle or a drainage ditch on your farm to be navigable waters and thus subject to massive environmental regulations.""",mostly-false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Video shows ""Russian tank column totally destroyed by attack helicopter.""",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""The person that shot Ashli Babbitt — boom — right through the head — just boom — there was no reason for that.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Gov. Sarah Palin ""got precisely zero support for her call for Alaska's Democratic Senator Mark Begich to resign because Ted Stevens' corruption conviction was overturned.""",false,true,"['true', 'mostly-true', 'false']",3,True
+"""Religious groups like Knights of Columbus have been forced to allow same-sex marriage ceremonies in their facilities, against their beliefs.""",pants-fire,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Whether you like to admit it or not, half our general revenue goes to education.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Virginia women are paid 80 cents for every dollar paid to Virginia men.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Coronavirus — 22. Clintons — 39.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Fulton County has successfully reduced the number of pregnancies"" among 15- to 19-year-olds.",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Quotes Trump as saying ""would you really want a president who was dumb enough to let himself get drafted?""",pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says he ""was the only Republican"" to vote against creating a House panel to investigate Planned Parenthood.",true,true,"['true', 'mostly-true']",2,True
+"The Americans for Tax Reform pledge ""relates to new taxes that were going to be initiated by legislative action.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Chuck Schumer said ""it’s racist to only allow citizens to vote.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Over 50% of the people now in the House and state Senate have not been born in Virginia.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The United States has ""an immigration system where only 6.5 percent of people who come here, come here based on labor and skill.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""We cut business taxes so today 70 percent of our businesses don't pay a business tax.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says 44 senators ""voted NOT to send stimulus checks.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The IRS is going to be ""in charge"" of ""a huge national database"" on health care that will include Americans’ ""personal, intimate, most close-to-the-vest-secrets.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A proposed amendment ""allows a teenager to get a recommendation for medical marijuana without the consent of a parent.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Dow Jones Industrial Average ""jumped 1000 points in last 5 weeks, Record fastest 1000 point move in history.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Kamala Harris wants the riots to continue and not let up, not now not even after the election.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The United States had ""allies lined up"" for air strikes in Syria and then Obama ""pulled the rug out.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""The President wants to cut 3 MILLION people from SNAP, including children, seniors and veterans.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""‘Simple math’ shows Biden claims 13 million more votes than there were eligible voters who voted in 2020 election.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""You can go to Georgia and make about $6,000 more a year as a teacher.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"America’s federal business tax rate is the highest ""in the world.""",mostly-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Say ""Sam Hyde identified as perpitrator (sic) of Beirut explosion""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""They have 180 million people, families under what he wants to do, which will basically be socialized medicine — you won’t even have a choice — they want to terminate 180 million plans.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says, ""In the last four years we’ve cut $36 million in ongoing revenue.""",false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says a photo shows Bill Clinton and Christine Blasey Ford posing for a camera and smiling together.,pants-fire,false,"['false', 'pants-fire']",2,True
+"Wayne Powell has a ""stated position of having no objection to taking `In God We Trust"" off of U.S. currency.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Joe Biden’s open border"" means that there are ""more Democrat voters pouring into this country.""",false,mostly-false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""Donald Trump says climate change is a hoax invented by the Chinese.""",mostly-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Gas in North Carolina increased 14 cents per gallon this past week, the highest in the nation.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says Haley Stevens’ plan for ""socialized medicine"" would ""eliminate 100,000 doctors and nurses.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Oregonians for Food and Shelter ""proudly features board members from Monsanto and Syngenta and the (Oregon) Farm Bureau also receives funding from biotech companies.""",true,true,"['true', 'mostly-true']",2,True
+"Texas is ""the state that has now gone the longest without electing a Democrat statewide.""",true,true,"['true', 'mostly-true']",2,True
+"Says Alexandria Ocasio-Cortez tweeted, ""Let’s begin ‘The Purge’ to roundup all Conservative traitors.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Charcoal activated tablets ""will counteract most date rape drugs.""",false,false,"['false', 'pants-fire']",2,True
+"""COVID cases in India plummet after government promotes ivermectin and hydroxychloroquine use.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The total (state) payroll has gone down. The total amount of the number of workers in the state has gone down. I like the fact that the bulk of that is just by retirements.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Barack Obama has consistently voted against tougher penalties for criminals.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Sen. Jim Webb ""persists on negating"" Sen. Mark Warner’s votes",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Among the developed nations, we are the least economically and socially mobile country in the world.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"When Mitt Romney was governor of Massachusetts, he ""stood in front of a coal plant and pointed at it and said, ‘This plant kills.’""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"Says that each year, about 25,000 American women become pregnant through rape or incest.",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"Virginia’s economic growth ""has stalled at less than 1% per year for eight years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""NASA announced that it communicated with four races of aliens.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Every year since Gov. Walker and the Republicans have been in control of the Legislature we’ve created fewer jobs, according to the Bureau of Labor Statistics.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Trump approval rating better than Obama and Reagan at same point in their presidencies.""",mostly-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"George Allen ""voted to end Pell Grants for 84,000 students.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Says Donald Trump ""has a long history of exporting jobs overseas.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Transmission of COVID-19 by asymptomatic individuals ""has never been proven.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Multnomah County’s food action plan ""clearly plans to disrupt the free market system in terms of food choices making it harder and more expensive for many residents to eat their food of choice.""",pants-fire,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"""We have killed lots of innocent people in the state of Texas.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"An account of attacks in Benghazi written by former White House press secretary Dee Dee Myers shows that the body of U.S. Ambassador to Libya Christopher Stevens was ""dragged through the streets"" and abused.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Roadside bombs are responsible for 70 percent of casualties in Iraq and these new mine-resistant vehicles can reduce those casualties by two-thirds.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"According to the U.S. Census Bureau, 71.2 percent of Hispanic registered voters in Texas and over 86 percent of African American registered voters participated in the 2012 elections.",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Registered Republican not allowed to vote.""",false,false,"['false', 'pants-fire']",2,True
+"""The average CEO makes $10,000 more every day ... than what the average worker makes every year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says we could have saved ourselves the cost of building the Powell Butte water reservoir.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""Congresswoman Ros-Lehtinen has long record of voting against VA backlog fixes.""",false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Gas prices have gone up 99 percent since Obama became president, ""the highest gas price increase since Carter.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Bernie Sanders ""is the most popular politician in America today.""",mostly-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says ""for the first time ever,"" Texas lawmakers are not funding student population growth.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Video shows Joe Biden stuttering after being asked about touching women ""without their permission"" on The View.",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"The House of Delegates budget bill ""cuts $50 million from education.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+A retired U.S. Army sergeant faces life in prison for killing two Syrian refugees after discovering they raped his teenage daughter.,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"It's ""not true"" that since he's been the president, executions in Iran have increased by four times.",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Rand Paul’s speech ... on 'Gattaca' was totally ripped off of Wikipedia.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Say Nancy Pelosi’s net worth is $196,299,990.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"It’s legal to ""sign a recall petition (against Gov. Scott Walker) even if you have already signed another recall petition,"" but only one signature counts",true,true,"['true', 'mostly-true']",2,True
+"A video of Mark Zuckerberg shows him talking about controlling ""billions of people’s stolen data"" to control the future.",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""(Republicans) have the power to overturn the (state of emergency) order by joint resolution and they refuse to do it.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Tampa man loses testicles after trying to 'fill scuba tank with weed smoke.'""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"In Wisconsin, teachers make $89,000 in salary and benefits, compared to $48,000 for all other workers in the United States.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Rhode Island is ""almost dead last"" among Northeastern states in the length of time first-degree murderers must spend in prison before they’re eligible for parole.",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+Says Obama Foundation posted picture of George Floyd before he died.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Democrats just elected (include)… a man who preys on underage prostitutes … and an anti-semitic racist who beats women.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says President Obama’s deal ""allows Iran to produce a nuclear weapon.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says when armed civilians stop mass shootings with guns, an average of 2.5 people die; otherwise, an average of 18 people die.",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""One out of every 30 people in the Greater Boston area is an illegal alien.""",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"African-Americans don't use drugs at a higher level than whites but ""wind up going to prison six times more.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""All the billionaires in America, their net worth combined … has increased by $800 billion"" during the pandemic.",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""215 members of Congress just voted to let your ISP spy on what type of underwear you buy and sell that data to advertisers.""",mostly-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Barack Obama voted against ""born alive"" legislation in Illinois that was ""virtually identical to the federal law.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Michigan election bills are ""designed to make it easier for people to vote.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"When he worked for AT&T, he ""was responsible for large parts in a $5 billion organization.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Tennessee’s higher education funding model ""is 100 percent outcomes-based"" and ""we are already seeing this model changing the way our postsecondary institutions do business.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The study of the Savannah River Estuary . . . clearly demonstrates the project can be constructed and [environmental] impacts will be mitigated.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""I led the fight to require the Coast Guard to buy their engines from us, not foreign companies.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Sherrod Brown ""gave huge bonuses to executives.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Says Gov. John  Kasich incorrectly claimed Ohio’s economy was 38th in the nation when he took office. ""We were sixth in the nation in terms of economic job growth.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""Germany: 96% of Latest Omicron Patients were FULLY Vaccinated – Only 4% Unvaccinated""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The poverty rate in West Virginia ""was 19.1 percent, the fourth-highest in the country.""",true,true,"['true', 'mostly-true']",2,True
+Says Gov. Rick Scott allowed Republican legislators to cut his teacher pay raise proposal by 60 percent.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""In 1998, nearly half of Florida's fourth-graders were functionally illiterate. Today, 72% of them can read.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"After Arizona banned smoking in ""all public places"" in 2007, ""admissions for acute myocardial infarction … stroke, asthma, [and] angina decreased following the implementation of the ban.""",half-true,true,"['true', 'mostly-true']",2,False
+"Ranked-choice voting ""increases voter turnout and voter engagement.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"The Biden administration ""gifted the Taliban with $80 billion-plus"" in military-grade weapons but now ""wants your 9mm pistols.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says the governors of Michigan, New York and Nevada ""have issued orders banning the prescription of hydroxychloroquine to patients with COVID-19.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Credit agency says Rep. Gibbs recklessly caused downgrade, higher interest rates.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Under current U.S. immigration policy, ""literally one person with a green card"" can, in the extreme, bring in more than 270 of his relatives.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Pregnant women who stand for five to six hours at a time increase their risk of pre-term pregnancy by 80 percent.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Obama has ""doubled the stock market from where we started when he was sworn into office""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Spanish was the first European language spoken in this country.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""Migrants DEMAND $50,000 each to go home, or else …""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Congress as a whole is less popular than it’s been since polling was invented.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Video shows Biden saying ""salute the Marines"" after hearing the words in an earpiece before his inauguration.",false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""CDC announces that ordinary (non-N95) masks (which most people are wearing) will do nothing to protect you against wildfire smoke … Fun fact: smoke particles are far larger than SARS-CoV-2 particles.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the stimulus bill sent tax credits overseas, such as ""$1.2 billion to a solar company that's building a plant in Mexico.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Deepwater's own testimony . . . is they said they'll create six jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A sign in Dearborn, Mich., for the Advancement of Islamic Agenda for America says, ""Allah be praised. America we will kill you all and nothing you can do to stop it.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Says ""when I voted against [an increase in the minimum wage], it was in the 80s.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Out of 860 bills (Sen. Bill Nelson has) introduced in Congress, only 10 have passed.""",mostly-false,true,"['true', 'mostly-true', 'false']",3,False
+"""Ted Cruz has been to Iowa four times. Rio Grande Valley of Texas -- just once.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"With voting by mail, ""you get thousands and thousands of people sitting in somebody's living room, signing ballots all over the place.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says wearing face masks is more harmful to your health than going without one.,false,false,"['false', 'pants-fire']",2,True
+"Water rates in Manila, Philippines, ""were raised up to 845 percent"" when a subsidiary of the World Bank became a partial owner.",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""Kansas City Chiefs QB Patrick Mahomes has left training camp and says he will ‘not play another down in the NFL’ until the team changes their name.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A facial recognition firm ""confirmed antifa infiltrated the Trump rally in D.C.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A cap-and-trade plan promoted by Barack Obama would hit hardest ""those already struggling to make ends meet.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The Clintons now charge the Secret Service $10,000 monthly rent for the use of (a) Secret Service residence and that rent is just about equal to their mortgage payment.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Last year, Beaverton School District had the highest number of homeless students ever recorded in Oregon.",false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Voting-rights legislation proposed by Democrats in Congress called H.R. 1 ""would force states to restore the voting rights of convicted felons—including violent felons convicted of murder or rape.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+About 3 percent of Gov. Nathan Deal’s appointments have been African-American.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Say easing restrictions on selling alcohol on Sundays will result in more traffic crashes and fatalities.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Says Ted Cruz’s wife Heidi ""will be the very first pro-life first lady.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+The minimum wage has risen $2.35 in the last two years. That's 31 percent.,false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Georgia’s civil forfeiture laws are among the worst in the country and the very worst in the South.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Says ""as Co-Chair of the Joint Ways & Means Committee, I secured the key piece of funding for"" the Portland-Milwaukie Light Rail project bridge.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The latest unemployment numbers have shown that nearly 315,000 Americans have simply given up hope when it comes to finding a job.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Of ""30,000 individuals arrested a year for crimes that are 16 or 17, over 95 percent of them do not result in a criminal conviction. Only 1.5 percent of them ultimately go to state prison.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"David Dewhurst has a ""record of promoting an income tax.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Rick Santorum says Rick Perry requested 1,200 earmarks as governor of Texas.",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Social Security is a Ponzi scheme.""",false,pants-fire,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""When he (Donald Trump) asked Florida to have casino gambling, we said no.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ex-Lt. Gov. Evelyn Sanguinetti ""publicly did not stand in opposition to"" former Gov. Bruce Rauner’s decision to sign a bill that expanded the public funding of abortions in Illinois.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says George LeMieux ""even compared Marco Rubio to Barack Obama.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says his amendment on a budget bill ""would have helped get kids back in school after teachers were vaccinated. Every single Senate Democrat voted against it.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Foxconn is bringing 13,000 high-tech jobs to Wisconsin.""",half-true,true,"['true', 'mostly-true']",2,False
+"""How do Jeb Bush and Donald Trump differ on immigration? Spoiler alert: They don't.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a ""liberal"" immigration reform group endorsed his GOP primary opponent, Dave Brat.",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Republican lawmakers delayed COVID-19 testing,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""Joe Biden is the only candidate with a plan to get us out of Iraq and keep us out.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Loranne Ausley ""voted six times to tax your savings.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""David Cicilline was the state representative who opposed tough mandatory sentences for those convicted of domestic violence  and child abuse.""",true,true,"['true', 'mostly-true']",2,True
+"Says Dontre Hamilton, who was killed during a confrontation with a Milwaukee police officer, was ""unarmed.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Video shows man diving off a high bridge and into a swimming pool on a moving boat.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Wisconsin women ""are paid 81 cents to the dollar of a man doing the same job.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+Says Obama flip-flopped on banning handguns.,half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says 7,000 millionaires ""gamed the system to pay no income taxes.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Finance experts estimate that paying in cash for the $2.5 billion in projects funded by the sales tax saved Gwinnett County more than $1 billion in interest payments.,true,true,"['true', 'mostly-true']",2,True
+"""Again today (Ahmadinejad) made light of 9/11, and said that he's not even sure it happened and that people actually died.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The incandescent light bulb ""has no effect whatever on the planet.""",false,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says ex-Minneapolis officer accused of killing George Floyd commits suicide in prison cell.,pants-fire,false,"['true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Jason Aldean gig canceled after he sells out to liberals on ‘SNL’.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Donald Trump promised ""to take care of everybody (through government-run healthcare and) the government's going to pay for it.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""What they will do is socialized medicine.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""99 percent of all new income today (is) going to the top 1 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Obama wants to increase the size of government by 23 percent.,pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The reality is, with a $2 trillion-a-year health care budget, we're spending more on health care, nearly 17 percent of our gross domestic product, versus 3.8 percent of GDP on the entire military budget.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""Lake Erie supports nearly 10 percent of Ohio's jobs and generates $750 million in state and local taxes.""",mostly-true,true,"['true', 'mostly-true']",2,True
+The InterLink at T.F. Green Airport is the closest air-rail link in the country.,false,true,"['true', 'mostly-true']",2,False
+"""Flip Flop! After opposing term limits for decades, Adam Putnam adopts Donald Trump and Ron DeSantis’ position.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Canadian government threatens to fire any government employee who uses ‘Let's Go Brandon’ in communications.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In seven years that (nuclear) deal will have expired, and Iran is free to go ahead and create nuclear weapons.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Right now, our corrections department charges taxpayers between $30,000 and $40,000 a year per person we lock up,"" she said. ""That’s actually cheap when you compare us to the rest of the country.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"When Obama was interviewed by American reporters in Asia, ""Not one of them asked me about Asia. Not one of them asked me about the economy.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the ""public option"" considered in the health care law backed by U.S. Senate candidate Tammy Baldwin was ""wildly unpopular.""",false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Hillary Clinton said, ""with a straight face, that the terrorist attacks this weekend were caused by Donald J. Trump""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Want a healthy, happy baby? Skip the Well Baby visits. They… make your baby sick.""",false,false,"['mostly-false', 'false']",2,True
+"""Ohioans want an end to pay-to-play politics.""",false,mostly-true,"['true', 'mostly-true']",2,False
+"""Military arrests former President George W. Bush.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""We have a host of issues associated with high B.M.I.s. But correlation doesn’t prove causation, and there’s a significant body of research showing that weight stigma and weight cycling can explain most if not all of the associations we see between higher weights and poor health outcomes.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"""29 mass shootings have been committed by concealed carriers since 2007, while during this period only one (1) licensed civilian meaningfully intervened in a mass shooting.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Providence teacher contract ""is one of the longest in the country.""",false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+"Says Dr. Anthony Fauci in an email ""advises a family member to use (hydroxychloroquine) and antibiotic therapy, the same evening in which in a press conference he attacked (President Donald Trump) on the usefulness of (hydroxychloroquine) to fight the virus.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Newly discovered video shows late night deliveries of tens of thousands of illegal ballots 8 hours after deadline.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Rep. Jim Renacci was ""trying to leave town for the holidays without extending your payroll tax cut.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""If you look at states that are right to work, they constantly do not have budget deficits and they have very good business climates.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+A photo shows paleontologists in Greece discovering the skeleton of a giant.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""There have been 44 plans submitted affecting 90 school districts. And the Scott administration has rejected all of them.""",false,mostly-true,"['true', 'mostly-true']",2,False
+"""We are 49th in the nation for our graduation rate""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+A video shows a nurse pretending to vaccinate actor Anthony Hopkins before squirting fluid in the syringe on the floor.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Given how expansive our program already was,"" expanding Medicaid in New Jersey due to Obamacare ""was a relatively small expansion.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Barack Obama's nominee for 'regulatory czar' has advocated a 'Fairness Doctrine' for the Internet"" that would require links to opposing opinions.",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"In economic growth, ""Obama's best year was slower than Bill Clinton's worst year.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""More Americans receive food aid than work in (the) private sector.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Quotes Andy Borowitz as saying ""stopping Hillary is a short-term solution. The long-term solution — and it will be more difficult — is fixing the educational system that has created so many people ignorant enough to vote for Hillary.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Bill White has presided over the construction of what may be the world's largest abortion clinic.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Texas ranks first among the states in the amount of carbon dioxide emitted and toxic chemicals released into water.,half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""I certainly supported Barack Obama and Joe Biden. ... I was there both times for them.""",half-true,true,"['true', 'mostly-true']",2,False
+"Says since 2000, Austin’s ""tax burden"" rose more than 40 percent while family income rose more than 20 percent.",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Some Republicans who voted against the stimulus ""have been all too happy to claim credit for Recovery Act projects and the jobs those projects have produced. They come to the ribbon cuttings.""",true,true,"['true', 'mostly-true']",2,True
+"Says ""Did you know that if you accepted the District's proposal today you would have NO pay increase for 4 years? Seven years of frozen wages = Disrespect.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"A letter from Mississippi Gov. Tate Reeves says that at ""the beginning of October 2020 the statewide mask requirements will be abolished.""",false,false,"['mostly-false', 'false']",2,True
+"Says Raphael Warnock has ""said we need to open up the prisons"" and ""eliminate cash bail.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Adolf Hitler ""didn't even sink to the level of using chemical weapons. ... He was not using the gas on his own people the same way that (Bashar al-)Assad is doing.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says the U.S. election system is ""rigged.""",pants-fire,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+"Mitt Romney said we should let foreclosures ""hit the bottom.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Georgia’s unemployment rate has exceeded the national rate for 50 consecutive months.,true,true,"['true', 'mostly-true', 'false']",3,True
+"The Senate version of the health care reform bill ""allows taxpayer money to pay directly for abortion in federal community health centers funded in the bill.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Pictures and reports of ""empty hospitals"" prove COVID-19 spread is ""fake crisis for real government planned agendas.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""On (Rob Portman's) watch as Bush's trade czar, our deficit with China exploded"" and ""as Bush's budget chief, Portman oversaw a spending spree that doubled the deficit.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""I didn't campaign on a public option.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""13,000 Floridians are able to vote -- but their governor won't tell them.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"Ryan Sitton’s company ""accepted over $650,000 in Obama stimulus dollars.""",false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Under President Obama: $4,000 tax hike on middle-class families.""",pants-fire,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+Says the logo of a porn website appeared during a CNN broadcast.,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Over the past twenty years, the number of homicides committed with a firearm in the United States has decreased by nearly 40 percent. The number of other crimes involving the use of a firearm has also plummeted, declining by nearly 70 percent.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Many uninsured Americans are ""young.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says Maggie Hassan is the only female governor in the country.,false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Old C-SPAN footage of Joe Biden introducing man in blackface.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Most of these killers tend to be 18, 19 years old.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""I recently had the opportunity to vote to give the president limited authority to begin strikes against terrorists in Iraq and Syria.""",false,true,"['true', 'mostly-true']",2,False
+"""This year, the federal government will have more revenue than any year in the history of our country.""",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"Says Donald Trump hired illegal workers ""from Poland and he had to pay a million dollars or so in a judgment.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says if Texas abortion measure passes, ""someone living in El Paso would have to drive 550 miles each way to San Antonio for something as simple as cervical cancer screening.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Photo shows ""MAYHEM in Oregon!""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Russ Feingold ""formed his own political group to pay himself and his staff millions.""",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"Tampa Bay is ""leading the state in jobs creation.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"ICE is in Uvalde, Texas, ""so undocumented parents have to consider arrest deportation before they go check to see if their kids are alive.""",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+The average age of planes in the Qatar Airways fleet is about four years while Delta Air Lines flies planes that are 35 years old.,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The things I said (during the prank call by a blogger posing as GOP contributor David Koch) are the things I’ve said publicly all along"" about the Wisconsin budget debate.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""It costs a hell of a lot more money to put somebody in jail than send them to the University of Virginia.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""The cost-of-living increase in Social Security is tied to wage inflation.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Says Lee Leffingwell has been mayor of Austin, Texas ""for about as long as Sarah Palin was governor of Alaska.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""SHOCK REPORT: Senator McCaskill BUSTED Funneling Millions of Tax Dollars to Her Hubby.""",mostly-false,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+"The national debt of $16 trillion, is ""enough to buy both the Cleveland Indians and Cincinnati Reds 1,918 times.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""After every major conflict ... what happened was that we ultimately hollowed out the force, largely by doing deep, across-the-board cuts.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Nearly all of the top 50 prescribers of oxycodone in the United States are in Florida.""",true,true,"['true', 'mostly-true']",2,True
+"""I come from the poorest ZIP code in San Antonio.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""There is racism physically built into some of our highways.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"California Gov. Gavin Newsom ""just let 76,000 inmates out of jail.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"List shows ""1,000 peer reviewed studies questioning COVID-19 vaccine safety""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""how much money the government is collecting from people...in terms of the gross domestic product"" is ""the lowest in 40, 50 years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"When it comes to transportation funds, Georgians spend more in taxes and on red tape than they get back from the federal government.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"A ""regulatory thing"" means you can’t show someone drinking beer on camera.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says ""J.B. Pritzker’s tax plan"" includes a ""new tax per mile you drive with government tracking device.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"When Colorado  eased its medical marijuana laws, fatal accidents involving pot-using drivers soared while overall traffic fatalities decreased.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The child tax credit, if we don't do it, there will be no tax relief for working families. How much tax relief working families get under tax reform is entirely dependent on whether or not we put in place an increase to the child tax credit.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Unemployment now pays $24/hour, even if your wages were lower. Why don’t ‘essential’ people forced to still work get $24, too?""",half-true,false,"['mostly-false', 'false']",2,False
+"Labor union president Andy Stern is ""the most frequent visitor"" at the White House.",false,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+State lawmakers are spending taxpayer money for parking that billionaire Arthur Blank could build while paying some state employees so little they are on food stamps.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Crimea ""was sort of taken away from President Obama. … And he wanted Russia to be out of what was called the G-8. And that was his determination.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says that Mitt Romney's response to the crisis in the auto industry was, ""Let Detroit go bankrupt.""",half-true,true,"['true', 'mostly-true']",2,False
+"""More than half of all black children live in single-parent households, a number that has doubled — doubled — since we were children.""",true,true,"['true', 'mostly-true']",2,True
+"""All schools in Canada are closed for the rest of the school year, each family will receive $950 every two weeks for the next 15 weeks, banks were notif(ied) to suspend mortgage payments for at least 6 months, and student loans deferred.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""Many presidents don’t get the chance to put a Supreme Court justice on.""",false,true,"['true', 'mostly-true', 'half-true']",3,False
+"""Already we've identified $2 trillion in deficit reductions over the next decade.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"Blue Cross’ new $90-million Providence headquarters ""was outfitted with $25 million in decor.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""I co-sponsored the Rebuild America Jobs Act"" for transportation and infrastructure.",false,true,"['true', 'mostly-true']",2,False
+"A new bill ""was written into the new health care reform initiative ensuring that Congress will be 100 percent exempt.""",false,false,"['false', 'pants-fire']",2,True
+"""Businesses are leaving Illinois. I think, statistically, that can be proven to be false through the Bureau of Labor Statistics. No net businesses left Illinois.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We've done more tests in eight days than South Korea has done in eight weeks.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Say Texas U.S. Reps. Eddie Bernice Johnson and Sheila Jackson Lee are among open Socialists in Congress.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In 1993, Newt Gingrich ""first advocated for the individual mandate in health care. And as recently as May of this year, he was still advocating"" for it.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Capital punishment is a ""specific deterrent with the most heinous crimes.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Health care reform legislation is ""likely to mandate free ‘sex change’ surgeries.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I did not — I did not — I do not say that. I do not say that"" climate change is a hoax perpetrated by the Chinese.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Barack Obama asked Ukraine to investigate his political rival's campaign manager, 3 Democrat senators asked Ukraine to investigate Trump, and the DNC solicited Ukraine's help to dig up dirt on Trump.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Maxine Waters just introduced a bill to re-name Memorial Day — George Floyd Day.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+We’ve reduced crime to its lowest level in 27 years.,true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"A New York law makes it ""now perfectly legal to murder"" a baby a minute before it would be born.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+You must list all your guns on your 2010 tax return.,pants-fire,false,"['false', 'pants-fire']",2,True
+"The House Zika bill ""limits access to birth control services needed to help curb the spread of the virus"" in Puerto Rico.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Gov. Doug Ducey wants to use ""taxpayer dollars to increase the salaries of private prison guards.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Ketanji Brown Jackson has ""a weak record — defund police, abolish ICE and now a completely open border policy.""",pants-fire,mostly-false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Community banks … are being destroyed by Dodd-Frank.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The annual Pentagon budget hovers over $750 billion annually, twice that of the much debated Build Back Better Act that costs about $350 billion annually as currently proposed.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"Adam Laxalt ""wants to restrict"" and ""worked to limit access to birth control.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+Darryl Hicks had seven ethics violations and didn't pay most of the fines.,half-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""Of the states that have a lieutenant governor, many are currently discussing the need for such an obsolete office.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""As the world rallies around Ukraine, Mike Lee was one of only two senators to oppose sanctions on Putin. Then he flew to the Kremlin and discussed dropping sanctions. Lee even opposed arming Ukrainians fighting for their lives.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Newt Gingrich has been a proponent of selecting a president by popular vote instead of the Electoral College.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Sarah Huckabee Sanders tweeted, ""It’s ‘odd’ that the ANTIFA insurgency happened just as COVID-19 loses steam It’s ‘odd’ that COVID-19 happened the moment impeachment failed. It’s ‘odd’ that impeachment happened the moment Russian hoax failed. The Russian hoax happened because Hillary lost? Notice the pattern?""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The film and TV industry supports more than 24,000 direct jobs and pays local workers more than $1.68 billion in wages in Georgia.",mostly-true,true,"['true', 'mostly-true']",2,True
+"Unvaccinated people ""are making the vaccinated people sick and die, but the unvaccinated people are not dead or sick.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""While serving as Town Supervisor, Nate McMurray voted to raise taxes on homeowners.""",true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The American people say, don't touch Social Security, don't touch Medicare, don't cut defense. That's 84 percent of the federal budget.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Our campaign depends on small donations for the majority of our support.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"Financial conflict-of-interest ""laws don't apply to the president, right? So, the president doesn't have to have a blind trust.""",true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+Herd immunity is probably why California has far fewer COVID-19 deaths than New York.,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says his budget ""calls for one of the largest increases in national defense spending in American history.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Democrats are very sly. … (in New Hampshire) we have same day voter registration, and to be honest, when Massachusetts elections are not very close, they’re busing them in all over the place.""",pants-fire,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The Uvalde, Texas, school shooter was a ""transsexual leftist illegal alien named Salvatore Ramos.""",false,false,"['false', 'pants-fire']",2,True
+"Says Rick Scott ""raised property taxes.""",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says city of Portland has a one-time $22 million surplus,half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""Democrats very much are in the pocket of the NRA.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"John Kitzhaber created 128,000 new jobs while governor.",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Dave Brat ""worked on Democrat Gov. Tim Kaine’s Council of Economic Advisors while Kaine tried to raise our taxes by over $1 billion.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the state of Rhode Island 25 percent of our current physicians are graduates of for-profit medical schools.""",false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says that unless the recipient called back about ""your tax filings,"" you ""will be taken into custody by the local cops as there are more serious allegations pressed on your name.""",pants-fire,false,"['false', 'pants-fire']",2,True
+Four out of 10 homicides are committed by gun in this city.,true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says GOP primary opponents Glenn Grothman and Joe Leibham cast a ""compromise vote that cost $788 million"" in higher electricity costs.",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says he will pursue change in federal law to protect employees from ""extortion from a union"" because ""the Supreme Court has ruled that federal prohibitions outlawing extortion usually do not apply to unions.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""Russ Feingold cut Medicare by $523 billion.""",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Barack Obama will somehow manage to add more than $8 trillion to the national debt, which is more debt than the 43 presidents who held office before him compiled together.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Donald Trump was ""forced to file for bankruptcy not once, not twice, four times.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Texas has ""the fourth-lowest debt per capita of any state in the nation, and we are the lowest of any of the big states.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""AARP endorses Biden and gives financial support to Planned Parenthood.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Six states can't get the votes counted. Six states in which @realDonaldTrump is leading. Six states where Dems are in charge.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says the health care reform bill was paid for, in part, by taking money from students and the student loan system.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Mitt Romney asked for a waiver from federal welfare rules.,mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We've recovered (from the recession) faster and come farther than almost any other advanced country on Earth.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+No U.S. presidents elected before Donald Trump were racist.,false,false,"['mostly-false', 'false']",2,True
+"President Donald Trump’s budget ""threatened to cut $2 trillion from Social Security, Medicare and Medicaid""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Pfizer COVID-19 vaccine is ""99% graphene oxide,"" which is ""toxic to the human body and causes a number of problems.",false,false,"['false', 'pants-fire']",2,True
+"Despite President Barack Obama's promise to cut healthcare costs, ""the average cost of a family policy is up $1,300.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Under President Obama, U.S. security funding for Israel is at an all-time high.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Trey Radel does not even qualify to drive a Lee County school bus at this point, yet he occupies a seat in Congress.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the photo ID law passed by North Carolina lawmakers is ""one of the nation’s most lenient voter ID laws.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says John Wayne said, ""If you don’t want an American flag flying in your town square or at your school, then why the hell are you living in the US?""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says that over the past 20 years, Texas public school spending rose 142 percent and per-pupil spending more than tripled when adjusted for inflation.",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""George Bush, and a Republican Congress, have presided over a 55 percent increase in the size of domestic government spending in the last seven years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says 50 percent of millennials don’t associate with ""any political party.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""It’s not unusual for hospitals to sit at max or near max capacity on any given day.""",half-true,true,"['true', 'mostly-true']",2,False
+"Says she will ""work to raise the federal minimum wage back to the highest level it’s ever been — $12 an hour in today’s dollars.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"John Cornyn ""voted twice in 2013 to back Obama’s amnesty plan.""",pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""President Obama became the first president since Carter to leave the White House with a smaller federal prison population than when he took office.""",true,true,"['true', 'mostly-true', 'false']",3,True
+"""Nancy Pelosi vows Democrats will raise taxes if they take back the House.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Republicans didn't ""increase state funding for nursing homes in the last budget.""",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says the national health care law puts federal ""bureaucrats between an American citizen and her doctor.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Seniors with coverage under Medicare Advantage will give up ""more than their share"" because of health care reform",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Says Republicans Mitt Romney and Paul Ryan support ""massive cuts in Social Security for future generations.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says he ""opposed $716 billion cut to Medicare.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The transportation tax is regressive, and Emory University is ""literally getting its own transit line at virtually no cost to itself.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Suez Canal blocked by huge container ship named Evergreen. Evergreen shipping is most likely a cover for human and sex trafficking"" by Hillary Clinton.",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says Joe Biden ""attacked voters this primary,"" saying ""damn liar,"" ""full of s---"" and ""dog-faced pony soldier.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Texas has one state inspector for every 4,500 oil and gas wells.",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""I have the No. 1 show on NBC.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Rihanna hired ""five planes that carried 90,000 liters of water to support the fire control"" in the Amazon rainforest.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""America (is) trying to overthrow the Ukraine government just as the shadow government has infiltrated and overthrown the US government.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Quotes Ronald Reagan as saying, ""Keep voting Democrat ... One day they will restrict your freedoms, restrict your history and restrict your safety. All in the name of professional victims that don't understand the consequences of their ignorance.""",false,false,"['false', 'pants-fire']",2,True
+"Says the Republican Party platform says ""pull back even more of the rules on campaign finance reform, get rid of McCain-Feingold"" while the Democratic Party platform says ""we want to find a way to put more fair rules on campaign finance reform.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Given the results of the primary, the vote of one New Hampshire superdelegate is equal to the votes of about 10,000 grassroots activists.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Final election 2016 numbers: Trump won"" the popular vote.",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Of all the people in federal prison for possession of illegal substances, 77 percent of them are not citizens of the United States.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Says ""Harry Reid has a better voting attendance record than these three Congressmen!""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The Wisconsin Department of Corrections is considering implementing mandatory physical fitness testing for security staff.,pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The Taliban went after and murdered"" people identified in the Chelsea Manning leaks.",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+"""Virtually no Republican"" in Washington accepts climate change science.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Our debt now is about $140,000 per household.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""Jeff Greene only moved from California to Florida in the last two years. In fact, he would not legally be allowed to run for any other statewide office because he has not lived here long enough to meet the residency requirement.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Photo shows an ice mass hanging inside a Houston home during Texas winter storms.,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Oil money from federal leases ""can only be used to clean up the mess and damages from drilling.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+There were more job losses per month in the last three months under President Bush than in the past three months under President Obama.,mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The unemployment rate among blacks in Texas is 9.5% -- far more than double white unemployment -- and wages have fallen for black workers in Texas since 2000.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"Florida’s regulations on the payday lending industry are ""stronger than almost any other state.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""More than half of our unemployed Ohioans have been out of work for six months or more.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Joe Biden's spending ""has sent prices skyrocketing.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Anybody who is familiar with the historical data from the IRS knows that raising income tax rates will likely actually reduce federal revenues.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says actor Dwayne ""The Rock"" Johnson wore a T-shirt stating: ""We Stand for the flag, we kneel for the fallen.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""FBI uncovers evidence that 62 million Trump voters are all Russian agents!""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"The Free Flow of Information Act of 2009 ""would guarantee Barack Obama will never be held accountable for producing forged birth documents.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""President-elect Biden steps down as president-elect.""",pants-fire,false,"['true', 'false', 'pants-fire']",3,True
+"Says 1,000 people failed gun background checks in Wisconsin in 2018, but ""almost none of them were prosecuted for trying to do a background check and illegally buy a weapon.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Texas’ high school graduation rate went from 27th in the country in 2002, to second highest in the country in 2013.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"Says President Barack Obama ""has taken less vacation days than any other president in a generation,"" while Congress ""has taken more vacation days than any other Congress in history.""",pants-fire,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"""One percent of the American people make over 21 percent of all the income in America. That wasn’t the way before George Bush became president.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"A 1993 example of voter fraud in Philadelphia is ""exactly what happened to us"" in the 2020 election.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says opponent Tammy Baldwin ‘has had not one positive ad’ in the campaign for U.S. Senate.,half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""Most young Americans right now, they’re not covered"" by health insurance.",false,mostly-true,"['true', 'mostly-true']",2,False
+A yearbook photo shows Mark Kelly dressed as Adolf Hitler.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The United States is the leading nation in the world ""with the highest amount of doubt about the conventional wisdom of climate change.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Says that U.S. Sen. Marco Rubio says troops are leaving Iraq ""too fast.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Thousands of cattle that recently died in Kansas weren’t killed by the heat.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Six of Georgia’s counties have no lawyers at all.""",true,true,"['true', 'mostly-true']",2,True
+"""I stopped requesting earmarks in 2008.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Jon Corzine, elected governor. Teams up with Barbara Buono. $1.2  billion sales tax increase? Passed. Most spending in state history? Passed. After Buono named budget chair, taxes and fees increase 23 times in just two years. State debt? Up $13.4 billion. Unemployment? Doubled.""",half-true,true,"['true', 'mostly-true']",2,False
+"The Republicans ""still want to privatize (Social Security). In fact, their whole idea is to turn over the Social Security trust fund to Wall Street.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Deaths from vaccines have totaled 1,621 from Johnson & Johnson, 4,799 from Moderna, 13,039 from Pfizer and 73 from unknown vaccines. And this is an undercount because ""only 1% of deaths are reported.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The murder rate in Atlanta is on the rise this year.,true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says Milwaukee County Executive Chris Abele is a ""billionaire.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+NPR posted a story about the Capitol breach before it happened.,false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Most voters prefer zombies to the current U.S. Congress.,true,pants-fire,"['false', 'pants-fire']",2,False
+"Says the initial Portland plastic bag ban represented ""only a modest share of total single-use checkout bag use.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""In Boone County (Missouri) with a 1.7% unemployment rate, we can’t find enough people, we can’t fill all the job openings.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Since the reopening of (Georgia), we’ve seen our COVID rate skyrocket by 40%.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Roy Cooper won't say how he will pay for ‘free’ college tuition.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Chris Koster ""opposes right-to-work efforts because he has taken $8 million from ‘union bosses.’""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Goodwill used the pandemic ""to fire all of their employees instead of laying them off.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We give (foreign aid) to developing countries, and 70 percent of it's stolen off the top.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We defied the stand-down orders"" during the Benghazi attack.",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Jon Huntsman supports changes in Medicare that would deny guaranteed benefits to 980,000 New Hampshire residents.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"While she was mayor, Lois Frankel took a ""police helicopter ride to go to a dinner party.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We did not even have a federal income tax in this country until 1913.""",half-true,true,"['true', 'mostly-true']",2,False
+A flight crew took a knee and stranded the New Orleans Saints on an airport runway.,pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Iran will be shooting at our soldiers with bullets, etc., purchased with the $150 billion Obama gave them.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says the majority of Americans support gay marriage.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Supreme Court Shakes Up 2020 Election, Assigns Conservatives To Swing State Circuit Courts.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""You know what’s in this bill? No medical malpractice suits until 2024, even if they’re not COVID related.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Tennessee new law passed 48 hours ago now makes it illegal to teach Black history in the grades K-12.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Democrats are responsible for the massive spending and debt growth, they alone need to take responsibility for raising the debt limit.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Between the year 2000 and 2006, (insurance) premiums in this country doubled.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+Says Joe Biden called for a jihad in a video.,false,false,"['false', 'pants-fire']",2,True
+"On Gov. Tony ""Evers’ watch…the efficiency of the state crime lab has plummeted.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says ""the number of Americans living at or below the poverty line is at its highest level since"" 1964.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""In Rhode Island, a recent study showed that among a group of people who had been homeless for a year or more, Medicaid costs averaged about $60,000 per person.""",false,mostly-true,"['true', 'mostly-true', 'false']",3,True
+"It was ""the left"" that ""finally"" made Juneteenth a national holiday.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Monkeypox is biological warfare ""against us by our governments.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We began seeing the increase in unaccompanied minors going back to last April 2020. This is not something that happened as a result of Joe Biden becoming president.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Quotes Kurt Cobain saying in 1993 that he wouldn’t be surprised if his generation eventually elected a ""true outsider"" a ""business tycoon who can’t be bought"" … ""someone like Donald Trump""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Seventy-five percent of the young adults in this country are not mentally or physically fit to serve.,true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""D.A.R.E. removed cannabis from its list of gateway drugs.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When I become the nominee, the Democratic nominee, I will be the only pro-choice candidate on the ballot.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In 2006, Arizona had four ballot issues that were ""very tough on illegal immigration... Forty-seven percent of the Hispanics in Arizona voted for them.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Photo shows Kim Jong Un’s weight loss,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The Manchin-Toomey amendment ""would have criminalized certain private transfers of firearms between honest citizens, requiring lifelong friends, neighbors and some family members"" to get government approval.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Thom Tillis has been ""blocking his own party’s efforts to reduce the cost of prescription drugs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Obamacare ... will kill jobs across America.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Less than 500 people a year killed by all rifles combined"" and ""4,000 a year killed by illegals.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says television host Steve Harvey authored a pro-Trump rant about raccoons and exterminators.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""If your plan is the result of collective bargaining, no subsequent changes by anybody -- insurance companies, Obamacare -- can force your grandfathered policy to change.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Overwhelming Democrat and Republican votes"" in 2011 for legislation in two special sessions on jobs demonstrated the bipartisan nature of the Wisconsin Legislature.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Muslims’ disturbing plan comes out after grocery stores go bare to prepare for Irma.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Congressman Jeff Denham ""has agreed all illegal immigrants should be detained, arrested and deported.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""With a stroke of a pen, the (U.S. Supreme Court) decided to overrule the 100-year-old ban on corporate expenditures.""",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+"""Factories are opening their doors at the fastest pace in almost two decades.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""We’ve brought in more than $81 billion in economic investment, more than four times any previous administration.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"In the ""do-nothing Senate,"" there are 352 House bills ""sitting on Harry Reid’s desk awaiting action,"" including 55 introduced by Democrats.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""the latest polls show us tied neck-and-neck"" with Sen. Ted Cruz.",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under the Iran nuclear deal, ""we give them $150 billion, we get nothing.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Joe Biden says Americans can only celebrate the Fourth of July if he says so.""",false,false,"['false', 'pants-fire']",2,True
+"Voter turnout for some groups in the 2008 presidential general election in Georgia ""was far greater than it should have been demographically.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says U.S. Rep. Ron Kind has ""spent more $ in 100+ days than was spent fighting WWII",false,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+"""A lot of the problems with forest fires ... is because of bad policy (not to clear out the forests) that was put in place by environmentalists.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Maxine Waters tweeted, ""Every single gun owner I have talked to has told me, ‘As soon as I walked out of that gun store, I felt a killer growing inside of me.’ When will we acknowledge there is no such thing as a responsible gun owner?""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""BUSTED: NASA Accidentally destroys every climate change advocate by exposing massive truth behind Antarctica.""",false,pants-fire,"['false', 'pants-fire']",2,True
+Says Gov. Bob McDonnell's budget would cut pre-kindergarten programs.,mostly-false,true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""I'm the only (Republican) candidate that has actually reduced the size of government.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says the House impeachment vote was the third by Democrats — ""They tried to impeach Trump for criticizing the NFL and for some other things.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Barbara Boxer voted to cut spending on Medicare benefits by $500 billion, cuts so costly to hospitals and nursing homes that they could stop taking Medicare altogether.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Justice Kennedy quit because he and his son helped Trump launder illegal Russian money through Deutsche Bank.""",false,false,"['false', 'pants-fire']",2,True
+"""75 percent of the jobs created in the state of Ohio are created in small business. They are not created by huge corporations and those who are very wealthy.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says U.S. Rep. Ann McLane Kuster used $293,000 of taxpayer money to send campaign mail.",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The pace of missile development between (Kim Jong Il and Kim Jong Un) has increased the testing about twenty-fold.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Judge Rules Over 200,000 Biden Votes Are Illegitimate In Wisconsin.""",false,false,"['false', 'pants-fire']",2,True
+Says most Texas schools spend 45 out of 180 school days in mandated testing.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have to recognize that our salaries for faculty are the lowest in New England with the exception of the University of Maine.""",true,mostly-true,"['true', 'mostly-true']",2,True
+Says that 9 million to 50 million undocumented immigrants live in the United States.,mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"If the U.S. didn't borrow $1.2 trillion every year ""to fund government operations,"" that money would be available ""for entrepreneurs and business people to put to work creating jobs and building and expanding their businesses.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I'm the first person who really took up the issue of the war. Four years ago I said that there was no proof that Iraq had weapons of mass destruction, and, actually... did an analysis which disproved the cause for the war.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Myanmar used Dominion Voting Systems.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""By 2006, the American people were overwhelmingly against the Iraq War.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""59 percent of Americans today believe that Barack Obama is still a Muslim.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Republicans have demanded deep cuts in education. They've demanded cuts in cancer research and other research to find cures and treatments to diseases.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Remember, the American Revolution began when they came for the guns.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""200,000 students attempt suicide every year on college campuses.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The price tag amounted to nearly $4,200 for every man, woman and child in the state.""",mostly-false,true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Democrats in the 1930s wanted President Franklin Roosevelt ""to be more conservative.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Austin has ""over 1,000 city employees that make six-figure salaries.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The CDC has removed the ‘Covid-19 Pandemic’ and replaced it with ‘Covid-19 Outbreak’ on their website. It was never a pandemic.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Apple has just announced it plans to invest a total of $350 billion in America, and hire another 20,000 workers.""",half-true,true,"['true', 'mostly-true']",2,False
+"Retired U.S. presidents and members of Congress collect full salaries ""for life.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""While I was working on those streets watching those folks see their jobs shift overseas, you were a corporate lawyer sitting on the board at Wal-Mart.""",true,true,"['true', 'mostly-true']",2,True
+"""Since passage of the Tax Cuts and Jobs Act, Walmart 'increased their starting wage to $11/hr & has given about $400 million in bonuses.'""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""89,000 children were separated from their parents under Obama"" and ""only 1,900 children have been separated under Trump.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"John McCain ""voted against the tax cuts of 2001 and 2003, wrongly claiming they helped only the rich.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Tammy Baldwin’s ""Medicare for All"" plan means senior citizens would ""no longer have"" Medicare.",mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+Says Texas ranks among the nation’s top five states for its high school graduation rate.,true,true,"['true', 'mostly-true']",2,True
+"""In Joe Biden’s America, your children are more likely to have access to a crack pipe than a mask-free education.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Democratic opponent is ""too Republican to stand up for us.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Ford is moving all of their small-car production to Mexico.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The Iranians continue – in the view of every objective observer – continue to pursue the acquisition of nuclear weapons.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says President Barack Obama’s recent New York fundraising trip ""cost between $25 million and $50 million.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"When COVID-19 struck, the Illinois Department of Employment Security ""was hit with something no one expected: 10 to 20 times the claims, even during the worst recession of my lifetime.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Texas is ""50th in the nation in mental health care access.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Joe Biden tells voters he's 'going to beat Joe Biden.'""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Poll Finds 38% of Americans Say They Will Not Drink Corona Beer Because of Virus.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Sen. Kay Bailey Hutchison ""took 154 private flights all funded by taxpayers"" though ""commercial flights were readily available at a fraction of the cost.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Based on current trends, ""15.5 million girls will be married in the next 16 years as children.""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+"Wisconsin is ""dead-last in creating new businesses"" for ""three years in a row.""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+"""Of the 18 stadiums built from 2004 to 2013, 47 percent of the total cost came from public sources.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""More than 70 percent of American adults have committed a crime that could lead to imprisonment.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""No doctors who went to an American medical school will be accepting Obamacare.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"On new dollar coins, ""'In God We Trust' is gone!""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The average person ""will pay $6,000 more a year"" under Rep. Paul Ryan's Medicare proposal.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The Russian army captured the U.S Major General Roger L. Cloutier Jr. … in the besieged Ukrainian Azov camp in Mariupol.""",false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says the Atlanta mayor is ""shutting the city down for"" the NBA All-Star Game weekend.",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says ""90% of policemen are for"" expanding background checks to all gun sales.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The projected $1.8 billion state budget shortfall for 2015-’17 ""actually comes from an assumption based on zero growth. That just doesn’t happen.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Democratic Party created the Ku Klux Klan.,false,false,"['false', 'pants-fire']",2,True
+"""By the time I finish this speech, two Americans will be slain, six women will be raped, 27 of us will be robbed, and 50 more will be beaten.""",mostly-true,pants-fire,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In two terms in the Missouri General Assembly, Jason Kander passed ZERO bills that were signed into law.""",mostly-false,true,"['true', 'mostly-true', 'false']",3,False
+"""We closed that plant down. It was a $27 million-dollar plant, operating full steam, and we closed it down.""",true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says Jon Ossoff wants to ""allow illegal immigration.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The Tax Foundation figures Rhode Island as the 10th highest state for state and local tax burden per capita in the country. We're the 6th worst in the country for the business tax index. We're the 3rd highest per capita in the country for all taxes.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+Tim Kaine broke a campaign promise not to raise taxes.,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""You’ve got each day 10,000 new seniors, baby boomers, becoming eligible for the entitlement programs.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Now in half the homes in California, people speak a language other than English in their own homes.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says a crisis actor played the parts of a shooting victim and the mothers of shooting victims in Las Vegas, Orlando and Thousand Oaks.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""We’ve had about 3,000 murders"" in connection with lax border security.",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Republicans in the General Assembly cut teacher pay so much when they took over in 2011 that even with recent pay raises, we are still below pre-Recession pay levels.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+A video shows the Russian warship Moskva exploding.,false,true,"['true', 'mostly-true']",2,False
+"The Gates Foundation ""tested a polio vax in India between 2000 & 2017 and paralysed 496,000 children.""",false,false,['false'],1,True
+"""Americans are traveling to Canada to pay 12 times less for insulin than they would here in the US.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Susana Mendoza is a supporter of the death penalty who could administer it herself and ""‘...sleep like a baby at night…’""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Al-Qaida has grown fourfold in five years.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""NAFTA, signed by Bill Clinton, has been a disaster for Pennsylvania.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"29 states still don’t have ""comprehensive protections"" for people in the LGBTQ community.",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""I'm running for office with much more experience and qualifications than Barack Obama had when he ran.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says ""Cape May, Cumberland, Salem and part of Atlantic counties are all south of the Mason-Dixon line.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have the highest corporate tax rate in the world. It’s 35 percent.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says he ""led the effort to build a new (University of Wisconsin-Milwaukee) engineering campus in Wauwatosa.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"All members of Congress are required to be in Obamacare, but Obama and members of his administration ""have their own gold-plated health care plans that they're in.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says 11 soccer players on the U.S. Men’s National Team are immigrants.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The typical Wisconsin worker makes $5,000 less each year than our neighbors in Minnesota"" under Gov. Scott Walker’s policies.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""DEP has 2,812 employees, the lowest level since the mid-’80s.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Moderna chief medical officer admits: mRNA alters DNA.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""McDonald’s hamburgers are only 15 percent ‘real beef.’ The other 85 percent is meat filler cleansed with ammonia, which causes stomach and intestinal cancer.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"""Bennie Thompson actively cheer-led riots in the ’90s.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""It was (Rob Portman’s) job to stop China’s illegal dumping of steel. He failed, looked the other way, did nothing.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""(Chris Christie) has not paid one dollar of state money into our pension system, and then states that the system is broke.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Donald Trump ""spent the least amount of money of any of the competitive primary contenders that he beat so badly.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I saw my father march with Martin Luther King.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The Republican-authored state budget includes a provision ""forcing people earning as little as $12,000 to buy private health insurance that could cost them as much as $4,000 per year.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Creating 25 jobs in Umatilla County has the same impact as 500 jobs in the metro region.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says that under President Obama, there’s been a substantial increase in federal government jobs.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""Usually it's about $900 a month to get health coverage. (Florida's program has) reduced that, on average, to about $150 a month.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""At nearly 19 million people, the population of Florida is larger than all the earlier primary and caucus states combined.""",true,true,"['true', 'mostly-true', 'false']",3,True
+"When George W. Bush was governor of Texas, ""the percentage uninsured went down."" Under his successor, Rick Perry, ""it's gone up.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says Nick Kahl made it harder for many families to cover basic health care expenses.,mostly-false,mostly-false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""One of the other inaccuracies ... is that we have raised taxes multiple times and run up the budget. Absolutely not true. One tax increase since I’ve been in office. It was a quarter mill tax in the unincorporated area only.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Republican candidates in Oregon are ""advocating violence"" against gays.",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Gas in Canada is $9.00 a gallon.""",false,false,"['mostly-false', 'false']",2,True
+John Kitzhaber is the only pro-choice candidate in the race for governor.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A space shuttle the National Museum of the United States Air Force near Dayton would be ""within a day's drive of 60 percent of the U.S. population.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"McCain ""said no to higher fuel-efficiency standards for cars.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In the past decade, K-12 funding has grown six times faster than the rate of enrollment.",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""At least 450,000 ballots in the key states ... miraculously only have a mark for Joe Biden on them, and no other candidate.""",false,pants-fire,"['false', 'pants-fire']",2,True
+"""I’ve released 22 years of my tax returns. You can go online and look. (Donald Trump) hasn’t released one.""",true,true,"['true', 'mostly-true']",2,True
+"Hillary Clinton ""agrees with (John McCain) in embracing the Bush-Cheney policy of not talking to leaders we don't like.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Every major study that has been done by a legitimate group ... shows that there are hundreds of thousands of jobs to be created if you pass our (cap-and-trade) legislation. And if you wind up pricing carbon.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+Cobb is one of the largest school systems (in the nation) that is debt free.,true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The expiration of the Bush-era tax cuts ... would be the biggest tax increase in the history of the country, about $4.6 trillion over 10 years.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"Says ""my plan is a property tax cut.""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""We’re 49th in the United States in new businesses created.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Metro Atlantans spend ""over an hour every day"" or ""five hours a week"" commuting, for a total of ""260 hours a year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says a majority of Americans -- and Republicans -- support his approach for deficit reduction.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Cuomo opens New York 72 hours before his daughter's wedding.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The National Defense Authorization Act for fiscal year 2019 ""includes the largest pay raise in nearly 10 years.""",true,true,"['true', 'mostly-true']",2,True
+"Florida ""unemployment has dropped more than 2 percentage points, down from 12 percent to 9.9 percent, the second-largest drop in the nation.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Military Arrests Biden’s Sec. of Agriculture Tom Vilsack.""",pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says Hitler said, ""This year will go down in history. For the first time, a civilized nation has full gun registration! Our streets will be safer, our police more efficient, and the world will follow our lead into the future!""",false,false,"['false', 'pants-fire']",2,True
+"Access for 12,000 women to use Planned Parenthood -- ""not for the right to choose,"" but for ""basic health care"" -- was ""taken away"" by Wisconsin Gov. Scott Walker and Lt. Gov. Rebecca Kleefisch.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""There’s no money"" for Planned Parenthood in the bill that would keep the government open.",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Members of the US Women’s National Soccer team turned their backs on the flag as a 98-year-old World War II veteran played the anthem.,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""No private business was conducted on public property. That issue is a contract dispute.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Dems Pass Bill to Vaccinate Children Without Parental Knowledge, Consent.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""NASA admits that man-made climate change is a hoax!""",false,false,"['false', 'pants-fire']",2,True
+"""13 percent of Americans, the lowest ever, are without health care.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Arab and the Muslim nations get twice as much money as Israel.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""They’re unable to administer vaccines if the lockdown ends because the emergency ends with it.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Regulations on developers have thwarted construction on county-owned land in Milwaukee’s downtown Park East corridor.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The ""3 red stripes"" in Joe Biden’s campaign logo refer to a Chinese socialist slogan.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""What did Joe Manchin say about civility? Today, he said he wanted to ‘beat the living crap out of’ his Republican opponent during their debate.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Shows a waitress saying, ""I lost my job. But I'll sleep better knowing"" that the coronavirus relief bill included funding for the Kennedy Center, refugee resettlement, PBS, and congressional salaries: ""Thanks, Democrats""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that despite a recent increase in school funding, Scott Walker ""has taken over a billion dollars from the public schools.""",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"When it comes to the state deficit, Wisconsin is ""proportionally in as much trouble as the State of California.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"None of $400 million the City of Austin proposes to spend on road projects ""will be used to add new lanes to congested roadways.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Post says a recent bill passed, and ""We get another stimulus check for $2500 at July 30, 2021""",pants-fire,false,['false'],1,False
+Says Scott Brown voted with President Barack Obama 70 percent of the time in 2011.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Pete Buttigieg claims Bible says babies can be aborted ‘up to their first breath.’""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says Barack Obama has played over 90 rounds of golf as president.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Al Jazeera tweeted, ""#BreakingNews Taliban started abducting minor girls from their home. The parents who are refusing to give their daughters to Taliban are being killed by Taliban fighters.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The top 1 percent pay 45 percent of all taxes in the country.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""We have been confronted with an unexpected storm that has hit the metropolitan area.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"Says Alex Sink supported ""more taxes on water and TV.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Says the Biden administration is choosing to send baby formula to the border as one of its ""out-of-touch priorities.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Welcome to #Houston, the most #diverse city in #America.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Legislators are ""ramming through a provision that’ll make investigations like #NC09 less transparent.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"House Republicans who complained they didn't have enough time to consider a constitutional ban against oil drilling ""shoved through a proposal in just a few days to open state waters to oil drilling.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Every time we've cut the capital gains tax, the economy has grown. Whenever we raise the capital gains tax, it's been damaged.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"After Massachusetts passed a mandatory health insurance law ""their mortality rate went down...it saved lives.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Sen. Obama has never taken on his party leaders on a single major issue.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Nobody's addicted to"" marijuana.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Marjorie Taylor Greene said ""246 years ago Jesus Christ performed his miracle of making a single days worth of bullets last 8 days.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"The DREAM Act ""was written by members of both parties. When it came up for a vote a year and a half ago, Republicans in Congress blocked it. The bill hadn’t changed. ... The only thing that had changed was politics.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Research from Japan shows ""ivermectin is effective against omicron in Phase III trial.""",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"A national paid leave program ""would potentially put into the economy $21 billion dollars annually.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""A Florida judge ruled parts of Obamacare unconstitutional.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""A study by the National Economics Research Association showed that the (Paris climate) deal could cost 2.7 million lost jobs in the U.S. by 2025 should our country adhere to the commitments made by the Obama Administration.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+The health care reform bill -- on Page 16 -- outlaws private insurance.,pants-fire,false,"['false', 'pants-fire']",2,True
+"On Virginia’s new marijuana law: ""You can have up to one pound with only a $25 fine.""",true,false,"['mostly-true', 'mostly-false', 'false']",3,False
+"""I think [a little] less than half of the people in our prisons are in there for less than a year.  ... We have people who are check kiters and don't pay child support and we are locking them up in the state pen.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Over half of the black workers in this country earn less"" than $15 an hour.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Joe Biden ""will destroy your protections for pre-existing conditions.""",pants-fire,mostly-false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Donald Trump ""literally has no plans to make higher education more affordable.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says LeBron James ""stops paying his Social Security taxes at the beginning of the second quarter of the first game of the season.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Ted Cruz is ""unknown to the vast majority of Texans.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The IRS is ""going to be in charge of our health care.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Covid-19 is NOT killing people. Weak immune systems and bad doctors are.""",false,false,"['false', 'pants-fire']",2,True
+"""Big pharmaceuticals pay off — they literally pay off — generics to keep the prices and the competition off the market.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"In Chicago, which has the toughest gun laws in the United States, probably you could say by far, they have more gun violence than any other city.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Suzanne Bonamici votes with her party a partisan 98 percent of the time.,half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False

@@ -13,10 +13,10 @@ from datetime import datetime
 import os
 
 # Configuration
-MODEL_NAME = "google/gemma-2-9b-it"
-# MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
+# MODEL_NAME = "google/gemma-2-9b-it"
+MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MAX_SAMPLES = None  # Start with 1000 samples for testing, set to None for full dataset
+MAX_SAMPLES = 100  # Start with 1000 samples for testing, set to None for full dataset
 BATCH_SIZE = 1  # Process one at a time for instruction-following models
 
 # Verdict categories
