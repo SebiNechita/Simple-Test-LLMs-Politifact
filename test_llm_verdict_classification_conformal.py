@@ -1,5 +1,5 @@
 """
-LLM-based Verdict Classification with Conformal Prediction (CORRECTED)
+LLM-based Verdict Classification with Conformal Prediction 
 Uses token probabilities to create prediction sets with finite-sample coverage guarantees.
 Corrected to use single-token labels to avoid tokenizer collisions.
 """
@@ -19,9 +19,9 @@ import os
 # ==========================================
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MAX_SAMPLES = 1000  # Set to None to use all data
+MAX_SAMPLES = None  # Set to None to use all data
 CALIBRATION_SPLIT = 0.3  # 30% for calibration, 70% for test
-ALPHA = 0.2  # Miscoverage rate (1-alpha = 90% coverage)
+ALPHA = 0.1  # Miscoverage rate (1-alpha = 90% coverage)
 
 # FIX: Map verdicts to single-token letters to prevent tokenizer collisions
 # (e.g., preventing "mostly-true" and "mostly-false" from sharing the "mostly" token)
