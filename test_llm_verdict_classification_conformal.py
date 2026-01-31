@@ -20,7 +20,7 @@ import os
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 MAX_SAMPLES = None  # Set to None to use all data
-CALIBRATION_SPLIT = 0.3  # 30% for calibration, 70% for test
+CALIBRATION_SPLIT = 0.5  # 50% for calibration, 50% for test
 ALPHA = 0.1  # Miscoverage rate (1-alpha = 90% coverage)
 
 # FIX: Map verdicts to single-token letters to prevent tokenizer collisions
@@ -37,20 +37,16 @@ VERDICT_MAP = {
 VERDICTS = list(VERDICT_MAP.values())
 
 def load_data(file_path, max_samples=None):
-    """Load JSONL data and prepare for classification"""
-    data = []
+    """Load JSON array data and prepare for classification"""
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"File not found: {file_path}")
         
     with open(file_path, 'r', encoding='utf-8') as f:
-        for i, line in enumerate(f):
-            if max_samples and i >= max_samples:
-                break
-            try:
-                item = json.loads(line.strip())
-                data.append(item)
-            except json.JSONDecodeError:
-                continue
+        data = json.load(f)
+    
+    if max_samples:
+        data = data[:max_samples]
+    
     return data
 
 def split_calibration_test(data, calib_ratio=0.3):
@@ -322,10 +318,10 @@ def main():
     # 1. Load Data
     try:
         # Replace this with your actual path
-        data = load_data('politifact_factcheck_data.json', max_samples=MAX_SAMPLES)
+        data = load_data('politifact-english-no-media.json', max_samples=MAX_SAMPLES)
         print(f"Loaded {len(data)} statements")
     except FileNotFoundError:
-        print("Error: 'politifact_factcheck_data.json' not found.")
+        print("Error: 'politifact-english-no-media.json' not found.")
         print("Please ensure the data file is in the same directory.")
         return
 
