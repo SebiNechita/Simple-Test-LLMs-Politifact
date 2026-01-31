@@ -318,10 +318,10 @@ def main():
     # 1. Load Data
     try:
         # Replace this with your actual path
-        data = load_data('politifact-crime.json', max_samples=MAX_SAMPLES)
+        data = load_data('politifact-jobs.json', max_samples=MAX_SAMPLES)
         print(f"Loaded {len(data)} statements")
     except FileNotFoundError:
-        print("Error: 'politifact-crime.json' not found.")
+        print("Error: 'politifact-jobs.json' not found.")
         print("Please ensure the data file is in the same directory.")
         return
 
