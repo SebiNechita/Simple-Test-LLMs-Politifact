@@ -33,7 +33,9 @@ models/
 huggingface/
 
 # Results and Outputs
-results/
+old_results/
+src/experimental/
+datasets/old_politifact/
 verdict_classification_results_*.csv
 *.log
 *.out
