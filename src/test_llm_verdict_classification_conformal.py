@@ -33,7 +33,7 @@ VERDICT_MAP = {
     "E": "false",
     "F": "pants-fire"
 }
-# Reverse map for easy lookup
+
 VERDICTS = list(VERDICT_MAP.values())
 
 def load_data(file_path, max_samples=None):
