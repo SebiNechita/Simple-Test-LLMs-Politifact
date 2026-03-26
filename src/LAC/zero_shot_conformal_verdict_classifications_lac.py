@@ -1,5 +1,5 @@
 """
-LLM-based Verdict Classification with Conformal Prediction 
+LLM-based Verdict Classification with Conformal Prediction with Least-Ambiguous Set-Valued Classifiers non-conformity scores.
 Uses token probabilities to create prediction sets with finite-sample coverage guarantees.
 Corrected to use single-token labels to avoid tokenizer collisions.
 """
@@ -18,14 +18,17 @@ import argparse
 # ==========================================
 # CONFIGURATION
 # ==========================================
+
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 MAX_SAMPLES = None  # Set to None to use all data
 CALIBRATION_SPLIT = 0.5  # 50% for calibration, 50% for test
 ALPHA = 0.1  # Miscoverage rate (1-alpha = 90% coverage)
 TRIALS = 2 # Number of trials to average results over (for stability)
-RESULTS_FOLDER = "results/zero-shot-lac"
-# FIX: Map verdicts to single-token letters to prevent tokenizer collisions
+RESULTS_FOLDER = "results/zero-shot-lac" # Default folder to save results 
+
+
+# Map verdicts to single-token letters to prevent tokenizer collisions
 # (e.g., preventing "mostly-true" and "mostly-false" from sharing the "mostly" token)
 VERDICT_MAP = {
     "A": "true",
@@ -50,6 +53,7 @@ def load_data(file_path, max_samples=None):
         data = data[:max_samples]
     
     return data
+
 def split_calibration_test(data, calib_ratio=CALIBRATION_SPLIT):
     """Split data into calibration and test sets (Exchangeability)"""
     n = len(data)
@@ -246,7 +250,7 @@ def classify_with_conformal(data, generator, threshold):
     
     return predictions, prediction_sets, true_labels, all_probs
 
-def evaluate_conformal_results(predictions, prediction_sets, true_labels, all_probs, data, trial_num=None):
+def evaluate_conformal_results(predictions, prediction_sets, true_labels, all_probs, data, results_folder=RESULTS_FOLDER, trial_num=None):
     """Evaluate and print detailed metrics. Returns metrics dict."""
     trial_str = f" (Trial {trial_num})" if trial_num is not None else ""
     print("\n" + "="*80)
@@ -309,8 +313,8 @@ def evaluate_conformal_results(predictions, prediction_sets, true_labels, all_pr
     
     if trial_num is not None:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        os.makedirs(RESULTS_FOLDER, exist_ok=True)
-        results_file = f"{RESULTS_FOLDER}/conformal_results_trial{trial_num}_{timestamp}.csv"
+        os.makedirs(results_folder, exist_ok=True)
+        results_file = f"{results_folder}/conformal_results_trial_{trial_num}_{timestamp}.csv"
         results_df.to_csv(results_file, index=False)
         print(f"\nDetailed results saved to: {results_file}")
     
@@ -346,7 +350,7 @@ def parse_args():
     )
     parser.add_argument(
         "--output-folder",
-        default=RESULTS_FOLDER,
+        default="results/zero-shot-lac",
         help="Folder to save results (default: results/zero-shot-lac).",
     )
     return parser.parse_args()
@@ -363,7 +367,7 @@ def main():
 
     args = parse_args()
     max_samples = None if args.max_samples in (None, 0) else args.max_samples
-    RESULTS_FOLDER = "results/generic-lac" if args.output_folder is None else args.output_folder
+    RESULTS_FOLDER = "results/zero-shot-lac" if args.output_folder is None else args.output_folder
 
     print(f"Data path: {args.data_path}")
     print(f"Number of trials: {args.nums_trials}")
@@ -422,7 +426,7 @@ def main():
         )
         
         # 4. Evaluation
-        metrics = evaluate_conformal_results(predictions, prediction_sets, true_labels, all_probs, test_data, trial_num=i+1)
+        metrics = evaluate_conformal_results(predictions, prediction_sets, true_labels, all_probs, test_data, results_folder=RESULTS_FOLDER, trial_num=i+1)
         
         if metrics:
             all_trial_metrics.append(metrics)
