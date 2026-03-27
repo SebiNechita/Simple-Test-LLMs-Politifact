@@ -21,10 +21,11 @@ import argparse
 # ==========================================
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MAX_SAMPLES = 100  # Set to None to use all data
+MAX_SAMPLES = None  # Set to None to use all data
 CALIBRATION_SPLIT = 0.5  # 50% for calibration, 50% for test
 ALPHA = 0.1  # Miscoverage rate (1-alpha = 90% coverage)
 TRIALS = 2 # Number of trials to average results over (for stability)
+RESULTS_FOLDER = "results/zero-shot-aps" # Default folder to save results 
 
 # FIX: Map verdicts to single-token letters to prevent tokenizer collisions
 # (e.g., preventing "mostly-true" and "mostly-false" from sharing the "mostly" token)
@@ -271,7 +272,7 @@ def classify_with_conformal_aps(data, generator, threshold):
     
     return predictions, prediction_sets, true_labels, all_probs
 
-def evaluate_conformal_results(predictions, prediction_sets, true_labels, all_probs, data, trial_num=None):
+def evaluate_conformal_results(predictions, prediction_sets, true_labels, all_probs, data, results_folder=RESULTS_FOLDER, trial_num=None):
     """Evaluate and print detailed metrics. Returns metrics dict."""
     trial_str = f" (Trial {trial_num})" if trial_num is not None else ""
     print("\n" + "="*80)
@@ -334,8 +335,8 @@ def evaluate_conformal_results(predictions, prediction_sets, true_labels, all_pr
     
     if trial_num is not None:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        os.makedirs("results/zero-shot-aps", exist_ok=True)
-        results_file = f"results/zero-shot-aps/conformal_results_aps_trial{trial_num}_{timestamp}.csv"
+        os.makedirs(results_folder, exist_ok=True)
+        results_file = f"{results_folder}/conformal_results_aps_trial_{trial_num}_{timestamp}.csv"
         results_df.to_csv(results_file, index=False)
         print(f"\nDetailed results saved to: {results_file}")
     
@@ -369,6 +370,11 @@ def parse_args():
         default=TRIALS,
         help="Number of trials to average results over (for stability).",
     )
+    parser.add_argument(
+        "--output-folder",
+        default="results/zero-shot-aps",
+        help="Folder to save results (default: results/zero-shot-aps).",
+    )
     return parser.parse_args()
 
 
@@ -384,10 +390,12 @@ def main():
 
     args = parse_args()
     max_samples = None if args.max_samples in (None, 0) else args.max_samples
-
+    RESULTS_FOLDER = "results/zero-shot-aps" if args.output_folder is None else args.output_folder
+    
     print(f"Data path: {args.data_path}")
     print(f"Number of trials: {args.nums_trials}")
-    
+    print(f"Results will be saved to: {RESULTS_FOLDER}")
+
     # Load data once
     try:
         data = load_data(args.data_path, max_samples=max_samples)
@@ -441,7 +449,7 @@ def main():
         )
         
         # 4. Evaluation
-        metrics = evaluate_conformal_results(predictions, prediction_sets, true_labels, all_probs, test_data, trial_num=i+1)
+        metrics = evaluate_conformal_results(predictions, prediction_sets, true_labels, all_probs, test_data, results_folder=RESULTS_FOLDER, trial_num=i+1)
         
         if metrics:
             all_trial_metrics.append(metrics)
@@ -488,15 +496,15 @@ def main():
         
         # Save aggregated results
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        os.makedirs("results/zero-shot-aps", exist_ok=True)
+        os.makedirs(RESULTS_FOLDER, exist_ok=True)
         
         # Save per-statement aggregated results
-        agg_file = f"results/zero-shot-aps/conformal_results_aps_aggregated_{args.nums_trials}trials_{timestamp}.csv"
+        agg_file = f"{RESULTS_FOLDER}/conformal_results_aps_aggregated_{args.nums_trials}trials_{timestamp}.csv"
         statement_aggregated.to_csv(agg_file, index=False)
         print(f"\nPer-statement aggregated results saved to: {agg_file}")
         
         # Save all individual trial results combined
-        all_trials_file = f"results/zero-shot-aps/conformal_results_aps_all_trials_{args.nums_trials}trials_{timestamp}.csv"
+        all_trials_file = f"{RESULTS_FOLDER}/conformal_results_aps_all_trials_{args.nums_trials}trials_{timestamp}.csv"
         combined_df.to_csv(all_trials_file, index=False)
         print(f"All trial results saved to: {all_trials_file}")
         
