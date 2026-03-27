@@ -34,7 +34,8 @@ huggingface/
 
 # Results and Outputs
 old_results/
-results/zero-shot/jobs/
+results/zero-shot/
+results/generic/
 src/experimental/
 datasets/old_politifact/
 verdict_classification_results_*.csv
