@@ -1,0 +1,679 @@
+statement,true_verdict,predicted_verdict,prediction_set,set_size,is_covered
+"Says cuts by Gov. Rick Perry's administration left ""12,000 teachers without a job.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Under Emanuel, CPS has become the most understaffed school district in Illinois.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Adjusted for inflation, over the last 25 years teachers have made a $29 increase in their salary.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Democratic candidate for state school superintendent Alisha Thomas Morgan voted to slash funding for the preschool programs for disabled and special needs students.,half-true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""For the sixth straight year, we have secured record funding for K-12 and state universities.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The GOP's ""Pledge to America"" includes ""a 20 percent cut ... for education. ... Eight million kids would have their college aid slashed under this budget.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Over half of the young people"" in medical, dental and law schools are women.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Only 42 percent of young Georgians have a college certificate or degree, but soon 60 percent of jobs will require some college credential.",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"The Wisconsin school voucher program ""has no research that shows that it’s going to improve student learning.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says it will cost $220 per square foot in hard construction costs to rebuild Portland Public high schools.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Teachers were not involved in developing the Common Core State Standards.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Texas charter schools ""get 100% state $/pupil funding while district schools (95% students) get about 1/3 funding from state w/ rest coming from local prop taxes (which is why those taxes are so high). Districts getting less b/c scarce $ going to charters.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Already in Wisconsin we have seen fewer people pursuing education as a career"" due to the Act 10 collective bargaining law.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says students who receive free or reduced lunch are ""performing just as well"" as students who do not.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We’re spending $12,000 bucks a kid a year in the school system.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Barnes opposed the creation of the HOPE Scholarship and campaigned against Zell Miller on the issue.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Scott Walker rejected legislation to make college loan payments tax deductible and the result was ""to raise taxes on students.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""in Oregon today, the average debt upon college graduation is more than $24,000.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""I would imagine that there's probably a gun in the school (in Wapiti, Wyo.) to protect from potential grizzlies.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""94 percent of those that are employed by the Department of Education at the federal level were deemed by the department as nonessential employees.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says the University of South Florida invests in oil companies like BP, tobacco companies, weapons manufacturers and private prisons.",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""From a standpoint of the county government, neither school system has received an increase in funding over the past six years.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Chris Christie fired 6,000 teachers.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Tim Pawlenty has cut education funding in Minnesota. Classrooms are overcrowded. Districts have gone to four-day school weeks.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Under Terry McAuliffe (there was a) record investment in education.”,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Says his budget provides ""the highest state funding level in history"" for education.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 2008, we have cut 5,000 positions"" from Virginia public schools.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Florida students take ""an array of standardized high stakes tests which eat up as much as 45 school days per year.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""I’ve lived"" in Milwaukee ""all 61 years of my life.""",mostly-false,true,"['true', 'mostly-true', 'false']",3,False
+"College tuition ""costs have risen by 25 percent under the Democrats.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""For four years, I was a full professor at the University of Pennsylvania.""",half-true,true,"['true', 'mostly-true']",2,False
+“Police training in Wisconsin is 21 weeks. A cosmetology license takes 40 weeks.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Republicans in the General Assembly cut teacher pay so much when they took over in 2011 that even with recent pay raises, we are still below pre-Recession pay levels.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""This (parent trigger) legislation was drafted by President Obama's top advisers. It was drafted by President Clinton’s top advisers.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“24 of every 100 kids in school today speak Spanish.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Mike DeWine took $40,000 from ECOT and ""did nothing while the online for-profit school lied about enrollment and took millions meant for our kids.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"McCain ""voted to cut education funding, against accountability standards. He even proposed abolishing the Department of Education.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When two judges said it was illegal to fire a teacher"" who viewed pornography at school, ""Tony Evers worked with Republicans and Democrats and changed the law.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In-state tuition available ""for non-U.S. citizens after three years … veterans have to wait five years.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I did not oppose busing in America. What I opposed is busing ordered by the Department of Education.""",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+Says he never said he would keep education funding the same.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Joe Biden’s attorney general wants the FBI to go after parents for speaking out at school board meetings to protect kids from radical curriculum like critical race theory.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We have a system now where in 40 states, the highest-paid public employee is the state university’s head football or basketball coach.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""The state is set to recapture an additional $500 million in Robin Hood payments from taxpayers and not one penny of it will go to public education in Texas.""",false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"As state treasurer, Alexi Giannoulias ""lost $73 million in our kids’ college savings.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In K-12 education, our kids are scoring at the bottom of science and mathematics right now in the industrialized world -- at the bottom.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Faculty salaries at UW System institutions have now fallen more than 18 percent below the national average.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Illegal aliens cost the state of Rhode Island $400 million a year.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says state Senate candidate ""Monk Elmer voted to exceed the (school district property tax) spending caps.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Scott Walker ‘cut $800 million from our schools.’,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The House of Delegates budget bill ""cuts $50 million from education.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Crist sent his ""top policy staffer to the House Committee to testify in support of the proposal,"" then vetoed the bill.",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The pass rate for a high school level test to join the military"" is 35 to 40 percent.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"I am ""the only candidate for lieutenant governor to oppose in-state tuition for illegal immigrants.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The delay in school testing ""was not that of a vendor, the problem was not that of the test materials itself, it was the product of a cyber attack.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Obama's one education accomplishment was ""legislation to teach 'comprehensive sex education' to kindergartners.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In New York State, Democrats blocked a Bill expanding College Tuition for Gold Star families after approving aid for illegal immigrants.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Tammy Baldwin ""wants to require children starting at age 5 to learn about gay sex!""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Americans spend 100-million hours a year filling out these forms (FAFSA). That is the equivalent of 55,500 full-time jobs.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"Common Core means ""there are over 300 data elements the government is going to be collecting about your children and about you.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The reality is that we have roughly 15,000 undocumented immigrants living in the state...""",false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+"""Today in America — a new study came out — 20 years out, whites who borrowed money, 94% of them have paid off their student loan debt; 5% of African Americans have paid it off.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says most Texas schools spend 45 out of 180 school days in mandated testing.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In New Orleans, nearly 100 percent of our kids are in charter schools.""",true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""[Federal] law says that you can't give in-state tuition to an illegal alien … unless you first offer it to any other student regardless of their state of residence.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Wisconsin, ""we have a bill that would allow hidden, deadly weapons -- every single person to carry one -- no training, no background check, even around schools.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""What is the maximum number of students allowed in your classroom? ... 30 or more!""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"State budget cuts for local schools resulted in ""nearly 4,000 educator layoffs""",false,true,"['true', 'mostly-true']",2,False
+"""Our high school graduation rate is the highest on record.""",half-true,true,"['true', 'mostly-true']",2,False
+"Says Andrew Gillum was ""singing a different tune"" about charter schools at the Florida debate.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Under Gov. Scott Walker’s public-school budgets, ""a student entering kindergarten will not enjoy the same state investment in his or her education as those that came before them until they are graduating from high school.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Massachusetts schools ""are ranked No. 1 of all 50 states.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Wisconsin dropped ""from second in the country to 41st"" among states where more than half the students took the ACT exam.",pants-fire,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+“Fewer than 2% of students are impacted whatsoever by the decisions we're making” to cut the budget.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Thirty-one percent of school districts are still receiving less funding per pupil than they did prior to the dramatic budget cuts of 2011.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"The Trump administration removed nursing from the list of professional degree programs, affecting aspiring nurses’ student loan access.",half-true,false,"['mostly-true', 'mostly-false', 'false']",3,False
+"""Some states have “tried to ban teaching Latino and Hispanic history.”",mostly-false,true,"['true', 'mostly-true']",2,False
+"""When the union says I want to eliminate tenure, that’s not true.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""What do Rutgers University, Kean University, Montclair State University, New Jersey City University, Stockton College, Rowan University and William Paterson all have in common? They all graduate less than 50 percent of their students within four years.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Unemployment for those with college educations is now 4.5 percent. Unemployment for those with more than a college education, below 4 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says 100,000 are on waiting list to attend Texas charter schools.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We had an amendment in the health care law that said the federal government is going to take over education.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Over 200 of our 520 school districts did not have a single student in physics.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The state budget fully funds ""an initiative to provide free college tuition for illegal immigrants, while rejecting an increase in Tuition Assistance Program funding that would help middle-class families afford college.""",mostly-true,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""(Charter schools in Missouri) are actually failing in a greater capacity than the public school systems.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says legislative cuts mean Texas is ""spending on average $500 less per student.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We've got 40 years of study now that show that, with a good preschool start, you're less likely to be on public dole, you're less likely to be in prison.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""1/3 of our kids drop out (of high school), cannot go to college or start a career.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Most of the black scientists in this country don't come from schools like the University of Texas. They come from lesser schools.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"In rejecting his amendment, “Democrats voted to send reopening money to schools that refuse to reopen.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The average student loan debt in Texas is over $22,000...the cost of an average size pickup truck."" But unlike car owners, ""students are not allowed to refinance their loans at lower rates.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+“Schools that are consistently implementing COVID-19 mitigation strategies remain among the safest places for our students.”,mostly-true,true,"['true', 'mostly-true']",2,True
+"""In Joe Biden’s America, your children are more likely to have access to a crack pipe than a mask-free education.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says her campaign platform includes the ""biggest investment in new, good-paying jobs since World War II.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Andrew Gillum ""wants to increase Florida taxes by a billion dollars.""",mostly-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says the Florida House of Representatives allocated $24 billion, ""the greatest investment in education in Florida history!""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the Austin school district ""enjoys the highest per-student funding of all large Texas districts"" even after forwarding tax revenue to the state.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Texas ranks 49th nationally in ""what we are doing to support our per-pupil investment in education in the state.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""The unemployment rate among blacks in Texas is 9.5% -- far more than double white unemployment -- and wages have fallen for black workers in Texas since 2000.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Says Tony Evers ""allowed a middle-school teacher found guilty of spreading pornographic material at school to keep teaching students.""",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Minnesota Gov. Tim Walz signed “legislation giving free college … to illegal immigrants.”,mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Gains in Atlanta Public Schools scores on a national standardized test lend credence to ""dramatic"" score increases on state tests.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""New Mexico was 46th in teacher pay (when he was elected), now we're 29th.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""With Rick Scott, there are more funds for preschool education.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We've seen funding increases for schools. We haven't seen a corresponding performance increase.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""We are making the largest investment in education in our nation’s history.""",true,true,"['true', 'mostly-true']",2,True
+"Says ""at the state level we're spending more on tax expenditures than we are on public safety, health care and education combined.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Schoolchildren across the nation ""will be forced to watch the president justify his plans for government-run health care, banks, and automobile companies, increasing taxes on those who create jobs, and racking up more debt than any other president.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We have the highest graduation rate of basketball players in the history of the NCAA. We have the highest graduation rate of African-American basketball players in the history of the NCAA in basketball.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""95 percent of teachers and principals are not implicated in the [Atlanta Public Schools cheating scandal] report at all.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Wisconsin is ""38th in the country in terms of proficiency standards"" in student testing.",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Per-student K-12 state funding for Portland Public Schools has dipped from $6,036 in the 2007-2008 school year to $5,644 in the 2010-2011 school year",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""The overwhelming majority of America’s elite universities, they no longer require history majors to take a single course in American history.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Florida ""we have 75,000 on (a) waiting list for child care and 23,000 on waiting lists"" for community care for the elderly.",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+Says the Beaumont school district’s superintendent is the highest-paid in the state.,half-true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says ""for the first time ever,"" Texas lawmakers are not funding student population growth.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Our state has fewer science, technology, engineering and math graduates than any neighboring state.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""The average cost for infant care in GA is almost $7,700/yr – more than average in-state college tuition.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"Says U.S. Senate candidate Adam Hasner ""cited his efforts to weaken pro-life and school choice legislation as unequivocal proof that he’s a moderate.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Public schools are now as segregated by race and class as they were in the 1960s.”,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says Jeff Reardon cut elementary school music classes, art instruction, teaching positions, basketball and volleyball programs, and he voted to raise school lunch prices.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"McDonald's in England only sells organic milk and free-range eggs, which provides more nutritious offerings than in the U.S.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Governor Deal has increased education spending every year he’s been in office.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"New school testing standards ""will consume approximately twenty days of testing for elementary, middle and high school students.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Ninety percent of people born in the 1940s ended up doing better financially than their parents. But those born in the 1980s, the much-maligned Millennials, have only a 50-50 chance of doing better (financially) than their parents, despite being the best-educated generation in our history.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+“All of the science and data say it’s perfectly safe to have teachers and students in the classroom.”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Pasco County ""opened 22 new schools over six years to keep pace with growth in student population and implement the class size amendment.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+Men “have the lowest college attainment rate ever.”,mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Over 12,000 school kids were arrested in Florida. It makes Florida the nation's leader in that area.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Betsy DeVos is the ""most unpopular person in our government.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We (Trump University) have an ‘A’ from the Better Business Bureau.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Wisconsin children are crossing ""condemned bridges in the middle of the winter to get to the school bus.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Florida’s in-state college tuition waiver for immigrants in the country illegally costs the state $41 million.,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says Texas high school graduates must pass Algebra II to be eligible for automatic admission to state's public universities.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that under the law, New York City Mayor Bill de Blasio “can’t open” the city’s schools.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The FBI targeted a woman and searched her home because she “protested local school board, elections.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Baltimore spends the third highest per capita on its public schools.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When adjusted for inflation, (Texas) per-student spending has remained relatively flat over the past 16 years. Despite that trend, Texas schools in 2017 will receive $381 less per student than they did in 2003.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Ohio ranks 46th in the country in putting dollars in the classroom.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"The cost of ""college education has gone up 1,200 percent since 1978.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Common Core is being ""used by the Obama Administration to turn the Department of Education into what is effectively a national school board.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Gov. Deal has the worst record on education in the history of this state.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We're still doing dumb things like telling the parent of an 11-year-old that it's against the law for them to tell their parents what they were tested on ... That will end when I'm governor.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Our African-American communities are absolutely in the worst shape they've ever been in before. Ever. Ever. Ever.""",pants-fire,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says all North Carolina teachers do not currently get a ""duty free lunch break.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Sheila Bynum-Coleman said, ‘We need to get the police out of the schools.’""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Tony Thurmond was ""sued by the ACLU"" for leaving students in unsafe conditions.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Thirty-eight states -- Georgia not included -- have appointed, rather than elected, state school superintendents.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Right now, four in 10 public schools in our state are at least 50 years old.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""The state of Georgia is near the bottom among states for SAT scores and graduation rates.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""The vast majority of Wisconsin students cannot even read, write, or do math at grade level.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Romney wants to ""take away early childhood education, slash K-12 funding, and cut college aid … to pay for a $250,000 tax break for multi-millionaires.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says he ""fought against $3 billion in cuts to public education since 2003.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""60 percent of Texas 8th graders are not proficient in math. Only 26% have a teacher with a undergraduate major in math.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In New York City, ""an entry level janitor gets paid twice as much as an entry level teacher.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says he has ""the most impressive education record"" of the Republican candidates.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Rick Scott tried to slash school funding by $3.3 billion.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Ken Mercer ""wants Sean Hannity and James Dobson included in social studies texts.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says the unemployment rate for college graduates is 4.4 percent and over 10 percent for noncollege-educated.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"George Allen ""voted to end Pell Grants for 84,000 students.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Half of Oregon university students are on Pell Grants.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Gov. Scott Walker ""made more than $70 million in cuts to job training programs through (Wisconsin’s) technical colleges.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The default rate for college students has grown from 40 percent 10 years ago to about 50 percent today, and ""perhaps as many as 800,000 young Ohioans are facing default on their student loans.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Gov. Rick Perry ""used $3.2 billion in stimulus dollars for schools to plug other holes in his budget.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says ""PTA meetings are now being conducted to help parents tell their kids"" that if a guy with an AR-15 walks into their classroom, ""you are supposed to create as much chaos as you possibly can. They want you to scream and yell and dance around and throw books and just keep moving.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Since 1978, college ""tuition nationwide has gone up something like four times the rate of inflation.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says student loan interest rates will double from 3.4 percent to 6.8 percent July 1.,mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"The U.S. Supreme Court ruled that public school in the United States ""will not teach the tenets of Islam or Sharia Law.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A University of Texas ""student pulled out a concealed handgun"" on a knife-wielding suspect ""and made him back down.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Of the 10,000 Rhode Island children in charter school lotteries for the fall, more than 70 percent are poor .... In addition, a majority of them are students of color.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says ""kids who start in the ninth grade in the city of Newark this past September, 23 percent of them will graduate in four years.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""We are taking Virginia’s investment in public education to the highest level in the commonwealth’s history.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says there’s ""no wait list"" for private school vouchers",half-true,false,"['mostly-true', 'mostly-false', 'false']",3,False
+“Joe Biden wants to end school choice.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Under Pat McCrory, (North Carolina) has fallen to 41st in teacher pay.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Teachers ""are working their third consecutive year -- some longer than that -- without salary increases.""",false,mostly-true,"['true', 'mostly-true']",2,False
+"""The last majority-Anglo high school class in Texas graduated in 2014.""",false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Last year, I proposed directing more of the education budget to teacher salaries, a move that would have resulted in an average $10,000 raise for teachers.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A recent spending bill had at least ""$1.6 billion in there ... for schools to give them an opportunity to secure them.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""Scott Walker has given a $10,000 tax deduction to millionaires who send their kids to exclusive private schools.""",mostly-false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The IRS is hiring 87,000 new agents to police people who will owe more federal tax after having their student loans forgiven.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""[The Foundation for Individual Rights] is the recipient of donations from [DeVos] totaling about 25,000 bucks over four years.""",mostly-true,true,"['true', 'mostly-true']",2,True
+Student loan forgiveness is “passed. I got it passed by a vote or two. And it’s in effect.”,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Nevada state Sen. Michael Roberson ""forced Common Core for Nevada schools.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Florida Gov. Rick Scott ""subtracted $1.3 billion from public schools.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""One legislative Republican’s district gets almost all the school supply funding.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The 2013-’15 state budget backed by Gov. Scott Walker and Republican lawmakers ""left our technical colleges funded at 1989 levels.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 30 states, average teacher pay is less than the living wage for a family of four.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""One-third of our college grads leave Ohio within three years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Trenton politicians cut $1.3 billion from education.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Last week the Texas State Board of Education (SBOE), led by Rick Perry's appointee, voted to remove Thomas Jefferson from social studies textbook standards. That's right. Thomas Jefferson... was deleted from a list of historical figures who inspired political change.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"University of Wisconsin System's reserves are in the ""mid- to low-range"" of comparable university systems.",half-true,mostly-true,"['true', 'mostly-true']",2,False
+“Gov. Roy Cooper is blocking a pioneering school choice bill that would give thousands of low-income parents the funds to allow their kids to get a high-quality education.”,mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Florida is ""the 45th in state education funding.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When colleges and universities are added, education spending is the biggest item in the state budget — about 52 percent of all state dollars.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"“Kids are less likely to get it (COVID-19). You know, they’re less likely to spread. So I think there’s some pretty good data out there that will help alleviate some of the concerns.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""On most campuses, you cannot destroy a chalked message unless you were the one that wrote it. You can't dump water on it, you can't even walk over it.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""California to teach kindergarteners there are 15 genders.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Florida ranks 45th"" in the nation for tuition.",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Mt. Hood Community College is No. 1 on average and top faculty pay and benefits.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Each year ICE detains someone, it costs taxpayers over $50,000. For comparison, by the way, that's four times the amount the federal government spends on each child in our public schools.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""When I became mayor of Los Angeles, we had a 44 percent (high school) graduation rate. I said that was unacceptable. I challenged that notion. I said the mayor needs to be involved with our schools. We need to partner together. As I left, after a number of reforms, we grew our graduation rate from 44 percent to 72.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""The centerpiece of Senator McCain's education policy is to increase the voucher program in D.C. by 2,000 slots.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Thom Tillis cut almost $500 million from education.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Barack Obama issued a decree ""demanding that every public school now allow grown men and boys into the little girls’ bathroom.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In 2011, ""the average annual compensation for a teacher in the Milwaukee Public Schools system will exceed $100,000.""",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Today, Florida is in 50th place in spending on education.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We’re 48th in K-12 funding and 50th in higher education.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""Not one of the 17 GOP candidates has discussed how they'd address the rising cost of college.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“President Obama would never give them long-term funding, and I did … I saved historically Black colleges and universities.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""West Virginia Department of Education reported over 10,000 children and youth have been identified as homeless for the 2018-2019 school year.""",true,true,"['true', 'mostly-true']",2,True
+"Says 13 Texas universities ""have announced or implemented a $10,000 degree.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"About a third of Wisconsin’s high schools ""are missing the mark of graduating young adults who are college ready,"" a ""pass rate of 66.6%.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""The Federal Reserve system has presided over about a 95... percent decline in the U.S. dollar.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""By the time she turns 3 years old, a child born into a low-income home hears 30 million fewer words than a child from a well-off family.""",true,true,"['true', 'mostly-true']",2,True
+"Says in his years as a Texas legislator, ""we passed three pay increases for teachers and provided them with health insurance.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In 2011 under Scott Walker, Wisconsin for the first time spent ""more on our prison system than we did"" on the University of Wisconsin System.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says only 25 percent of Texas high school students graduate prepared for college or careers.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Salaries for URI faculty are second to last among New England land grant universities and in lowest 20 percent of major U.S. research institutions,half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""Just in the past 10 years, college tuition has increased 28 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The merger of Georgia State University and Georgia Perimeter College will make GSU one of the largest universities in the nation, with more than 54,000 students.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A study of where teachers apply to work found that ""less than 5 percent wanted to work in rural Wisconsin.""",false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says under her leadership, ""Democrats fought to ... make sure the (2011 HOPE) bill ... prevented the use of ACT/SAT testing standards.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Texas A&M University - Commerce ""offers counseling, safe spaces for students who are afraid of President-elect Trump.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“School allows students to be terrorized by colleagues who identify as ‘furries.’”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says, ""Oregon has the third largest class size in the nation.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a ""court has ordered North Carolina to step up significantly its funding for education.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Jason Carter backed three of Nathan Deal’s budgets but accuses the governor of ""underfunding education.""",true,mostly-true,"['true', 'mostly-true']",2,True
+Brown v. Board of Education “was never about sending Black children to white schools. It was about parents being able to decide where to send their children to school.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Texas GOP platform calls for end to teaching ""critical thinking"" in public schools.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Joe Biden ""voted for the Iraq War, for mass incarceration, and for the Bankruptcy Reform Act while voting against gay marriage, reproductive rights, and school desegregation.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I’ve given the religious schools in my budget more money than ever before in history.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Parents and teachers are already worrying about what they call the ‘Trump Effect.’ They report that bullying and harassment are on the rise in our schools, especially targeting students of color, Muslims and immigrants.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says he ""raised graduation rates to nearly 90 percent.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The proposed (Virginia) House budget cuts hundreds of millions in funding for public education…”,false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+The governor’s budget proposal reduces the state austerity cut to education to under $500 million for 2016.,true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+“Texas declares bringing a pride flag to the classroom a crime.”,false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""In the rest of the world, there have been 18 school shootings in the last twenty years. In the U.S., there have been 18 school shootings since January 1.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Research even shows that sending more girls to school can boost an entire country’s GDP.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""We were living outside of Houston and that’s when I found it: a commuter college, 45 minutes away that cost $50 a semester.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says GOP U.S. Senate candidate Darryl Glenn ""wants to eliminate the Department of Education"" and jeopardize college funding for 320,000 Coloradans.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""More than half of last year's U.S. college graduates are unemployed or underemployed.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says opponent Chad Chadwell ""wants condom techniques demonstrated to your children.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+These 13 books “have been banned from schools in Florida.”,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Wisconsin’s graduation rates have grown to over 90 percent"" since Tony Evers became state school superintendent.",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“North Carolina teachers are already the lowest paid teachers in the south.”,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says ""tenure still exists but it's been overhauled"" for teachers in New Jersey.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says Massachusetts has three state-mandated student tests and Finland just one.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Slot machines in Miami-Dade and Broward counties have generated 20 percent of the promised $500 million per year for schools.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Annexation would lead to overcrowding at Decatur’s city schools.,false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“When Fidel Castro came into office, you know what he did? He had a massive literacy program.”",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says the state share of Texas public education spending increased 82 percent over the past decade, reaching $20 billion in 2009.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Think about parents who show up at school board meetings. By this DOJ, they’re called domestic terrorists.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In the Republican presidential debate in New Hampshire, none of the candidates mentioned the ""middle class"" or ""education.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""A single parent with a couple kids can easily get $35,000 a year"" in public assistance in Wisconsin.",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says Stephen F. Austin and James Bowie promoted slavery.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says proposal to boost teacher pension fund ""puts no mandate on local government.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Governor Cooper has vetoed ""every single teacher pay raise we've ever passed.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We have SAT scores lower than that of Alabama.""",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"""In order to pass the CRCT in Georgia, you simply have to get half of the answers correct.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Portland Community College serves more students than all of the state’s universities combined.,false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""We expanded charter"" schools.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"During E. Gordon Gee's presidency of West Virginia University, ""student enrollments have steadily decreased.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 1999, all Virginia Lottery profits have been used for public education in the Commonwealth for kindergarten through 12th grade.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Recent studies have confirmed that any academic benefits of government funded preschool disappear by the fourth grade.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The people that went to school with (Barack Obama), they never saw him, they don't know who he is.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Georgia ""spends in the top 10 nationally on education, yet, most of our education metrics hover in the bottom five.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Common Core ""is not from the federal government,"" they ""do not have their fingerprints on this thing at all.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Turning Point USA is a white nationalist organization.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the state of Rhode Island 25 percent of our current physicians are graduates of for-profit medical schools.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+People can get student debt “erased” by filing Family Educational Rights and Privacy Act complaints because the Department of Government Efficiency accessed federal student loan databases.,false,false,['false'],1,True
+"""The Georgia Department of Education has implemented a new policy beginning in August that states that public schools will no longer accept credits from home school entities or non-traditional education centers.""",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"American schools are ""more segregated than they were in the 1960s.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Will (HB2) threaten federal funding for public schools under Title IX? No, according to a federal court which has looked at a similar issue.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""United States students are achieving at number 25 out of 29 developing countries when it comes to science and math.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We've dropped from a top 10 state in elementary reading to 30th in the nation"" under State Schools Superintendent Tony Evers’ watch.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We (Democrats) have made steady progress creating jobs and improving our schools.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The school voucher bill the Iowa Legislature is considering would ""give your education tax dollars to corporations.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Test scores had gone up steadily for 40 years until No Child Left Behind and Race to the Top.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Since 1965, California has built ""six (college) campuses but 23 prisons.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Nearly 60% of all student loan debt is held by the rich and upper-middle class,"" so forgiveness would give the wealthy a ""financial windfall"" but not really help low-income people.",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Common Core expects English teachers to spend at least half of their reading instructional time at every grade level on informational texts.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+Says Alex Sink's plans for governor include $12.5 billion in new spending.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The unemployment rate for folks who've never gone to college is almost double what it is for those who have.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Fifty-three percent of teens  in Central Falls are getting pregnant.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"There have been 74 ""school shootings in America since Sandy Hook.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"California Assembly Bill 1955 “would allow schools to secretly, socially and perhaps medically transition your child without your knowledge and consent.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In the entire public school system in Camden last year, only three students graduated college ready.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""...Over 30 years, federal spending on education has grown by 375 percent, but test scores remain flat.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Texas' public high school graduation rate is at 90% overall.,true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+The plus in LGBTQ+ includes pedophilia.,pants-fire,false,['false'],1,False
+"When SACS came back to the DeKalb County School District to give a midterm review, we got straight A’s.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The per-pupil cost in the [Blackstone Valley Prep] Mayoral Academy far outweighs the per-pupil cost in Cumberland public schools.""",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says it’s a ""statistical reality that most single moms are very poor, under-educated, can't get a job, and if it weren't for government assistance, their kids would be starving to death.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says fewer than 30 percent of Texas college students graduate in four years and only 58 percent graduate within six years.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“We have scientific data, from all different levels, but particularly from the high school sports levels, from numerous different states that shows that it is safe to play what New York is considering high-risk sports.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"During his governorship, Virginia made ""the largest investment ever in K-12 education.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In his first meeting with University of Wisconsin System officials, Republican Governor elect Scott Walker told them to prepare for cuts.",false,true,"['true', 'mostly-true']",2,False
+"""The UK has an unarmed police force and a firearm fatality rate that is 40 times lower per capita than in the U.S.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""The average student will be spending $1,700 to $1,800 more during the life of their loan because of this surcharge.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Sharron Angle ""would eliminate the Department of Education.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says state Sen. Steve Ogden was the ""driving force behind business income tax hurting small business, crafted the Robin Hood school finance scheme making property taxes skyrocket, wrote a budget that will result in a $14 billion deficit and voted against"" gun freedoms.",false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Jeb Bush ""once held $1 million in family planning grants hostage until the programs receiving the money agreed not to discuss birth control at all.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The teachers in (charter) schools don't even have to be certified.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Julie Parrish ""voted to divert $160 million from public schools to private for-profit schools.""",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+“More than half of Virginia’s school buildings are older than 50 years.”,true,true,"['true', 'mostly-true']",2,True
+"At the 50 Milwaukee schools serving ""at least 80% African-American and at least 80% low income"" students, the reading proficiency is 8%.",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Right now, 50 percent of Florida students leaving high school cannot read at grade level.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The Austin Independent School District’s graduation rate reached an all-time high of 82.5 percent in 2012.,true,true,"['true', 'mostly-true']",2,True
+"“BREAKING: Illegal Aliens in San Diego, California, tried to hijack 2 school buses filled with children.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Joe Biden wants to eliminate a regulation that requires school districts to report allegations of teacher on student rape, alleged rape, and sexual assault.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says state schools superintendent candidate Don Pridemore ""voted for the largest cuts to public education in our state history"" and for ""$2.3 billion in tax breaks for corporations and the wealthy.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Providence teachers ""can go five or six years without an evaluation.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Just last year,” Miami-Dade Public Schools “had over 14,000 new children, 10,000 of which came from four countries of Cuba, Nicaragua, Venezuela and Haiti.”",true,mostly-true,"['true', 'mostly-true']",2,True
+"""The brutal fact is, when it comes to education, America is slipping"" behind other nations.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"The Justice Department has been “calling parents that are concerned about what their kids are being taught, they are labeling them terrorists.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We are in the bottom 10 in dollars in the classroom and the top 10 in dollars in the bureaucracy and red tape.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Siemens has been unable to fill approximately 200 skilled trade positions in metro Atlanta.,false,true,"['true', 'mostly-true', 'mostly-false']",3,False
+"“The Walker-Kleefisch administration slashed $800 million from public schools.""",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"“The facility (NextGen Precision Health Institute) construction alone will bring 3,400 jobs and $472 million in revenue to Missouri.”",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Look, I believe in accountability. In 1983, I led the effort in Arkansas to improve our schools.""",true,true,"['true', 'mostly-true']",2,True
+"""The tuitions in Virginia colleges...have doubled -- 100 percent -- in the last 10 years.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Jeb Bush ""oversaw (an) average in-state tuition increase of 48.2 percent during his tenure.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Mitt Romney’s plan makes ""catastrophic cuts to education.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“We’ve eliminated critical race theory in our K through 12 schools.”,mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"There has been a 100 percent ""increase in student debt under this Democratic White House.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says his state budget will ""provide an increase in state funding
+	for the 2011-12 school year.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""West Virginia spends more tax dollars on public education than all but 13 other states and the District of Columbia.""",false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says 23 percent of ninth graders in Newark will graduate with a high school diploma in four years and ""we spend $100,000 on their education in those four years, more than is spent on any other set of students in the United States.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Greg Abbott ""has lost"" in court ""four times in just the past few days.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“The student debt that is out there, almost 60% of it is graduate school debt.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says she was the first in her family to go to a four-year college.,pants-fire,true,"['true', 'mostly-true']",2,False
+"""We have one charter school that for seven years has been rated unacceptable.""",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+“Biden to teachers: ‘They're not somebody else's children. They're yours when you're in the classroom.’”,false,true,"['true', 'mostly-true']",2,False
+"Says that when Republicans held Congress and the presidency, they ""doubled the size of the (U.S.) Department of Education.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Nearly 90% of all UW graduates stay in Wisconsin 5 years after they graduate.”,true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""During my time in office, we've increased per pupil aid by more than $300 per student. Now, our schools have returned to the top 10 in the country after falling to 17 under the previous administration.”",half-true,mostly-true,"['true', 'mostly-true']",2,False
+Seventy-two percent of Georgians did not have a chance to finish college.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Today we stand as the highest-performing urban school district in America.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""New Jersey is the only state in the union that spent less on higher education than it did at the beginning of the decade.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The passage of the teacher tenure bill in the Fla. Legislature was like the health care bill in Congress because one party jammed it through.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Violent crime is up since the last year of Sharpe James’ administration. This year it’s higher. … The unemployment rate is almost 15 percent. The high school dropout rate is over 50 percent.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says his free public university tuition program ""is paid for … by a tax on Wall Street's speculation.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says, ""Yet in Salem they have traditionally waited until the money is almost gone to pay for the most important things in our state’s budget.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Virginia ranked near the bottom of the nation 50 years ago in per capita income but is in the top 10 today. It had a ""very low"" rate of higher education attainment but is now above the national average.",half-true,true,"['true', 'mostly-true']",2,False
+"""Thanks to the strong charter school reforms put in place while I was Senate President"" the online charter school ECOT ""was caught and is out of business.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Gender Queer on NEA Summer Reading List for Kids.,false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+This year’s state budget and my spending proposal for Fiscal Year 2016 represent an infusion of more than $1 billion in additional money for K-12 education.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""All"" University of Texas ""student-athletes get an iPad.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Gov. Chris Christie ""cut spending (by) $1 billion"" and provided ""$850 million in new education funding.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Charlie Crist stopped ""layoffs of some 20,000 school teachers during the global economic meltdown.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In Chicago, school is never canceled"" because of winter weather.",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says 315,000 mostly minority Texas students are enrolled in failing schools.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Florida teachers are ""already paid $5,000 below the national average.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The five states that outlaw collective bargaining for teachers all rank below 44th in the nation in test scores, while Wisconsin ranks 2nd.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says “John James supported Betsy DeVos’ agenda to cut public school funding and put it into wealthy private schools instead.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""For every extra year that a girl stays in secondary school, her chance of getting infected with HIV/AIDS decreases by half.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""In 1998, nearly half of Florida's fourth-graders were functionally illiterate. Today, 72% of them can read.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 1976, the first year that Pell Grants were fully funded, a full Pell Grant paid 72 percent of the cost of attendance at a typical four-year public college. Today, a full Pell Grant covers just 34 percent of those costs.",true,true,"['true', 'mostly-true']",2,True
+"Says Republican legislators in North Carolina raised the average teacher's pay ""by more than 15 percent in just three years.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Only 2 percent of public high schools in the country offer PE classes.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""The average faculty member at UW-Madison brings in close to a quarter million dollars a year"" in grant money.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Austin politicians want to cram more kids into classrooms so they don't have to make the tough decisions to balance the budget.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""This generation, on average, is starting their careers, if they’ve been to a four-year college, with just under $30,000 in debt.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"Says a group ""estimates that the annual cost to Oregon taxpayers for government services to illegal aliens, after any income tax revenue from them, is $1 billion.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Illinois high school to implement race-based grading system in 2022-2023 school year,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Since 2019, I've successfully lobbied for the funds to add hundreds of school counselors, lowering our student to school counselor ratio by 20%.”",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Wendy Davis has already taken more $ from teacher unions than the past 3 Democrat gubernatorial candidates combined.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says the Affordable Care Act was a federal takeover of the student loan industry and ‘profits’ on the loans go to help pay for the health care law.,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Under David Dewhurst’s leadership, the Texas ""Senate passed an expansion of in-state tuition and free health care to illegal immigrants.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Texas school districts are the fifth largest employers in the world.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"John Boehner said the jobs of ""teachers and nurses and police officers and firefighters"" are ""'government jobs' that weren't worth saving.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"After enactment of the Republican tax bill, ""school teachers can no longer deduct the cost of their classroom supplies on their taxes.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A data system that goes along with Common Core is designed to collect up to 400 data points on each child, which can include personally identifiable data.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Paul Ryan got his start in politics, as a young staffer just out of college, working for then-Congressman John Kasich’s Budget Committee.""",half-true,true,"['true', 'mostly-true']",2,False
+Says Gov. Rick Scott allowed Republican legislators to cut his teacher pay raise proposal by 60 percent.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The current (agriculture) commissioner allowed tainted beef to be sent to school cafeterias.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The average student comes out of college hundreds of thousands of dollars in debt.""",false,mostly-true,"['true', 'mostly-true']",2,False
+"""Speaker Gingrich has said that we ought to get rid of our child labor laws.""",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Tenured professors are guaranteed a job.,mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says ""about 100,000 kids in this country leave their home state and go to another state to be educated. Out of that 100,000 young people, 30,000 of them are from New Jersey, by far the largest amount.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""F: The grade given to Florida for college affordability under Jeb Bush's leadership.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says opponents of proposed Austin school district bonds say the district’s ""debt load doubles with these new bonds.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Tony Evers wants to give in-state tuition and drivers licenses to ""illegal aliens.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Cuyahoga County ""passed a program to guarantee a college savings account for every single child who enters kindergarten in this county -- the first county in the United States to do so.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""Two of the top three (rated) public high schools in Wisconsin — Ronald Reagan College Prep and Rufus King International — are MPS schools.""",half-true,true,"['true', 'mostly-true']",2,False
+"""In this country, we have a 25 percent dropout rate.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Tim Kaine hiked tuition as governor, but now claims to champion affordability.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""160,000 kids stay home every day because they are afraid to go to school because of bullying.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""For every one ESD superintendent position, we can pay for three speech pathologists, or three special needs instructors, or three classroom teachers.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“666,000 teachers have been laid off already since March.""",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says he first unveiled his new legislative agenda in Wisconsin, not in California as critics complain",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Iran President Hassan ""Rouhani has more Cabinet members with Ph.D.s from American universities"" than members of Barack Obama’s Cabinet.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Missouri ranks 45th in the nation in per capita state fiscal support for higher education and Missouri State is last among Missouri schools.""",true,true,"['true', 'mostly-true']",2,True
+"""New Jersey alone, my home state, is facing a ten-and-a-half billion dollar shortfall in its 2012 fiscal budget. This means more cuts in state and local spending for education, which means our kids are hurt.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""Mitt Romney says class sizes don’t matter.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The NCAA will ""get billions"" from the men’s basketball tournament. ""Players get a trophy.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The U.S. Supreme Court decided in 1982 that non-citizen children must get free K-12 education.,true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Foreign languages are “not a high priority” nationally,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We don’t have bars on campus in Texas. It’s against the law... no alcohol allowed.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Del. Ben Chafin ""took money away"" from Southwest Virginia schools while voting to build a ""politician's palace.""",false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""There is a big correlation between third grade reading level and whether you go to college or whether you go to prison. And in Florida right now only 56 percent of kids are coming out of third grade at third grade reading level.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Under Greg Abbott, Texas four-year-olds would be forced to undergo standardized tests.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Harvard University “refuse(s) to tell us” who its international students are.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says Republicans want to cut education by 25 percent.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Graduation rates of players at major football colleges ""are still twenty points below their male campus peers and worsened in the past three years.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I took over the school district when it had a $1 billion structural deficit and left them with $1 billion in cash and 70,000 more students than they have today.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There currently are 825,000 student stations sitting empty across Florida in every district and at every grade level.""",mostly-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The United States death rate is two-and-a-half times higher for those who do not have a high school education.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"When Charlie Crist was elected governor, Florida ranked 31st in K-12 education. ""Last year ... we went from 31st to 14. And this year, the top 10 in America.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"State ""school funding per pupil is down 16 percent compared to 2009, after adjusting for inflation.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"President Joe Biden’s American Relief Plan “has a lot of money in it for schools, but if you really look at it … it says that the school money is going to go out until the year 2028.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Marco Rubio ""voted to slash school funding by billions of dollars and would eliminate the Department of Education.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 2011, our state-run lottery funded New Jersey classrooms by over $930 million.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Wisconsin’s technical college graduates ""have a higher employment rate and starting salaries"" than four-year college graduates nationwide.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""My recommended budget includes $1 billion in new state funding for education.""",half-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""As many as a quarter of our students aren’t even finishing high school.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""According to the most recent report, Wisconsin’s high school graduation rates are also up again -- to third best in the country.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says North Carolina's average teacher salary was at the national average ""back when I was in public school.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Florida schools (were) still open during the start of the hurricane.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 2009, Georgia's public schools have lost nearly 9,000 classroom teachers while the number of students has gone up.""",true,true,"['true', 'mostly-true']",2,True
+"Texas ""children may have a teacher who never spent one minute practicing teaching.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Half the kids coming out of college this year … can't find a job, or a job that's consistent with a college degree.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Nationwide tuition at public universities is up almost 300 percent ... in the last 20 years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+We are seeing “the Justice Department treat American parents as domestic terrorists” under the Patriot Act.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""For our next two years in my state, we will end with a structural surplus of $499 million.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Texas high school ""graduation rates are at an all-time high—the third-highest in the nation—which represents a significant turnaround from just a few short years ago.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Salaries for Virginia’s teachers are below the national average.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"A private school tax break in the Wisconsin state budget is ""the most generous in the nation.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Richard Corcoran has a plan to divert even more of our tax dollars to unaccountable private schools.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We are investing more money into education than ever before in the history of Wisconsin.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The University of Texas is starting ""the first medical school at a major Tier One"" university ""in the last 50 years.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"“The Universities of Wisconsin are 43rd out of 50 states in the nation, in terms of public support for our universities. The $855 million (budget request) gets us up to average.”",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Lorain ""is the poorest urban school district in the state of Ohio.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""It used to be the policy of the Republican Party to get rid of the Department of Education. We finally get in charge and a chance to do something, so we double the size of the Department of Education.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""According to Republican Rep. Jeff Shipley, teachers should not receive a pay raise if they teach American history that Republicans don’t agree with.""",mostly-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""50% of Hispanic students count on Pell Grants to pay for college.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Surveys of teens in high school reveal that knowing a classmate who sells cannabis is 90 times more common than knowing a classmate who sells alcohol.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In fact, there’s more state funding for education today than any other time.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Texas ranks: #1 in worker deaths, #1 carbon emissions, #50 in high school graduates, #50 in funding for mental health patients.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says state Senate recall challenger Sandy Pasch voted ""to cut school aid by nearly $300 million.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The number of ICU beds is larger in Boone County by a factor of three” compared to Orange County for the University of North Carolina.,false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Florida’s ""high school graduation rates continue to increase at the fastest rate in the nation, with Florida leading the nation in the rate of Hispanic graduates.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""Under my predecessor, they cut funding for education, but they didn't give them anything in return to make up for that,"" leading to ""less money"" for school districts",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Every dropout costs us $72,000 for the life of that person.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Gov. Rick Scott cut the cost of prepaid college tuition by nearly $20,000.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Some of our state's educational administrators joined the feds in seeking to mandate Arabic classes for Texas children.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Former Atlanta Public Schools Superintendent Beverly Hall left the school district ""significantly better than she found it.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+Says a portfolio managed by the Texas General Land Office earned 22 percent last year while the state’s emergency reserve account experienced a 1 percent gain.,mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says Texas legislators in 2011 increased state spending on education.,pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Private prison systems are calculating how many new beds (they will need) based on the ... number of third graders.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Under Rick Scott, there has been a ""historic $20 billion in funds for education.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""(Newt Gingrich) voted in favor of establishing the Department of Education, and yet he gets in a debate and says we should get rid of the Department of Education and send all the education issues back to the states.""",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Education Secretary Betsy DeVos owes Ohio $5.3 million for campaign finance violations and Mike DeWine's office refuses to collect the fine.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In Connecticut and New York, students at Achievement First schools consistently outperform city and statewide averages.""",half-true,true,"['true', 'mostly-true']",2,False
+"Says Anthropology is a STEM (science, technology, engineering, math) field.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Thanks to the Act 10 collective bargaining law that took effect four years ago, ACT scores in Wisconsin ""are now second-best in the country for states where more than half the kids take the exam.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says there are half as many students in one Georgia technical college than there were two years ago.,mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The University of Wisconsin System had a ""jobs-for-life tenure program"" for professors.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Rick Scott presided over cuts to the Bright Futures college scholarship program.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Mark Harris has said he would abolish the Department of Education.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The 2016 and 2017 Missouri budget includes more funding for the University of Missouri than any time in the last 15 years.,mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""My opponent supported policies that increased tuition by 18 percent.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Minnesota is kicking butt relative to Wisconsin on everything from employment and job creation to school test scores, educated work force and a host of other factors and rankings""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Charlie Crist allowed college tuition to increase up to 15 percent every year.""",mostly-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We aren't the only state cutting back on public television.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Easing school lunch regulations ""is not reducing the nutritional standards whatsoever.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Mark Robinson skips Board of Education vote on teacher bonuses to hold campaign event.”,mostly-false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says under the Romney-Ryan budget ... ""the American Opportunity Tax Credit for college tuition would be eliminated.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have the best schools in the United States.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Every Florida teacher gets a pay raise.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""California's Attorney General, Xavier Becerra is putting together plans to raise property tax revenue by eliminating the only thing keeping some people's property tax from sky rocketing, Prop 13.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We have reduced funding for education the least. They've suffered the least cuts.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Fourth grade reading and math scores, first in the nation. Eighth grade reading, first. High school AP classes and college education, both ranked first in the nation.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When public schools face increased competition, they get better and kids learn more.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""An overwhelming majority of Americans support passage of the DREAM Act, which would provide a path to citizenship for undocumented youth willing to work for a college degree or serve in our armed forces.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""A few weeks ago, (the) education committee in Congress is deciding what’s going to be in your local salad bar.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Jim Justice is the first West Virginia governor to fight for pay raises for educators.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Says U.S. Rep. Connie Mack ""took seven and a half years to finish college.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Some of the colleges, including A&M, have already guaranteed that they will not increase their tuition.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""700 jobs (were) lost because Allen Boyd"" voted for the health care bill.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Administrative employees at colleges and universities have ""more than doubled over the last 25 years, outpacing the growth of students by more than 2 to 1.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Texas “ranks 50th in baby wellness checks, ranks 50th in clinical care for infants, ranks 50th in uninsured women, ranks 43rd in maternal mortality, ranks 44th in school funding per child, and ranks 46th in child hunger.”",half-true,mostly-true,"['true', 'mostly-true']",2,False
+“Kids are resistant to COVID as opposed to older people.”,half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Dan Gelber: On the record against scholarships to help our needy children attend Jewish private schools.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""House Republicans are ramming through legislation ... to classify pizza as a 'vegetable' for the purpose of school lunches.""",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"Says expanding Medicaid in Wisconsin would save the state $530 million, which could pay for 3,287 K-12 teachers, or 7.8 educators per district.",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Seth Magaziner ""plans to spend billions more of your money.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Under the House Republican budget, ""if these cuts were to be spread out evenly … the year after next, nearly 10 million college students would see their financial aid cut by an average of more than $1,000 each.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"Says Rick Scott ""cut education by $1.3 billion"" in his first year, then ""in his second year he decreases funding by $300 million to our state universities.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Tim Kaine ""reduced higher education funding by 25 percent when he was governor, driving up tuition...""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We are the only advanced industrialized nation that bases our educational funding on property taxes.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""North Carolina spends $855 less per student than it did before the Great Recession, and we have one of the lowest per pupil spending levels in the nation.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""The waiting list for Pre-K is over in the House budget.""",true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"A recall election for Wisconsin governor would cost ""$7.7 million -- $7.7 million that may already be allocated to merit raises for teachers or health care for the poor or school books for your kids.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Texas ranks 44th nationally in education funding per pupil.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Donald Trump's education plan to dramatically slash funding for public education would fire 49,000 Texas teachers.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""When these [undocumented] students graduate from college, they're still illegal aliens. They cannot get a job.""",true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"""Our (Texas) graduation rate ranks 43rd out of 50 states.""",true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says a change in law he carried stopped a $100 million tax increase in the Dallas school district.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says NC bill would change the grading scale.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""[W]hen adjusted for cost of living, Georgia ranks first nationally in teacher salary and benefits.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Hillary Clinton is ""proposing to print instant work permits for millions of illegal immigrants to come in and take everybody's jobs, including low-income African-Americans.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Joe Straus ""was co-author of a bill that would have allowed Planned Parenthood to control public school sex education.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The impending work stoppage is unlawful.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"“California has a personal belief exemption to any new vaccine added to the schedule after June 2015 for public and private daycare, preschool and K-12.”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""US President D. Trump Approves Scholarship for 50,000 African Student to Study in USA 2018"" ​",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In Wisconsin’s school voucher program, ""two-thirds of the money"" in the ""tax vouchers"" went to people ""making more than $100,000.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Only 50 percent of students from Milwaukee public high schools ""go on to a two-or four-year college.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There are almost 60,000 North Carolina children on waiting lists to access a school that works best for them.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Since 2001, higher education in the state has been cut or allowed to erode ... by 35 or 40 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Every 1 percent increase in the number of Ohioans with bachelor’s degrees ""means economic activity growing the next year and for each year thereafter (by) $2.5 billion dollars.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Florida still averages more students in its classrooms than any other state in the Southeast.""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""More (student-athletes) graduate than the students who aren't student-athletes.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Dan Forest wants to use tax dollars “to help rich people send their kids to private school using vouchers.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Before 2005, ""the percentage of"" Texas high school ""students meeting the college readiness standards of the Texas Higher Education Coordinating Board stood at 28% in English and 42% in math. Those figures stood at 65% and 66% in 2013.""",true,true,"['true', 'mostly-true']",2,True
+Says Common Core is a federal mandate.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I have cut taxes 63 times, including a 2006 property tax reduction that ranks as the largest in state history.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Central Falls ""schools are overfunded by state money by as much as $8 million.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""You know how many children in the history of the United States have died in a fire (at school)? Zero.""",false,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Roy Barnes ""made Georgia dead last in education"" and Georgia ""led the nation in job losses.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Hillsboro school district has already placed Antifa, BLM in their curriculum as Justice Fighters. Fourth grade.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Scott Walker enacted ""the biggest cuts to education in our state’s history.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Right now, we only keep 50 percent of Georgia Tech's graduates.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I didn’t try to push"" a bill to reduce lottery scholarship proceeds for students.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We’re second only to Boston in college students per capita.""",false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+"""Texas’ high school graduation rate went from 27th in the country in 2002, to second highest in the country in 2013.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Nearly 2,000 high schools - roughly 12 percent of all secondary schools in the United States - produce about half of the nation’s dropouts.""",true,mostly-true,"['true', 'mostly-true']",2,True
+Says he’s the first Aggie governor of Texas.,true,true,"['true', 'mostly-true']",2,True
+"""The United States Department of Education has introduced an Islamic indoctrination program for the public schools, called ‘Access Islam.’ """,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"According to an article in the Economist magazine, Americans are ""guaranteed"" to live above the poverty line if they graduate from high school, keep their first job for over a year and get and stay married.",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"The Austin Independent School District board voted to mandate ""a pornographic sex education policy that includes instruction on anal sex and how to place a condom on an erect penis.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Said New York Gov. Andrew Cuomo said that “with all the technology we have, we don't need actual classrooms.”",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Rhode Island has the highest dropout rate in New England at twenty-three percent.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We had a No Child Left Behind — a similar piece of legislation in our state a number of years ago, well before the federal law. And it's had a big impact here. It's improved schools.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In Texas, schools do not even have to teach sex education.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Student loans from the federal government issued between 2007 and 2012 are on target ""to produce $66 billion in profits for the United States government.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Fundamental changes made to the language describing the Wisconsin Idea in the University of Wisconsin System's mission statement were the result of a ""drafting error.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In Texas, we teach both creationism and evolution in our public schools.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Kelly Ayotte ""voted for a budget that had $90 billion of cuts to Pell Grants.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says he “fully funded Missouri K-12 education for the first time in state history.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under Scott Walker, Wisconsin ""moved from 16th to third in percentage of people with student loan debt.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“We know from past experiences that the most effective tool for keeping kids safe is armed law enforcement on the campus.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“If you look at the average teacher pay compared to the average pay of your citizens, Virginia ranks last.”",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"For educational testing, Florida ""has chosen a company that has a significant history of promoting identification of the GLBT lifestyle for children as young as seven years old.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Members of Congress and their families and staff are exempt from repaying student loans.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""A lot of student loans are already refinanced by the federal government.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Lincoln Chafee ""settled a union strike by giving the teachers a 19-percent-raise.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Gov. McDonnell's proposed budget ""is cutting"" public education.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Says “75% of third-graders in this year’s class are not reading at a third grade level” and, for those who don’t catch up, there’s “an 80% chance that you will not graduate.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The 2011 Legislature did not cut Texas public school funding.,pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""New Jersey loses net, that is minus those who come into the state, 30,000 students a year.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Shelby County donated – I’m sorry, gave – 44 schools to the city of Memphis.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says the health care reform bill was paid for, in part, by taking money from students and the student loan system.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“I don’t believe the science suggests that young people should be vaccinated. I don’t believe that young people should have to wear masks at school. I’m not sure the science is settled on that at all.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""College tuition rates in Texas jumped by 55% since 2003.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""For a young man or woman who is entering the ninth grade in Newark this year, they have a 29 percent graduation rate.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Florida House is ""holding the FINAL public hearing"" of a controversial education bill in the middle of spring break...""when they hope (teachers) are not watching or listening.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""K-12 education is getting more money this year than they did last year. ... It is a total increase of 4.1 percent.""",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"When discussing education savings accounts, ""We would be 31st in the nation to have these policies going forward on behalf of kids.”",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+"""As chair of the Senate Education Committee, I led the charge to restore most of the education cuts from last session.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Ninety-six percent of failing schools are spending above $8,400, the average annual per student expenditure, and 26 percent spend considerably more than that.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have been teaching these (Common Core) standards in Florida schools since 2010.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'false']",4,False
+"""Three years after getting the $100 million (from Mark Zuckerberg), less than two-thirds of students in Cory Booker's Newark graduate.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Karrin Taylor Robson gave illegals tuition discounts and made us pay for it.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"A post comparing two construction workers — “Joe legal” and “Jose illegal” — says “Jose” pays no taxes yet gets free medical care, food stamps, welfare, and 'head of the class' priority for his children in applying for college.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Jason Carter ""actually opposed more funding for education in the Senate.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Betsy DeVos and her family ""have donated extensively to groups which promote the idea that students who identify as LGBT must undergo 'conversion' therapy.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says a recent study shows Florida students are second in the world in fourth grade reading, behind Singapore.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Texas teacher fired for reading Diary of Anne Frank to class.”",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Chicago Public Schools ""lead the country in high school graduation of an urban school system,"" ""match the United States of America in kids graduating high school going on to a four-year college,"" and are ""producing eighth-grade leaders in the country in math gains, fourth-grade leaders in reading gains.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""The Chicago Bears have had more starting quarterbacks in the last 10 years than the total number of tenured (UW) faculty fired during the last two decades.""",true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says Texas lawmakers last year expanded public education’s share of state spending.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"With the $53 billion spent in Ukraine aid, the U.S. “could pay five SWAT members $80,000 each and have them at EVERY school front door.”",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""In 2006, Charlie Crist opposed in-state tuition for illegal immigrants.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+State support for local schools per pupil has decreased by at least 25 percent over the past decade.,half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Said Katie Hobbs “fought to” “prevent students from learning (about) the Pledge of Allegiance, Constitution, Mayflower Compact and Declaration of Independence.”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We went from zero A elementary schools when I took office to 16 when I left, and our total A and B schools went up by 260 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 2010, student debt has increased by 102% and real wages have fallen by over 8%.”",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"It's not true that ""the United States was built on stolen land.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Thanks to (North Carolina’s) governor and the legislature, the average teacher salary can barely support a family.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""99.97 percent of the kids live in poverty that attend Cleveland public schools.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Roy Cooper won't say how he will pay for ‘free’ college tuition.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that over the past 20 years, Texas public school spending rose 142 percent and per-pupil spending more than tripled when adjusted for inflation.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In Romney's first budget (in Massachusetts), he cut $248.7 million from K-12 education.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""union bosses"" bused protesters to a Central Florida education protest.",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Americans, in the last 30 years, ""have more than doubled the amount of money we are spending per child (on education) … and the results have gotten worse, not better.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Only about a third"" of Texans who enroll in college graduate.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""It costs a hell of a lot more money to put somebody in jail than send them to the University of Virginia.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Florida has ""roughly 1,500 resource officers dealing with about 3,800 schools.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""We put $330 million in general school aids — the largest in more than a decade.""",true,true,"['true', 'mostly-true']",2,True
+"Says Texas schools are ranked ""43rd in the nation.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Marshall Tuck ""is backed by Donald Trump’s education advisor"" pictured as Betsy DeVos.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"New York state subsidizes private colleges ""probably more than any other state except maybe one.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Clayton County Public Schools recently achieved a milestone that has eluded other
+	metropolitan districts across the state"" by meeting federal guidelines for having a highly qualified staff.",true,true,"['true', 'mostly-true']",2,True
+"Says Tony Thurmond was ""Reprimanded by the Obama Administration for failing to address widespread sexual harassment and assault in district schools.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Tony Evers will ""raise property taxes, raise income taxes and raise gas taxes by as much as a dollar a gallon.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Says Scott Walker ""cut back early voting and signed legislation that would make it harder for college students to vote.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false']",3,True
+"In Liberia, ""a girl is more likely to be married by 18 than to know how to read.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"""We closed that plant down. It was a $27 million-dollar plant, operating full steam, and we closed it down.""",true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says John Kitzhaber’s proposed budget for upcoming biennium represents 8 percent increase over last,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Alex Jones ""said that the victims of the Sandy Hook massacre were child actors and no one was actually killed there.""",true,pants-fire,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“There's not been a single book banned in the state of Florida.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“I brought back Big Ten football.”,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"With federal stimulus money for schools, “no distinctions are being made between Wisconsin schools that remain closed to in-person learning, and those that have been re-opened for months.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Rick Scott ""cut education to pay for even more tax breaks for big, powerful, well-connected corporations.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says ""only 18 percent of Portland elementary schools have art instruction compared to 83 percent nationally.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Greg Abbott said it would be a ‘waste’ to expand pre-k to all Texas children.""",mostly-false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says his father-in-law, former Gov. Linwood Holton, ""integrated Virginia public schools.""",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""The [Georgia] General Assembly took away the Atlanta Board of Education’s oversight of the superintendent.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says students have to repeat the same grade next year.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Georgia’s HOPE scholarship is ""still the richest scholarship program in America.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In ""the fall of 2009, only 21 percent of Texas high school graduates enrolled in a four-year public university.""",half-true,true,"['true', 'mostly-true']",2,False
+Illinois “received $5.1 billion at an elementary school there that used it for equity and diversity.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says the state of Texas rates as ""unacceptable"" almost 500 of the state's 8,000 public schools.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"[Chicago is the] only city in the United States, you get a B average in high school, community college is free.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Latinos in Nevada support Educational Savings Accounts, helping more than 450,000 students access better schools. But Catherine Cortez Masto is against it.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Did you know that in 2013 over 50 percent of all babies born in Oregon were Hispanic?""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""$3 billion over the next five years will be taken out of our public schools and be put into vouchers.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The 2011-13 state budget ""cuts overall funding for public schools by $1.6 billion""",mostly-false,true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""Under Republican Governor Chris Christie, tolls cost more. Train and bus rides cost more. College tuition goes up. But Christie protected a tax cut for millionaires.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Virginia Del. Mark Cole ""wants schools to check children’s genitals before using bathroom.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says 85 percent of IDEA charter-school students come from low-income families and about 99 percent of its graduates go to college.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Under the Romney/Ryan budget, interest rates on federal student loans would be allowed to double.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In Florida children are required to take their first standardized test within 30 days of beginning kindergarten and Gov. DeSantis wants to extend that requirement to preschoolers.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Harvard is sitting on top of a $54 billion hedge fund they call an ‘endowment’ that they pay zero taxes on. Yale has $31 Billion. Stanford $29 Billion. Princeton $26 Billion.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Every single Petersburg (Va.) school was accredited when I left office.”,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We have about six school districts that are in school 140 to 150 days this year.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""We have more kids take the SAT than any other state in the nation. I mean a high percentage of our kids take the SAT.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Principal bans candy canes.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"A ""majority of our students are trapped in"" underperforming schools.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The ""federal government is going after school districts, trying to force them to let boys shower with little girls.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""New Jersey's public school students have the best Advanced Placement scores in the nation.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Elorza wants to teach our public school children about the ‘non-existence of God.’""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Our ""kids can’t openly celebrate Christmas or pray in school.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Kirk ""Cox joined special interests to deny teachers raises.""",pants-fire,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+Says some Austin school district classrooms lack electrical outlets.,pants-fire,true,"['true', 'mostly-true', 'mostly-false']",3,False
+"A scheduled speech by President Barack Obama will be ""the first time an American president has spoken directly to the nation's school children about persisting and succeeding in school.""",false,true,"['true', 'mostly-true']",2,False
+“Let’s be clear: ‘drag shows’ are strip shows.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Forty years ago, a federal Pell Grant paid for nearly 80% of tuition, fees, room and board at a four-year college.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The (Evers) Era locked Wisconsin families into a 400‑year property tax increase.”,mostly-true,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says unlike Tim Kaine, who ""invested"" in education, Indiana Gov. Mike Pence ""slashed education funding.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Pending a federal waiver, the 2013 Legislature ""eliminated the overtesting of students in grades 3-8 by decreasing the number of tests from 17 to 8.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Even Fairfax County doesn’t pay the kind of (school administration) salaries that Richmond is paying right now.”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Paul Ryan is leading the effort to ""pass a tax bill with divisive conception language by disguising it as a college savings plan"" in ""another attempt to ban abortion and rob women of their reproductive rights.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""There have been 44 plans submitted affecting 90 school districts. And the Scott administration has rejected all of them.""",false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"“There’s still (only) a handful of school districts"" doing no in-person instruction.",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+Says public education will get more money in 2012-13 though lawmakers cut $15 billion in overall spending.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Fifty years ago, the average GM employee could pay for a year of a son or daughter’s college tuition on just two weeks wages.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Former Gov. Pat McCrory appointed liberals to the North Carolina Textbook Commission, which “mandated textbooks” pushing critical race theory.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“In South Dakota, I’m putting prayer back in our schools.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Four balanced budgets in a row, with no new taxes for anyone. The best job growth in 12 years. Nearly 130,000 new private-sector jobs. Merit pay to reward New Jersey’s best teachers, and the most education funding ever.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Tammy Baldwin ""opposed displaying the flag and reciting the Pledge of Allegiance or singing the National Anthem in our classrooms.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""91 percent of Latinos support the DREAM Act, which allows undocumented youth to attend college,"" but Marco Rubio opposes it.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Rick Perry ended full-day Pre-K for 100,000 Texas children.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""This is the only state in the country that bypassed the General Assembly to authorize [in-state tuition for undocumented immigrants].""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""(The Opportunity Scholarship Act) would be funded directly from public school budgets. So it would absolutely take money out of the public school system to transfer to private and religious schools.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""if current trends continue, by 2040, one out of three Texas workers will not have a high school diploma.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""This year, the Blackstone Valley Mayoral Academy became the first public school in Rhode Island history to have 100 percent of its elementary-age students proficient in reading on state assessments.""",mostly-true,true,"['true', 'mostly-true']",2,True
+Immigration and Customs Enforcement agents raided Los Angeles' Gratts Learning Academy during a June graduation ceremony.,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Black children constitute 18 percent of the nation's public school population but 40 percent of the children who are suspended or expelled.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"The Central Falls School system ""spent $100,000 on a time clock.""",pants-fire,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""More women are graduating from college now than men.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Austin is the biggest city in America with a Tier One research university (UT-Austin) but without a medical school.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Graduation rates in Buffalo’s school district, which were ""around 48 percent are now up to 64 percent"" since Say Yes Buffalo launched.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""A college loan is the only loan in the United States that you cannot refinance when interest rates go down.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says his proposed education spending ""is the highest state funding level in Florida history.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"State Rep. Elena Parent ""supported Governor Nathan Deal’s plan to slash the HOPE scholarship.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says over the last two years, New Jersey Schools Development Authority employees ""have not started or completed one single school project, and I’m not talking about major school renovation. I’m talking about replacing boilers, roofs.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 31 states, decent child care costs more than college tuition.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says Texas schools have had ""massive increases"" in class sizes with Rick Perry as governor.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"University of Texas students ""signed a petition seeking the legal right to abort newborn babies up to five-years-old.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Republicans enacted the most drastic cuts to K-12 public schools of any state in the nation.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Our minority graduation rate went from levels below Milwaukee and Madison, to above 80%"" when I was Beloit school superintendent.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""New Jersey has the most educated population of all the states in this country.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When I was governor, not only did test scores improve – we also narrowed the achievement gap.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True

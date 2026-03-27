@@ -1,0 +1,1004 @@
+statement,true_verdict,predicted_verdict,prediction_set,set_size,is_covered
+"In Wisconsin, unions can essentially give ""unlimited"" contributions to political parties, but business can't give any.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Project 2025 would “cut” the Federal Emergency Management Agency and “kill federal-backed flood insurance.”,true,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,False
+"GOP candidate for California governor Travis Allen ""on the floor vote … refused to join Republicans opposing driver licenses for illegal aliens.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Say Sen. Lindsey Graham supports the Green New Deal.,pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Sen. Kamala Harris said Democrats are ""coming for"" Trump supporters if they win the White House in 2020.",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The Biden-Harris administration ""wants to hand out $450,000 to illegal immigrants.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“ICE officials have been ordered NOT to wear their uniforms or badges when they vote today"" so as not to intimidate noncitizens.",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"“60% of Alaska voters voted for a Republican, but thanks to a convoluted process and ballot exhaustion — which disenfranchises voters — a Democrat ‘won.’""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Nazi imagery [was used] by the Block for Governor campaign to describe supporters of Allan Fung for Governor.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says President Donald Trump as a candidate mentioned WikiLeaks ""over 160 times in speeches"" in the last month of the campaign.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Every time we put a ballot issue on, it costs a million dollars.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Biden did not win legally.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says the Texas House has ""a record number of new members joining our ranks.""",half-true,true,"['true', 'mostly-true']",2,False
+"""It's an absolute fact"" that China and North Korea ""have consistently over many, many years"" meddled in U.S. elections.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+''I have received more contributions than any other candidate in the race – Republican or Democrat.'',false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"After a 2022 law, “the vast majority of colleges in New York State do not have on-campus poll sites.”",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+“Many elections in Bexar are being called with 0% of precincts reporting! I smell MAJOR FRAUD!”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+The Georgia House passed a bill that “makes it a misdemeanor to give food or water to voters waiting in line.”,true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"“It now appears there actually was meaningful voter fraud in Fulton County, Georgia, last November. That is not a conspiracy theory. It's true.”",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“I think they found a way to target Democratic districts and send millions of votes into a black hole. The numbers aren't adding up.”,pants-fire,false,"['mostly-true', 'mostly-false', 'false']",3,False
+"""More Tennesseans have hunting and fishing licenses than vote.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""58,000 non-citizens voted in Texas, with 95,000 non-citizens registered to vote.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In New Jersey, Gov. Christie vetoed legislation to extend early voting.""",mostly-true,true,"['true', 'mostly-true', 'false']",3,True
+Says “Kamala Harris is not able to be VP. Because she's a felon. She lied on her application to buy a gun here in CA.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Raphael Warnock supports boycotts of Georgia to protest voting law.,false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Two thirds of eligible voters don’t vote.”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“About 400,000 manufacturing jobs in the state of Michigan will go away with EV mandates.”",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+“Breaking: Trump names Boebert secretary of education”,false,false,"['false', 'pants-fire']",2,True
+"Says Marshall Tuck ""is backed by Donald Trump’s education advisor"" pictured as Betsy DeVos.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Nancy Pelosi said ""Congress shall not vote remotely because it is not secure!"" while also saying that “Americans should all vote for president by mail!”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“JD Vance actually sent a letter last year to the Department of Justice saying, ‘enforce the Comstock Act.’”",true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+“More fraud in New Jersey’s election uncovered – voting machines would not allow citizens to vote for Republican governor candidate.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+HR 1 “automatically registers every welfare recipient to vote.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Arizona audit” shows 86,391 voters “don’t appear to exist.”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The Senate seat won in a special election by a Democrat had been ""held for more than thirty years by Republicans.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In voting by mail, “hundreds of thousands of ballots have been rejected for defects and millions more end up missing or in landfills.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"﻿﻿""Since Mayor Kennedy O’Brien took office Sayreville has issued 22,081 building permits! Now O’Brien is holding secret meetings with big developers.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says James Clapper said ""that the FBI was spying on (Trump's) campaign.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We came out of the White House not only dead broke, but in debt.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"Says the U.S. House’s COVID-19 relief bill, advanced by Democrats, “strips states of their right to administer elections.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In my own state of Vermont, from the very first days of our state's history, what our Constitution says is that everybody can vote. That is true. So people in jail can vote.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+AOC posted that Trump’s election victory emboldened a conservative news outlet to call for her resignation because she’s a woman.,false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""There are no rules governing"" the 2016 Republican convention, ""the rules have not been set.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Early vote counts after the polls closed in Georgia’s U.S. Senate runoff are evidence of election fraud.,pants-fire,false,"['mostly-false', 'false']",2,False
+"Says ""I was the first governor in America to endorse Mitt Romney.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Says Leah Vukmir said: ""I’m not endorsing Donald Trump.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Mike Pence “said he won’t debate Kamala Harris.”,false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Did you see President Trump’s RECORD TURNOUT? Iowa - 32,389 Republicans.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Beto O’Rourke did his father-in-law’s ""bidding on the El Paso City Council, pushing a downtown redevelopment scheme to bulldoze a poor Hispanic neighborhood while enriching developers like his father-in-law.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The Democrats have over  20 field agents to our zero.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+Says Josh Mandel’s campaign is under FBI investigation,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Screenshots of documents show a former student of Democratic vice presidential candidate Tim Walz has lodged sexual abuse allegations against him.,pants-fire,false,"['mostly-true', 'mostly-false', 'false']",3,False
+Says “Hugo Chavez’s family still owns” Dominion Voting Systems.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We will be the first party to elect a bald guy to governor.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Tim Walz said he carried weapons in war, but “he has not spent a day in a combat zone.”",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Proposed Nevada constitutional amendment to protect abortion rights would put “essentially no limit on access to abortion.”,false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Four government agencies donated nearly $900,000 of taxpayer money to Kamala Harris’ presidential campaign.",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says Joe Biden said “dozens of police were killed” during the Jan. 6 attack on the U.S. Capitol but “exactly zero people” died that day.,pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+Second lady Usha Vance “will have her citizenship revoked if (President Donald) Trump signs his executive order banning birthright citizenship.”,false,false,"['false', 'pants-fire']",2,True
+"A proposed constitutional amendment ""will pave the way for making abortion illegal under North Carolina’s constitution.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+“Boom! Georgia 1st to decertify election.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Nothing in the Constitution explicitly guarantees our right to vote.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""Historically, our spring elections (including for state Supreme Court) have a smaller turnout associated with them.""",true,mostly-true,"['true', 'mostly-true']",2,True
+“Miami-Dade reporting 23% of early ballots being rejected for missing signatures.”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says U.S. Sen. Ron Johnson, his prospective opponent, has received $1.2 million from the gun lobby.",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+"""Arizona officials caught changing ballots, have been arrested.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In 2008, ""33.2 percent of those who voted early on the last Sunday before Election Day were African-American, while 23.6 percent were Hispanic.""",true,mostly-true,"['true', 'mostly-true']",2,True
+“The Post Office advises never send cash in the mail. It’s not secure. Vote by mail?”,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"President Trump was ""kicked off"" the California ballot",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""With a stroke of a pen, the (U.S. Supreme Court) decided to overrule the 100-year-old ban on corporate expenditures.""",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+"""Many just call him 'Lyin' Ted.' ... His TV ad about John Kasich? Lie! Stations had to pull it off the air.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Fifty seats have already changed hands from the Republicans to the Democrats since Donald Trump was elected.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“In 2016, Democrats suggested that the election was stolen.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Department of Homeland Security’s database of legal immigrants has ""never"" been ""bounced against a state’s voter rolls.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Pens provided by Maricopa County are part of a plot to rig the Arizona primary.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Most Texans aren't millionaires.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""The use of ballot drop boxes and ballot harvesting is illegal.”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says U.S. Rep. Steve Southerland ""voted himself health care for life.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Arizona trooper found 50,000 ballots in dumpster all for President Trump!!”",false,false,"['false', 'pants-fire']",2,True
+"""Kansas has not elected somebody other than a Republican (to the U.S. Senate) since before 'The Wizard of Oz' hit the movie theaters.""",true,true,"['true', 'mostly-true']",2,True
+"Says the Democratic Party created a debate schedule ""to maximize the opportunity for voters to see our candidates.""",false,true,"['true', 'mostly-true']",2,False
+“Hoadley called women ‘breeders.’... wanted to learn about crystal meth and wrote that his sexual partners were his victims. Hoadley even wrote about a four year-old wearing a thong.”,mostly-false,true,"['true', 'mostly-true']",2,False
+"Pinellas County voters ""elected me as their chief financial officer … (and) elected me as (their) governor four years ago.""",true,true,"['true', 'mostly-true', 'false']",3,True
+"A precinct in the Allen West-Patrick Murphy recount has ""7 registered voters in Guatemalan community and the tally showed 900 voted!!!!!""",false,pants-fire,"['false', 'pants-fire']",2,True
+“The mainstream media pretended there was a deadly surge in COVID cases thanks to Wisconsinites voting.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Joe Biden proposed “killing over 600,000 jobs supported by fracking.”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""About 70 percent of Republicans nationwide ... don't think Donald Trump is the right guy"" to take on Hillary Clinton in November.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Koch brothers alone gave twice as much money to Scott Walker as the total amount of money raised by Tom Barrett.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 2000, only 10 cases of in-person voter fraud have been proven nationally.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Jennifer Carroll's an ""outsider.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The Biden-Harris administration “brought over” 10 million migrants who got 9 million jobs.,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Human error, such as skipping a community in the Wisconsin Supreme Court race, ""is common in (the vote-tabulation) process.",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+Pallets of bricks were left all over the streets of Chicago before the Democratic National Convention.,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""The Electoral College is much more advantageous for Democrats.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I unsealed my records"" at Marquette University.",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Ella Emhoff, Kamala’s step-daughter, suffered a mental breakdown … due to the grief from Kamala’s humiliating loss, and was admitted to an in-patient mental health crisis center in NY.”",false,false,['false'],1,True
+"""Law firm @POTUS used to show he has no ties to Russia was named Russia Law Firm of the Year for their extensive ties to Russia. Unreal.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Delayed election results are proof of fraud.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+A Social Security Administration database shows “how many people each of the 43 states are registering to vote who DO NOT HAVE IDs.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Not one court has looked at the evidence and said that Biden legally won” the presidential election.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"GOP-backed ""racist disenfrachisement"" led to only five polling places being open in Milwaukee for April 7 election.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Sunday was never used before as a voting day in Georgia.”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says in the 2016 presidential election, ""I won that one by 42 points -- 42 points -- West Virginia.""",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"A bill passed by GOP legislators ""makes it harder to prosecute people and groups that violate campaign finance laws.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Russian state has never interfered ... into internal American affairs including election process.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Virginia’s educational level among whites is higher than Georgia’s.,true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+Sen. Kamala Harris “may have broken laws” when she visited a voting site in Ohio,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+The USPS backdated 100K ballots so they could be counted illegally.,false,false,"['false', 'pants-fire']",2,True
+"“40,000+ votes for Libertarian candidate Jo Jorgensen magically become votes for Joe Biden.”",false,false,"['false', 'pants-fire']",2,True
+"State Rep. Elena Parent ""supported Governor Nathan Deal’s plan to slash the HOPE scholarship.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Vice President Kamala Harris’ “60 Minutes” interview may be “a major Campaign Finance Violation.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Fifty percent of the votes to Joe Biden in Michigan’s presidential primary election were mail-in, unverified, no signature, no ID.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""55 percent of the people who cast a provisional ballot (in Florida) in the last presidential election -- their vote did not count.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""During three and a half years of campaigning,"" Lamar Smith ""has never once appeared at a moderated debate to defend his positions on the issues.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Fact: Hillary Clinton received 80% of the vote in Pittsburgh.""",mostly-true,false,"['false', 'pants-fire']",2,False
+California voters who go to the polls to vote in person will be “TURNED AWAY & CANNOT VOTE” unless they change their voting preference to “NO to mail in voting.”,pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Jim Renacci ran against the Washington establishment in the election, but is now ""hypocritically embracing it with big money, special interest fundraisers.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"North Carolina is one of ""very few states"" that give the governor sole discretion to pick judges.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I won the South Carolina primary in 2004, and I was way behind in the polls at this stage in 2004.""",half-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"In South Philadelphia, people are “getting paid $700 a week to go to wherever Kamala’s campaign tells them to go to.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A judge has ordered a ""HAND RECOUNT by an INDEPENDENT COMMISSION in the state of Michigan, following hard evidence of voting fraud by Detroit City Election Commission.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Durham’s documents show that Hillary Clinton hired people who hacked into Trump’s home and office computers” and “planted evidence, fabricated evidence connecting Trump to Russia.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says it shows a “DNC Group” teaching “ILLEGAL VOTING in Arizona.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+November election data shows a “stunning anomaly in the rejection rate of absentee ballots.”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Republican Senate candidate Sam Brown “wants to cut Medicaid and Social Security.”,half-true,mostly-false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"“The revelation of massive & widespread fraud & deception” in the 2020 election “allows for the termination of all rules, regulations, and articles, even those found in the Constitution.”",pants-fire,false,"['false', 'pants-fire']",2,True
+"Democrat ""Russ Feingold announced his Wisconsin Senate run today from…California.""",pants-fire,false,"['false', 'pants-fire']",2,True
+“There were no guns whatsoever” at the Capitol riot on Jan. 6.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Pelosi sinks to new low, tells Dems: if you have to lie to voters to win, do it.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The fact is voter fraud is rampant.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“Trump's convictions have all been overturned and he is getting his $500,000,000.00 back!”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""[Hillary Clinton]'s not trusted -- virtually at all.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Ron Johnson ""is benefiting from several super PACs, I am not.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Scott Walker raises nearly 70 percent of his money from out of state""",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+“President Joe Biden admits to faking the election.”,false,false,"['false', 'pants-fire']",2,True
+"""Candidates for governor routinely disclose"" their spouses’ tax returns.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says that politicians who approved collective bargaining restrictions for public employees ""exploited a loophole exempting themselves from Senate Bill 5.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Florida, ""the number of voters who now register as ‘other’ has grown by a million in the last 10 years. Compare that with the Democrats, who only grew by 300,000 and the Republicans who grew by just 200,000.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Virginia voters are being turned away from polling locations because they were told they already requested absentee ballots when they haven’t.,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“Gasoline prices are now $5, $6, $7 and even $8 a gallon.”",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Bruce Rauner is of record that he will fully support the Trump candidacy. It's documented. It’s available.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Pennsylvania rejected 372,000 mail-in ballots",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+If Donald Trump “didn’t win Michigan why does the actual government site say he did?”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says in his three election campaigns, the early polls were ""wildly incorrect, all three times.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""A witness will testify against Hillary Clinton.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Ruben Gallego wants to “cut your Social Security.”,false,false,"['mostly-false', 'false']",2,True
+"In early voting in Miami-Dade County, ""there is a trickle of two or three people a day at a very high cost to keep those public libraries and polls open.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Sen. JD Vance admitted he has a ‘rent-a-dog’ from the Trump campaign to make him “seem like a dog person.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says an election clerk in Green Bay refused to allow early voting on the UW-Green Bay campus because she ""was afraid it would help Democrats,"" showing ""outrageous partisan bias.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In many places, like California, the same person votes many times. You probably heard about that. They always like to say 'oh that's a conspiracy theory.' Not a conspiracy theory, folks. Millions and millions of people.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Of Gaza, “I’ve been there.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“The Republicans and Trump funded $400 million in March of 2020 for mail ballots.”,half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“The Montana Secretary of State left Kamala Harris off the ballot.”,half-true,false,"['mostly-false', 'false']",2,False
+"North Carolina's Democratic primary is open to ""all registered voters, regardless of registration.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Jacky Rosen “said ending taxes on tips would ‘hurt working Nevada families.’”,false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+The Lincoln Project is “using A.I. (Artificial Intelligence)” in its “television commercials.”,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“In Nevada, they want to have a thing where you don’t have to have any verification of the signature” on ballots.",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The Southern strategy is a ""myth"" that ""never happened.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“MAGA Republicans like Kari Lake support Project 2025, which would raise the retirement age for 73% of Arizonans.”",mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""President Trump is still supported by almost 85 percent of the Republican Party in the state of Ohio, and that's from recent polling, and still has a 58 percent approval rating in Ohio.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“They’re still counting the (2024 election) vote in some areas.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"When McCain was questioned about hiring lobbyists to his campaign staff, ""his top lobbyist actually had the nerve to say, 'The American people won't care about this.' """,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The president of the United States came in the Tuesday before the election in a ward that went 99% for him in the last election and they couldn't even (increase) the vote there.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Mass voter fraud just discovered, to the amount that could void Hillary’s victory In New Hampshire.""",false,false,"['false', 'pants-fire']",2,True
+"""Wisconsin is one of several states where you can change your early ballot if you think you've made a mistake.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+A 1993 example of voter fraud in Philadelphia is “exactly what happened to us” in the 2020 election.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""You could lose your rights for life over something as simple as driving with a suspended license"" in Florida.",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Montana Democrats are ""suing to say, ‘You should be allowed to be registered to vote in two states.'”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Texas ""had the highest level of turnout than ever before in the primary.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Ukraine blatantly interfered in our election.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Attention hunters: Voting in North Dakota could cost you your out-of-state hunting licenses.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Beto O’Rourke perpetuated stereotypes, ""casting aspersions on working women whose ‘only qualifications seemed to be large breasts and tight buttocks’.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Nearly 200,000 Florida voters may not be citizens.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+People in Germany saw this electoral map that shows Trump beating Biden with 410 electoral votes before Dominion’s servers were seized.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Underreported fact: President @realDonaldTrump raised more in small dollar donations than Obama in 2012 and than Clinton and Bernie combined!""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""None of the polls being conducted right now have us on the top line. None of them. It's always Trump and Clinton and then second question, third question. ... If we were included in the top line, as Johnson/Trump/Clinton, we'd be at 20 percent.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Says ""Stacey Abrams wants to give illegal aliens the right to vote.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Joe Biden just confirmed that he is running for president in 2020 and it has America applauding!""",false,false,"['false', 'pants-fire']",2,True
+“Fairfax County is not requiring the last four digits of Social Security Numbers on absentee ballots in this election.”,mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The United States has a low voter turnout rate.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Third party votes only siphon from (Democrats).”",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Biden’s strategy is to “get as many illegals in the country as possible” and “legalize them to create a permanent majority.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In rural Virginia, ""Sen. Warner ran 8-10 points ahead of a traditional Democrat -- ahead of Senator Kaine, ahead of Governor McAuliffe.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Ballots are “mailed unconstitutionally” to every voter in Colorado.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+An Illinois couple who received five vote-by-mail applications can vote five times.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Paul Ryan’s already spent millions to try and permanently derail Brad (Schneider)’s progressive, energized campaign.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Report: 3 million votes in presidential election cast by illegal aliens.""",false,pants-fire,"['false', 'pants-fire']",2,True
+“Biden’s DOJ was authorized to use DEADLY FORCE” in Mar-a-Lago raid. Biden was “locked and loaded” and “ready to take me out.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In Aberdeen, Miss., “Massive 78% of mail-in ballots proved fraudulent, judge orders election do-over.”",mostly-true,false,"['false', 'pants-fire']",2,False
+"Says Houston’s 18th  congressional district has been ""gentrified"" and is home to ""more Anglos  than African Americans.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Democrats want open borders so they can bring in and amnesty tens of millions of illegal aliens — that’s their electoral strategy.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says that Secretary of State Jon Husted and former secretary Jennifer Brunner both have supported a provision in Senate Bill 47 that would limit the days organizers have to collect signatures for initiative and referendum petitions.,half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There are hit squads being trained all over this country” to violently oppose a second term for President Donald Trump.",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Glitches with voting in Arizona, New Jersey and Texas are proof the election is rigged.",false,false,"['mostly-false', 'false']",2,True
+"In Massachusetts, ""anybody can go vote for anybody so long as they have their information. … They're not even checking IDs at the polling stations.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Of Bernie Moreno, “Now, he’s arguing for a national abortion ban, no exceptions.”",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says Donald ""Trump got, you know, $1.8 billion worth of free media. I got, like, none.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“39% of Americans … 31% of independents ... 17% of Democrats believe the election was rigged.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Snitker has been virtually ignored by the major media.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+The Republican Party has not won a presidential election without either a Bush or a Nixon on the ticket since 1928.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says attorney general candidate Jon Richards ""went so far to say he would only enforce the laws with which he personally agreed.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""[State Rep. Doug McKillip’s] donors deserve a refund.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have a tax code that allows groups to use their political operations within the tax code, under the guise of a charity, to use undisclosed millions of dollars to do political campaigns.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"“Washington, D.C., allows noncitizens to vote in (municipal elections)"" so a Russian citizen, after living in Washington for 30 days can ""vote for mayor in Washington, D.C. And they don’t even need to show their ID to do it.”",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Michigan just refused to certify the election results!”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says he got ""support all over Raleigh""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Rep. Alexandria Ocasio-Cortez “faces 5 Years in Jail For FEC Crimes.""",false,false,"['false', 'pants-fire']",2,True
+"""Kay Bailey Hutchison was elected state treasurer,  succeeding Ann Richards. Democrats then abolished the position ...  Hutchison later became a U.S. senator.""",false,true,"['true', 'mostly-true']",2,False
+"""The 2008 election was the first election in which voters of color comprised over 25 percent of the electorate, and that number is going up.""",true,true,"['true', 'mostly-true']",2,True
+20 million Democratic votes “disappeared” in 2024.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Bill White is refusing to debate.,pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Legally, it doesn't make any difference"" which state district you live in when running for Congress.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says U.S. Sen. Ron Johnson, R-Wisconsin, was elected in a ""very low turnout"" race.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Voter FRAUD exposed in Georgia. Over 2600 votes 'FOUND.'""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Chuck Schumer said ""it’s racist to only allow citizens to vote.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Tony Thurmond was ""sued by the ACLU"" for leaving students in unsafe conditions.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Voter turnout for some groups in the 2008 presidential general election in Georgia ""was far greater than it should have been demographically.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Seventy-four percent of Rhode Islanders support [a] national popular vote [for president] because they, as I, believe in one person-one vote.""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+Another great endorsement! Barrow Journal explains the difference between me and Jody Hice.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""(John McCain) was even mentioned as a running mate with John Kerry.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Voting in California is “rigged.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The Republican Party ""fought very hard in the '60s to get the civil rights bill passed, as well as the voting rights bill.""",true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"New and proposed state laws on voting mean “if you are going to be standing in that line for all those hours, you can’t have any water or any food.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Dead people also voted.”,pants-fire,false,"['false', 'pants-fire']",2,True
+"Because of voter fraud, Republican candidates ""need to do a point or two better"" to win statewide elections in Wisconsin.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I have voted every year in Wisconsin.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Christopher Little has ""a history of working against environmental protection by defending the worst types of corporate polluters""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Poll watchers in Philadelphia “were thrown out.”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In the 2018 Florida governor's race ""votes were being stolen by the corrupt election process in Broward. … I sent in the FBI and the U.S. Attorneys, and the ballot theft immediately ended. … I stopped his Election from being stolen.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Michigan congressional candidate Elissa Slotkin ""just parachuted into the district to run for Congress"" and ""admitted that she doesn’t know our area.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Look at the men on this stage. Collectively, they have lost 10 elections. The only people on this stage who have won every single election that they’ve been in are the women, Amy and me.""",true,true,"['true', 'mostly-true']",2,True
+"""I’m the first Democrat to ever lead Scott Walker in an election year.""",false,true,"['true', 'mostly-true']",2,False
+"""In Springfield (Ohio), they're eating the dogs, the people that came in, they're eating the cats. They're eating, they're eating the pets of the people that live there.”",pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Ohio Gov. John Kasich is ""very unpopular.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says he was the first local official to endorse Barack Obama,mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Bags arriving at the Maricopa County vote counting site are evidence of “Democrats with the help of the media and GOP establishment stealing another election.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Wisconsin is one of the few states in the country that do not currently require a photographic identification"" to vote.",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the NC elections board “did not change state law.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"""70 percent of Americans believe that we are on the wrong path.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Opposition to having a fully elected Chicago Board of Education is in the “super minority.”,true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+“New York Mail-In voting is in a disastrous state of condition. Votes from many weeks ago are missing - a total mess. They have no idea what is going on. Rigged Election.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Because the Federal Reserve recently cut interest rates to near 0%, “the Fed will be of little consequence now. They’ve already used what leverage they have.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Supreme Court rival Michael Screnock ""is running with the Koch brothers support.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“22 states will not be certifying the (2024) election.”,false,false,"['false', 'pants-fire']",2,True
+"""For the hour after the (Jan. 14) debate, 'Debra Medina' was the No. 1 search on Google and for the remainder of that night No. 3.""",false,true,"['true', 'mostly-true']",2,False
+"""‘Dark money’ spending"" in the 2016 election cycle ""is 10 times what it was at the same point in the 2012 election cycle,"" when it topped $308 million.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 2015, Scott Walker has not done a public event where you don't have to pay admission or be on an approved list.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that when he first ran for office in the late 1980s, ""there were still folks who didn't have phone service. Soon I'd helped ensure that everyone in North Florida could access a dial tone.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Over 20 percent of the electorate is Hispanic"" in Florida.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Michael Untermeyer has been a Democrat for more than 40 years.""",half-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Of the approximately 6 million disenfranchised felons in the United States, ""one-quarter are Floridians.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Rick Santorum ""voted to let convicted felons vote.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says conservative mega-donor Richard Uihlein is a Wisconsin resident.,false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The RI Board of Elections has heard official testimony from Providence residents who claim to have witnessed known illegal aliens voting in local elections.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Thanks to restrictive and anticompetitive ballot laws,"" candidates in November 2014 ran unopposed in nearly half of Wisconsin’s state representative races but in Michigan and Minnesota nearly all races had challengers.",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Barack Obama said he would debate 'anywhere, anytime' but has rejected joint town hall meetings.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The big Wall Street banks, the big corporations"" give ""many times more"" political donations to Democrats than Republicans.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"“If you vote no on Prop 50 to stop the redistricting, it shows through the envelope,” making it easy for Democrats to cheat.",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says Ohio Rep. Marcy Kaptur ""actually lives"" in ""a fancy condo in the Washington, D.C.  suburbs.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Only 20 percent of Americans admit to being Republicans anymore.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Actually, I won Wisconsin.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Our welfare system now consumes 42 percent of our budget.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Sen. Obama's campaign announced that he's choosing his  cabinet.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“If you just count all the deaths in the red states, we are number two in the world in deaths, just behind Brazil.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""If Buehler were elected, our vote-by-mail system would be at risk.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+Residents the Wisconsin Election Commission suspected of moving are “illegal voters.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Hillary Clinton ""starts off with 47 percent of the country against her.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Georgia ranks 49th for women serving in elected state and federal offices.,true,true,"['true', 'mostly-true']",2,True
+Says the American Civil Liberties Union opposes H.R. 1 on grounds that “it threatens our freedom of speech.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Massachusetts, Scott Brown's Republican affiliation is ""not a secret, but clearly not on display.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+Nikki Haley is ineligible to be president or vice president.,pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Robert F. Kennedy Jr. called voter ID “racist,” calls NRA a “terrorist organization” and supports affirmative action.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Steve Poizner ""increased his department's budget nearly 14 percent.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says the April 22 jump in COVID-19 cases was related to the election.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Last night I was leading, often solidly, in many key States, in almost all instances Democrat run & controlled. Then, one by one, they started to magically disappear as surprise ballot dumps were counted.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Arizona House bill to “decertify” 2020 results “could effectively recall the Biden electors.”,pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""This is the first time in Texas history -- and only the fourth time in United States history -- that two women are running for the top spots.""",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+“CCTV captures the moment a Trump voter in (Wisconsin) is assaulted by two Kamala Harris thugs at a voting station.”,pants-fire,false,"['false', 'pants-fire']",2,True
+"The Koch Brothers are ""spending more money than either the Democratic or Republican parties"" in the 2016 elections.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a Republican-drawn map of proposed U.S. House districts for Texas ""gerrymanders more than nine million Latinos in Texas to make sure that we have no more electoral opportunity than we did in 1991.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Vice President Kamala Harris commented on President Joe Biden’s “mental fitness,” saying, “he’s not stable” and “we should all be concerned.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says James Clapper ""and virtually everyone else"" said ""there is no collusion"" in the Russia investigation findings.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""IDC members also get tons of campaign money from real estate, charter school, and health care lobbyists, some of whom are Republicans with connections to Trump""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says Madison Mayor Paul Soglin's stated intent when proposing that city contractors disclose private political donations was to ""discourage contributions to organizations with which he disagrees.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There are less than two weeks until the deadline to register to vote in Wisconsin.""",mostly-false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"“In Project 2025, you’re going to have to register with a new federal agency when you get pregnant.”",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""We have 17 intelligence agencies, civilian and military, who have all concluded that these espionage attacks, these cyberattacks, come from the highest levels of the Kremlin, and they are designed to influence our election.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""In 2022, illegal immigrants will have MORE FREEDOMS and easier access to healthcare and ballot boxes than most Americans... Just think about that.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says “47 additional counties used the same software that caused a ‘glitch’ in Antrim County (that switched 6,000 votes from Trump to Biden in that county)” and votes in the state are “potentially fraudulent.”",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Doug Jones ""is for full-term abortion.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“Here in Nevada, the DMV registers everybody (to vote) and so that means illegals. They don’t check.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Russia’s interference in the 2016 election amounted to ""a couple of Facebook ads.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Mahlon Mitchell ""received a massive raise on the backs of hard-working firefighters and turned the union into his own personal political slush fund.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Ohio's Issue 2 will create a redistricting commission that will ""have a blank check to spend our money.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""There have been 30 published polls in this election cycle and Harry Reid's been trailing in every single one.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We win when voter turnout is high, we lose when it is low.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"“There were several states where outside actors dramatically changed the rules of the road, so to speak, two weeks out, one week out, on how elections would be run.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Black voter turnout in 2012 exceeded the rate of white voter turnout, even in the states with the strictest voter ID laws.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says he “saved Kenosha” and the “governor wouldn’t move” on sending the National Guard.,pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"""‘Simple math’ shows Biden claims 13 million more votes than there were eligible voters who voted in 2020 election.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The Chicago Cubs owner is bankrolling Brad Schimel.,mostly-true,false,"['mostly-false', 'false']",2,False
+"""I'm not a politician.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Over time there have been 160-some carve-outs to the filibuster.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""We’re the only advanced democracy in the world that makes it harder for people to vote.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""In 2020, more people voted in America than ever in the history of America, in the middle of a once-in-a-century pandemic.""",mostly-true,true,"['true', 'mostly-true']",2,True
+“Dave McCormick is fully against abortion.”,mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""California is home to the largest death row population in the Western Hemisphere.""",true,true,"['true', 'mostly-true']",2,True
+"Gavin Newsom was ""the first to take on the National Rifle Association and win.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""This midterm (election), the president did better than the average president does in his first midterms.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Over 240,000 'unverified' ballots have already been sent out in Pennsylvania, a total mess. The Democrats are playing games again.”",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Leftists” sent “Proud Boys” emails threatening Democratic voters.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+A livestream failing in Nevada is “one of the ways blue states steal elections.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Joe Biden’s net worth was $41 million in 2022.,false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Greg Abbott ""heads up a party whose platform calls for the repeal of the Voting Rights Act.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Ron DeSantis still hasn't condemned the Jan. 6 insurrection.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""H.B. 194, the Voter Suppression Bill, invalidates a vote where a voter properly marks the ballot in support of a particular candidate, but also writes in the name of that same candidate.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"New York state has ""no ID requirement"" to vote, and people could lie about their address and ""vote in multiple precincts.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"“Elective abortions up to and including the moment of birth. Healthy, 9-month-year-old baby killed at the moment of birth. That’s what Jon Tester and the Democrats have voted for.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“There are over 1 million phantom voters on the Florida voter rolls.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The last three days of early voting ""happen to be the most populated days of voting that we have in early voting.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Seniors will see $500 billion in Medicare cuts to fund Obamacare.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+H.R. 1 would “prevent removal of ineligible voters from registration rolls.”,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There’s no correlation between primary turnout and wins in the fall in the last 11 elections.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"As a sitting Supreme Court justice, Daniel Kelly recused himself from a case, then “he pocketed $20,000 in contributions” from the plaintiff and family members and “unrecused himself so he could judge the case.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Donald Trump warned outgoing Ghana President against last-minute job appointments.,pants-fire,false,"['false', 'pants-fire']",2,True
+"Officials in Fairfax, Va., gave 100,000 Trump votes to Biden.",mostly-false,false,"['false', 'pants-fire']",2,False
+"""About half of the presidents have been governors; half of them, senators.""",false,true,"['true', 'mostly-true', 'half-true']",3,False
+Arizona “could decertify” the 2020 presidential election,pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"On Nov. 7, 2023, Pennsylvania voting machines were “flipping votes,” which is evidence of “election fraud.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Arizona ballots were shredded and burned in a chicken farm fire.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""8 years of the Clintons, major losses for Democrats across the nation.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Nothing has changed in the election code (under SB 7) regarding early voting. Nothing has changed.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false']",3,False
+"""We have dozens of districts that go for 150 to 200 miles, splitting counties, splintering cities and connecting areas that have very little in common.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Right now, I’m polling at about 8 percent"" against Barack Obama and Mitt Romney.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Attorney General Eric Holder is involved in the dismissal of the criminal charges"" against the New Black Panther Party for voter intimidation",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When Josh Mandel claims to have accepted three debates with Sen. Sherrod Brown, he is lying. He has accepted ZERO proposed debates.""",pants-fire,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+Donald Trump chose a provocative song to describe Kamala Harris during a presidential debate.,pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+Kamala Harris has adopted the Nazi-rooted phrase “Strength Through Joy” as her campaign slogan.,false,false,['false'],1,True
+"Says Newt Gingrich said ""Spanish is the language of the ghetto.""",mostly-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Richard Hayne, president and CEO of Urban Outfitters … (is) a supporter of Rick Santorum and donated over $13,000 to him.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""Donald Trump was doing a rally in the state of Florida"" the day Trump's son and others met with a Russian lawyer in New York.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“In Nevada, the GOP is succeeding in throwing out the votes of thousands of young people.”",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Kamala Harris said, “Today we celebrate the Olympics. Because Olympians are Olympic.”",pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“Joe Biden is no longer the President-elect according to RealClearPolitics.”,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Nine out of the 10 poorest states are Red states.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Jennifer Carroll is the ""first African-American Republican woman to be part of a statewide ticket in Florida.""",true,true,"['true', 'mostly-true']",2,True
+“North Carolina has the longest voting period in the country … and we have the most ways of voting.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+“USPS failed to deliver 27% of mail-in ballots in South Florida”,pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"As part of his “charitable donations,” in 1990 Donald Trump “chartered a private plane to get Nelson Mandela to America when the U.S. government wouldn't help.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Nevada ballots “don’t even have to be postmarked to be counted” after the election.,false,false,"['mostly-false', 'false']",2,True
+"Scott Maddox is a ""lobbyist.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Twenty-six men named William have been elected to statewide office and only seven women have had the honor.""",mostly-true,true,"['true', 'mostly-true', 'false']",3,True
+"""Every one of the 67 supervisors of elections"" in Florida refused to carry out the effort to remove noncitizens from the voter rolls.",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The number of people who just got their voting rights restored in Florida is greater than the populations of Wyoming, Vermont, Alaska, North Dakota, South Dakota, Delaware, Rhode Island, Montana, Maine and New Hampshire.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+A person is on film “burning 80 Trump ballots.”,false,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+"“We’ve had more Americans die of fentanyl than the Iraq, Afghanistan, and Vietnam wars, combined.”",true,mostly-true,"['true', 'mostly-true', 'false']",3,True
+Says Joe Biden killed a Kelly Loeffler campaign staffer.,false,false,"['false', 'pants-fire']",2,True
+"In 1928 ""school boards sent home letters with children saying that if Al Smith is elected president, you will not be allowed to have or read a Bible.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Social media posts stated: “Remember Kamala telling Joe during the debate, ‘You will do whatever the Chinese tell you! They gave your son over a billion dollars.’”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"California’s rent control measure Proposition 10 would have ""No effect on homeowners""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Claims that Democratic candidate for governor Matt Flynn ""told one child predator to ‘wait and see,’ when he should have turned him in to authorities.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In Texas, ""the No. 1 name for new male babies — many of whom will vote one day — is Jose.""",true,true,"['true', 'mostly-true']",2,True
+"The FBI targeted a woman and searched her home because she “protested local school board, elections.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Georgia didn’t update its voter rolls prior to the 2020 presidential election; “this means we (you!) won the presidential election in Georgia.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Jan. 6 was NOT an insurrection…but Nov. 4 at 3 a.m. was!”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Holly Turner ""failed to vote in five straight Republican primaries.""",true,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""They just happened to find 50,000 ballots (in the Georgia U.S. Senate runoff elections) late last night.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Barack Obama signals That Democrats Intend to Cheat in the Virginia Governor’s Election.”,false,false,"['false', 'pants-fire']",2,True
+"Ranked-choice voting “increases voter turnout and voter engagement.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""I don't think anybody is questioning the legitimacy of the presidential election.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says “Tim Michels wants to defund public education — calling it ‘the definition of insanity’ to continue to fund public schools.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Donald Trump “deported less, believe it or not, than Barack Obama even did.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“If I mail in my ballot on Sunday and show up to the polling station on Tuesday, they won’t know if I’ve already voted or not. That, my friends, is a serious concern for all of us.”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Oklahoma, ""I won 77 out of 77 counties. Ronald Reagan is second with 56.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Winning enough pledged delegates is ""not impossible.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"Despite opposition from national Club for Growth, Club for Growth Wisconsin ""has endorsed"" him for U.S. Senate.",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""13,000 Floridians are able to vote -- but their governor won't tell them.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Over 1,000 people were denied a ballot on Election Day"" in the 2016 North Carolina primaries.",half-true,true,"['true', 'mostly-true', 'mostly-false']",3,False
+"The COVID-19 vaccine for children is proving to be “not only ineffective, it’s also proving to be dangerous.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“President Biden is the first candidate in history, the first president in history, that has used the federal agencies to censor political speech ... to censor his opponent.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Seven Milwaukee wards report more 2020 presidential votes than registered voters.”",pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+You can vote in-person absentee at your clerk’s office on Monday before Election Day.,false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+The American flag is missing from the Democratic National Convention in Chicago.,false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Nevada database glitch showing voters cast ballots when they didn’t is evidence that voting by mail is “the largest source of potential voter fraud.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Women are ""disproportionately impacted by voter ID laws — especially married women who change their names, or those whose IDs do not accurately reflect their gender.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says Paul Manafort’s alleged crimes were ""years ago, before Paul Manafort was part of the Trump campaign.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+President-elect Donald Trump posted on X that he is “purchasing TikTok.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Any Republican that has led for two months and led every state has won the GOP nomination.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Document shows “Stormy Daniels exonerated Trump herself!”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The Commission on Presidential Debates wrote a letter after the 2016 presidential debates apologizing to Donald Trump.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“There is no campaigning going on, none whatsoever.”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“Deadlines have passed in … Wisconsin” to replace President Joe Biden on the ballot.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In the Florida Republican primary, ""we got a very large percentage of the, quote, conservative vote.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"“If you count the legal votes, I easily win. If you count the illegal votes, they can try to steal the election from us.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Missouri registered 78,421 in just one week of February of this year. Out of that number, 23,253 were dead people!""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The best estimate is that 200,000 people in Wisconsin were either denied or chilled in their efforts to vote"" in the 2016 presidential election.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""Municipalities are now required to have two or more polling locations opened 24-hours a day, two weeks before any election.""",false,false,"['mostly-false', 'false']",2,True
+"""Everything I have said (on the campaign trail) has been factually accurate.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""No one in American history has moved from a June 16 announcement to a May 26 winning of a majority. Trump's achievement is remarkable.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Over 60 percent of the provisional ballots cast in [the 2012] election were disqualified because those folks were not duly registered as voters.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In Detroit, “people are showing up to vote only to be told, ‘sorry, you have already voted.’”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Social media posts claim the U.S. Postal Service “says you should give mail in ballots at least 14 days roundtrip. So, if you plan to vote by mail, election day isn’t November 3. It’s October 20th.”",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+“We have cut the flow of fentanyl by half.”,false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+“BREAKING: Police found ‘explosives’ in car near former President Donald Trump’s rally site on Long Island.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The voting bill known as H.R. 1 ""would force states to adopt universal mail-in ballots.”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"After the inauguration, Meta forced users to follow President Donald Trump and Vice President JD Vance on Facebook, Instagram and Threads.",false,false,['false'],1,True
+"In his election as governor, “We won cities that no Republican had ever won.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""Georgia has the most  restrictive ballot access laws in the country.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The U.S. military seized servers in Germany tied to Dominion Election Systems.,pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"In Glynn County, Georgia, it was 'voter fraud' when poll workers found no record of a person who already voted.",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Milwaukee's Marcus Performing Arts Center – where 'The Daily Show' had been scheduled – “was originally located in the ‘soft perimeter,’ they called it, security-wise” but “was shifted, understandably so, to the ‘hard perimeter.’”",false,true,"['true', 'mostly-true']",2,False
+"Legislators are ""ramming through a provision that’ll make investigations like #NC09 less transparent.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Atheists are prohibited from holding office in 8 states.”",half-true,false,"['mostly-false', 'false']",2,False
+"""We have a guy who is going to be speaker of the House in four years, and his name has been on the ballot one time.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Had the online change of address been in place in 2008 an estimated 130,000 voters who cast provisional ballots could have changed their address online and voted a regular ballot.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Austin Mayor Steve Adler’s transportation plans linked to Proposition 1 on the ballot remove ""27+ miles of traffic lanes around the city,"" replacing ""them with lanes dedicated to usage by bicycles"" and buses.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Florida election officials’ requests to some residents to submit proof of citizenship is a ""backdoor poll tax.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Rick Scott got a majority of the Hispanic vote in Florida.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Three thousand felons voted in Rhode Island in 2008.,true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+Says U.S. House opponent Michael Williams does not live in and has never voted in the congressional district he’s seeking to represent.,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+The Democratic National Convention was “nearly empty” during its first day.,false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says City Blue Imaging Services in Rochester, N.Y. “printed ballots there. If you search them you’ll see they’re the ones who had ballots misprint errors for the ballots sent to NYC.”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“System 'Glitch' ... In Wisconsin - Reversal of Swapped Votes Removes Lead from Joe Biden.”,pants-fire,false,"['false', 'pants-fire']",2,True
+Says Joe Biden stuck a gun in an elderly woman’s mouth at a Wisconsin rally,pants-fire,false,"['false', 'pants-fire']",2,True
+"""Ohio is not meeting its obligation to update voter registrations when voters change their address with the BMV.""",true,true,"['true', 'mostly-true']",2,True
+Tim Walz “changed the Minnesota flag so it could resemble the Somalian flag.”,false,false,['false'],1,True
+"""For the first time in over 40 years, Republicans don’t hold a single statewide office"" in Virginia.",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""You’re more likely to get struck by lightning in Texas"" than find in-person voter fraud.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Due to the arrangements that I've reached with (Mexico) President Obrador, the number of migrants coming … to our shared border unlawfully in recent months has dropped dramatically.”",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Breaking: Voters in Tarrant County, Texas are reporting that the voting machines are flipping their votes from Trump to Kamala Harris.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Victory! Republicans by 2 to 1 vote to endorse Mark Neumann on first ballot at GOP convention.""",false,true,"['true', 'mostly-true', 'false']",3,True
+"Despite what Donald Trump claims, ""there weren’t 15,000 people who turned out in Phoenix"" to see Trump speak.",true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Wisconsin is “run by Democrats right now,” so they should address election social distancing concerns.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Unemployment numbers ""are artificial numbers. These are numbers that are massaged to make the existing economy look good, to make this administration look good when, in fact, it's a total disaster.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"According to the U.S. Census Bureau, 71.2 percent of Hispanic registered voters in Texas and over 86 percent of African American registered voters participated in the 2012 elections.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Joe Biden said, “Why am I doing this? Why? What is my real aim?”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Detroit has “2,503 dead people registered” including “one voter born in 1823.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Polls show Bernie Sanders would do better than Hillary Clinton in a head-to-head battle against Donald Trump.,mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says it’s illegal to hold an absentee-only election or mail ballots to every registered voter,true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Daniel Webster said he's out. Now he says he's in.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“No state in the country verifies United States citizenship as a condition for voting in federal elections.”,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Gerald Daugherty is endorsed by the Austin American-Statesman.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The 2020 election results in Pennsylvania “show a statistically impossible pattern” and votes were manufactured for Joe Biden.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Joe Biden was called for Michigan even though Donald Trump won more votes.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""This issue of busing voters in to New Hampshire is widely known by anyone who’s worked in New Hampshire politics. It’s very real, it’s very serious.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Bennie Thompson objected to the 2004 Presidential election.”,mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+“At John Lewis funeral Obama told a room full of people that rooms full of people is too dangerous so we must mail in vote.”,false,false,"['false', 'pants-fire']",2,True
+"Counting ballots for weeks after Election Day “is totally inappropriate, and I don't believe that's by our laws.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Putin Interference Could Give Courts Legal Right to Make Hillary President.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Jason Carter has ""gotten David Axelrod to come down and be his campaign advisor.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the U.S. election system is ""rigged.""",pants-fire,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+Arizona midterm election was unlawful because the lab used to certify voting machines was not accredited.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"California gubernatorial candidate Steve Poizner, a Republican, ""gave $10,000 to Al Gore's recount"" effort in 2000.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We've won twice as many states. We've won a greater share of the popular vote.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""California sends 440,000 ballots to ineligible voters.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""75 percent of the town boards in Wisconsin have no women on them at all.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When Deborah took office, the (Sellwood Bridge) project had languished for years, with only $11 million in funds. With her leadership the remaining funding was secured that got the project moving forward.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says SJR 11 ""seeks to fix what is very quickly becoming a problem in Missouri — initiative petitions and referendums are being filed at record highs.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+“Antifa gearing up for false flag violence disguised as Trump-supporters.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"If Missouri Amendment 1 passes, the auditor's office ""could take one district, St. Louis here, and merge it with a district in southwest Missouri, a Republican district, and they don't even have to touch.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Wisconsin is ""one of the bluest"" states, but under Scott Walker its unemployment rate ""is around 3.5%.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"North Carolina Secretary of State Elaine Marshall ""has won more statewide races than probably anyone else alive.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+Wisconsin elections administrator Meagan Wolfe “allowed for the use of illegal drop boxes and ballot harvesting.”,false,false,"['mostly-false', 'false']",2,True
+"""#Broward elections department has a history of violating the law.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says gubernatorial candidate Clay Pell ""hasn't spent a dime on advertising.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"JD Vance “literally wrote the foreword for the architect of the Project 2025 agenda.""",true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“When Tim Walz was asked by his country to go to Iraq, do you know what he did? He dropped out of the Army and allowed his unit to go without him.”",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Travis County is ""surrounded by red counties.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says Texas voters are being asked to act this November on a proposed constitutional amendment affecting property taxes.,pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Julie Parrish is ""one of Sarah Palin’s mama grizzlies.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""CNN reports DemDebate had 2.3 million viewers. Trump rally had 6.7 million last night!""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Taxpayers are paying a fortune for the use of Air Force One on the campaign trail"" by President Barack Obama and Hillary Clinton.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The @nytimes sent a letter to their subscribers apologizing for their BAD coverage of me.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says that after she declared her candidacy for Congress, ""the redistricting process was manipulated to allow incumbent politicians to guarantee their re-election.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Rick Perry is ""the guy that tracked"" down Democratic legislators who fled Texas in 2003.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Hillary Clinton spent 30 days in the hospital in 2012 and appeared ""wearing glasses that are only for people who have traumatic brain injury.""",false,false,"['false', 'pants-fire']",2,True
+"""Ronald Reagan’s signature on the 1986 amnesty act"" gave Barack Obama about 15 million additional Hispanic votes in 2012.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In 20 years ""there will be enough Muslim voters in the U.S. to elect the president.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"California Gov. Gavin Newsom “just let 76,000 inmates out of jail.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Taylor Swift forced to cancel Eras Tour dates following endorsement backlash.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Brad Schimel said that he wanted to be part of Donald Trump's support network.""",mostly-true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""We continue to see these isolated incidents of people trying to vote five, six times a day.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In New York City “local elections, illegal immigrants can vote.”",false,false,"['false', 'pants-fire']",2,True
+"""Breaking: four million Democrat votes just declared fraudulent.""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"Gov. Sarah Palin ""got precisely zero support for her call for Alaska's Democratic Senator Mark Begich to resign because Ted Stevens' corruption conviction was overturned.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Gov. Rick Scott ""tried to kick 180,000 people off the voter rolls.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""This is the first time a party has picked up multiple seats during a regular election since the mid 1980s, making this the largest majority of any party in more than 25 years.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"San Francisco and Takoma Park, Md., are ""allowing illegals to vote.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+“CBS (News) is reporting cheating in the election.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Donald Trump’s letter to Joe Biden said, “You know I won.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Two years ago, the longest serving leader of the California republic, Jerry Brown, boldly declared in China that California is a separate nation.""",pants-fire,false,"['false', 'pants-fire']",2,True
+“Ballots in Arizona’s Maricopa County” from the 2020 presidential election “found shredded and in dumpster days before Senate audit to begin.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"By advocating new requirements for voters to show ID cards at the polls, Republicans ""want to literally drag us all the way back to Jim Crow laws.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Tony Thurmond was ""Reprimanded by the Obama Administration for failing to address widespread sexual harassment and assault in district schools.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""An analysis showed that Bernie Sanders would have won the Democratic nomination if it were not for the Super Delegates.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""FYI: the last statewide recount in WI was in 2016. After that recount, the vote margin changed by only 131 out of the 2.7 million votes cast.""",mostly-true,true,"['true', 'mostly-true']",2,True
+Says President Joe Biden “recently said that 48.8% of Wisconsin voters are threats to democracy.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says U.S. Rep. Ron Kind has “spent more $ in 100+ days than was spent fighting WWII,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The United States was not one of 16 countries where David Perdue said in his Pillowtex deposition that he created jobs.,mostly-false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says Republican Dan Bishop was ""down by 17"" points in NC congressional race and then won ""by a lot.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Twenty four states have voter ID or comparable restrictions; before Barack Obama was elected, it was two.",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"In 2016, after Donald Trump won the presidency, then-President Barack Obama was “trying to lead a coup” with Trump’s opponent, Hillary Clinton.",pants-fire,false,"['false', 'pants-fire']",2,True
+"In negotiating releases of Americans held abroad, “(I) gave the opposing country NOTHING — and never any cash.”",mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+“CNN is now saying that Trump will win!”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+A man who stormed the U.S. Capitol in a horned fur cap is an “Antifa thug.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Valid IDs are not required for voting.,mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"“As a lawyer working in Korea, Nate McMurray helped send American jobs to Asia”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"When Haitians go to school in Springfield, Ohio, they “take the place of our children in school” and “each one will have a private interpreter.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The Trump administration put secret watermarks on official ballots to trick cheating Democrats.,pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Democrats ""blocked the Iowa poll"" and ""blocked the Iowa caucus.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"House Democrats ""have a two-to-one advantage money-wise"" against House Republicans.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Poll watchers in Philadelphia prevented from entering polling places.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""This is not the first time (the Russians) have been involved in our elections.""",half-true,true,"['true', 'mostly-true']",2,False
+“Joe Biden confirmed his plan to abolish the entire U.S. oil industry.”,false,false,"['false', 'pants-fire']",2,True
+A Phoenix TV station aired the election results more than a week early.,half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+Says he didn't tell viewers that the Obama campaign hid news about the motives behind the attack in Benghazi because Obama was running for re-election.,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We actually made history in 2010. We came the closest in 24 years to defeating Frank Pallone.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"North Carolina “always had nonpartisan judicial races, and when the Republicans took over several years ago they changed it.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"We’ve broken ""by millions"" the all-time record for votes in a GOP presidential primary election.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 1904, the Ohio victor has won the presidency 25 out of 27 times """,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Republicans are attempting to remove Barack Obama from Georgia’s Presidential Ballot in 2012.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Social Security beneficiaries count on the post office to get their checks.”",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+U.S. Senate candidate Mike Rogers “believes he should make that decision” about whether to end pregnancies.,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Austin’s Stop Abuse for Everyone has seen in its offices ""sexual assault survivors that report being attacked by their ridesharing drivers, at a rate of one per month.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I sponsored the amendment that expanded the hours of early voting so that people who have irregular work schedules could vote.""",half-true,true,"['true', 'mostly-true', 'mostly-false']",3,False
+Travis Kelce endorsed Kamala Harris.,false,false,"['mostly-false', 'false']",2,True
+Kamala Harris is planning to use the 25th Amendment against Joe Biden and appoint Mike Pence as her vice president.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"It’s legal to ""sign a recall petition (against Gov. Scott Walker) even if you have already signed another recall petition,"" but only one signature counts",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says he won the second debate with Hillary Clinton ""in a landslide"" in ""every poll.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Donald Trump “intends to cut” Medicare.,mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+“Prices are up because these corporations are scheming to drive them up.”,mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""In an interview with the Chicago Tribune's Editorial Board, Comptroller Leslie Munger says that in order to balance a budget, the state would have to 'cut social services completely.'""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There has not been a Democratic woman in Congress from New Jersey in almost four decades.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+“They are trying to make it illegal to question the results of a bad election.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"In the New York 9th District, ""there is a large number of people who went to the polls tonight who didn't support the president to begin with and don't support Democrats -- and it's nothing more than that.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says House candidate Jon Hoadley voted to defund the police,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says unproven voter fraud claims didn’t play “any role” in the Capitol riot.,pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+A Dominion representative in Gwinnett County improperly downloaded election data to “manipulate the data.”,pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Mitch McConnell credits Republicans ""for recent economic improvements"" even though they took control of the Senate only ""days ago.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+It’s proof of “voter fraud” that it takes some states days to count 2 million votes while Florida results were available on election night.,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Mike Pence endorsed Kamala Harris.”",false,false,['false'],1,True
+"""Governor Tony Evers gave counties the green light to defund Wisconsin's police departments.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Your minor child can go to California without your knowledge or without your consent, and get hormone therapy, puberty blockers and a sex change operation.”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says ballots in Wisconsin “are being dumped in rivers” or creeks.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""There aren’t enough ballots in question to change the outcome"" of the Harris vs. McCready race in NC Congressional District 9.",mostly-false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Biden Executive Order 14019  “requires our taxpayer-funded federal agencies to violate the Hatch Act and engage in illegal vote harvesting.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says under his plan to end cash bail ""the Waukesha perpetrator wouldn’t have been released """,mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says Deputy Comptroller Aycha Sawa ""blocked an audit"" of the Milwaukee lead program for three years that ""put our children in danger"" and spurred a criminal investigation.",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Election officials are “sending 80 million ballots all over the country. Eighty million ballots, non-requested. I call them ‘unsolicited ballots.’”",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Joe Biden told West Point graduates that “he is not planning to accept the results of the 2024 election” and he wants them to “stand back and stand by” to ensure Donald J. Trump doesn’t win.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"If a ballot has a small dot in the box for Vice President Kamala Harris, “any other box filled in, will be void.”",false,false,['false'],1,True
+“Fani Willis has just confessed to collusion with J6 committee.”,false,false,"['false', 'pants-fire']",2,True
+"As attorney general, Catherine Cortez Masto “opposed tougher laws on methamphetamine dealers.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“They call” Jan. 6 “an insurrection,” but “were FBI agents used as political agitators?""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"A forensics examination of a Ware County, Ga., Dominion Voting Systems machine found votes were switched from Donald Trump to Joe Biden.",false,false,"['false', 'pants-fire']",2,True
+"California’s Proposition 63 would ""CRIMINALIZE the sharing of ammunition between friends who may be hunting or shooting together.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The Freedom to Vote Act ""automatically registers ineligible voters.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""'Wrong precinct' rules exacerbate our provisional ballot problems (and) HB 194 does nothing to solve the wrong-precinct problem.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+There are nine states “where Biden’s name can’t be removed and no one can be added. That’s over 130 electoral votes in the toilet.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“By federal law, if you sign someone up for Medicaid, you also give them the right to vote. … This is political patronage at the expense of Medicaid.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Donald Trump won Pennsylvania in the 2020 presidential election.,false,false,"['mostly-false', 'false']",2,True
+"""Last week Joe Biden flashed the ‘white power’ sign. President Trump condemned white supremacists yesterday. Why hasn't Joe Biden?”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Republican-approved changes to ""make it more difficult to participate in Ohio elections include reducing in-person early voting from 35 days to six.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Russ Feingold ""wanted to get money out of politics. Now he's profiting from that same dark money.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“America has 133 million registered voters,” but “159 million votes” were cast in the 2020 presidential election.",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""WOW county swing suburban voters (in Wisconsin) don't vote for Donald Trump.”",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“As of today, there is not one member of the United States military who is in active duty in a combat zone, in any war zone around the world, for the first time this century.”",mostly-false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Bird flu in the U.S. is a ""scamdemic"" timed to coincide with the 2024 presidential elections “by design.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"On COVID-19, Donald Trump said that “maybe if you drank bleach you may be okay.”",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“We indicted someone in Texas, 1,700 ballots collected from people who could vote, he made them out and voted for the person he wanted to.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The problem with mail ballots in Lancaster County is a sign of “voter fraud.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"In the Georgia House district that hosted a special election on June 20, ""Trump won by 20+ points.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Ted Cruz distributed the ad showing a nude Melania Trump on a rug.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""It's the first time in the nation this many members have been drawn (by a Legislature) into the same districts where it wasn't a court order.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Texas had the worst voter participation in the country"" in the November 2014 elections.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""5.7 million -- that’s how many illegal immigrants might have voted"" in 2008.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Democrats have now become the party of the [Atlanta] metro area and of blacks.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+McDonald’s “said they have no record whatsoever of Kamala Harris ever working at any of their locations.”,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The Republican tax and spending bill will let President Donald Trump “delay or cancel elections — legally.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Rebecca Dallet is a ""hypocrite"" because she ""took money from attorneys with over 100 cases before her.""",mostly-false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Michigan election bills are “designed to make it easier for people to vote.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There has never been an alderman who has defeated an incumbent mayor in the history of this great city.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The man who was in charge of the investigation of Hillary Clinton accepted essentially from Hillary Clinton $675,000 that went to his wife.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In 2012, the state ""put together a list of over 100,000 people that they thought were ineligible to vote. Came out there were less than 10.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I have tremendous support from women.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Gov. Andrew Cuomo is ""stealing money from the MTA and sending it upstate for projects that have nothing to do with transit.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Two stamps needed for mail-in ballots.”,half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says rival Jill Karofsky wants ""to disarm law abiding citizens.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Taylor Swift was photographed holding a “Trump won, Democrats cheated!” flag.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Texas Attorney General Ken Paxton was “caught on tape saying he discarded 2.5 million mail-in ballots in Texas.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Rep. Tim Ryan “wanted to decriminalize fentanyl.”,pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Says that during the Supreme Court campaign, Michael Screnock has ""vowed to uphold the platform of the NRA.""",half-true,true,"['true', 'mostly-true', 'mostly-false']",3,False
+Vice President Kamala Harris’ mother “worked the MK Ultra program” and was “involved in secret mind-control experiments.”,pants-fire,false,"['false', 'pants-fire']",2,True
+“No candidate has ever won both Florida and Ohio and lost.”,pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Sen. Bob Casey “voted to sell American oil to China.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says that several times in the last 15 years, Austin City Council candidates have won seats after trailing by more than 4,000 votes in the election prompting the runoff.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Greg Abbott ""converted over $1 million in federal grant money intended for use to prosecute online sexual predators and other cyber crimes and instead used it to harass and prosecute senior citizens who were assisting other senior citizens in applying for mail-in ballots.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Two years ago, Bob Casey promised us his vote will reduce inflation. ... Casey’s vote for reckless spending” made inflation worse.",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+Joe Biden resigned and “Trump is the new president.”,pants-fire,false,['false'],1,False
+"Tim Sheehy “would let politicians like him ban abortion, with no exceptions for rape or to save a woman’s life, and criminalize women.”",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"The audit of the 2020 presidential election in Maricopa County, Ariz., “cost the taxpayers $6 million.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+California’s registered independent voters “will not be able to vote republican come 2020.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Maricopa County intentionally reduced the polling places.”,pants-fire,false,"['mostly-true', 'mostly-false', 'false']",3,False
+Says Dominion Voting System flipped votes to Joe Biden in states where Trump is bringing legal challenges.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says state Supreme Court candidate Joe Donald twice ""supported"" incumbent Justice Rebecca Bradley.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Mandela Barnes “supported a 20% increase in the gas tax.”,half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says that in Texas, Republican nominees ""get 40 percent of the Latino vote on average.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Joe Biden took a knee during the national anthem.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""More than once, I've actually had a conversation with the protesters on substance.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"U.S. Sen. Jon Tester “voted to give taxpayer-funded health care to illegal immigrants.""",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Only a court can decide that somebody is incompetent to vote"" -- the state Election Commission ""cannot force facilities, private facilities, to allow special voting deputies"" inside.",mostly-true,true,"['true', 'mostly-true']",2,True
+"""In Florida felonies can be things like buying weed, tampering with an odometer or disturbing a lobster trap. So basically spring break.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""After filing a lawsuit in Rhode Island, we reached an agreement with state agencies that resulted in more voters being registered in the first full month after our lawsuit than in the entire previous two-year reporting period.""",true,true,"['true', 'mostly-true']",2,True
+Americans aren’t required to show IDs to vote.,mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""We know there are more Democrats in Georgia than Republicans. We know that for a fact.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Knopp says he upheld a campaign promise not to join the Public Employees Retirement System (PERS).,mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"“In a majority of states, new voters are able to obtain a rifle quicker than they’re able to cast their first ballot.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The last time Republican U.S. Senate candidates ""beat more than two (incumbents) was 1980.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""President Obama came to Ohio 12 times to try to defeat me and guess what? He didn't win.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Say Bernie Sanders ""won Nevada after all.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Nevada Democratic Party leaders ""hijacked the process on the floor"" of the state convention ""ignoring the regular procedure and ramming through what they wanted to do.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+Says shredded ballots were found in Dell boxes in Georgia,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Jeb Bush and Marco Rubio ""had it set so that the winner takes everything, because they wanted to make sure that I didn't get anything"" in the Florida primary.",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Wisconsin GOP U.S. Senate candidate Eric Hovde ""brags about being in the 1%.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Wisconsin has historically … and I think largely continues to be, a blue state.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+“Tim Sheehy told us his health care plan: ‘We need to return health care to pure privatization.’ That would eliminate Medicare.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says former President Donald Trump did not lose the 2020 election.,pants-fire,false,"['mostly-false', 'false']",2,False
+Only Democratic cities take “‘days’ to count their votes” while “the rest of the country manages to get it done on election night.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The latest with the Durham report is that the Clinton campaign … actually spied on the president of the United States.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In this judicial race, special  interest groups have demanded  money from me, in exchange for  endorsement and support.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Ted Cruz is mathematically out of winning the race.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Democrats have also used alternate slates of electors ""repeatedly in all kinds of different states.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""China was behind the interference and the effort to overthrow our government and the election, election fraud.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Taylor Swift was photographed holding a “Trump won, Democrats cheated!” flag at the Grammy Awards.",pants-fire,false,['false'],1,False
+A fake Nancy Pelosi said she won’t seek the speaker position again because the real Pelosi was arrested in 2021.,pants-fire,false,"['false', 'pants-fire']",2,True
+"Says 93,000 blacks didn’t vote in Milwaukee (in 2016)",mostly-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We are within the margin of error.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Taylor Swift unexpectedly lost a $125 million brand contract after a massive advertising campaign” endorsing Vice President Kamala Harris.",false,false,"['mostly-false', 'false']",2,True
+"""Taxpayer-funded benefits to illegals"" in California are ""a skyrocketing cost under Obamacare.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“Wisconsin 2020 election investigation finds more illegal votes were cast than Biden's margin of victory.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“The president got the highest percentage of minority votes of any Republican candidate for president in over 100 years.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I was the first elected Republican in Williamson County history.""",half-true,true,"['true', 'mostly-true']",2,False
+"It doesn't make sense ""historically"" to drop out because the 1968 race was still competitive when ""Bobby Kennedy was assassinated in June in California.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Here in California, Donald Trump has given $12,000 to Jerry Brown, Gavin Newsom and Kamala Harris.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Governor (Perry), you were a Democrat, having worked for Al Gore as his campaign manager...""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Evidence growing that fascist ANTIFA orchestrated Capitol attack with clever mob control tactics.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The majority support (raising) the minimum wage.""",true,mostly-true,"['true', 'mostly-true']",2,True
+“Stunning report: nearly 15 million mail-in ballots were not counted in the 2020 election.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Amendment 4 will reduce Florida’s economic output by $34 billion annually.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Illegal immigrants now have the right to vote in New York.""",false,false,['false'],1,True
+"The GOP-controlled Legislature has ""refused to act on at least 150"" appointees of Gov. Tony Evers.",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""Wisconsin uses voting machines that are outlawed, they are illegal.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""At the Democratic convention, the Pledge of Allegiance was read with the words 'under God' removed.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+No one showed up for this Joe Biden and Kamala Harris joint campaign event in Arizona.,mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Sherrod Brown and his special interest allies in Washington are plotting to spend over $13 million"" to defeat Josh Mandel.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Vans filled with 50,000 ballots show up in Philadelphia during live MSNBC report.",false,false,"['false', 'pants-fire']",2,True
+Kamala Harris wants people to stop saying “Merry Christmas.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says the ""last non-partisan commission to improve the voting experience in America concluded that #VoterID was necessary.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Scott Walker ""had a 2.3 GPA when he was asked to leave Marquette University for cheating.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“Two mail in ballots in PA (were) sent to the same person with their names on both a week and a half apart.”,half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Under federal law, former President Donald Trump’s “felony convictions mean he can no longer possess guns.”",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"After President Donald Trump took office, the U.S. government approved a 2025 $1,000 stimulus program for all Americans.",false,false,"['false', 'pants-fire']",2,True
+“Voter fraud investigations are being banned by Michigan lawmakers!”,false,false,"['mostly-false', 'false']",2,True
+"""Iowa, for good reason, for constitutional reasons, for reasons related to the Lord, should be the first caucus and primary.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"“In Arizona, we have flood the zone with fake ballots.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""Jacky Rosen has refused to tell us whether she supports Bernie Sanders or Hillary Clinton.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Gov. Scott Walker has dropped Wisconsin ""to 45th in the nation in job growth prospects while campaigning for president out of state.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"CBS News and “60 Minutes” “replaced” former Vice President Kamala Harris’ interview answers “with completely different, and far better, answers, taken from another part of the interview.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Regarding Trump’s January 2021 telephone call with Georgia election officials, “nobody found anything wrong with that perfect call until a book promotion tour many months later.”",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Kamala Harris’ campaign paid Oprah $1 million, Megan Thee Stallion $5 million, and Eminem $1.8 million.",mostly-false,false,['false'],1,False
+"After being shot at a Milwaukee rally in 1912, former President Teddy Roosevelt “finished his speech and he kept fighting.”",mostly-true,false,"['mostly-true', 'false', 'pants-fire']",3,True
+Kari Lake’s lawsuit “exposes Arizona used no signature verification.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Dean Heller ""has voted for a GOP bill that funded efforts to revive Yucca Mountain.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"""Across the state the rejection rate for ballots went way down” in the Nov. 3 election.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""You've got a medical report on me that meets the same standard as Mitt Romney and Barack Obama.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I am the only candidate that has endorsed Bernie Sanders for President. In PA, I've got Bernie's back.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We won (Wisconsin in 2016) not so late in the evening — a little bit early in the evening, actually, which is even better.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Noncitizens in Washington, D.C., “can vote in federal elections.”",false,false,"['mostly-false', 'false']",2,True
+“Joe Biden announced to the world tonight that they are going to cheat by dumping ballots.”,pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Charlie Crist wants felons who ""commit a heinous crime"" such as ""intentional permanent disfigurement of a child, you walk out of jail, you immediately get to vote.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Voter ID ""is supported, if you look at any poll, by 70 to 80% of the public.""",true,mostly-true,"['mostly-true', 'mostly-false', 'false']",3,False
+The “‘Inflation Reduction Act’ increased inflation and drove prices sky high!”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Having an entirely Democrat congressional delegation in 2009, when the [federal stimulus] bill passed, increases the per capita stimulus dollars that the state receives per person by $460.""",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"“In one of the states that determined the outcome” of the 2016 presidential race, “the winning margin averaged out to just two votes per precinct, two votes.”",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+Elon Musk’s Starlink technology manipulated votes in the 2024 election to benefit Donald Trump.,pants-fire,false,"['false', 'pants-fire']",2,True
+"Georgia Secretary of State Brad Raffensperger used ""$50 million of Zuckerberg money"" in 2020 to ""tip the scales.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""@BernieSanders receives strong support from the conservative & most rural part of Vermont.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"There was ""serious voter fraud"" in California.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Anything that you lose on the tariff from the perspective of the consumer, you gain in higher wages, so you're ultimately much better off.”",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Hillary Clinton's ""campaign hasn't been clear about when she wiped her server of her work emails.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Wisconsin elections administrator Meagan Wolfe “refuses to clean up our voter rolls”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""Eric Holder and his group came in and made"" the Wisconsin Supreme Court race ""highly partisan.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Nevada AG admits to changing signature verifications manually for over 200,000 votes.”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+A quorum-breaking Texas Democrat said in 2007 that mail-in ballot fraud “is the greatest source of voter fraud in this state.”,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Polling center tells some Republicans they ‘already voted’"" in the California recall election.",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+Sam Brown “said abortion should be banned without any exceptions for rape or incest.”,half-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+“Wisconsin is almost equally divided on partisan lines” and therefore new Legislative maps could be drawn to “represent that 50-50 split.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says over 1,000 mail in ballots were found in a dumpster in California.",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says he ""fought Obama twice and won to stop illegal immigrants from voting.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“Beyonce got paid $10 MILLION for her speech” at a Kamala Harris rally.,false,false,"['mostly-false', 'false']",2,True
+"""Wisconsin election officials to accept Mickey Mouse, Hitler signatures"" on recall petitions.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Clackamas County Measure 3-401 ""will hurt our county, cripple economic growth, and increase our taxes with excessive special elections.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Eric Holder is supportive of the NAACP's efforts to get the United Nations involved in our elections.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Georgia has elected more African-American leaders than any other state in the country.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says someone tried to suppress votes by disguising trash cans as ballot boxes.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Early voting remains at 96 hours.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+China is allowed to do crypto mining in the U.S.,mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says there were over 600 reports of Texas votes for Donald Trump in the state’s 2016 Republican primary virtually all getting tallied for Marco Rubio.,pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Bloomberg spent $500 million on ads. The U.S. population is 327 million. He could have given each American $1 million and still have money left over.”,pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Democrats have forced a special election""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says “Joe Biden is absolutely on board with defunding the police.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Footage shows Dallas pollbooks fraudulently “adding hundreds of voters in real time as the poll was being closed.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Every former North Carolina governor opposes ""constitutional amendments Raleigh lawmakers put on the ballot this fall.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Thousands of military ballots were found in the trash in Wisconsin.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Hillary Clinton ""shows up in Broward County"" and had a private meeting with elections supervisor Brenda Snipes.",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Eight out of the nine states with competitive Senate races, Hispanics make up less than 10 percent of the electorate.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"“All the billionaires in America, their net worth combined … has increased by $800 billion” during the pandemic.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""It’s going to be harder to vote in Virginia than it is now to buy a gun...""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says his opponent for NC Insurance Commissioner is a ""perennial candidate"" over 30 years.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We had a three-hour debate, no discussion about the national debt, very little about the economy.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"A printer error in Nassau County, New York, turned every registered voter Democratic.",mostly-false,false,"['false', 'pants-fire']",2,False
+"Says Joe Biden received a sudden influx of 138,339 votes in Michigan while Donald Trump received none.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“PHIL MURPHY ONLY ALLOWING IN PERSON VOTING ON Election Day AT PRUDENTIAL CENTER IN NEWARK NJ - Calling it a #SuperPollingStation”,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Fired Milwaukee election leader “printed 64,000 ballots in a back room at City Hall in Milwaukee and had random employees fill them out,” giving Joe Biden the lead.",false,false,"['mostly-false', 'false']",2,True
+"""Chris Christie has led New Jersey to a record-breaking 9 credit downgrades.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Senator Obama has, in fact, never had a serious Republican challenger.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Sen. Mitch McConnell's delay in seating Alabama Sen.-elect Doug Jones ""is a flagrant violation of Senate policy, which requires Jones assume office the instant one of them wins the election.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Texas Governor Rick Perry’s voter ID law is a blatant effort to defeat Wendy Davis by disenfranchising tens of thousands of women voters.""",pants-fire,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"“At least 450,000 ballots in the key states ... miraculously only have a mark for Joe Biden on them, and no other candidate.""",false,pants-fire,"['false', 'pants-fire']",2,True
+"Says Beto O'Rourke's ""father-in-law, a billionaire real estate developer who bankrolled a Super PAC to buy Beto a congressional seat…""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Well, I got 52% (of women voters). And I will tell you — in my opinion I might have won women. ... Hey, Hillary Clinton focused on women, and I did phenomenally well.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says the NC elections board received ""no calls"" after alerting Bladen County voters to possible absentee ballot fraud.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Every single Senate Democrat voted against hiring more border agents. They voted against deporting felons. And they voted against ending catch and release.”,mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says in 2002, he ""won more Hispanic votes than Anglo votes, 60 percent in the state.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“6 states will cast their (electoral) votes for Trump AND for Biden,” which will lead to a second Trump term.",false,false,"['false', 'pants-fire']",2,True
+"""There’s a hacking conference that’s held every year in Las Vegas, where I think a 14- or 15-year old-girl from Florida hacked into a replica of Florida’s election system in less than 15 minutes.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“When asked about court-packing, Biden's staff immediately escorts the camera out.”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says President Barack Obama carried Congressional District 13 ""by 8.2 points in 2008 and 5.6 points in 2012.""",false,true,"['true', 'mostly-true']",2,False
+Says he was endorsed by the Valley News newspaper.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says delegates can't ""legally"" change the Republican National Convention rules to prevent Donald Trump’s nomination.",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“The KKK officially endorses Trump 2020.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The NSA and FBI tell Congress that Russia did not influence electoral process.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Before ""our last three presidents, you have to go back to the 1800s, early 1800s to find three presidents in a row being consecutively re-elected.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Online voter registration is a ""more secure"" way of doing voter registration.",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+“The millions (of immigrants) that have been paroled can simply go to their local welfare office or the DMV and register to vote.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Barack Obama ""referred to the carnage that took place in Benghazi as a conspiracy theory.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Says Ronald Reagan ""was behind in the polls in 1980 going into the debate with Jimmy Carter and then turned around 10 days later and won 40 states.""",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Most"" of the newspapers that endorsed Alex Sink also endorsed Barack Obama.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Gov. Tim Walz insulted Ann Coulter’s romantic history after she called his son “weird.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Today roughly half of born-again Christians aren’t voting. They’re staying home.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says Republican Sen. John McCain won more votes for president in Cuyahoga County in the 2008 general election than he did in seven states.,true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says George Soros was arrested in Philadelphia for election interference.,pants-fire,false,"['false', 'pants-fire']",2,True
+"""Nicki Minaj just endorsed Donald Trump for President.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Donald Trump performed better than any presidential nominee since Gerald Ford.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Rogue” Michigan official sent absentee ballots to 7.7 million people “illegally and without authorization” ahead of the primaries and general election.,pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The Libertarian Party ""is the third-largest political party in the U.S.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The White House fully cooperated with the Special Counsel’s investigation.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I am going to be on the ballot in all 50 states. There is no other third-party candidate that’s going to come close to achieving that.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“I am not banning fracking.”,mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Voting machines found in bus in Arizona.”,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"St. Pete Beach's local version of Amendment 4 resulted in ""seemingly endless lawsuits (that) decimated the city's legal budget and forced the city to raise the property tax rate.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A new Colorado law ""literally allows residents to print ballots from their home computers, then encourages them to turn ballots over to ‘collectors.’ """,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says the Senate Intelligence Committee has held 10 public hearings this year, ""more than double that held by the committee in any recent year.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+David Perdue did not support the 2014 farm bill that U.S. Sens. Isakson and Chambliss did.,mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Mark Finchem “wants to strip Arizona’s citizens of their capacity to vote by mail.”,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Sarah Palin ""got more votes running for mayor of Wasilla, Alaska, than Joe Biden got running for president of the United States.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Mark Harris worked to stop Trump from being president.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"With voting by mail, “you get thousands and thousands of people sitting in somebody's living room, signing ballots all over the place.”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“We’ve had 8 million” immigrants come to the U.S. illegally under Biden “and they only sent back 142,000.”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"If an election worker writes anything on your ballot before you put it in the voting machine, “your ballot could be disqualified.”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The DC looting was staged” by antifa,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Pennsylvania and Michigan didn’t allow our poll watchers and/or vote observers to watch or observe.”,pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Clips of Nikki Haley speaking about Hillary Clinton show Haley supports Clinton and is “not who she says she is.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says President Barack Obama's parents were communists.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Triggering leftists, Trump's reelection campaign is selling plastic straws.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says no elections protest was filed, McCready conceded and ""every"" county board certified its results from the Mark Harris, Dan McCready race.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says President Barack Obama ""has lost more members of the House and more members of the Senate than any president ever has lost"" in modern times.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There are legitimate and widespread anomalies, and widespread questions about the conduct of (the Wisconsin Supreme Court) election, most visibly in Waukesha County, but also in counties around the state.""",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+"Says the Club for Growth tries to defeat Republicans, and that its president called Nancy Pelosi ""the person I respect the most in Washington.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Eric Hovde “wants to repeal the Affordable Care Act, and kick millions off their health insurance.”",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Sen. Raphael Warnock “voted for welfare for politicians plan. Up to $25 million of government money for Warnock’s own political campaign.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Democrats “spent 4 years refusing to acknowledge Trump’s 2016 victory.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Queens voters received pre-marked ballots for Joe Biden.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Roy Moore’s accuser arrested and charged with falsification.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Says the T.R.U.M.P. Act, which would force presidential candidates to release their tax returns to run in North Carolina, ""has a lot of support – by a majority of North Carolinians and members of both parties.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The new 21st State Senate district was ""created in secret for Van Wanggaard. It was drawn within half a block of his house.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Kash Patel posted on X that “the FBI is gay.”,false,false,"['false', 'pants-fire']",2,True
+“Bob Casey and Kamala Harris want to BAN fracking.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Abolishing the Electoral College would make Los Angeles County stronger than 43 states.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Donald Trump's strategy is pretty simple. They have even said in his campaign it's to get women to stay home, get young people to stay home, get people of color to stay home, and get a lot smart, intelligent men to stay home, too.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"An ongoing audit of the 2020 presidential election in Arizona “showed Trump ahead by 250,000” votes, and “nearly 950,000 ballots are declared illegal, nearly all for Biden.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"More than any Republican governor in the 2014 elections, ""I took a higher percentage of the Republican vote""and ""yet I also carried independents by 12 points.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Every month, another 50,000 U.S.-born Hispanics turn 18 and become eligible to vote.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says she debated her opponent ""multiple times.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Joe Biden or Donald Trump dropped out of the 2024 presidential race as of Feb 15.,false,false,"['mostly-false', 'false']",2,True
+"“The cheat has begun” because “Michigan, Georgia and Pennsylvania have officially announced that they will not have election results available on election night.”",false,false,"['mostly-false', 'false']",2,True
+"""The GOP lawyer who helped Kanye West get on the ballot in Wisconsin is actively working for Donald Trump's campaign.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The president and vice president can't be from the same state.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Atlanta Mayor Kasim Reed became a city resident in the last annexation, opening the door to his candidacy.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Six states can't get the votes counted. Six states in which @realDonaldTrump is leading. Six states where Dems are in charge.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Obama said black people have the ""worst jobs, the worst housing"" and face rampant police brutality, ""but when so-called black committeemen came around election time we’d all line up and vote the straight Democratic ticket, sell our souls for a Christmas turkey.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Finally, a judge has ruled Dominion voting machines were designed to create fraud.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Wisconsin has more votes than people who are registered to vote. … This is direct evidence of fraud.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We are watching, you know, millions of illegal immigrants cross our borders, and many of them voting in the past election that's what, just a couple weeks ago.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Rick Scott’s Administration spent over $100,000 of taxpayer money during their first voter purge attempt in 2012.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Koch brothers have given"" Paul Ryan ""$500,000 in campaign contributions.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Ten retired nuns were barred from voting in the 2008 Indiana Democratic primary.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The law governing the transition of presidential power “doesn’t require there to be an absolute winner. It says the ‘apparent' winner.”,mostly-true,true,"['true', 'mostly-true']",2,True
+"“The recent statement by Chris Krebs on the security of the 2020 Election was highly inaccurate, in that there were massive improprieties and fraud.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says that voter identification laws ""keep poor people from voting, minorities from voting, the elderly from voting, students from voting.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"The ""left"" is blatantly attempting to disrupt Georgia’s elections.",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says King Street Patriots held a fundraiser featuring an author who believes that registering the poor to vote is un-American.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Wisconsin, ""300,000 voters were turned away by the state’s strict voter ID law"" in the 2016 presidential election.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Elissa Slotkin “gave your hard-earned tax money to illegal immigrants.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We need an ID"" to ""buy a beer.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Millions of dollars are spent by Planned Parenthood to elect Democrats to the House of Representatives and the Senate.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There's been no conclusive or specific report to say"" Russia was trying to muddy the election.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“CAN I CHANGE MY VOTE? ... The answer in most states is YES.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Project 2025 would defund K-12 schools.,half-true,false,"['mostly-true', 'mostly-false', 'false']",3,False
+"Barack Obama is ""only the second Democrat in the last 75 years to win Ohio twice with more than 50 percent of the vote.""",true,true,"['true', 'mostly-true']",2,True
+"North Carolina is ""in the small minority of states that requires an absentee ballot to be signed by two witnesses or a notary public.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Minnesota Gov. Tim Walz “forced schools to stock tampons in boys’ bathrooms.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“The great replacement theory is not some grand right-wing conspiracy theory. But a basic statement of the Democratic Party's platform.”,pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""There's nothing in the voting instructions that we've been getting in the last several elections that lets you know"" about the limitations of the master lever.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Split election results show the Arizona governor’s race was rigged.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The typical elementary school teacher pays $7,239 in federal income taxes, and firefighters pay $5,328, while Donald Trump paid $750.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Claims that Obama said, ""For those who oppose our policies, you should just shut up and go away.""",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“Lula's staff infiltrated and caused damage while the Brazilian Patriots cleaned up.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“The MOB in PA was HIRED by the Biden team to create fake ballots by the thousands!!”,pants-fire,false,"['false', 'pants-fire']",2,True
+"Says state's expected ""increase in federal political clout  is almost entirely due to  the growth of the African American and  Hispanic populations in Texas in  virtually every region of the state.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+“Trump can’t vote for himself in the November election.”,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says he ""won the popular vote if you deduct the millions of people who voted illegally.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I won the majority of the Republican vote in both New Hampshire and South Carolina.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says there’s no language in the U.S. Constitution that prevents someone from running for Congress simultaneously in multiple states.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 2007 David Jolly has given almost $30,000 to keep Democrats in Congress!""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In order to be a poll worker on the conservative side, you have to register through the Republican Party of Wisconsin.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Kamala Harris “supported abolishing ICE.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says Texas proved in court that more than 200 dead people voted in the latest Texas election.,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“It was just Biden and Trump in 2020” general election ballots.,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"In New York, you need to show identification to buy whipped cream, but not to vote.",mostly-false,false,['false'],1,False
+"Election results in Clark County, Nevada, and Arizona are not yet known because those places “want more time to cheat.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"An email from Hillary Clinton to Donna Brazile Oct.17th, 2016 stated: ""If that f-----’ bastard wins, we’re all going to hang from nooses! You better fix this s---!""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""It is a commitment voters take very seriously: The only incumbent in Ohio to break his Pledge and vote for Ted Strickland's income tax hike was defeated soundly on Tuesday.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Under the Trump administration's trade deal, “China's only fulfilled one-third of the promises of agricultural products that they were supposed to buy from our farmers.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“They removed your ability to go buy firearms the day of election.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+ColoradoCare would have higher revenues than McDonald’s.,mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says no one from the Bush family attended the 2012 Republican National Convention and ""there was no President Bush"" at the 2008 convention.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In Cuyahoga County ... 56 percent of weekend voters in 2008 were African American while adult African Americans comprise 28 percent of the county population.""",true,true,"['true', 'mostly-true']",2,True
+"""The Koch network (is) spending more money (in a Senate race) in Ohio than anywhere else in the country.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"This Congress ""adjourned earliest of any time in congressional history before an election.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The McCain campaign ""did not elaborate"" on Obama's ties to ACORN.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+The Biden administration stole $1 billion “from FEMA to use it for illegal migrants. … And FEMA is now busted. They don’t have any money.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Tommy Thompson wanted to implant data chips in humans.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Kansas U.S. House candidate Paul Davis was caught with a stripper during a drug raid and later voted to ""allow strip clubs to open near homes, churches, schools and daycare facilities.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Health insurance and medical costs ""are going down because of Obamacare.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Hollywood actor Kurt Russell just said: ‘It is now proven, beyond a shadow of a doubt that Kamala Harris and Joe Biden CHEATED in the 2020 election with mail-in ballots.’”",false,false,"['false', 'pants-fire']",2,True
+"""By registration fewer than 20 percent of Florida voters are Independents.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 2000, when he entered politics, Jon Husted has been on the ballot six times for three different political offices.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""Right now, in every major poll, national poll and statewide poll done in the last month, six weeks, we are defeating Trump, often by big numbers and always at a larger margin than Secretary Clinton is.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Republican challenger Bill Flores ""has never once voted  in a general election in our district.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""By the end of Governor Rick Perry's term, he will have drained Texas taxpayers ... of more than $360,000 to pay for the rental mansion he has been living in while the historic Governor's Mansion is repaired.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“40,000 rejected vote by mail ballots in DeKalb County need to be cured by Friday or they will be tossed.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""My opponent, in 2008, had contributions investigated by the federal government.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The entire Database of Maricopa County in Arizona has been DELETED!""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Nowhere on her birth certificate does it say that she is BLACK OR AFRICAN. …  Kamala Harris is NOT black and never has been.”,false,false,"['false', 'pants-fire']",2,True
+"""Of the four statewide races this century within a 300-vote margin, three have been overturned in a recount.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""In Florida, when Jeb Bush was governor, state authorities conducted a deeply flawed purge of voters before the presidential election in 2000"" and ""in 2004 a plan to purge even more voters was headed off.""",mostly-true,true,"['true', 'mostly-true']",2,True
+Nikki Haley “opposed Trump’s border wall” and “Trump’s travel ban.”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Jurisdictions representing about 80% of WI residents have passed referendums or resolutions in favor of fair maps.”,true,mostly-true,"['true', 'mostly-true']",2,True
+"“In Montana, we cherish our public lands. But Tim Sheehy called to transfer them off, so the ultra-rich can buy them up.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+If you know someone's name and date of birth you can change their votes on Oregon’s voting website.,pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Joe Biden said voting by mail is a way to “fundamentally change this country,” contradicting past statements by Barack Obama and Debbie Wasserman Schultz.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“NOT A JOKE: Ilhan Omar Tells Residents ‘You Don’t Have to be Registered to Vote’ in Minnesota.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“Milwaukee Elections Chief Lost Elections Flash Drive in Morning Hours of November 4th When Democrats Miraculously Found 120,000 Votes for Joe Biden.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"California firefighters decided ""to speak out"" against President Trump because his tweet about the state’s wildfires ""contained so much misinformation.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+An obscure filing with the Federal Election Commission shows Biden has formally announced his bid for another term.,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""More people are struck by lightning than commit in-person voter fraud"" by impersonation.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"North Carolina removed 747,000 voters from the voter rolls to try to “steal the election.”",false,false,"['mostly-false', 'false']",2,True
+"Republicans have "" won a thousand seats since Obamacare.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+President-elect Donald Trump “has been to Epstein’s island”,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Donald ""Trump decided to *not* work with Cambridge Analytica during the election.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""California is once again the sixth-largest economy in the world. If you add the GDP’s of Washington and Oregon, California would surpass the United Kingdom to become the fifth-largest economy in the world.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"In more than 60 cases, judges “looked at the allegations that Trump was making and determined they were without any merit.”",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Pennsylvania drop boxes were “pre-loaded” with ballots.,half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+“Conservative Supreme Court Justices vote remotely to deny Wisconsin voters their right to vote remotely.”,half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+“The New York City ballot form is a scam” because “mayoral candidates appear twice.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Kari Lake is threatening Social Security and Medicare.”,half-true,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,False
+"""War for the soul of the TxDems: 57% of  Dem incumbents for Tx House LOST their primary.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The public health order Title 42 is ""the last tool Border Patrol has to stop the overwhelming flood of illegal immigrants pouring into our country.”",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Wisconsin Gov. Scott Walker ""is denying Democrats the right to vote.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In its current state, this bill is the most restrictive voter ID legislation in the nation.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says there were “600,000 plus unlawful votes in Philly and Pitt.”",pants-fire,false,"['false', 'pants-fire']",2,True
+“Taylor Swift has moved to Canada after leaving the U.S. following the big red wave.”,false,false,"['mostly-false', 'false']",2,True
+"""Typically you have three to four debates in a U.S. Senate race. (Sen. Tammy Baldwin, D-Wis. has) given me one debate, almost a month after early voting has started.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Eleven states complete their [legislative] sessions within three calendar months, and another five only meet biennially.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+Says “Democratic Mayors in some of Wisconsin's largest cities closed voting locations in April to cause chaos.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“In Texas, because of the laws they passed, a 95-year-old World War II veteran is being denied the right to vote by mail because he can't produce a registration number he got back in the 1950s.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""More than 9,000 Rhode Island voters used the Moderate Party master lever mechanism and they didn't have a single Moderate on their ballot.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Both the Democratic and Republican candidates for president in 2016 are ""quite unpopular.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Rep. Maxine Waters, D-Calif., only needs about 40,000 to 50,000 votes to win election to Congress compared with the 120,000 votes King needs, because Waters has a higher immigrant population.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“Kamala Harris wants to give $25,000 to illegal aliens to buy American homes.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Wendy Davis is ""fighting to bring ... Bloomberg-style gun control to Texas.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Eighty-two percent of the country understands that (the 2020 election) was a rigged election.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“This month alone, more than 16,000 non-citizens have been removed from the voter rolls in 3 states.”",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says he posted a ""win"" in the Republican Party of Wisconsin endorsement contest in the U.S. Senate primary.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""If you look at most of the polls, this is a margin-of-error race on Fourth of July between Mitt Romney and the president.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Red Alert: Major Signs of Voter Fraud Uncovered In Ohio.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Proposed changes to the Electoral Count act show Pence had the power and “could have overturned the election!”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“Active crime scene in Spalding County, Ga., where ballots for President Donald Trump were discovered in a dumpster.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""Kurt Russell supports Trump"" by wearing a Trump T-shirt.",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Nate McMurray wants to reward illegals with amnesty.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“ABC lost $27M in ad revenue after advertisers pulled ads from the network after the way they hosted the debate"" on Sept. 10.",pants-fire,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"“9,871,525 is the number of registered voters in AZ according to FB. AZ population is 7,270,000.”",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"There was ""serious voter fraud"" in Virginia.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In Iowa, “since we have put a number of the voting laws into place over the last several years — voter ID is one of those — we've actually seen voter participation increase, even in off-election years.”",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says if elected, he would be the first Mayor who lives east of 82nd.",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Austin voters can approve seven bond propositions ""without raising taxes.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says H.R. 1 “allows minors to vote.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Joe Biden forced the U.S. Attorney for the Eastern District of North Carolina to resign after 24 people were charged with election fraud and the Mainstream Media never even batted an eyelash.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“There was tremendous cheating in New York”,pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We won. We won in a landslide. This was a landslide.”",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Breaking: woman says she was offered big money by Washington Post to accuse Roy Moore of misconduct.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The last six polls, including this week's Time magazine, show that I beat John McCain by six or seven points.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The president won the youth vote 3 to 1, but his numbers have dropped 20, 30 percent among the youth.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Rob Portman has taken more than $125,000 from ""Big Oil.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I released way more (tax) information than Bruce Rauner has.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Texas, a person can register a dead relative to vote and then cast a mail ballot in their name.",mostly-false,false,['false'],1,False
+"Says Jeb Bush ""extended early voting"" after seeing ""long lines.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The State Department asked all secretaries of state to send their emails over."" Hillary Clinton's ""the only one who’s done it.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“It’s now been confirmed by Dominion that their voting machines have a programming issue that will affect vote counts.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Twitter is completely stifling FREE SPEECH” by adding a fact-check label to Trump’s tweet.,pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“Jacky Rosen voted to allow biological men to compete in women’s sports.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Team Trump has accused Ted Cruz of fraud"" in Iowa, Texas, Colorado, Oklahoma, Louisiana, Kansas, Maine, Utah and Wisconsin.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the recall elections that aimed to remove him and other Republican officials from office ""cost tens of millions of dollars to run.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"Says Donald Trump ""won more counties than any candidate on our side since Ronald Reagan.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The U.S. Justice Department has ""taken on more than 100 voting rights cases since 2009.""",half-true,true,"['true', 'mostly-true']",2,False
+The Georgia Secretary of State's Office and the Georgia State Elections Board investigate and penalize hundreds of people guilty of election fraud.,true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Joe Biden plagiarized Donald Trump in his Democratic National Convention speech.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A poll worker in Erie County, Pa., threw out over 100 ballots for Donald Trump.",false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“Fox News went from 97% reporting to 94% in Virginia. The fraud is so blatant it's not funny anymore.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"When Mitt Romney chose Paul Ryan as his vice-presidential running mate, ""that was the end"" of Romney’s chances to win.",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In 2016, when Hillary Clinton appeared to have a firm lead in the polls — oh, just before the election, it was President Obama who laughed off any notion that American elections could possibly be tampered with.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“Swing State Hit With 2020 Voting Lawsuit - Accused Of Registering Over 1,500 Deceased People In Pennsylvania.”",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""@realDonaldTrump is coming to San Antonio, which is 60% Mexican-AMERICAN.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Right now the Tea Party polls higher than the Republicans and the Democrats.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says former North Carolina elections board chairman ""tried to drag a cancer-stricken woman out of her hospital bed to testify at her son’s hearing on the first day of early voting over a bogus complaint that the board hadn’t even fully investigated.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"The 2020 election was “rigged” and Chris Krebs, former Cybersecurity and Infrastructure Security Agency director, “baselessly” dismissed “election malfeasance.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Report: Biden administration busing ‘thousands’ of illegals to red states to get permanent status.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Mitt Romney ""was one of the first national Republican leaders to endorse"" Marco Rubio.",half-true,true,"['true', 'mostly-true']",2,False
+“Military brass band plays ‘Hit the Road Jack’ as Trump leaves office.”,false,true,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Democrats “manufactured votes from low income voters to steal the battleground states.”,pants-fire,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+Mike Rogers supported “laws that could eliminate IVF and birth control.”,half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says Sen. Bob Casey, D-Pa., “is trying to change the outcome of the election by counting NON-CITIZEN votes.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+A consent decree approved by Gov. Brian Kemp “invalidated all voter ID law” and “allowed fraudulent ballots to be accepted” in the 2020 race.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""This Russia thing with Trump and Russia is a made-up story. It's an excuse by the Democrats for having lost an election that they should've won.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Former President Donald Trump is “against mail in voting.”,half-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A member of the redistricting commission proposed in Issue 2 ""could accept a bribe from somebody"" and ""couldn’t be removed from this commission.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Wisconsin is one of the few states that doesn’t allow absentee ballots to be processed before Election Day.”,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Thousands of politicians from across Ohio – along with their relatives, employees and friends – are still eligible to serve"" on the proposed redistricting commission.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Vice Presidential nominee Tim Walz “says that if Democrats win they’ll make (U.S. Rep. Alexandria Ocasio-Cortez) speaker of the house.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"“8% of the votes cast” in Michigan’s Aug. 4 primary, 864 mailed ballots, came from dead voters. “NOTHING TO SEE HERE!!!”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Dallas County Texas (tells) election workers to (illegally) lie on registration & use a church address to register homeless people to vote!”",pants-fire,false,"['mostly-false', 'false']",2,False
+"""There’s a section in the Constitution called the Emoluments Clause that says no one, nor their spouses, can take money from foreigners. (Hillary Clinton) has to be guilty of 70 or 100 counts just on that one charge.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“This week the military was moving big equipment into the major big cities preparing for the Maricopa audit results.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says the election results are suspicious because opponent U.S. Sen. Baldwin won “nearly 90%” of absentee ballots in Milwaukee.,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+An “anti-Black Lives Matter” flag replaced the American flag behind President Trump during a Waukesha campaign rally.,mostly-true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says Osama bin Laden endorsed Joe Biden,false,false,"['false', 'pants-fire']",2,True
+Rep. Elissa Slotkin “voted recently to let illegals vote in U.S. elections.”,false,false,"['mostly-false', 'false']",2,True
+"Says Missouri Democratic Senate candidate Jason Kander is ""attending fancy dinners all over the country.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I'm the only Republican who has gotten endorsements in this presidential race from major labor unions...""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+A Paul Ryan-Scott Walker (or Scott Walker-Paul Ryan) ticket for the White House in 2016 would be unconstitutional because both men live in Wisconsin.,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says immigrants with temporary protections in Springfield, Ohio, are “illegal immigrants.”",false,false,"['mostly-false', 'false']",2,True
+A Melania Trump impostor accompanied former President Donald Trump to the polls Nov. 5.,false,false,"['false', 'pants-fire']",2,True
+"Says Hillary Clinton ""has been saying lately that she thinks that I am, 'not qualified to be president.' """,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Shredded Pennsylvania Mail in ballot Applications were discovered in a trailer.
+The applications were for @realDonaldTrump.”",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The Inspector General’s report now makes clear that the FBI launched an intrusive investigation of a U.S. presidential campaign on the thinnest of suspicions.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In New Hampshire, I spent $3 million. Jeb Bush spent $44 million. He came in five, and I came in number one.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Studies have shown that voter fraud is non-existent in Texas.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"North Carolina has ""the strictest anti-gerrymandering standards in the entire country.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"To pay for extending the Trump tax cuts, Dave McCormick has “made clear he’ll slash your Medicare and Social Security, and cut Medicaid for nursing home care.”",false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Three hundred sixty thousand Pennsylvanians fought on the side of the Union to defeat the flag, that Confederate flag, including more Black soldiers coming from Pennsylvania than any other state in the nation.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Twenty-seven out-of-state pharmaceutical companies have raised more campaign dollars (against a drug price control measure) than all other state ballot measures have raised to date, combined.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The law prohibits current Secretary of State Katie Hobbs from overseeing the election while she was a candidate for governor.,false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"An April 7, 2015 referendum would take ""the choice of chief justice"" of the Wisconsin Supreme Court ""away from the people.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"As Florida secretary of state, Kurt Browning ""allowed 1,800 illegal voters to register in Florida.""",pants-fire,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says his elections proposal would allow ""a potential of 168 hours (of early voting), which I think is the most we’ve ever had.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""They talk about this problem with binding arbitration. It doesn’t make a lot of sense to me to have somebody from Los Angeles fly into Zanesville and impose a wage settlement on you ... and then they’re on the plane back to Los Angeles.""",pants-fire,true,"['true', 'mostly-true', 'half-true']",3,False
+A Georgia Bureau of Investigation agent was killed for investigating the election.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“Biden admits to voter fraud.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Gwinnett County, Georgia, sheriff's office said white supremacists “are planning to attack” Black people “from now until the Inauguration.”",pants-fire,false,"['mostly-true', 'mostly-false', 'false']",3,False
+"""Chicago now has City ID Cards which allow illegal immigrants to vote in local, state & federal elections.""",false,false,"['mostly-false', 'false']",2,True
+"Texas found that 95,000 noncitizens were registered to vote.",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“Sephora donated BIG to Trump’s campaign.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+Says a picture of stacked mailboxes is proof of voter suppression in Wisconsin,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“[Steve] Bullock’s health care plan will force rural hospitals to close. Medicare as we know it will change, replaced by a government-run program with fewer doctors and longer wait times.”",false,mostly-false,"['mostly-false', 'false', 'pants-fire']",3,True
+Church bells rang in Paris and fireworks were set off in London to celebrate Joe Biden’s presidential win.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“Only sign outside Bucks County voting place. Democrats shown, republicans blurred out. … More scamming in Pennsylvania!”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“The Arizona forensic audit found over 17,000 duplicates of votes.”",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Former President Donald Trump “cut overtime benefits for millions of workers.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“It begins. Wisconsin Assembly votes to remove electoral votes from Biden.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Google and Apple maps won’t give directions to Washington, D.C. because “they don’t want you going to a certain big rally.”",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says his Jan. 6, 2021, speech on the White House Ellipse drew the “same number of people,” as the 1963 March on Washington where  Martin Luther King Jr. gave his “I Have a Dream” speech.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
