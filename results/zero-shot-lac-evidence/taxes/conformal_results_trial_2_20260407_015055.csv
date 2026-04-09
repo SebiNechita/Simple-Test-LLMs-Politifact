@@ -1,0 +1,849 @@
+statement,true_verdict,predicted_verdict,prediction_set,set_size,is_covered
+“The loss of SALT deductibility cost our state $15 billion in revenue. So New Yorkers are paying more in taxes and receiving fewer services because of Donald Trump.”,mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under President George W. Bush, the U.S. ""spent $1.3 trillion on tax cuts for the wealthy"" and ""trillions"" each on a war and on Medicare drug benefits.",half-true,half-true,['half-true'],1,True
+Scott Wallace wants to tax families of five for 'irresponsible breeding',false,false,"['mostly-false', 'false']",2,True
+"""The Democratic Congress has already taken significant steps to create jobs and jump-start the economy, resulting in the lowest tax rates in over 50 years and the creation of over 500,000 new jobs so far this year.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Says Kelli Ward hosted a town hall on ""chemtrail conspiracy theories"" and is open to sponsoring chemtrails legislation.",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“The average (Wisconsin) resident’s tax burden is at its lowest level in nearly 50 years while incomes continue to grow.”,true,true,"['true', 'mostly-true']",2,True
+Oregon has the sixth highest combined death tax rate in the country.,mostly-false,mostly-false,['mostly-false'],1,True
+"Michael Thurmond ""authored major legislation that has provided more than $250 million in tax relief to Georgia’s senior citizens and working families.""",true,true,['true'],1,True
+"Says ""at the state level we're spending more on tax expenditures than we are on public safety, health care and education combined.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Big soda has a lot of money. They make a lot of profit off their product and they market in neighborhoods that suffer from these very things that we’re trying to cure.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""The entire state of Florida led the nation last year with the most prison inmates committing tax fraud.""",true,true,['true'],1,True
+"The United States has ""10,000 IRS agents making sure that you don't take an improper charity deduction,"" but to fight terrorism, it has ""less than two dozen people focusing on countering violent extremism at home.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Chrysler is leaving Mexico and moving back to Michigan.""",half-true,false,"['mostly-false', 'false']",2,False
+"For the new state budget, ""Floridians have sent us $3 billion less of their funding.""",false,false,['false'],1,True
+Says the Simpson-Bowles deficit reduction proposal urged raising $2 trillion in new revenue.,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Sen. Dean Heller ""wants to cut programs like Social Security and Medicare to pay for tax cuts for his ultra-wealthy donors.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""I've traveled the country advocating for the FairTax ...""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+Says income tax rates under Eisenhower were as high as 90 percent.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Joe Biden is proposing a tax increase that’s “the largest in American history.”,false,false,"['mostly-false', 'false']",2,True
+"""Forty-six cents of every dollar"" Ohio could get for Medicaid expansion ""is going to come from China or some other country that doesn’t like us very much.""",false,false,['false'],1,True
+"""The average rate of fraud"" in the Earned Income Tax Credit, Medicare, Medicaid and food stamps programs ""is 20 to 25 percent.""",pants-fire,pants-fire,['pants-fire'],1,True
+Says New Hampshire had the fourth-lowest unemployment rate in the country during Maggie Hassan’s time in the state Senate.,half-true,mostly-true,"['true', 'mostly-true']",2,False
+“The president has exploded the debt by more than $3 trillion — all to give billion-dollar tax cuts to the wealthiest few.”,half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says 7,000 millionaires ""gamed the system to pay no income taxes.""",false,false,['false'],1,True
+"When it comes to income taxes, Wisconsin is ""one of the best places in the country to be poor"" but ""top 4 or 5 worst"" for middle-income earners.",mostly-true,mostly-true,['mostly-true'],1,True
+"Says Alex Sink ""supported higher sales taxes.""",mostly-false,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Georgia has some of the highest gas taxes in the Southeast but one of the lowest taxes on gasoline for transportation in the nation.,mostly-true,mostly-true,['mostly-true'],1,True
+"Says Sen. Sherrod Brown admitted ""that his $787 billion stimulus law failed"" and ""after specifically attacking Republicans for wanting to lower Americans' taxes, (he) now claims that his stimulus bill 'didn't do enough' to lower taxes.""",half-true,half-true,['half-true'],1,True
+"""For decades, Madigan kept property taxes high and made a fortune helping cronies like Pritzker dodge them.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Democrats are poised now to cause this largest tax increase in U.S. history.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""[O]ver 200,000 ordinary citizens were given the opportunity to identify projects they preferred.""",true,true,"['true', 'mostly-true']",2,True
+"Under Cuccinelli’s tax cut plan, ""school divisions across Virginia could be forced to fire over 8,000 teachers.""",false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""how much money the government is collecting from people...in terms of the gross domestic product"" is ""the lowest in 40, 50 years.""",mostly-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Twenty percent of single adults, ages 21 to 25 with no kids, ""are not working or even in school trying to find a job.""",false,false,['false'],1,True
+"Says President Barack Obama’s finance team is recommending a ""1% tax on all transactions at any financial institution.""",pants-fire,false,['false'],1,False
+"""To hear Gov. Christie tell it, everything in New Jersey is going just fine. Well I see another New Jersey with 400,000 unemployed. One of the worst jobless rates in the country. Working and middle class families have seen costs soar, from property taxes to college tuition.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+Says a majority of Americans -- and Republicans -- support his approach for deficit reduction.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says because of Donald Trump, ""the IRS decided to stop enforcing the individual mandate that was the underpinning of the ACA. That has resulted in insurance companies all across the country jacking their rates up, explicitly because they don't believe that healthy people will buy insurance.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Sixteen thousand new Internal Revenue Service agents will be ""empowered to enforce"" the new health care legislation.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""George LeMieux voted against the majority of Republicans and joined with Democrats to create a 'Task Force For Responsible Fiscal Action' that looks strikingly similar to the 'Super Committee' now being set up in Washington to justify massive tax hikes.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Barack Obama wants to ""restore"" the estate tax that George W. Bush ""repealed.""",false,false,['false'],1,True
+"Says LeBron James ""stops paying his Social Security taxes at the beginning of the second quarter of the first game of the season.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Patrick Rose ""voted to explore a state income tax.""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"With the Trump tax law, ""70 percent of the benefits went to the wealthiest 1 percent.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Jorge Elorza ""wants to impose a municipal income tax.""",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Tax cuts approved and those proposed in his state budget ""will exceed $8 billion by the time the budget is done.""",true,true,['true'],1,True
+"For people in the top 1 percent for income, ""your effective tax burden is in the low 20s, the lowest it’s been in decades and decades and decades -- lower than somebody who might make substantially less money.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""About two-thirds of all consumption is services. . . It was just the opposite"" when the sales tax was enacted in the '30s.",mostly-true,mostly-true,['mostly-true'],1,True
+"Says Scott Walker's plan to replace Obamacare ""is a new entitlement"" program for ""every single American human being from the time they are born right up until they grow old and become eligible for Medicare.""",half-true,half-true,['half-true'],1,True
+"""We were able to provide $428 million worth of property tax relief.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Our debt now is about $140,000 per household.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Democrats on the House Ways and Means Committee weren’t ""even entitled to bring an expert witness on any aspect of the tax code that affects 100 percent of our economy.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+The state budget contains the largest middle class tax cut in 70 years.,false,false,"['mostly-false', 'false']",2,True
+"""The law, right now, permits companies that close down American factories and offices and move those jobs overseas to take a tax deduction for the costs associated with moving the jobs to China or India or wherever.""",true,true,['true'],1,True
+"""Ohio is losing over 700 family farms a year, some of them just to pay the inheritance tax.""",true,true,['true'],1,True
+A hidden provision in Obamacare taxes sporting goods as medical devices.,pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"""Over 10 years, (extending tax cuts for the wealthy) would add less to the deficit than Obama added with the stimulus in one year.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Cranston's 2014-2015 ""budget funds 100 percent of the local police and fire pension and other retiree benefit costs.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The government will ""go out and buy my breast pump for my babies.""",false,false,['false'],1,True
+"Wealthy taxpayers, not middle-income earners, get ""most of the deductions"" in the tax code.",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Democratic gubernatorial candidate Mary Burke ""has proven on the Madison Board of Education"" that she supports raising taxes and spending.",half-true,half-true,"['half-true', 'mostly-false']",2,True
+“Trump passed a new law that whoever is paying the child support will get to declare those children on their taxes.”,false,false,['false'],1,True
+"Says taxing more services, taxing retirement income and increasing the flat-rate income tax would ""fall disproportionately on the working poor and the middle class.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says he ""balanced the budget without raising taxes.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""We wiped out a $3.6 billion deficit without raising taxes.""",half-true,half-true,['half-true'],1,True
+"Says Mitt Romney’s carried interest income was a tax ""trick.""",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Evan ""Jenkins has the same positions on the issues as Joe Manchin: supporting Hillary (Clinton), supporting cap-and-trade, supporting Planned Parenthood, many tax increases.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says U.S. Senate rival Eric Hovde ""refused to pay his property taxes until he was taken to court.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"“If you make $50,000/year, $36 of your taxes goes to food stamps. $4,000 goes to corporate subsidies.”",false,false,['false'],1,True
+"""His new running mate, Congressman Ryan, put forward a plan that would let Governor Romney pay less than 1 percent in taxes each year.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says his campaign has released his past tax returns.,false,false,"['mostly-false', 'false']",2,True
+"Kim Myers ""voted repeatedly to raise taxes on the people of Broome County, but made millions off of tax savings when her family business relocated its headquarters.""",half-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Connie Mack takes two homestead exemptions, ""directly contrary to Florida’s Constitution.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'false']",4,False
+"""I'm the only candidate on this stage who has actually cut taxes.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""No, I don't benefit, I don't benefit"" from his tax proposal.",false,false,"['mostly-false', 'false']",2,True
+"“The largest contributor to the debt ceiling, or to our deficit, has been the Trump tax cuts.”",false,false,"['mostly-false', 'false']",2,True
+"California taxes are ""among the highest in the nation.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says ""I've authored the first bipartisan tax reform bill in a quarter-century.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""For decades, the state’s gas tax has been among the highest in the nation.""",true,true,['true'],1,True
+"Says Milwaukee Mayor Tom Barrett is responsible for the roughly $7,800 ""I pay in property taxes per year.""",false,false,['false'],1,True
+"Each Georgia taxpayer would have to send $5,000 to the treasury to cover the state’s debt.",mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says Jeanne Shaheen ""got behind the idea of using the IRS to target American citizens for their political views.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""If you're earning under $100,000 a year and you commute to New York every day you pay more to the Port Authority in tolls than you pay to the state of New Jersey in income tax.""",true,true,['true'],1,True
+"“Democrats' new army of 87,000 IRS agents will be coming for you — with 710,000 new audits for Americans who earn less than $75k.”",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Mike Madigan made a fortune on tax appeals… Saving his friends millions... It’s an inside game played by people like Merry Marwig, Madigan’s hand-picked candidate. When Marwig thought her property taxes were too high she got them lowered at your expense. Saved so much she did it again. Marwig and Madigan: Profiting from the same corrupt system.",mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+“82% of Americans...would experience a tax increase if Biden were elected.”,false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Kelly Ayotte voted to give big oil more than $20 billion in tax breaks.""",mostly-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Jules Bailey ""was instrumental in creating the Business Energy Tax Credit that let companies like Wal-Mart profit by $11 million while costing the Oregon general fund $33 million.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"Says the tax code is effectively subsidizing ""the marketing efforts of fast food and junk food companies by as much as $19 billion over 10 years.""",mostly-true,mostly-true,['mostly-true'],1,True
+Says Ford agreed to invest $900 million at an Ohio plant because Donald Trump “lowered taxes” and is now moving the project to Mexico because Joe Biden is “increasing taxes.”,mostly-false,false,"['mostly-false', 'false']",2,True
+Taking all the money of the top 1 percent wouldn’t keep Medicare going for three years.,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The Bush tax cuts ""created about 8 million jobs over the first 10 years that they were in existence. We've lost about 5 million of those jobs during this recession.""",false,false,['false'],1,True
+"On Obama, ""The press warns the 'Taxman Cometh.'""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says his plan to raise car registration to $56 would still leave Virginia with a fee that’s ""equal to or lower than most states.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+Says John Boehner changed his position on extending Bush tax cuts.,mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says the Democratic Party ""took Social Security from the independent ‘Trust Fund’ and put it into the general fund so that Congress could spend it"" and ""eliminated the income tax deduction for Social Security (FICA) withholding.""",false,false,"['mostly-false', 'false']",2,True
+"""The Republicans are proposing to pay for their giant tax cut to the rich by gutting Medicare and Medicaid.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""When the Fair Tax becomes law, it will be like waving a magic wand releasing us from pain and unfairness.""",false,false,['false'],1,True
+"""Since we passed tax cuts, over 3 million workers have gotten tax cut bonuses — many of them thousands and thousands of dollars.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""75 percent of the Obamacare tax falls on the middle class.""",false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""If you make the average amount of people in Wisconsin, $50,000, you got $1.60 less a week in taxes"" under the state income-tax cut, but ""it didn’t show up in your paycheck.""",mostly-true,mostly-true,['mostly-true'],1,True
+“FUN FACT: West Virginia is home to zero billionaires.”,true,true,['true'],1,True
+"""Taxpayers are paying a fortune for the use of Air Force One on the campaign trail"" by President Barack Obama and Hillary Clinton.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""You don’t see Norway losing population, and its taxes are astronomical.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""I used tax cuts to help create over 80,000 jobs in New Mexico.""",mostly-true,mostly-false,"['mostly-false', 'false']",2,False
+Film and television productions generated a $6 billion economic impact for Georgia’s economy in the most recent fiscal year.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""In the late 1980s, the U.S. was nearly the lowest-taxed nation in the world, and a quarter century later we're nearly the highest.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Wisconsin is one of the highest taxed states in the nation.""",half-true,half-true,"['half-true', 'mostly-false']",2,True
+"The ""Buffett rule"" ""raises virtually no money, maybe a day and a half of our borrowing per year.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Richmond was one of the only cities in the state that did not (increase) their real estate tax to those pre-recession rates.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the T.R.U.M.P. Act, which would force presidential candidates to release their tax returns to run in North Carolina, ""has a lot of support – by a majority of North Carolinians and members of both parties.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Tennessee’s grocery tax is one of the highest in the nation.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"The federal health care law is ""probably the biggest tax increase ever in the history of our country.""",false,false,['false'],1,True
+"Says Julie Parrish wants to add a sales tax to everything we need to buy including food, clothing, medicine and school supplies.",mostly-false,mostly-false,['mostly-false'],1,True
+"""When the auto industry was going under, car parts companies like"" Johnson Controls ""begged taxpayers for a bailout, and they got one.""",half-true,half-true,['half-true'],1,True
+"""(Sen. Robert) Gordon cost us money, exempting the Newark sports arena from paying property taxes and sticking us with the bill.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We have the highest (corporate tax rates) in the world right now.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""The Trump administration handed out taxpayer dollars to a foreign company. Hundreds of homes and farms were bulldozed, and over $500 million in taxpayer dollars were wasted preparing for Foxconn.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"The Bush-era tax cuts failed to increase employment and ""work-force participation fell in 2001 and has never returned to the record level set in 2000.""",mostly-true,half-true,"['mostly-true', 'half-true']",2,True
+"""Fifty percent of Speaker Gingrich’s tax plan goes to the top 1 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Gov. Chris Christie has embarked on a tour to ""demand that New Jersey’s Democratic legislature approve an immediate tax cut that would disproportionately benefit the wealthiest.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Health proposal would create a ""40% tax on health care benefits of middle-class workers.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Obamacare is a ""massive, massive income redistribution"" with ""$250 billion a year in Medicaid expansion (and) in the subsidy structure that's basically being paid for by people on Medicare, through Medicare cuts, and a lot of tax increases.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+The city of Atlanta has either the highest or second-highest average water bills in the country.,true,true,['true'],1,True
+"As Dane County executive, Kathleen Falk raised property taxes by ""millions of dollars every year"" and approved the second highest increase in the state in 2010.",true,true,"['true', 'mostly-true']",2,True
+Abigail Spanberger and other Democrats “voted to spend public funds on their political campaigns; up to $5 million...”,half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Up until 1913 Americans kept all of their earnings.,half-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Donald Trump’s tax plan gives the wealthy and corporations ""more than the Bush tax cuts by at least a factor of two.""",true,true,"['true', 'mostly-true']",2,True
+"Says ""roughly two-thirds of (state) corporations didn’t pay any income tax in Virginia.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Richard Cordray wants to raise your taxes by reversing President Trump's tax reform.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"In 2001, former Federal Reserve chairman Alan Greenspan ""justified increasing spending and cutting taxes, saying that we didn't really need to pay down the debt.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""On (Tom) Wolf’s watch, taxes were high, killing 100,000 PA jobs.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Republican plan to extend Bush tax cuts ""would double deficit projections going forward for the next couple of decades.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Not one tax has been raised since I've been governor.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"Dave Brat ""worked on Democrat Gov. Tim Kaine’s Council of Economic Advisors while Kaine tried to raise our taxes by over $1 billion.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a ""rather extraordinary amount of non-classroom employees"" were added by Texas school districts over the last decade.",mostly-true,mostly-true,['mostly-true'],1,True
+"""Between the first and second quarters of 2018 — after the tax cuts were enacted — real wages fell by 1.8 percent.""",mostly-false,false,['false'],1,False
+"Republicans ""don't think it's a good idea"" to make the child care tax credit ""stronger.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Scott Walker has given a $10,000 tax deduction to millionaires who send their kids to exclusive private schools.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says rejecting federal aid to expand Medicaid in Texas will ""send $9 billion in federal taxes paid by Texans to other states to insure their working poor.""",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+“WV families making less than $400K & small businesses will NOT be targeted by the IRS.”,mostly-true,true,"['true', 'mostly-true']",2,True
+"A ""real result"" of his term is Georgia having ""the lowest taxes per capita of any state.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"I turned ""a $110 million deficit into a $1.6 million surplus for our city.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Barbara Buono by the numbers: As a Trenton politician, she voted to raise taxes 154 times. Under her, property taxes up 70 percent. Backed a 16 percent sales tax increase. Utilities, nursing homes, cell phones, parking lots, lottery wins, gyms – She taxed them all. Architect of Corzine’s budget, she drove New Jersey $2 billion into debt. Barbara Buono by the numbers: taking New Jersey backwards.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""You can fill out your tax return in Estonia online in five minutes.""",true,true,"['true', 'mostly-true']",2,True
+Says Kevin Cramer wants to cut Social Security and Medicare to pay for tax cuts.,half-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""Glenn Hegar promised to eliminate the property tax.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“J.D. Vance called for higher taxes.”,half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""A tax on soda and juice drinks would disproportionately increase taxes on low-income families in Philadelphia.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""I believe in tax cuts. I believe in being a supply-sider. I cut the income tax I think it was 24 percent. We got 42 percent more revenues.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"The GOP health care plan gives ""$275 billion in tax breaks for the top 2 percent, people earning $250,000 a year or more.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""More than 30 cents of every state tax dollar goes to Medicaid.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Taxes are lower on families than they've been probably in the last 50 years.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Jim Renacci tried to avoid paying taxes on nearly $14 million that he made.""",true,true,"['true', 'mostly-true']",2,True
+"""If you have an investment for your child's education or own a mutual fund or a stock in a retirement plan, (Obama) is going to raise your taxes.""",false,false,['false'],1,True
+"Says ""taxes were raised 115 times in the eight years before I became governor"" and those increases were part of a ""path that led to wealth and jobs and people leaving our state.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Says he lived up to a 2008 promise when he ""closed corporate tax loopholes that were sending profits overseas.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""No Republicans voted for"" recent hikes in the income tax, payroll tax, capital gains tax, dividend tax and estate tax. ""These taxes were all passed under … Obamacare.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""Many of (Hillary Clinton's) friends took bigger deductions (than me). Warren Buffett took a massive deduction. (George) Soros, who is a friend of hers, took a massive deduction.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Barack Obama ""cut taxes for working families.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Says he has a plan for ""$1 billion in tax relief for Illinois.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says that ""the state spends more money on tax giveaways than it receives in tax collection.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Roy Cooper won't say how he will pay for ‘free’ college tuition.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""I think with the exception of the last year or maybe the last two years, we were at 100 percent"" when it came to contributing to the Providence pension fund.",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""When we got the income tax in 1913, the top rate was 7 percent. By 1980, the top rate was 70 percent.""",true,true,"['true', 'mostly-true']",2,True
+"Says Beto O'Rourke ""voted in favor of a $10 a barrel tax on every barrel of oil produced in the state of Texas.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Paul Ryan’s budget ""keeps the Obamacare taxes and spending cuts that paid for Obamacare, but then cuts all of the benefits.""",mostly-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Charlie Crist ""was pro-life, pro-gun and vehemently anti-tax.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Jasper County in Texas raised property taxes by 7 percent in order to pay for one death penalty case.""",true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,False
+"Under Donald Trump's tax plan, ""51 percent of single parents would see their taxes go up.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Minnesota is kicking butt relative to Wisconsin on everything from employment and job creation to school test scores, educated work force and a host of other factors and rankings""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+Property tax exemptions can be granted to small businesses that move into Milwaukee County.,false,false,['false'],1,True
+"In Virginia ""there has been a billion dollars in surplus over the last three years. The legislature has spent less than 1 percent of that on roads.""",false,false,"['mostly-false', 'false']",2,True
+"Says Republican recall challenger Jonathan Steitz ""failed to pay his taxes.""",half-true,half-true,['half-true'],1,True
+"""One percent of the American people make over 21 percent of all the income in America. That wasn’t the way before George Bush became president.""",half-true,half-true,['half-true'],1,True
+The accuracy of the Obama tax calculator,half-true,half-true,"['mostly-true', 'half-true']",2,True
+"Coca-Cola’s CEO ""said he finds it easier to do work in China than in the United States.""",half-true,half-true,['half-true'],1,True
+"""Western New Yorkers pay some of the highest property taxes in the state.""",half-true,true,"['true', 'mostly-true']",2,False
+"Says ""One of the state’s largest governments made charging this tax one of their top priorities just this year.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""Last week Senator Obama's running mate said, get this, 'Raising taxes is patriotic.' """,mostly-false,mostly-false,['mostly-false'],1,True
+"Wisconsin property taxes, as a percentage of personal income, ""are the lowest that they've been since the end of World War II.""",true,true,['true'],1,True
+"Potential Foxconn changes are due to ""the wave of economic uncertainty"" from Evers administration",pants-fire,pants-fire,['pants-fire'],1,True
+"Tim Kaine proposed ""over $6 billion in tax increases from the time he entered the governor’s mansion until the time he left.""",half-true,half-true,['half-true'],1,True
+"Says Gov. Tony Evers' budget includes tax and fee increases even while spending ""more on his way to a nearly $2 billion deficit.""",half-true,half-true,['half-true'],1,True
+"The GOP tax plan ""Sabotages the health care of 13 MILLION Americans.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says an illegal immigrant fraudulently claimed children who actually lived in Mexico on income tax forms to collect more than $29,000.",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Grateful insurance company executives and their lobbyists"" from Bermuda gave McCain $50,000.",true,true,['true'],1,True
+"Says Arizona congressional candidate Ray Strauss is ""a ‘Champion of Big Government’ for his votes to raise taxes while on the local city council.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Travis County now has the highest urban county tax rate in Texas.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Mitt Romney’s pledged to protect (oil companies') record profits – and their billions in special tax breaks, too.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Rep. Paul Ryan’s Medicare plan ""lines the pockets of the private insurance companies,"" increases costs for seniors and does not reduce the deficit.",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"""Scott Walker cut school funding more per student than any governor in America.""",mostly-true,mostly-true,['mostly-true'],1,True
+Says Nancy Pelosi’s coronavirus bill includes “tax credits for solar and wind energy … retirement plans for community newspaper employees … $300 million for PBS … climate change studies” and more.,mostly-true,false,"['mostly-false', 'false']",2,False
+"""Steve Southerland did not pay his taxes in '05, '06, '07, '08 or '09.""",false,false,['false'],1,True
+"""Congressman (Ron) DeSantis sponsored legislation to increase sales taxes by 23 percent, hurting families, destroying jobs, devastating tourism""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"During the three times the top marginal tax rates were lowered in the 20th century, ""revenues actually went up while the economy improved in America.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""We enacted the biggest tax cuts and reforms in American history.""",false,false,"['mostly-false', 'false']",2,True
+"“After the referendum, Milwaukee Public Schools has a larger tax levy than the City of Milwaukee.”",true,true,"['true', 'mostly-true']",2,True
+Says Texas has “lower taxes and less regulations than anywhere else in the U.S.”,false,false,"['mostly-false', 'false']",2,True
+"""$500 billion of the extension of the Bush tax cuts for the wealthy goes to 120,000 families.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Loranne Ausley ""voted six times to tax your savings.""",false,false,"['mostly-false', 'false']",2,True
+A $5-a-night hotel/motel tax that’s part of the transportation bill will hurt Georgia’s convention business by adding extra costs for large groups coming to the state.,mostly-true,mostly-true,['mostly-true'],1,True
+"Says Zack Space voted for budgets and debt, energy taxes and the stimulus, and ""we still lost more than 2.5 million jobs.""",half-true,half-true,['half-true'],1,True
+"Says Mitt Romney's plan ""calls for a $5 trillion tax cut.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""...some of those (tax increases) were either court-ordered, or they were voted on by the people and approved by the people for (such) things as roads.""",half-true,half-true,['half-true'],1,True
+"""We have the most progressive tax system in the country, right here in Vermont.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“The single biggest driver of our national debt since 2001 has been Republican tax cuts.”,half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"$65 billion ""would be added to the deficit if we keep the cuts for people on the highest incomes.""",mostly-true,mostly-true,['mostly-true'],1,True
+"In Manchester, N.H., gubernatorial candidate Joyce Craig “pushed for a city sales tax. Then, Joyce Craig overrode the tax cap and tried to raise taxes six times.”",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Lee Zeldin “voted for Cuomo’s Billion Dollar Tax hike and every Cuomo budget.”,half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""As mayor, [Allan Fung] raised taxes three times.""",mostly-true,half-true,"['mostly-true', 'half-true']",2,True
+"Says Paul Ryan is leading the effort to ""pass a tax bill with divisive conception language by disguising it as a college savings plan"" in ""another attempt to ban abortion and rob women of their reproductive rights.""",half-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""While the country’s economy was battered, nine states with no income tax actually grew jobs from 2001 to 2010.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Oregon is spending $10 million advertising Obamacare with ads that don’t even mention the program and how to enroll in it"" and that don’t ""mention the word ‘insurance.’""",mostly-false,mostly-false,['mostly-false'],1,True
+"The Obama administration has been ""raising taxes.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Corporate entities are paying a lot less taxes this year than they have in the past. Part of that is from a loophole in a bill that was passed in 2015.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says Multnomah County libraries ""are open 44 hours per week … the lowest of any library in the four-county region.""",true,true,['true'],1,True
+"Wisconsin’s ""rainy day fund"" is ""165 times bigger than when we first took office.""",true,true,['true'],1,True
+“Tim Michels pushed for years to raise (Wisconsin’s) gas tax.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"Says ""80 percent of the tax breaks in"" President Donald Trump’s tax-cut ""proposal go to the top 1 percent, that is, people making more than $730,000 a year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says since 2000, Austin’s ""tax burden"" rose more than 40 percent while family income rose more than 20 percent.",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Wisconsin Republicans have passed multiple billion dollar middle-class tax cuts this year, but each time we have, Governor Tony Evers has vetoed the relief.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""The Obama Administration's own White House Council of Economic Advisers has estimated 4.7 million Americans will lose their jobs if the (health care) bill passes.""",false,false,['false'],1,True
+"Says CNN's Wolf Blitzer was wrong to say that ""the wealthiest Americans, they pay the most in taxes already -- 50 percent of Americans don't even pay any federal income tax.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Republican presidential candidate and Gov. John Kasich has spent 177 days out of state and used $350,000 in taxpayer money on his ""costly campaign.""",true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"Says the individual mandate is ""highly unpopular.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The largest U.S. companies would owe $620 billion in U.S. taxes on the cash they store in tax havens.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Hillary Clinton ""wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We Really Do Have the Highest Corporate Tax Rate in the World.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""47 - New provisions ObamaCare charges the IRS with implementing, according to the Government Accountability Office.""",true,true,['true'],1,True
+"""The missiles that were launched at American forces in Iraq from Iran, were funded by Barack Obama, with American tax dollars.""",false,false,['false'],1,True
+"""The average person only pays about $1,800 in state taxes — which is the lowest of all 50 states.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"In 2004, ""20 percent of U.S. households were getting about 75 percent of their income from the federal government. ... Another 20 percent were receiving almost 40 percent.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Not one dime of the tax cut that they are going to enact with the repeal of Obamacare will go to people who make under $200,000.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Jim Renacci cheated on his income taxes"" and is a ""deadbeat citizen.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Sen. McCain's economic plan gives nearly $4-billion in tax breaks to the oil companies but doesn't provide any tax relief to more than 100-million middle-class families.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We have the highest corporate tax rate in the world. It’s 35 percent.""",true,true,['true'],1,True
+"""Ron Johnson pushed through a special tax loophole that benefited his own family's business … Then he cashed out of the company for $5 million … (he has) doubled his wealth since taking office.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Marco Rubio's ""economic proposals will add $3.5 trillion to the federal deficit.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"Says that after ""the last income tax increase in the state of Illinois, we saw the largest exodus of middle-income families.""",false,false,"['mostly-false', 'false']",2,True
+"""Governor Christie, his idea of jumpstarting the economy is to propose a trickle-down income tax cut last year and in his budget address this year, he stated his support for it again.""",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""We’re the most highly taxed nation in the world.""",false,false,['false'],1,True
+"Says Democratic challenger for his N.C. House seat ""raised taxes on clothing, school supplies – even baby diapers!""",pants-fire,false,"['mostly-false', 'false']",2,False
+"If Austin voters reject Proposition 1, a ""completely new City-run"" criminal background check ""process will cost millions in processing fees, additional staff, and bureaucracy"" with taxpayers getting ""the bill.""",false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""The Florida Legislature raised taxes and fees by almost $2 billion"" in the 2009 session.",true,true,['true'],1,True
+"Research shows the employer mandate in the House health reform bill would ""place millions 'at substantial risk of unemployment' — with minority workers losing their jobs at twice the rate of their white counterparts.""",half-true,half-true,['half-true'],1,True
+"""Right now, we have the lowest gas tax of anywhere in the country.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""We know that tax cuts are remarkably un-stimulative when you compare them with different kinds of government spending.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"After enactment of the Republican tax bill, ""school teachers can no longer deduct the cost of their classroom supplies on their taxes.""",false,false,"['mostly-false', 'false']",2,True
+"In the United States, ""we tax our exports and don't tax our imports.""",half-true,half-true,['half-true'],1,True
+"""The Social Security trust fund … is already facing imminent bankruptcy.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Thanks to our reforms, the average family will have an extra $322 to spend.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says the United States has the ""highest corporate tax rate in the world.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“Americans who worked through the pandemic are being paid up to $26,000 by qualifying for the Employee Retention Credit.”",false,false,['false'],1,True
+"In 2009, ""the state Legislature passed more than $5 billion in tax increases.""",false,false,['false'],1,True
+"Says California Republican Young Kim is ""a tax cheat"" who ""illegally claimed a $7,000 annual homestead exemption on a house she wasn’t living in,"" had ""multiple tax liens placed on her"" as a result and ""owes over $10,000 in unpaid federal income taxes.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""The top 1% pays 90% of income taxes.”",false,false,"['mostly-false', 'false']",2,True
+"""We have the highest corporate income tax in the world right now.""",mostly-true,mostly-true,['mostly-true'],1,True
+"The transportation package passed by the General Assembly would impose the ""largest tax increase in Virginia’s history.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Wisconsin Democrats during the previous administration adopted ""double-digit tax increases.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""The bill that I carried cutting MO’s income tax for 1st time in over 100 years will start its 1st phase in jan 1 2018. #moleg @Eric_Schmitt""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“The Biden administration is attempting to empower the IRS to monitor every single withdrawal, deposit, and transaction you make from your personal banking accounts, PayPal, Venmo, etc.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""Austin has the lowest property tax rate by far of the five major cities in Texas.""",half-true,true,"['true', 'mostly-true']",2,False
+Rhode Island spends less than 10 percent of what the average state spends promoting tourism.,mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"“A new, independent study put out last week found that at least 55 of our largest corporations used various loopholes to pay zero federal income tax in 2020.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Our tax code is so complicated it extracts $140 billion in extra tax preparation costs every year - one thousand dollars for every American family.""",half-true,half-true,['half-true'],1,True
+"""Property taxes are lower right now than they were"" in December 2010 on a median-valued home in Wisconsin.",mostly-true,mostly-true,['mostly-true'],1,True
+Student debt relief is taxable by the Internal Revenue Service.,false,false,"['true', 'mostly-false', 'false']",3,True
+"Bing Energy said it decided to move to Florida because of Gov. Rick Scott’s ""plan to eliminate the corporate tax.""",half-true,half-true,['half-true'],1,True
+"Stimulus tax cuts ""began showing up in paychecks of 4.8 million Indiana households about three months ago.""",false,false,['false'],1,True
+"David Dewhurst has a ""record of promoting an income tax.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"Under Obamacare, Virginia taxpayers would have been ""forced to pay for abortions"" if the General Assembly had not recently intervened.",false,false,"['mostly-false', 'false']",2,True
+"The richest 400 taxpayers are taxed at a lower rate than a $29,000-a-year worker",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Tom Ganley supports a 23 percent national sales tax that would raise taxes on the middle class while giving a huge tax break to millionaires like himself.""",mostly-false,mostly-false,['mostly-false'],1,True
+“The (Evers) Era locked Wisconsin families into a 400‑year property tax increase.”,mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""When career politician Daniel Webster became speaker of the House, he wasted $32,000 of our money on a spiral staircase for his office.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""If you make more than $250,000 a year … you only really take home about $125,000.""",false,false,['false'],1,True
+The Republican tax and spending bill will provide a “tax cut for Social Security recipients.”,half-true,mostly-false,"['mostly-false', 'false']",2,False
+"""Close to half of the voters in America, the only tax they pay is the payroll tax.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+The addition of a 1 percent sales tax would cost a typical household in Hillsborough County approximately $12 a month.,mostly-true,mostly-true,['mostly-true'],1,True
+"Says ""$3 trillion in offshore money... is coming back into the economy"" because of the GOP tax bills.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The Inflation Reduction Act led to higher taxes.”,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"The Bush tax cuts ""helped to create a substantial part of the deficit.""",true,true,['true'],1,True
+"The health care law includes ""a 3.8% sales tax"" on ""all real estate transactions.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""The United States currently has the highest corporate tax rate in the world.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Kasich’s budget raised taxes by billions, hitting businesses hard and the middle class even harder.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Scott Walker rejected legislation to make college loan payments tax deductible and the result was ""to raise taxes on students.""",false,false,['false'],1,True
+"""More people, almost twice as many, pay the penalty or take the waiver than signed up for (Obamacare).""",false,false,"['mostly-false', 'false']",2,True
+"Says in regard to providing ""more tax cuts for the rich,"" Bill Pascrell said, ""Republicans had great ideas. I liked some of their ideas.""",pants-fire,false,"['half-true', 'mostly-false', 'false']",3,False
+"Marc Molinaro ""has cut taxes, his budget now is lower than it was six years ago"" in Dutchess County",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"California ""is hemorrhaging population.""",mostly-false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Democratic legislators this year ""don't want to cut your taxes under any circumstances.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"After Ronald Reagan cut taxes in 1981 the U.S. enjoyed ""exponential growth.""",mostly-false,mostly-false,['mostly-false'],1,True
+"""The most significant driver of out-migration [from Rhode Island] is the estate tax.""",false,false,['false'],1,True
+"A 50-50 public-private split for paying for a new Milwaukee Bucks arena would ""be much better -- in terms of the portion of the public financing -- than most of the other arena projects done around the country.""",true,true,['true'],1,True
+"""98 percent of small businesses make less than $250,000"" and would not see a tax increase under Barack Obama's plan.",true,true,['true'],1,True
+"""GDP is booming. Let’s spread the prosperity to the middle class with big #TaxCuts. Our #TaxReform package doubles standard deduction, brings $$$ back home, and reduces rates for ALL taxpayers. We will #MAGA.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says Wisconsin Gov. Scott Walker in his budget repair bill ""is showing that no stone goes unturned as he asks everyone to tighten their belts.""",false,false,['false'],1,True
+"Starting in 2011, ""you will be required to pay taxes"" on ""the value of whatever health insurance you are given by the company.""",pants-fire,pants-fire,['pants-fire'],1,True
+"With his proposal to cut income and property taxes, Scott Walker is ""increasing the state deficit at a time when borrowing is already at record levels.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Says Daniel Webster ""used taxpayer funds to build a lobbyist lounge.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The state contributed $80 million for the new Bucks arena, but new income tax revenue from basketball events alone ""is estimated to be probably over $600 million over the life of the lease.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""About 80 percent of (the manufacturing and agriculture) tax credit goes to claimants who are making $1 million or more.""",true,true,['true'],1,True
+"Says Kelly Loeffler supports ""raising taxes on Georgia's middle class.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"Rubio's tax swap proposal ""would have been a massive tax increase.""",false,false,['false'],1,True
+"Ending the estate tax would ""protect millions of small businesses and the American farmer.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says Chris Christie ""inherited the highest taxes in America and the worst unemployment in the region.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says tax revenue was lower than expected in May and ""that's basically a clear indication the governor's counselors are probably right -- that we are still not out of the woods yet.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says state Senate candidate ""Monk Elmer voted to exceed the (school district property tax) spending caps.""",pants-fire,pants-fire,['pants-fire'],1,True
+"The federal government ""may put 16,500 IRS agents in charge of policing President Obama's health care bill.""",half-true,half-true,['half-true'],1,True
+"""Sen. Bob Menendez voted to enact a new tax on the sale of homes of 3.8%.""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+Says he has a track record of not raising taxes.,false,false,['false'],1,True
+"The Inflation Reduction Act ""doubles the size of the IRS, raises your taxes and spends billions on a green energy slush fund.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+“NYT is correcting their lies..Trump paid $1M in 2016 & $3.8M in 2017-18..THEY LIED..AGAIN. INFO ON TWITTER THIS AM.”,false,false,"['mostly-false', 'false']",2,True
+Says Joe Cunningham voted for $5 million in taxpayer funds to go into his and other politicians’ campaigns to pay for personal expenses and TV ads.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The stimulus program ""cut taxes for 95 percent of the American people.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""The Alternative Minimum Tax...was created by Congress in 1969 to affect 155 wealthy Americans. Because it was never indexed for inflation, those original 155 taxpayers has increased to affect about 3.5-million in 2006.""",true,true,"['true', 'mostly-true']",2,True
+"""What happens is people like Warren Buffett — and he says this himself...pay 15 percent on the millions of dollars that they earn from wealth income... while their secretary is paying a higher rate on her work income. It's not right.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"While in the Illinois Senate, Barack Obama passed ""tax cuts for hard-working families.""",mostly-true,half-true,"['mostly-true', 'half-true']",2,True
+"Palin ""inherited a city with zero debt, but left it with indebtedness of over $22-million.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Georgia lawmakers balanced the budget without raising taxes on residents.,mostly-true,mostly-true,['mostly-true'],1,True
+"""There haven't been tax cuts for the rich"" in Rhode Island.",false,false,"['mostly-false', 'false']",2,True
+"""Pritzker and Madigan want to change the constitution to allow a permanent jobs tax on middle class families.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"Milwaukee has less taxing power than most similar cities and is the only U.S. city of 400,000 or more ""that does not have a sales tax or local income tax.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Redistribution"" has ""never been a characteristic of America.""",pants-fire,false,['false'],1,False
+"President Obama’s health care law says ""when you sell your house now you have to pay a 3.8 percent tax.""",pants-fire,false,"['mostly-false', 'false']",2,False
+“Fifty-one percent of our taxes are paid by 2% of New Yorkers.”,mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"The Affordable Care Act ""will likely go down as the biggest tax increase in history.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false']",3,False
+The Republican replacement for Obamacare does not give massive tax cuts to wealthy Americans.,false,false,"['mostly-false', 'false']",2,True
+"A bill to eliminate Delta Air Lines’ jet fuel tax breaks ""violates federal law and puts the state at risk of losing critical funding from the Federal Aviation Administration.""",true,true,['true'],1,True
+"""For decades before I was elected, governors tried and failed to get Minnesota out of the top 10 highest-taxed states in the country. I actually did it.""",half-true,half-true,['half-true'],1,True
+"After the Tax Cuts and Jobs Act, ""the typical American worker’s pay growing at more than 3 percent a year, record low unemployment.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Paul Ryan ""voted for two wars that were unpaid for, voted for the Bush tax cuts that were unpaid for, voted for the prescription drug bill that cost as much as my health care bill -- but wasn't paid for.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""We are the only advanced industrialized nation that bases our educational funding on property taxes.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""HR 1 is going to take your hard-earned tax dollars and millions more and send them to (a political candidate’s) campaign so (they) can put ads on TV.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""I’ve got the spending down, I’ve got the debt down a little bit, I’ve got the reserves up.""",mostly-true,mostly-true,['mostly-true'],1,True
+"President Donald Trump’s tax returns show “what any wealthy person's tax history is, if you can believe it — which is good years and bad years, years of immense taxes and years of almost no taxes at all because you carry over losses.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"The 2011-13 state budget ""cuts overall funding for public schools by $1.6 billion""",mostly-false,mostly-false,['mostly-false'],1,True
+"“After California taxes, Trey Lance's $34.1M rookie deal becomes just $16M.""",half-true,true,"['true', 'mostly-true']",2,False
+Sen. Ron Johnson has been “rewarding companies that outsource to China.”,false,mostly-false,"['mostly-false', 'false']",2,True
+"""We have the lowest corporate tax rate since 1968.""",true,true,"['true', 'mostly-true']",2,True
+"Says Oregon’s highest income tax bracket included anyone making more than $250,000 in 2012 before the state expanded its upper bracket to include ""anyone making more than $125,000.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"“The nonpartisan Congressional Budget Office says with the supersized staff, the IRS audit rate ‘would rise for ALL taxpayers’ regardless of income, and would even result in audits of innocent Americans who have paid their taxes and don’t owe the IRS anything.”",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""This governor has given us continual balanced budgets without raising taxes.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"In West Virginia, ""personal income tax collections (were) up 14% from 2017.""",true,true,"['true', 'mostly-true']",2,True
+"""Obama voted to raise taxes on people making just $42,000.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Of six Rhode Island tax-credit programs worth about $35 million, ""three companies got 90 percent of that -- CVS and two companies not even located in the state of Rhode Island.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Americans spend ""6.1 billion hours a year"" on tax preparation.",true,true,"['true', 'mostly-true']",2,True
+"""My plan actually gives the middle class the greatest break: $2,000 per family.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The House tax plan ""would provide permanent tax cuts for individuals who are multi-millionaires and billionaires,"" but ""all middle-class families will eventually face a tax increase, since tax relief for them expires.""",half-true,half-true,['half-true'],1,True
+"The Senate proposal to restore emergency unemployment benefits for five months was ""fully paid for.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Residential property taxes [in Providence] are up nearly 27 percent under Mayor Taveras.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"The Baucus health care bill ""would drastically restrict the use of flexible spending accounts (FSAs) in order to help pay for health care reform.""",half-true,half-true,['half-true'],1,True
+"The Export-Import Bank ""doesn’t cost taxpayers anything.""",half-true,false,"['mostly-false', 'false']",2,False
+"""People who wash cars at home will use approximately 80 percent more water than they do in a car wash.""",pants-fire,false,['false'],1,False
+"""The top 1 percent pay 45 percent of all taxes in the country.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Half of the proposed federal tax breaks ​""would go to the wealthiest 1 percent.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Donald Trump “proposed when he was president” that “he wanted to raise the gas tax up to 25 cents.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Florida has “the second lowest tax burden per capita in the United States.”,mostly-true,true,"['true', 'mostly-true']",2,True
+"""If you're a … wealthy CEO or a … hedge fund manager in America right now, your taxes are … lower than they've been since the 1950s.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""The Republican governor who stood up and cut spending instead of raising taxes.""",half-true,half-true,['half-true'],1,True
+"According to ""independent experts,"" Donald Trump's tax plan ""would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy.""",true,true,"['true', 'mostly-true']",2,True
+“If you earn $100 and pay $33 income tax you’re left with $67. You then buy $67 worth of fuel and in doing so pay a 48% fuel tax (fuel tax = $32.16 + $6.70 GST). This means that the government just got $71.86 tax from your hard earned $100.”,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Every year we spend roughly $500 billion on tax compliance. That is roughly the budget of our entire military, entirely wasted on tax compliance.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Pepper ... kicked off a jock tax, imposing a levy on the sports and entertainment industry.""",true,true,['true'],1,True
+"""We bailed out"" Johnson Controls when ""we saved the auto industry"" and ""now they want to avoid paying taxes.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""I have fought for our shared values without being an ideologue or a partisan""",mostly-false,mostly-true,"['mostly-true', 'half-true']",2,False
+Says the state tax burden per citizen in New York is twice as high as in Florida.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+Says two-thirds of groups targeted for IRS scrutiny were not conservative.,pants-fire,false,"['mostly-false', 'false']",2,False
+"""Alabama is operating government on the lowest amount of tax revenue of any state in the nation.""",mostly-true,true,['true'],1,False
+"""The state’s tax burden has, according to census figures released today, cost our state another 190,000 residents in 2009.""",false,false,['false'],1,True
+"""With the tax controls we already put in place, property taxes on a typical home in December of 2014 will actually be lower than they were in December of 2010.""",mostly-true,mostly-true,['mostly-true'],1,True
+"“This one here has subsidies for people making as much as $800,000 to be able to buy a Tesla.”",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The deficit ... is coming down, and it’s coming down rapidly.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says that when he was governor of Utah, he worked with the state Legislature to create a flat tax that ""cut income taxes by 30 percent.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Peter DeFazio ""will sneak in a 1 percent tax on all banking transactions.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Says Democratic recall opponent Shelly Moore ""opposes any limit on taxes.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Gas is under $1 in 13 states, but $2.27 in Pennsylvania, because of the governor.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Voucher schools have increased property taxes by $1 billion since 2011,mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Barack Obama and Hillary Clinton have left us with $19 trillion in debt.""",mostly-false,mostly-false,['mostly-false'],1,True
+"""Gov. (Scott) Walker has yet to create a job, he gives away millions to his friends, and he raises taxes on working people.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false']",2,True
+"Says proponents of a bond package for the Austin school district say the district has the second-lowest bond tax rate ""among the Central Texas area school districts.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“We had the biggest tax cut for families that this country has ever seen.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"""Mitt Romney is the first major party candidate for president of the United States in modern times not to release at least 12 years of tax returns.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Tammy Baldwin voted for $5 trillion in higher taxes.""",half-true,half-true,['half-true'],1,True
+"""In fiscal year 2011-2012, 4,191 abortions were paid for by taxpayers via the Oregon Health Plan.""",true,true,['true'],1,True
+"""We cut property taxes for seniors and our middle class.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Democratic tax hikes led $70 billion of wealth to leave New Jersey between 2004 and 2008, and mainly relocate to Florida, North Carolina, Virginia and Pennsylvania.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"People buy more items during Georgia’s sales-tax holidays, boosting economic activity.",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"Like me, Scott Walker opposed the 1998 transportation bill and the $9 billion of wasteful spending.",false,false,['false'],1,True
+"""McCain opposes repeal of the death tax.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""The Legislature passed Gov. Walker’s so-called property tax relief bill,"" but the Republicans ""are still raising your property taxes.""",half-true,half-true,['half-true'],1,True
+"""As chairman of the City Colleges, I cut millions in waste and we cut property taxes.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says in Washington, D.C., Sen. Richard Burr ""took millions from special interests, went there and cashed in, voted to cut (his) own taxes and raise taxes on working folks.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Americans received the biggest tax cut in history last year.""",false,false,"['mostly-false', 'false']",2,True
+"""The tax carve out (Ron) Johnson spearheaded overwhelmingly benefited the wealthiest, over small businesses.""",true,true,"['true', 'mostly-true']",2,True
+Says he cut 'tax rates five times',half-true,half-true,['half-true'],1,True
+"Says Rick Perry recently said he ""wanted another (Texas) business tax.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Says four Democratic state senators voted to ""raise taxes on Wisconsin workers by another $510 a month so freeloaders can get free state-run health care.""",half-true,half-true,['half-true'],1,True
+"""The University of Wisconsin System budget is the biggest it has ever been.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Over the past two years, Florida has cut more than $1 billion in taxes.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says raising the state income tax rate on millionaires to offset property taxes for other residents is ""not a tax increase. It's a tax shift.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Approving the constitutional amendment on Illinois' November ballot “would let the politicians immediately implement their plan to increase taxes on small businesses, farmers and large employers.”",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"President Obama plans to ""impose a tax of at least 23 percent on the Medicare prescription drug benefit for low-income beneficiaries.""",false,false,"['mostly-false', 'false']",2,True
+"What Republicans call the ""death tax"" is the estate tax ""on the ultra wealthy"" which, in 2016, was paid by only ""two out of every 1,000 people.""",true,true,['true'],1,True
+"Medicare is ""going broke. The trust fund goes bankrupt in 2026.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""And delivered more tax relief than the other Republicans combined.""",mostly-true,mostly-true,['mostly-true'],1,True
+"This year’s state budget ""continues to direct millions in taxpayer dollars in advertising to the failing Start-Up NY program""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""We passed without, frankly, the help of the Republican caucus, we passed 25 tax cuts last year, mostly aimed at the middle class and small businesses.""",true,true,"['true', 'mostly-true']",2,True
+"Says Donald Trump ""proposes tax cuts, too -- $3 trillion for millionaires like himself and $2 trillion for corporations like his.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Nobody is leaving Memphis. That's a myth.""",pants-fire,false,['false'],1,False
+"A bill to aid state and local governments ""is fully paid-for by closing costly corporate tax loopholes.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""There was virtually no new business investment"" after the 2017 tax law. ""The bulk was used to buy back their own stock.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"The tax-cut deal ""adds more than $800 billion to the deficit over two years -- more than the cost of TARP and more than the cost of the Recovery Act"" and about the same as health care reform.",mostly-true,mostly-true,['mostly-true'],1,True
+"Says Donna Campbell is pushing a 35 percent sales tax extending to medicine, groceries and real estate.",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says North Carolinians are ""already paying for"" Medicaid expansion, even though the state hasn’t expanded Medicaid.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""(The Tax Policy Center) found that Romney would raise taxes on the average middle class family by $2,000 to pay for $5 trillion in tax cuts for millionaires and billionaires.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+Says Sen. Bill Nelson is a socialist.,pants-fire,false,"['mostly-false', 'false']",2,False
+The U.S. would gain revenue by cutting personal income tax rates in half and ending tax breaks.,true,true,['true'],1,True
+"Says Cal Cunningham “got a $40,000 tax incentive to update his butler’s pantry.”",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""During the Bush administration, liberal groups were targeted"" by the IRS, similar to recent targeting.",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Mitt Romney said at a January 2012 debate that under Paul Ryan’s tax plan, ""I’d have paid no taxes in the last two years.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""I've never supported a payroll tax.""",false,false,"['mostly-false', 'false']",2,True
+"Obama creates new tax on Christmas trees, fees get passed on to consumers.",mostly-false,mostly-false,"['mostly-true', 'mostly-false']",2,True
+"Trump’s tax plan is ""completely focused on the wealthy and the powerful - not the middle class.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"The new tax law is ""kicking the American economy into high gear with $5.5 trillion in tax cuts.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says that unless the recipient called back about ""your tax filings,"" you ""will be taken into custody by the local cops as there are more serious allegations pressed on your name.""",pants-fire,false,['false'],1,False
+"""Eighty percent of the American people support an approach (to federal budget problems) that includes revenues and includes cuts.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Jane Norton supported the largest tax hike in Colorado history.""",half-true,half-true,['half-true'],1,True
+"Frank Guinta voted to make middle class taxpayers pay over a $1,000 more a year in taxes.",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Joe Biden wants “to quadruple your taxes.”,false,false,"['mostly-false', 'false']",2,True
+"Under President Donald Trump’s newly signed tax law, “Those making less than $50,000 receive the largest (tax) cuts.”",mostly-false,false,"['mostly-false', 'false']",2,True
+“Biden signs 45% capital gains tax. Kiss your inheritance goodbye.”,false,false,"['mostly-false', 'false']",2,True
+"""We've got more revenue than we ever have.""",false,false,['false'],1,True
+"A ""Delta Force” seized a shipment of weapons headed to the IRS.",pants-fire,false,['false'],1,False
+"""Obama will charge a 28 percent tax on all home sales.""",false,false,['false'],1,True
+Says U.S. Senate candidate David Perdue flip-flopped on releasing his tax returns.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Voting for ""any Democrat"" gets you ""socialism ... undefended open borders ... immediate tax increases ... 100 percent government-run health care ...""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"When the New Hampshire Legislature raised the gasoline tax, gas prices in the state were ""skyrocketing.""",false,false,"['mostly-false', 'false']",2,True
+"Says the federal government is earning more tax revenue now ""than any other time.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""The (Wisconsin) governor has proposed tax giveaways to corporations.""",mostly-true,mostly-true,['mostly-true'],1,True
+Says Merrick Garland is investigating Donald Trump’s “tax evasion case.”,false,false,['false'],1,True
+"""The average tax refund is down about $170 compared to last year. Let’s call the President’s tax cut what it is: a middle-class tax hike to line the pockets of already wealthy corporations and the 1%.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Under the new health care law, ""if a landscaper wants to buy a new lawnmower, or a restaurant needs a new ice-maker, they have to report that to the feds.""",true,true,['true'],1,True
+"Democrats plan to keep student loan interest rates low  ""by raising taxes on small businesses, very small businesses … the kinds of small businesses that give jobs to graduates.""",false,false,"['mostly-false', 'false']",2,True
+"""Two-thirds of Wisconsin corporations don't pay state income taxes.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+“As your Lieutenant Governor…I cut your taxes.”,mostly-false,half-true,"['half-true', 'mostly-false', 'false']",3,True
+"""Under Gov. Romney's definition ... Donald Trump is a small business.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says the Koch brothers want to ""protect tax cuts for companies that ship our jobs overseas.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"""You know what Amazon paid in federal income taxes last year? Zero.""",true,true,"['true', 'mostly-true', 'false']",3,True
+"Because of a local version of Amendment 4, ""the taxpayers of St. Pete Beach have had to pay hundreds of thousands in legal bills.""",true,true,['true'],1,True
+"Say ""in November 2010, voters overwhelmingly supported the idea of creating a (library) district.""",half-true,half-true,['half-true'],1,True
+"Says Ronald Reagan ""understood repeatedly that when the deficit started to get out of control, that for him to make a deal he would have to propose both spending cuts and tax increases.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Boston is just 60 minutes away and it’s offering subsidies to developers who can charge higher rent than you can get in Providence while construction costs are more or less equal. As a result, the Boston skyline ""is completely dominated by the cranes.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""We will have the highest general revenue in state history next year. Conservative pro-growth policies work in our state.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"In April, ""the vast majority will be (filling out their taxes) on a single postcard.""",false,false,['false'],1,True
+Brookhaven homeowners pay hundreds of dollars less in property taxes compared with owners of the same-value homes in unincorporated DeKalb County.,half-true,half-true,['half-true'],1,True
+"""Eleven individuals who make over $30 million each got $22 million credit"" from Wisconsin's manufacturing and agriculture tax credit.",mostly-true,mostly-true,['mostly-true'],1,True
+"""Mitt Romney’s platform ...won't protect the mortgage interest (tax) deduction for middle-class families.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The home-mortgage deduction is widely thought to be ""a middle-class benefit. It's not -- 73 percent of it goes to people making a quarter-million dollars or more a year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""‘TrumpCare’ would allow insurance execs to personally make millions off your health care.""",mostly-false,mostly-false,['mostly-false'],1,True
+"When you compare our state pension system ""to other systems throughout the country, our benefits are not gold-plated. They are not rich. They are actually average or below average.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Governor Scott Cut Taxes 40 Times For Florida Families""",half-true,false,"['mostly-false', 'false']",2,False
+"Says allowing the payroll tax holiday to expire would end up ""costing another estimated 900,000 jobs in 2012.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Dan Gecker voted to ""double vehicle registration fees, costing (Chesterfield) county residents over $6 million annually.""",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"The United States is ""the only developed country in the world that has not cut its corporate tax rate.""",half-true,half-true,['half-true'],1,True
+Democrats “want to tax your retirement funds to pay for their new trillion dollar power grab.”,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Mark Sharpe has lowered property taxes by 17 percent.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Property taxes had increased 70 percent in the previous 10 years.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Sen. McCain says it was not a mistake to vote against the Bush tax cuts ... but now says the tax cuts need to be made permanent.""",true,true,['true'],1,True
+"Under Obama's budget plan, families making over $250,000 are ""going to lose their mortgage deduction, their charitable deductions.""",pants-fire,pants-fire,['pants-fire'],1,True
+"The United States ""is the only major country that taxes its own exports.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"If the legislature refuses to expand Medicaid, ""27 states are going to get our money – Virginia taxpayer money – into their states to provide health care for their citizens, paid for by us.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under a law proposed by Wisconsin Gov. Scott Walker, businesses that move into Wisconsin ""don't have to pay any taxes"" on their income for two years.",true,true,['true'],1,True
+Says his tax plan wouldn't leave the federal government with a $1.1 trillion hole.,false,false,"['mostly-false', 'false']",2,True
+"Says Donald Trump’s proposed tax treatment of hedge fund managers ""makes the current loophole even worse.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+“I can send every qualified person to a four-year college in their state for $150 billion.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+Says six studies verify that the math adds up for Mitt Romney’s tax plan.,mostly-false,false,"['mostly-false', 'false']",2,True
+"Says ""excise taxes are...disproportionately burdening middle- and lower-income consumers.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says GOP recall challenger Kim Simac ""was delinquent paying her property taxes eight of the last nine years.""",true,true,['true'],1,True
+"""I have never once raised the county tax levy -- not for seven straight years.""",true,true,"['true', 'mostly-true']",2,True
+"""Odd fact for odd draft: No. 2 overall pick will earn more than the No. 1 pick due to no state tax in Florida. So 2 not so bad.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In America, there is a father who is holding down two jobs and paying more taxes than the richest 400 families in America.""",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The Wisconsin Legislature raised taxes more than $5 billion in 2009.""",false,false,['false'],1,True
+"Under Donald Trump's tax plan, ""the top 0.1 percent of taxpayers -- people earning multiple millions of dollars a year, on average --  would get more tax relief than the bottom 60 percent of taxpayers combined.""",true,true,['true'],1,True
+"Says middle-class New York State residents will have the ""lowest tax rate in 70 years.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says his proposed payroll tax cut ""will mean an extra $1,500 in your pocket compared to if we do nothing.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"Sen. Sherrod Brown’s vote helped pass ""Barack Obama’s job-killing health care law, which slapped small businesses throughout Ohio with a $500 billion tax increase.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""Teachers and nurses and firefighters are paying a higher tax rate than billionaires and the biggest corporations.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The 'New York Times' writes this long story"" about Donald Trump’s tax returns but ""didn't point out there was no wrongdoing"" until paragraph 18.",false,false,['false'],1,True
+"""We created a flat tax in the state of Utah.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says U.S. Senate rival Tommy Thompson ""wants to give a new $265,000 tax cut to millionaires like himself while raising taxes on the middle class.""",half-true,half-true,['half-true'],1,True
+"Says Joe Biden told Americans, ‘If you elect me, your taxes are going to be raised, not cut.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"""I have cut taxes 63 times, including a 2006 property tax reduction that ranks as the largest in state history.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Our families have the highest property taxes in the country. We must change this.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We are not producing jobs. We created 80,000 jobs last month. We don't talk about the jobs that we lost. The net of it all is that we lost jobs.""",false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""There's still about $400 billion or $500 billion of the stimulus plan that has not been spent. Why don't we stop it.""",false,false,['false'],1,True
+"""Even with a permanent income tax increase... the budget is more than $1 billion out of balance…""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We got [the Quonset Business Park] for free and we’re getting zero dollars out of it into the state coffers … other than the fact that it produces the jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Obama has (a) new Christmas tree tax.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Texans pay the sixth-highest property tax in the nation.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says Tim Kaine ""actually tried to raise taxes by about $4 billion.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"RNC version of a Hillary Clinton valentine: ""Roses are red, violets are blue, I'll raise your taxes and there is nothing you can do.""",pants-fire,pants-fire,['pants-fire'],1,True
+“DeSantis erases Disney’s tax exempt law. Will cost Disney $200 Mil in taxes. Per year!”,false,false,"['mostly-false', 'false']",2,True
+"""The Alternative Minimum Tax was never intended to hit people in middle income, upper middle income. It was meant for people who are rich and evading taxes.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Kathryn Starkey ""aided and abetted the continued taxation on residents’ properties over 70 percent of the time by seconding motions and voting to keep the millage rate the same.""",half-true,half-true,['half-true'],1,True
+"""Currently we have some 40-45% of Americans who are not paying any taxes.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Fifty-one percent -- that is, a majority of American households -- paid no income tax in 2009. Zero. Zip. Nada.""",true,true,['true'],1,True
+"Taxpayers pay $18,000 a month for House Speaker Nancy Pelosi's district office in downtown San Francisco.",true,true,['true'],1,True
+"The $1,200 coronavirus relief checks this year are “just an advance on your next tax return. … Next year, you're automatically going to owe $1,200 come tax season.”",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"President Donald Trump’s tax law has “tax breaks for billionaires, permanent; tax breaks for everybody else, expire.”",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Russ Feingold ""voted to raise taxes on Social Security benefits for seniors, he even tried to give Social Security benefits to illegal immigrants.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Rhode Island spends ""52 percent more per capita on human service programs than the national average.""",true,true,"['true', 'mostly-true']",2,True
+"""I haven't raised taxes in the time I've been the governor of New Jersey.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"A proposal to reduce the deficit ""involved large tax cuts for the top bracket.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""We have ten different tax brackets and if you’re making $9,000, you’re already in the top tax bracket.""",false,false,"['mostly-false', 'false']",2,True
+"""In Florida, for eight years we cut taxes every year, totaling $19 billion.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+"In the 1980s, ""The lowest income people had the biggest gains.""",false,false,['false'],1,True
+"Wisconsin's $3 billion incentive offer to Foxconn is ""the largest gift ever by a state to a foreign company.""",half-true,half-true,['half-true'],1,True
+"Historically, the Social Security tax has been assessed on about 90% of U.S. income. Now it captures 83% because there's been such a growth of income among the highest earners.",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Harvard is sitting on top of a $54 billion hedge fund they call an ‘endowment’ that they pay zero taxes on. Yale has $31 Billion. Stanford $29 Billion. Princeton $26 Billion.”,half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Deficit spending ‘exploded during the Obama administration’ to $5.3 trillion over four years, compared to $2 trillion in eight years under President George W. Bush.",mostly-true,mostly-true,['mostly-true'],1,True
+"""Last year the IRS audited Americans earning less than $25,000 a year at five times the rate of other groups.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""As mayor, every year I was in office I did reduce taxes.""",half-true,half-true,['half-true'],1,True
+"""With this plan, the typical family of four will save $1,182 a year on their taxes.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says Panasonic stayed in New Jersey because of the Business Retention and Relocation Assistance Grant (BRRAG) program.,false,false,['false'],1,True
+"""There are more words in the IRS code than there are in the Bible.""",true,true,['true'],1,True
+"""I've cut taxes for ... middle-class families, small businesses.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Every taxpayer, their taxes are going down, except rich people in Manhattan and San Francisco. Some of them, their taxes may go up.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Bernie Sanders wants free health care for all and was asked how he would pay for it. His answer was raise taxes to 52% on anybody making over $29,000 per year.”",false,false,['false'],1,True
+"General Electric ""hasn't really created any jobs in this country, doesn't  pay any taxes, and they're making historic profits.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"Says Andrew Gillum ""wants to increase Florida taxes by a billion dollars.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""I signed the largest single tax cut in the history of Florida, a $25 billion tax cut over five years, directed at property tax cuts.""",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says Scott Walker cut ""taxes for the wealthiest"" and raised taxes ""on 140,000 Wisconsin families.""",half-true,half-true,['half-true'],1,True
+"""The ‘tax plan’ rolled out by @realDonaldTrump would have cut his taxes by $30 million in 2005 (the only year we have returns for).""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says ""Mike Madigan and Kwame Raoul team up to raise property taxes.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says businesses ""already pay most of the taxes.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Louisiana’s film incentives program is so big ""they actually shot an upcoming film initially titled ‘Don’t Mess With Texas’ in New Orleans!""",half-true,false,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"John McCain ""is proposing tax cuts that would give the average Fortune 500 CEO an additional $700,000 in tax cuts.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says ""Every time the Legislature 'suspended' the kicker, most recently the corporate kicker in 2007, Salem spent every penny and failed to stabilize the state's revenues.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Congress gave Wall Street ""trillions of dollars of zero interest loans.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Federal spending is ""the highest it's been as a share of our economy in 60 years (and) revenue is the lowest it's been as a share of our economy in 60 years.""",true,true,['true'],1,True
+"U.S. tariffs on China are ""not hurting anybody"" in the United States.",pants-fire,false,"['mostly-false', 'false']",2,False
+"Virginia is ""headed towards another surplus this year, unlike most states.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says ""Bill Pascrell voted to eliminate all estate taxes for billionaires, and I voted no.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"A tax plan promoted by North Carolina Senate candidate Thom Tillis will ""overwhelmingly benefit the wealthy.""",mostly-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Without representation, (the IRS) can increase taxes.""",pants-fire,pants-fire,['pants-fire'],1,True
+"If the “Big, Beautiful” tax and spending bill doesn’t pass, “there will be a 68% tax increase.”",false,false,['false'],1,True
+"""After the 2001 and 2003 Bush tax rate cuts ... there was more money coming into the treasury.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says that over the last decade, the state's population grew three times faster than the Texas state tax system.",mostly-true,mostly-true,['mostly-true'],1,True
+"Says President Barack Obama ""has not raised taxes.""",false,false,"['mostly-false', 'false']",2,True
+"Says economists Harvey Rosen and Martin Feldstein have said that ""paying for (Mitt) Romney’s tax cuts would require large tax increases on families making between $100,000 and $200,000.""",mostly-false,false,"['mostly-false', 'false']",2,True
+Says Florida Gov. Rick Scott’s cuts to education are the same as his proposed corporate income tax rate reduction.,mostly-false,mostly-false,['mostly-false'],1,True
+"Tax rates were significantly higher ""in the '40s, the '50s, and the '60s.""",true,true,['true'],1,True
+"Rep. Dan Donovan ""voted for Tax Cuts""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Chris Christie’s plan ""to kick-start our economy"" is to propose an ""income tax cut that disproportionately benefits the wealthy, and...he's still proposing it.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"""From 2013-2015, the richest 14 Americans increased their net wealth by more than $157 billion, yet the Republican budget would not require these Americans to contribute one penny to deficit reduction.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Nancy Pelosi wants a Windfall Tax on Retirement Income.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Says the state budget ""doubled property tax credits for seniors and middle class New Jerseyans"" and had ""no tax increases for any New Jersey family for the second year in a row.""",half-true,half-true,['half-true'],1,True
+"John Boehner has called for ""repealing the rest of the stimulus, which would raise taxes on 110 million middle class people.""",false,false,['false'],1,True
+"""Under Greg Abbott, property taxes have gone up $20 billion.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says Russ Feingold cast the ""deciding vote"" for the ""largest tax increase"" in history",mostly-false,mostly-false,['mostly-false'],1,True
+“You must give EVERY PENNY” of the advance child tax credit payments back when you file your 2021 taxes.,mostly-false,false,"['mostly-false', 'false']",2,True
+"Says in Newark ""we’re paying 80 percent of the school budget from local property taxes.""",false,false,['false'],1,True
+"Says ""Essex County residents suffer the second highest property taxes in the nation.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"Says Robert Hurt ""supports the tax loopholes that send American jobs overseas.""",false,false,['false'],1,True
+"Says the Treasury Department ""says 41 percent of all business income reported on individual returns would be hit by the [millionaires’] surtax"" that ""would harm small businessmen and women, the very people we are counting on to create new jobs.""",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""We're the highest developed nation taxed in the world.""",false,false,"['mostly-false', 'false']",2,True
+McCain supports tax breaks for companies that ship jobs overseas.,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""McCain will give more tax breaks to big oil.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says he ""will put a moratorium on tax hikes to keep families in their homes.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+"""Bob Menendez actually voted in favor of higher taxes more than 70 times!""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Mitt Romney is proposing a tax plan ""that would give millionaires another tax break and raises taxes on middle class families by up to $2,000 a year.""",mostly-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The FCC’s net neutrality policy includes what is ""essentially a massive tax increase.""",half-true,false,"['mostly-false', 'false']",2,False
+"President Obama ""promised"" families making less than $250,000 a year would not see taxes go up, but ""Obamacare raises 18 different taxes.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""John Boozman is excited about putting a 23 percent national sales tax on everything you buy.""",half-true,half-true,['half-true'],1,True
+"The state constitution ""clearly says there’s not to be a state income tax in Tennessee.""",false,false,"['mostly-false', 'false']",2,True
+"""Florida is now the only state in the nation to tax commercial leases.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""while state leaders have cut funding for our schools and other basic priorities, the amount of money the state is projected to give away through tax breaks increased by a whopping $3.4 billion.""",mostly-true,mostly-true,['mostly-true'],1,True
+"The Supreme Court said the individual mandate ""is a tax. So it's a tax.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Say President George W. Bush "" ‘borrowed’ $1.37 trillion of Social Security surplus revenue to pay for his tax cuts for the rich and his war in Iraq and never paid it back.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Democratic recall opponent Tom Barrett is campaigning on ""lifting property tax"" limits.",mostly-false,mostly-false,['mostly-false'],1,True
+"Corporate tax holidays pushed by Presidents John F. Kennedy and George W. Bush brought ""billions"" of dollars back into the United States.",half-true,half-true,['half-true'],1,True
+"California will have the ""highest gas tax in the nation"" once its 12 cent gas tax hike goes into effect.",false,false,"['mostly-false', 'false']",2,True
+Jacky Rosen “said ending taxes on tips would ‘hurt working Nevada families.’”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Sheldon Whitehouse voted for a ""$525-billion tax increase on the middle class.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""Only 25 percent of what people buy is subject to Rhode Island’s sales tax.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Richard Burr voted to protect tax breaks for companies that ship jobs overseas but voted against a tax break to help working people.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""There's no money in Social Security.""",false,false,['false'],1,True
+"""In my years in the State Legislature, I have never voted for a tax increase.""",false,false,['false'],1,True
+"Says state Sen. Randy Hopper, R-Fond du Lac, unlike typical taxpayers, ""didn’t pay taxes""",mostly-false,false,"['mostly-false', 'false']",2,True
+"When oil and gas prices sent state revenues up, Palin sent ""a large share of that revenue directly back to the people of Alaska.""",true,true,['true'],1,True
+Americans spend more than $160 billion and 6 billion hours per year complying with the tax code.,true,true,"['true', 'mostly-true']",2,True
+"Terry McAuliffe ""wants to raise your taxes $1,700 to pay for his infinite promises.""",false,mostly-false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says an arts tax would provide ""funding for certified arts and music teachers for every elementary school serving Portland residents.""",half-true,half-true,['half-true'],1,True
+"""Contrary to media reports, Georgia’s gas tax change led to no price increase at the pump.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Fox News reported California Gov. Gavin Newsom “will withhold” California’s federal income tax.,false,false,['false'],1,True
+"""Gov. Romney's plan would cut taxes for the folks at the very top.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""The top 1 percent pay over half of the entire revenue for this country.""",false,false,['false'],1,True
+"Says President Joe Biden ""is trying to send taxpayer dollars to manufacturers overseas that do not abide by the same (carbon emission) standards we do at home.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+"""Once our Blueprint for Prosperity is signed into law, we will have delivered $2 billion"" in tax relief.",true,mostly-true,"['true', 'mostly-true']",2,True
+"“Democrats are voting to add an army of 87,000 IRS agents who will target middle class taxpayers and conduct at least 1 million more audits each year. ”",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Thanks to Washington, nearly everyone will pay more in taxes in 2013. Somehow people think it's just the wealthy. It's not.""",half-true,half-true,['half-true'],1,True
+"""Both the state and federal governments make more per gallon in gas taxes than the oil companies make themselves for doing all the work.""",half-true,half-true,['half-true'],1,True
+"""The bill reported out of committee sets up a $50 billion slush fund that, while intended for resolving failing firms, is available for virtually any purpose that the treasury secretary sees fit.""",false,false,['false'],1,True
+Says five studies show his tax plan can cut rates and still bring the same revenue without raising taxes on the middle class.,mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""There are polls showing right now that the American people for the most part think it's a bad idea to provide tax cuts to the wealthy.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Obama raises taxes on seniors (and) hard-working families to give welfare to those who pay none.""",false,false,['false'],1,True
+"""Ninety-four percent of small businesses will face higher taxes under the Democrats' plan.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""If Gov. Romney's plan goes into effect … the average senior would have to pay $460 a year more in tax for their Social Security.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""In 67 different ways, Governor McCrory has raised taxes on middle income families.""",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"Claims credit for food tax reductions that ""previous Democrat regimes refused to make.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says ""Obamacare"" is ""the largest middle-class tax increase in history.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""She’s voted for 60 tax increases, hurting the middle class and small businesses.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Val Demings ""voted with Pelosi to raise taxes over $4,000 on Florida families.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Five percent of Americans pay over half the income taxes in this country. Forty percent of Americans pay no income taxes at all.""",true,true,['true'],1,True
+"""Under this tax cut, middle-class families don't save enough for a week's worth of groceries, while millionaires save enough to go on an exotic vacation.""",true,true,"['true', 'mostly-true']",2,True
+"Says ""Hillary Clinton has promised to raise taxes by $1 trillion dollars.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+“Biden’s Treasury Department declares IRS will monitor” all accounts over $600.,mostly-false,false,"['mostly-false', 'false']",2,True
+"""The only years that anybody's ever seen"" of Donald Trump’s tax returns ""showed he didn't pay any federal income tax.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says Lee Leffingwell ""raised property taxes 20 percent in three years.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Mitt Romney has put forward a plan ""that would cut taxes for millionaires while raising them for the middle class.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"With Medicare for All, ""study after study has shown that ... the average middle-class families will save $3,000 each and every year on their health care bills.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Repealing the sales tax on boats in Rhode Island has spawned 2,000 companies, 7,000 jobs and close to $2 billion a year in sales activity.",half-true,half-true,['half-true'],1,True
+"The Green New Deal ""would put a $600,000 tax burden on every household.""",false,false,"['mostly-false', 'false']",2,True
+"""Our reserves are now in much better shape than they were just a few years ago.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Ron Johnson ""voted five times for tax breaks that help companies ship Wisconsin jobs overseas.""",false,false,['false'],1,True
+"As state Commerce secretary, Mary Burke drafted, sponsored and promoted ""budgets that raised taxes by billions, created high structural deficits and raided funds to finance huge spending hikes.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""I’ve released 22 years of my tax returns. You can go online and look. (Donald Trump) hasn’t released one.”",true,true,['true'],1,True
+"The tax policies of George W. Bush ""created a dynamic effect of high growth.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Oregon is ""near the top or at the top of the list"" when it comes to capital gains tax",true,true,['true'],1,True
+"In 2009, Democratic Wisconsin state senators ""rammed through a billion-dollar tax hike in 24 hours with no public input.""",true,true,['true'],1,True
+"""Taxes and fees amount to about 20 percent of a typical $300 round-trip domestic ticket. That’s higher than taxes on products like alcohol, tobacco and firearms.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Today, property taxes are lower than they were in 2010.""",mostly-true,mostly-true,['mostly-true'],1,True
+"GOP tax plan ""is better for working, middle-class families"" since ""88% of the tax relief goes to those making $100,000 or less.""",half-true,half-true,['half-true'],1,True
+"""If you want to talk firsts for Bush, this was the first time in American history that a president took us into a war and cut taxes.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Says Mitt Romney ""has a corporation in Bermuda (but) failed to disclose that on seven different financial disclosures.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Seth Magaziner ""plans to spend billions more of your money.""",false,false,"['mostly-false', 'false']",2,True
+"""Paul Workman wants to raise the sales tax.""",false,false,['false'],1,True
+"Tom Suozzi raised taxes ""by hundreds of millions of dollars"" as Nassau County executive.",true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"In Wisconsin’s school voucher program, ""two-thirds of the money"" in the ""tax vouchers"" went to people ""making more than $100,000.""",false,false,['false'],1,True
+"Says Gov. Jeb Bush vetoed the ""Quiñones Plan"" because it was ""taxation without representation on a large scale.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Miami Dolphins ""are the only NFL team in the entire nation that pays property taxes.""",false,false,['false'],1,True
+"""We bring in enough tax revenue to service our debt, pay for Medicare and Medicaid and Social Security, and then still have about $300 (billion) or $400 billion left over.""",half-true,half-true,['half-true'],1,True
+"Hillary Clinton and Barack Obama want to raise taxes on dividends, a move that would crash the stock market.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says that even if his budget is adopted, private schools in the choice program would be getting about half the per-pupil funds that public schools receive",half-true,half-true,['half-true'],1,True
+"The United States ""has never been richer, if you look at per capita GDP.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""A cashier earning $20,000 per year pays the same (Virginia) income tax rate as a hedge fund manager earning $20 million per year.""",false,false,['false'],1,True
+"""Mayor Fung wants to punish our children's education by removing 12 million dollars from current funding to pay for his private charter school. Your taxes would increase by between 6 and 8 percent per year.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""Trump wants to cut (Medicare) just to pay for tax breaks to billionaires.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under Gov. John Kasich’s budget proposal, ""the top one percent in Ohio will pay $10,000 less in income tax each year, but Ohio’s working and middle class families will pay more.""",half-true,half-true,['half-true'],1,True
+"Independent analysts ""found that Trump's tax plan, given to the wealthy and big corporations, would rack up $30 trillion in debt.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Rhode Island ""didn't ratify the 13th Amendment to the Constitution to pay federal income taxes. So Rhode Island doesn't even have to pay federal income taxes.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""(Ronald Reagan) raised taxes a billion dollars in his first year as governor of California.""",true,true,['true'],1,True
+"""From a standpoint of the county government, neither school system has received an increase in funding over the past six years.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""You cannot build a little guy up by tearing a big guy down -- Abraham Lincoln said it.""",pants-fire,false,['false'],1,False
+"""If you sell your house after 2012 you will pay a 3.8 percent sales tax on it.""",pants-fire,false,['false'],1,False
+"""Rhode Island has the second highest per enrollee (Medicaid) cost of any state in the country, which is 60 percent higher than the national average.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Anybody who is familiar with the historical data from the IRS knows that raising income tax rates will likely actually reduce federal revenues.""",false,false,['false'],1,True
+“Gov. Tony Evers brought Republicans and Democrats together to cut income taxes for the middle class.”,half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"""Biden is adding more IRS agents to investigate your taxes than we have detectives investigating every crime in the country.”",false,false,"['mostly-false', 'false']",2,True
+"""There are a thousand billionaires now and you know what their average tax rate is? 8%.""",false,false,['false'],1,True
+"Says opponents of proposed Austin school district bonds say the district’s ""debt load doubles with these new bonds.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says the estate tax is a threat to family farms.,mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""Pads and tampons (are) still taxed when Viagra and Rogaine are not.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""I delivered a flat tax for my state. I took my state to No. 1 in job creation. With all due respect to what Rick Perry has said about Texas, we did a little bit better.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+“The CBO says (the Build Back Better Act) is $3 trillion of deficit spending.”,false,false,"['mostly-false', 'false']",2,True
+"""We have the highest per-pupil cost in the country.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""The Internal Revenue code has ballooned to a 5,600-page, 4 million-word complicated mess that is seven times as long as the Bible with none of the good news.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""The Travis County propositions will not raise your taxes! If you are 65 or older, your property taxes are frozen.""",false,false,"['mostly-false', 'false']",2,True
+"""Over the last eight years, we’ve shown that even though we’ve cut taxes by $8 billion, revenues continue to grow.""",true,true,['true'],1,True
+"Says Pennsylvania charges a top income tax rate of 3 percent and Delaware ""has no state income tax at all.""",half-true,false,"['mostly-false', 'false']",2,False
+"Barack Obama ""wants to nearly double the capital gains tax"" increasing taxes on ""mutual funds, 401(k)s"" for ""policemen, firemen, nurses.""",half-true,half-true,['half-true'],1,True
+"""Every time we've cut taxes, revenues have gone up, the economy has grown.""",false,false,['false'],1,True
+"“While serving as Town Supervisor, Nate McMurray voted to raise taxes on homeowners.”",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says his plan would cut taxes without increasing the deficit.,false,false,"['mostly-false', 'false']",2,True
+"""According to the Tax Foundation, the top 10 percent of earners already pay almost 80 percent of all taxes.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Cal Cunningham ""voted for over $1 billion in new taxes.”",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The average American is working through the month of May just to pay off the government.""",half-true,half-true,['half-true'],1,True
+"""The difference over the (previous) four years between where things were headed and where we brought them to over the last four years is a total of $816 in saved property tax money.""",mostly-false,mostly-false,['mostly-false'],1,True
+"""There have been literally hundreds of new tax preferences and loopholes added to the code since 1986, last time we did this.""",true,true,['true'],1,True
+"""Illegal aliens cost the state of Rhode Island $400 million a year.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""The Tax Foundation figures Rhode Island as the 10th highest state for state and local tax burden per capita in the country. We're the 6th worst in the country for the business tax index. We're the 3rd highest per capita in the country for all taxes.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Ed Gillespie’s 2006 book ""promoted an individual health care mandate, and recommends that it be enforced by the IRS through the income tax code.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Republican (small business tax cut) bill spends $80 million for better Google searches, not job creation""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Jeanne Shaheen was principally involved in a plot with Lois Lerner and President Barack Obama’s political appointee at the IRS to lead a program of harassment against conservative nonprofit groups during the 2012 election""",false,false,"['mostly-false', 'false']",2,True
+"Says Clackamas County Measure 3-401 ""will hurt our county, cripple economic growth, and increase our taxes with excessive special elections.""",false,false,['false'],1,True
+"Says that on the tax reform law, Democratic leaders ""are promising to take it all away.""",half-true,half-true,"['half-true', 'mostly-false']",2,True
+"Says Ohio is one of just 17 states with an estate tax, and it has ""the lowest threshold in the nation.""",true,true,['true'],1,True
+"The fiscal cliff deal ""ultimately raised taxes.""",half-true,half-true,['half-true'],1,True
+"""From the ‘Do As I Say Not As I Do’ department: federal employees owe $3.3 billion in back taxes.""",mostly-true,true,"['true', 'mostly-true']",2,True
+Nikki Haley “raised taxes.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"""I created a flat tax in the state of Utah. It took that state to the number-one position in terms of job creation.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Mike Bloomberg “opposed modest proposals during Barack Obama’s presidency to raise taxes on the wealthy, while advocating for cuts to Medicare and Social Security.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""Right now we’re the highest taxed country in the world.""",false,false,['false'],1,True
+"""In campaigns in the past with Sen. McCain and President George W. Bush and others, they have tended to release tax records in April.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+PolitiFact Oregon gave Rob Cornilles a Pants on Fire for a claim about taxes and fees.,pants-fire,pants-fire,['pants-fire'],1,True
+"""We've got the highest corporate tax rate in the world.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"The House tax bill has ""a lot more permanent relief for middle-income and even lower-income families"" than the Senate bill does.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Your family"" will pay $2,500 ""after Kara Eastman eliminates your tax cut.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"""Come February (2018), Americans will see their paychecks grow at the tune of saving $1,000 or more a year.""",half-true,half-true,['half-true'],1,True
+"""I cut taxes 23 times when I was mayor of New York City.""",half-true,half-true,['half-true'],1,True
+“California provides $83.1 billion more than we receive from the federal government. Texas? Receives $71.1 billion more than they provide to the federal government. 71% of the U.S. GDP comes from blue counties.”,mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""[E]xcise tax increases drive commerce across state lines.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""More astronauts have been to the moon than farmers who paid the inheritance tax in 2013.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""The largest tax increase that we have ever had in our state is yours – it is the business margins tax that you signed, governor.""",false,false,['false'],1,True
+"“Sen. Jacky Rosen voted to increase taxes on families making less than $75,000 a year.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"A monthly ""police and fire protection fee"" on all Wisconsin phone bills does nothing to support police and fire.",false,false,"['mostly-false', 'false']",2,True
+"Says Kurt Schrader ""cast the deciding vote that failed to extend tax cuts for Oregon’s middle-class families and small businesses.""",false,false,['false'],1,True
+"President Obama’s health-care law will ""add trillions of dollars in debt.""",false,false,"['mostly-false', 'false']",2,True
+Says families now pay out 40 percent of their income to taxes.,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says U.S. Senate candidate Joni Ernst signed a pledge that ""protects tax breaks for companies that ship jobs overseas.""",false,false,"['mostly-false', 'false']",2,True
+"""Richard Nixon released tax returns when he was under audit.""",true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The General Assembly ""has no explicit constitutional authority to impose income, sales, estate and the myriad of other taxes upon us.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Each [Corbett administration] budget finished in the black.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“For every dollar in federal taxes my constituents pay, we get a mere 93 cents back.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Kathy Manning got ""$30 million of your tax dollars plus $2.3 million a year"" to build a luxury hotel and parking lot",false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"Says President Barack Obama wants to raise ""the lowest (income) tax rate from 10 to 15 percent.""",false,false,['false'],1,True
+"The state and local tax deduction is a major benefit for moderate-income households because ""50% of households that claim State & Local Tax deduction make under $100K.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Every general City of Milwaukee employee ""pays toward his or her pension, but approximately 88 percent of our police officers and firefighters do not.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Under ""Trumpcare,"" the Republican replacement for Obamacare, ""$600 billion worth of tax breaks will go to the wealthiest in this country.""",half-true,half-true,['half-true'],1,True
+"For middle-class families under the Baucus plan, ""13 percent of what they make could be deducted directly from their paychecks . . . the so-called 'Max Tax.'""",half-true,half-true,['half-true'],1,True
+"“I pay $165 a month on my student loans for the next 13 years to pay them off. With Bernie Sanders’ plan, my student loans will be forgiven. I’ll only have to pay $450 extra in taxes a month for the next 25 years to make sure I’ll have no more student debt.”",false,false,"['mostly-false', 'false']",2,True
+"John McCain ""voted against the Bush tax cuts, both times.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Barack Obama and the Democrats have ""proposed a tax for not having health insurance.""",true,true,"['true', 'false']",2,True
+"""Sixty-two percent of all (Texas) property taxes are paid by businesses.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"George Allen's flat tax ""plan would actually shrink revenues further than the Perry (flat tax) plan.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says condoms ""used to be tax-exempt here in Texas.""",true,true,"['true', 'mostly-true']",2,True
+"Under Gov. Scott Walker, Wisconsin ""projected a $1 billion (budget) surplus and it turns out to be a deficit of $2.2 billion.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Says ""Richard Devlin raised your taxes by $1 billion in a single day.""",half-true,half-true,['half-true'],1,True
+"""There are so many loopholes ... our businesses pay effectively one of the lowest tax rates in the world.""",half-true,half-true,['half-true'],1,True
+"Abigail Spanberger ""wants a tax increase of $32 trillion - that’s with a `T,’ to pay for her socialist health care plan.""",false,false,"['mostly-false', 'false']",2,True
+"""Our country's got this huge debt, and (President Barack) Obama says raise taxes and keep spending more.""",half-true,half-true,['half-true'],1,True
+"Says Marco Rubio is proposing a new $1 trillion ""welfare program"" in tax credits and ""$1 trillion in new military spending.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Biden's plan is a 14% tax hike on middle class families.""",false,false,['false'],1,True
+“We’re the only major gas-producing state in the US that doesn’t have a severance tax.”,true,true,['true'],1,True
+Says the U.S. federal income tax rate was 0 percent until 1913.,half-true,false,['false'],1,False
+"The sales tax increase, if approved, will cost taxpayers ""up to $300 million per year, in perpetuity, to finance a rail system for the City of Tampa.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says that when President Bill Clinton raised the top tax rates to levels now proposed by Obama, the country experienced significant job growth.",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"""Since taking office, Andrew Cuomo has given massive tax breaks to corporations and the super rich.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"After merging with Tim Hortons of Canada, Burger King is ""not moving. … Our headquarters will remain in Miami"" and ""(we) will continue to pay all of our federal, state and local U.S. taxes.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says her congressional district has 10,000 medical-device industry jobs and 1,000 will be lost because of health-care law tax.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says Joe Biden “passed a tax bill that gave us all these privileges for depreciation and for tax credits. We built a building, and we get tax credits like the hotel on Pennsylvania Ave.”",half-true,false,"['mostly-false', 'false']",2,False
+"""Democrats are kind of falling over each other seeing who can raise taxes faster. It looks like they're going to raise taxes anywhere between 20 to 30 percent.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The 1986 tax reform approved under Ronald Reagan ""was polling at about 18 percent right before they passed it.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"""Estimates say individuals who escaped these high tax states have taken with them around $2 trillion in adjusted gross income.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Subsidies for oil and gas companies make up 88 percent of all federal subsidies. Just cutting the oil and gas subsidies out would save the U.S. government $45 billion every year.""",false,false,"['false', 'pants-fire']",2,True
+"""I was speaking out on pension reform almost 17 years ago.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""Forty-seven percent of Americans pay no income tax.""",true,true,"['true', 'mostly-true']",2,True
+"Says Warren Buffett has publicly said his secretary ""should not be paying a higher tax rate"" than him.",true,true,"['true', 'mostly-true', 'false']",3,True
+"""Miller Brewing is not a U.S. company any more. Neither is Anheuser-Busch.""",true,true,['true'],1,True
+"""We have the lowest beer tax in the nation.""",false,false,['false'],1,True
+"""Houston suffered $1.7 billion in operating losses under Mayor Bill White.""",half-true,half-true,['half-true'],1,True
+"""Our tax code has nearly doubled since 1985.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Joe Sestak ... even wants to bring back the death tax, letting the IRS take half of your savings when you die.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""He voted twice for a budget resolution that increases the taxes on individuals making $42,000 a year.""",half-true,half-true,['half-true'],1,True
+"""Tax dodging costs developing countries $200 billion every year.""",half-true,mostly-true,['mostly-true'],1,False
+"""We will not ask for a tax increase to run city government.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under the GOP tax law, ""if you live in Hinsdale, Illinois … you are now being double-taxed to the tune of $35,000.""",false,false,"['mostly-false', 'false']",2,True
+"""Florida sends $135 billion and D.C. returns $150 billion.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says California has a top income tax rate of 13.3% “and people aren’t leaving.”,half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""I have had to fill out FEC reports for the past six years now, and they’re much more detailed than a tax return...""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Most people below $50,000 don’t pay any income tax. The top 1 percent in our country pay 40%.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Four balanced budgets in a row, with no new taxes for anyone. The best job growth in 12 years. Nearly 130,000 new private-sector jobs. Merit pay to reward New Jersey’s best teachers, and the most education funding ever.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""You can’t raise taxes in Ohio. We are one of the highest taxed states in the country.""",half-true,half-true,['half-true'],1,True
+Says Mitt Romney did not pay taxes for 10 years.,pants-fire,false,"['mostly-false', 'false']",2,False
+"Allowing all Bush income tax cuts to expire on Dec. 31 ""will amount to the largest tax increase in the history of America.""",mostly-false,mostly-true,"['mostly-true', 'mostly-false']",2,True
+"The Americans for Tax Reform pledge ""relates to new taxes that were going to be initiated by legislative action.""",false,false,['false'],1,True
+"Ronald Reagan ""raised taxes in 1982, 1984, 1985, 1986 and 1987.""",true,true,"['true', 'mostly-true']",2,True
+"""Hillary Clinton wants to shut down family farms"" using ""radical regulation,"" by raising business tax ""rates as high as nearly 50 percent"" and by taxing ""family farms again at death by as much as 45 percent.""",false,false,"['mostly-false', 'false']",2,True
+"""If we don't spend money on a pier, then that money does wipe into the general funds of the city or the county, and if you send it to the county, you never see it again.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"""As soon as Chris Christie was governor, he gave tax cuts to millionaires.""",half-true,half-true,['half-true'],1,True
+"""There are corporations in this nation, some of the biggest corporations in this nation, who do not pay taxes.""",true,true,['true'],1,True
+"""Colorado raked in $60 million in marijuana taxes and licensing fees in the past year.""",true,true,['true'],1,True
+"""Ben Franklin once quipped that only two things in life were certain: death and taxes. I think even he didn't envision that the tax man would visit on the day of your death.""",false,false,"['true', 'false']",2,True
+"""The federal government is spending 25 percent of our entire economy versus 100 years ago we spent only 2 percent.""",true,true,['true'],1,True
+"On taxes, President Barack Obama wants to raise ""the top rate to 44.8 percent.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Mark Warner voted for ""nearly $1 trillion in new taxes and $7 trillion in new debt.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Even high estimates for an early draft of the health care plan are ""less than the $1.8 trillion cost of the Bush tax cuts.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""We’ve cut taxes 75 times, cut $7.5 billion worth in taxes, and as a result we’ve added over 1.3 million jobs.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says that as a U.S. senator, Scott Brown ""delivered for Wall Street, saving big banks $19 billion in taxes.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that as Wisconsin governor he ""never raised taxes.""",false,false,['false'],1,True
+“In Congress Ron DeSantis pushed a 23% national sales tax.”,half-true,false,"['mostly-false', 'false']",2,False
+"Says Mitt Romney is proposing a ""tax cut that gives an average of $250,000 to every millionaire in this country.""",true,true,"['true', 'mostly-true']",2,True
+"""Crime has been getting worse since Jerry Brown was elected governor.""",mostly-false,mostly-false,['mostly-false'],1,True
+"John McCain will keep the estate tax at 0 percent, the same as it is now.",false,false,['false'],1,True
+"Rhode Island's unemployment insurance system ""is the most expensive such system in the country.""",false,false,"['mostly-false', 'false']",2,True
+"""We did not even have a federal income tax in this country until 1913.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""The expiration of the Bush-era tax cuts ... would be the biggest tax increase in the history of the country, about $4.6 trillion over 10 years.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In the 1950s,  ""A lot of people got rich — and they had to pay a top tax rate of 90 percent.""",mostly-true,mostly-true,['mostly-true'],1,True
+"The reason 29 states no longer have a death tax ""is that the tax damaged their economic competitiveness.""",false,false,['false'],1,True
+"Republicans approved 12 times larger tax breaks for ""people making over 350 grand"" than for ""the average middle-class person.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""There are parts of I-80 near Joliet that school buses are not allowed to cross because of the fragile nature of a bridge.""",mostly-false,false,"['true', 'false']",2,False
+"""The fact is, in the past year we have had more tax cuts than almost any time in our nation's history.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"Mike ""Martinez has voted to raise taxes and utility rates while ending free bus service for seniors.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The child tax credit, if we don't do it, there will be no tax relief for working families. How much tax relief working families get under tax reform is entirely dependent on whether or not we put in place an increase to the child tax credit.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+“If you or your family spends $28 a day — prepare to be under constant audit by the IRS.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"California’s proposed tobacco tax ""diverts 82 percent of the new taxes to line the pockets of wealthy special interests like insurance companies who don't have to help even one more patient.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The Republican tax reform proposal is focused on tax breaks for the middle class ""and not about people who are really high-income earners getting a tax break.""",mostly-false,mostly-false,['mostly-false'],1,True
+Cobb is one of the largest school systems (in the nation) that is debt free.,true,true,['true'],1,True
+"""We can fix our roads without raising taxes.""",false,false,"['mostly-false', 'false']",2,True
+Says Susan Collins “pushed for policies that benefited her husband’s lobbying business.”,mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""Of the 18 stadiums built from 2004 to 2013, 47 percent of the total cost came from public sources.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""The average Republican voter thinks there should be some revenue as part of this deal.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+Says Joe Biden and Kamala Harris “want massive tax hikes on working families.”,false,mostly-false,"['mostly-false', 'false']",2,True
+"Barack Obama supports plans to raise ""income taxes ... payroll taxes.""",half-true,half-true,['half-true'],1,True
+"As Tennessee governor, Phil Bredesen ""supported higher taxes on us. Higher gas taxes. Higher sales taxes.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"The IRS is adding 87,000 new agents, making the IRS “larger than (the) Pentagon, Federal Bureau of Investigation, Customs and Border Protection and the State Department combined.”",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says Damascus’ disincorporation would produce ""NO significant tax savings.""",false,false,"['mostly-false', 'false']",2,True
+"""Texans have some of the highest property taxes in the nation”",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Hillary Clinton and Barack Obama want to raise capital gains taxes, which apply to home sales.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ """,pants-fire,false,"['mostly-false', 'false']",2,False
+"Says he ""helped lead an outside audit that’ll save (Milwaukee County) taxpayers over $200 million.""",false,mostly-true,"['mostly-true', 'half-true']",2,False
+"Says Beto O’Rourke ""voted against"" Hurricane Harvey ""tax relief.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Joe Biden and Raphael Warnock  ""are spending $1.5 billion on ‘urban forestry’ and raising taxes on those making under $200k to pay for it.”",half-true,mostly-false,"['mostly-false', 'false']",2,False
+"""Two weeks after signing a taxpayer protection pledge, (Charlie Crist) breaks it.""",mostly-false,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a progressive income tax proposal from Democratic governor candidate J.B. Pritzker ""is wholly regressive.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Glenn Grothman pushed through state tax credits that when phased in, ""someone that owns a factory that produces millions in income"" will pay ""less tax than their nephew would if he worked full time at Taco Bell for minimum wage.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"“If you make less than $100,000, Trump is about to raise your taxes. Currently, you’re taxed at 10% and then 12%. He would raise that to a flat rate of 15%.”",false,false,"['mostly-false', 'false']",2,True
+"Says President Barack Obama has ""not proposed one thing that would change"" the fact that Warren Buffett pays a lower tax rate than his secretary.",false,false,"['mostly-false', 'false']",2,True
+"Says Thom Tillis ""gives tax breaks to yacht and jet owners.""",false,false,"['mostly-false', 'false']",2,True
+"""The IRS doesn't have to prove something against you ... you've got the burden of proof.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"State Sen. Emmett Hanger ""has voted for the three largest tax increases - proposed tax increases - in Virginia history.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Scott Walker's income ""tax plan is a tax hike. It increases taxes for nearly 80% of the people in the state.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""Income taxes are voluntary.""",pants-fire,false,['false'],1,False
+"""The Senate Democrats have not provided one tax cut.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under Scott Walker's ""tax plan, the average Wisconsin taxpayer got just $11 a month. But corporations got $610 million in tax cuts. Millionaires got at least $1,400 per year.""",half-true,half-true,['half-true'],1,True
+"""We cut business taxes so today 70 percent of our businesses don't pay a business tax.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Due to ... tax cuts and lower (property) values, 2009 property taxes were almost $3 billion below 2007 property taxes.""",true,true,"['true', 'mostly-true']",2,True
+"""I didn't raise taxes once.""",false,false,['false'],1,True
+"Says ""Rep. Jim Weidner proposed a bill taking away health care for 80,000 of Oregon's children.""",true,true,['true'],1,True
+"""We spend in tax loopholes annually $1.1 trillion. That's more than we spend on our defense budget in a year, on Medicare or Medicaid in a year.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""There's no real evidence in the last 20 years that"" growth from tax cuts has made up lost revenue.",true,mostly-true,"['true', 'mostly-true']",2,True
+"In the House Republican bill, ""70 percent of the tax relief goes to those families making less than 200,000.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+"""Mark Kirk: Lied about going to war. Opposed middle class tax cuts. And said unemployment’s not that big an issue.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Obama unilaterally announced he was delaying employer mandate ""through a blog post by a mid-level bureaucrat at the Department of Treasury.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The bottom line is clear: Under the policies of this unified Republican government, American workers, families, and business owners are achieving economic growth that is unmatched in recent memory. … More than 1 million new jobs have been created just since we passed tax reform last December.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Oregon’s political tax credit is something ""every state should have and no other state does.""",false,false,['false'],1,True
+"""Pres. Obama's finance team is recommending a . . . 1% tax on all transactions at any financial institution.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Wisconsin has ""one of the most progressive tax codes in the country.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says Mitt Romney belittled middle-class tax cuts ""as nothing more than 'little Band-Aids.' """,mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"I ""helped pass what, if enacted, would be the largest tax cut in Texas history through the State Senate.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Wisconsin's still one of the highest-taxed states in the country.""",mostly-false,mostly-false,['mostly-false'],1,True
+"“It's estimated” that President Donald Trump’s tariffs will mean “American families would have to pay about $4,000 more a year.”",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+President Joe Biden “cheated on his taxes and got away with it.”,false,false,"['mostly-false', 'false']",2,True
+"Says revenues ""are actually up after tax reform.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Seventy percent of the American public agree with"" Alexandria Ocasio-Cortez ""on having the top marginal (tax) rate for the rich"" at 70 percent, and ""that's a Fox News Poll saying that.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""We are the most generous in New England and New England is known for its generosity toward its welfare recipients.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True

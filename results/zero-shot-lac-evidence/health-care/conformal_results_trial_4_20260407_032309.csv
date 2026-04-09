@@ -1,0 +1,1056 @@
+statement,true_verdict,predicted_verdict,prediction_set,set_size,is_covered
+"""Mr. President, multiple times from your administration there have come statements that Republicans have no ideas and no solutions"" on health care.",true,true,['true'],1,True
+"Immigrants in the country illegally cost “Florida taxpayers $566 million for 54,000 hospital visits.”",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"John McCain's health care plan ""won't guarantee coverage of cancer screenings or maternity care.""",true,true,['true'],1,True
+"Health proposal would create a ""40% tax on health care benefits of middle-class workers.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Domestic violence ""is seen as a pre-existing"" health condition and ""women had to pay 50 percent more for health care because of gender ratings,"" but under Obamacare, ""all of that is over.""",half-true,half-true,['half-true'],1,True
+"Opponent Holly Benson said that ""Just because you're poor doesn't mean you're unhealthy, it just means you have a lot more time to go running.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"According to the CDC, ""110 million Americans now have a sexually transmitted illness.""",mostly-false,false,"['mostly-false', 'false']",2,True
+A “well-crafted garlic salve” can “heal any ailment of the lungs and respiratory system.”,false,false,['false'],1,True
+"""Nearly 45 percent of the women who receive health screenings through (the Women’s Health Program) do so at a Planned Parenthood health center.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""About 8 out of 10 favor changing Obamacare significantly or replacing it altogether.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says U.S. Rep. Paul Ryan promised to ""end health care for our seniors.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Says ""in Canada, the number of CT scan machines per 1,000 people is like one-tenth of what we have here in this country. That's why people have to wait.""",false,false,['false'],1,True
+"The impact of the 2010 federal health care legislation will be ""huge"" on Georgia.",mostly-true,mostly-true,['mostly-true'],1,True
+"A molecule found in a Himalayan fungus ""kills cancer cells with 40 times potency.""",half-true,false,"['mostly-false', 'false']",2,False
+"""Fifty percent of Republicans are in favor of Medicare for All.""",mostly-false,false,"['mostly-false', 'false']",2,True
+“Wisconsin is 49th in public health spending.”,half-true,mostly-true,"['true', 'mostly-true', 'false']",3,False
+"Says Dan Bishop ""took the only vote from either party — the only vote — against pharmacists being able to tell people about lower-cost drugs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+“New $40K AIDS cure is nearly 100% effective and requires two shots yearly.”,false,false,['false'],1,True
+"""The health insurance plan that (members of Congress) have is no different than any other federal employee's in the United States government.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Doctors, nurses, hospitals, even the pharmaceutical industry, (and) AARP"" say that health reform ""makes sense to do.""",mostly-true,mostly-true,['mostly-true'],1,True
+“You can’t tell me they can (develop a safe vaccine) in eight to 10 months. Or a year. It takes more time than that.”,pants-fire,false,"['mostly-false', 'false']",2,False
+"""I'm 59. In either Canada or Great Britain, if I broke my hip, I couldn’t get it replaced.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""The pharmaceutical industry has 1,400 lobbyists on Capitol Hill right now trying to stop"" Medicare drug price negotiation.",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""We got to almost universal coverage in health care in Colorado.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Thomas Eric Duncan came into the United States ""with an elevated temperature.""",false,false,['false'],1,True
+"Says ""Tom Barrett supports a government takeover of our health care""",pants-fire,pants-fire,['pants-fire'],1,True
+"Prescription drugs ""are nearly 20 percent of our health care costs now when you include hospital prescription drugs.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says the health care reform bill was paid for, in part, by taking money from students and the student loan system.",half-true,half-true,['half-true'],1,True
+"""Most women, including 98 percent of Catholic women, have used contraception.""",mostly-true,true,"['true', 'mostly-true']",2,True
+""" ‘Obamacare’ puts the federal government between you and your doctor.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"McCain ""said he was 'stumped' when asked whether contraceptives help stop the spread of HIV.""",true,true,['true'],1,True
+"The health care law ""imposes the largest tax increase in history on the middle class.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""We’ve got dozens of counties around America that have zero insurers left.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"The federal government is prohibited ""from negotiating lower prescription drug prices for our senior citizens.""",true,true,['true'],1,True
+"The Obama administration offered ""no magic number"" of people that needed to sign up for health care on the marketplaces.",mostly-false,true,"['true', 'mostly-true', 'half-true']",3,False
+"""Congressman Bill Young voted to cut taxes for millionaires and end your Medicare.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"The health care law reduces ""the number of uninsured in America by 3 percent for how much money? $2 trillion.""",false,false,"['mostly-false', 'false']",2,True
+"""Every other democracy in the world has a health care system that covers everybody, and we don't.""",false,false,['false'],1,True
+"""With this reform, every insured American gets valuable consumer protections, and every uninsured American can become insured.""",true,true,['true'],1,True
+"""We had a waiting list in Chittenden County when I came into office of about 700. ... We opened a new treatment hub in St. Albans, and it reduced that number to zero.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""Democrats flip flop on pre-existing conditions.""",false,false,['false'],1,True
+Says Texas has the most uninsured people of any state -- 6 million.,mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says Bruce Braley took ""tens of thousands from his friends in the health insurance industry"" and gave them ""special favors"" by voting for Obamacare.",pants-fire,false,"['mostly-false', 'false']",2,False
+"""Sadly during the course of the pandemic one-third of our small businesses have closed.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"7 million people the Congressional Budget Office says won't have health insurance coverage under the Senate health care bill ""don't exist.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+A bill sponsored by U.S. Sen. Bernie Sanders would “increase government control” of pharmacy benefit managers and is a “radical health care takeover.”,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"A lawsuit against the Affordable Care Act backed by West Virginia Attorney General Patrick Morrisey “would eliminate health care for over 800,000 West Virginians.”",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Donald Trump supports ""an agenda out there"" to privatize the Veterans Affairs health care system.",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"In 2007, Ed Gillespie ""was paid $300,000 to be the frontman for a coalition that made the individual mandate the centerpiece of its health reform plan.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Just remember this: the president's health care bill put 30 million people on health care rolls that weren't there before.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Democrats have failed to answer the most basic question of how they want to pay for the more than $1 trillion of health care spending.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Addressing the impact of the House GOP debt-ceiling bill on veterans’ programs, ""I'm dead serious that we're not cutting veterans, and I mean it.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""President Obama has worked to change Medicare for the worse"" by ""creating an unelected, unaccountable panel with the power to deny coverage of certain treatments.""",mostly-false,mostly-false,['mostly-false'],1,True
+"""Under (Obamacare), you can’t reward a person for better behavior. You can’t have incentives to be healthier.""",half-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"Because of the federal health care law, ""300,000 health plans canceled"" in Florida.",mostly-false,false,"['mostly-false', 'false']",2,True
+"After the Texas cutoff of aid to women’s health care services including Planned Parenthood clinics, ""over 150,000… women lost the only health care they had. Our Medicaid birth rate shot up. It cost taxpayers over $130 million in one year alone in extra Medicaid birth costs.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""Over the past decade, drug prices have risen at three times the rate of inflation.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+The U.S. ranks 37th in the world for health care.,mostly-true,mostly-true,['mostly-true'],1,True
+"""If I have affordable coverage in my workplace, I'm not eligible to go into the marketplace. ... It’s illegal.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"U.S. Rep. Patrick Murphy ""voted to allow members of Congress to receive taxpayer-funded health care for life.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Over 73% of all donations raised (from the ALS Ice Bucket Challenge) are going to fundraising, overhead, executive salaries, and external donations.""",pants-fire,true,"['true', 'mostly-true', 'half-true']",3,False
+Benadryl can be used to reduce swelling from rattlesnake bites.,false,false,"['mostly-false', 'false']",2,True
+"Says state Rep. Patrick Rose votes 90 percent with liberals, backed the state's largest tax increase, proposed nearly $15 billion in government spending and supported ""Obama-style government-run health care system for Texas.""",mostly-false,mostly-false,['mostly-false'],1,True
+"“With regard to the cost, let me be very clear: HHS has designated the coronavirus test as an essential health benefit.  That means, by definition, it's covered in the private health insurance of every American, as well as covered by Medicare and Medicaid.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The average student will be spending $1,700 to $1,800 more during the life of their loan because of this surcharge.""",false,false,['false'],1,True
+"""Fentanyl is now killing more Americans than heroin or any other opioid.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""(For) white working-class America, death rates among white men are up 20 percent.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"The United States is ""50th in life expectancy"" in the world.",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Some of the Democrats have been talking about ending (coverage for) pre-existing conditions.""",pants-fire,false,['false'],1,False
+"Says Alison Lundergan Grimes ""supports Obamacare, which cuts $700 billion from seniors’ Medicare.""",half-true,false,"['mostly-false', 'false']",2,False
+"""Before this law was passed, Americans were told they could keep their current health care plans. After it became law, the administration issued regulations stating nearly half of Americans would lose their current plan.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Congress gave an unelected board ""the power to deny care to seniors.""",half-true,half-true,['half-true'],1,True
+"Alex Sink wants to ""cut Medicare.""",false,false,"['mostly-false', 'false']",2,True
+"""Joe, I keep hearing you every morning talking about the biggest tax increase in history, but you don't mention it's also the biggest tax cut in history.''",false,false,['false'],1,True
+"Ohio taxpayers spent more than $67 million ""for the year"" on food stamps and Medicaid for Wal-Mart workers",half-true,half-true,['half-true'],1,True
+"""Under the president's plan, he cuts Medicare by $716 billion, takes that money out of the Medicare trust fund and uses it to pay for Obamacare.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"A mailer from the Obama campaign ""accurately indicates"" that Hillary Clinton would ""force uninsured people to buy insurance, even if they can't afford it.""",half-true,half-true,['half-true'],1,True
+"""Every survey shows strong satisfaction with private coverage.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"""At the time that (Medicare Part D) was passed (it) was actually less popular than the Affordable Care Act, according to the polls.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says Nick Kahl made it harder for many families to cover basic health care expenses.,mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Every 1 percent increase in the cost of health insurance today causes about 30,000 Georgians to be uninsured.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Edwards says if Congress won't pass universal health care, he'll tell Congress: ""I'm going to use my power as president to take your health care away from you.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Thanks to the American Rescue Plan’s changes to the Affordable Care Act, “four out of five consumers (are) finding quality coverage for under $10 a month.”",mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"Says that under President Barack Obama’s health care law, ""your insurance"" premiums could go up by 200 percent and cost ""as much as a new Explorer.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Thirteen hundred"" applicants in Rhode Island signed up for insurance through Obamacare.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+Says six of the state’s 58 family planning centers had to close because of Gov. Chris Christie’s budget cuts.,true,true,['true'],1,True
+The Senate Democrats’ reconciliation bill “will strip $300 billion from Medicare.”,false,false,"['mostly-false', 'false']",2,True
+"A ""fairly limited number of people, 25 million to 30 million,"" will be allowed to access a national health insurance exchange.",true,true,['true'],1,True
+"Says Dean Heller ""broke that promise"" to protect expanded Medicaid.",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Every new Republican member of the U.S. Senate said they ""will vote to repeal and replace Obamacare.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Three courts have found the new health care law constitutional and two have found it unconstitutional.,true,true,"['true', 'mostly-true', 'half-true']",3,True
+"The GOP’s Obamacare replacement would reduce subsidies that help lower-income people buy health insurance, but also ""expand the entitlement"" by giving subsidies to higher-income people ""that Obamacare never helped.""",true,true,['true'],1,True
+"""From 2000 to 2016, every major drug that was introduced came out of"" National Institutes of Health funding.",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Ron Johnson just came out in favor of a federal abortion ban.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"""Anyone can die of a toothache.""",true,true,['true'],1,True
+"""Minnick voted to let the government fund abortion under Obamacare.""",false,false,['false'],1,True
+"""Right now, 1 in 4 Texas women of reproductive age are uninsured, totaling 1.5 million Texas women.""",true,true,"['true', 'mostly-true']",2,True
+"The president's health care proposals will cause ""most Americans to have their premiums increased, not decreased, and hundreds of millions of people lose their current insurance coverage.""",pants-fire,pants-fire,['pants-fire'],1,True
+"New tax increases that went into effect on Jan. 1, 2015, ""all passed under the Affordable Care Act, aka Obamacare.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Patrick Murphy voted for Obamacare in 2010, ""yet he reversed himself and voted to delay"" the employer mandate and the individual mandate.",mostly-false,false,"['mostly-false', 'false']",2,True
+“The number of ICU beds is larger in Boone County by a factor of three” compared to Orange County for the University of North Carolina.,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says condoms ""used to be tax-exempt here in Texas.""",true,true,"['true', 'mostly-true']",2,True
+"Millions of Americans are ""paying more and getting less"" under Obamacare.",false,mostly-false,"['mostly-false', 'false']",2,True
+"Says Hillary Clinton is proposing ""destroying Medicare for seniors.""",false,false,"['mostly-false', 'false']",2,True
+"U.S. Rep. Carlos Curbelo voted for a health care bill that will let insurance companies ""charge five times more for people over 50.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Romneycare has … killed 18,000 Massachusetts jobs.""",mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"Even after collective bargaining reforms, most Wisconsin public employees ""are still paying about 12 to 13 percent"" of their health insurance premiums, while most state residents who work in the private sector ""pay 20 to 25 percent.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says President Donald Trump’s fiscal year 2020 budget ""slashes investments in health care to pay for tax cuts to billionaires.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The federal health care plan ""costs Texas taxpayers $2.4 billion per year.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The Congressional Budget Office most recently came out and analyzed the current (health care) plan and said that it was not only deficit-neutral, but also that over 10 years it would create a $6 billion surplus.""",false,false,['false'],1,True
+"""Amy, I looked online at your (health care) plan. It’s two paragraphs.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Medicare spends ""$15-billion a year on subsidies to insurance companies.""",true,true,['true'],1,True
+"Even high estimates for an early draft of the health care plan are ""less than the $1.8 trillion cost of the Bush tax cuts.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Of the Trump administration’s European travel restrictions that exempt the U.K.: “Well, you can just get into the Chunnel, and you’ll be in the U.K.”",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Barack Obama's health care plan ""would leave 15-million Americans out.""",half-true,half-true,['half-true'],1,True
+"""The first installment of health care reform ... will raise the deficit by $250 billion.""",half-true,half-true,['half-true'],1,True
+"Families are paying $900, on average, ""in higher premiums because of uncompensated care.""",half-true,half-true,['half-true'],1,True
+"""In 2022, illegal immigrants will have MORE FREEDOMS and easier access to healthcare and ballot boxes than most Americans... Just think about that.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""Florida Statutes require (Attorney General Bill) McCollum to consult with members of Florida's Congressional delegation"" before filing a lawsuit against the health care reform law.",mostly-true,mostly-true,['mostly-true'],1,True
+"Says that when San Francisco banned plastic grocery bags, ""you saw the number of instances of people going to the ER with things like salmonella and other related illnesses"" spike.",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"The Democratic health care bill in the House would ""create 53 new government bureaucracies.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false']",2,True
+"Under the new health care law, ""the first person (a) patient has to go to is a bureaucrat. That is called a panel.""",pants-fire,pants-fire,['pants-fire'],1,True
+California’s Senate Bill 107 means “your child can now be taken from your custody if you do not affirm gender-reassignment surgery.”,false,false,['false'],1,True
+"As a result of Obamacare, ""California seniors face benefit cuts of over $1,700.""",false,false,"['mostly-false', 'false']",2,True
+“We do not have an approved (COVID) vaccine in America … the Pfizer vaccine available in the U.S. is not FDA approved.”,false,false,['false'],1,True
+"A Republican proposal changes Medicare for those under age 55 so that they will  ""participate in the same kind of health plan that members of Congress do.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""If your plan is the result of collective bargaining, no subsequent changes by anybody -- insurance companies, Obamacare -- can force your grandfathered policy to change.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Since Obamacare became law, ""most of our new jobs have been part-time jobs.""",false,false,"['mostly-false', 'false']",2,True
+"""Ninety-eight percent of the American people will not see their taxes go up"" due to the House health care bill.",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Milwaukee County government employees pay ""much more"" for their health care than City of Milwaukee or State of Wisconsin employees.",half-true,half-true,['half-true'],1,True
+"""The insurance commissioner can’t do squat about health care.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Speaking of his restriction on travel from China, “I had (Joe) Biden calling me xenophobic. … He called me a racist, because of the fact that he felt it was a racist thing to stop people from China coming in.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says the federal government could save $175,587 by eliminating a study of the ""connection between cocaine and risky sex habits of the Japanese quail.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Emergency rooms account for ""2 percent of all health care spending.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""We’ve got an average of 5,600 soldiers committing suicide. That’s about 20 a day.""",half-true,half-true,['half-true'],1,True
+"""Only 2 percent of public high schools in the country offer PE classes.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""In 45 out of 50 states, on average men are seeing their premiums double, going up 99 percent. Women up 62 percent.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says Roy Moore ""has advocated getting the federal government out of health care altogether, which means doing away with Medicaid, which means doing away with Medicare.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under the health care law, ""everybody will have lower rates, better quality care and better access.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“On February 7, the WHO warned about the limited stock of PPE. That same day, the Trump administration announced it was sending 18 tons of masks, gowns and respirators to China.”",true,true,"['true', 'mostly-true']",2,True
+"""In the ‘40s, 68 cents of every health care dollar was actually paid for by the patient, today it’s only 11 cents.""",mostly-true,mostly-true,['mostly-true'],1,True
+"The health care plan for members of Congress ""is no better than the janitor who cleans their offices.""",true,true,['true'],1,True
+Florida will be the “hardest hit” state in the country if enhanced Affordable Care Act subsidies expire.,mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""States have cumulatively cut over $1.8 billion from their mental health services between 2009 and 2011. This is the largest reduction in state mental health services in half a century.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Drug prices are coming down, first time in 51 years because of my administration.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""I have not said that I was a single-payer supporter.""",false,false,['false'],1,True
+"""Obamacare"" represents ""the largest tax increase in the history of the world.""",pants-fire,false,"['false', 'pants-fire']",2,True
+“Study reveals Bill Gates’ Fake Meat causes ‘turbo cancers’ in humans.”,false,false,['false'],1,True
+Health care premiums for consumers have doubled since 2001.,true,true,"['true', 'mostly-true']",2,True
+"The flu shot is ""designed to spread cancer.""",pants-fire,pants-fire,['pants-fire'],1,True
+Says his executive order requiring young girls to be vaccinated against HPV wasn't mandatory.,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Adam Laxalt ""supports eliminating Nevada's protections for legal abortions.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Ninety percent of Texans say they do not want the nursing homes to close. It polls higher than anything else.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Health care reform ""requires the use of federal dollars to fund abortions through the government-run health plan.""",half-true,half-true,['half-true'],1,True
+“Due to the baby formula shortage Tricare will now pay to have it shipped directly to you.”,half-true,false,"['mostly-false', 'false']",2,False
+"Says Barack Obama ""knew half of the population of the United States would lose their health insurance.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""We have empowered state insurance commissioners to review the rate hikes that are taking place in states. And in some states like North Carolina, they have already used it and rolled back premium increases by 25 percent.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""I helped win one of the biggest private lawsuits against Medicare fraud in history. The government declined to pursue the case, so my firm did, and we recovered $324 million for taxpayers.""",true,true,['true'],1,True
+“Government imposed lockdowns do NOT reduce [COVID-19] cases or stop spikes.”,false,true,"['true', 'mostly-true', 'false']",3,True
+"""According to the nonpartisan Congressional Budget Office, the IRS would need to hire over 16,000 people ... to audit the American people and impose the new taxes and mandates"" of the health care bill.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"40,000 veterans in Texas won’t get health care because Perry rejected Obamacare's Medicaid expansion.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The health care numbers are going up.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"For vaccine rates among Americans 65 and older, “there’s virtually no difference between white, Black, Hispanic, Asian American.”",false,false,"['mostly-false', 'false']",2,True
+"""The Obama Administration's own White House Council of Economic Advisers has estimated 4.7 million Americans will lose their jobs if the (health care) bill passes.""",false,false,['false'],1,True
+"""Individuals with mental illnesses die an average of 25 years earlier than those without a mental illness.""",true,true,['true'],1,True
+"""It's President Biden who is proposing to cut Medicare Advantage.""",false,false,"['mostly-false', 'false']",2,True
+"The CBO found that the House Republican health care plan would lower premiums by ""up to about 10 percent"" and, for purchasers in the individual market, ""those cost savings could even be higher.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Expanding Medicaid would create 63k jobs.""",half-true,true,"['true', 'mostly-true']",2,False
+Upton “voted a dozen times to kick thousands of Michigan families off their health insurance and eliminate protections for preexisting conditions”,mostly-true,true,"['true', 'mostly-true']",2,True
+"Says Sen. Rand Paul, R-Ky., has stated that supporting the ""right to health care ... means you believe in slavery.""",true,true,"['true', 'mostly-true', 'false']",3,True
+"Says the goal of the Affordable Care Act was to get 30 million people insured, but it only got 7 million.",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“California’s [COVID-19] death rate has remained one of the lowest per capita in the nation: 134 deaths per 100,000, compared to 158 nationally, 153 in Texas and 247 in New York.”",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""Hospitals are closing in rural America because they don't have access to high-speed internet.""",false,false,"['mostly-false', 'false']",2,True
+"Tim Kaine urged ""$500 billion in Medicare cuts.""",false,false,"['mostly-false', 'false']",2,True
+"""Mike Parson opposes protections for pre-existing conditions.”",mostly-true,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+“I don’t think there’s any doubt (Joe) Biden’s senile.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The Baucus health care bill would require taxes on medical devices such as X-ray machines, female condoms, HIV tests and surgical needles.",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""Whether the Amendment passes or not, the medical use of marijuana is a federal criminal offense.""",true,false,"['true', 'false']",2,True
+"The cost of ""health care is now the single-biggest factor driving down"" the federal budget deficit.",mostly-true,true,"['true', 'mostly-true']",2,True
+"""700 jobs (were) lost because Allen Boyd"" voted for the health care bill.",mostly-false,false,"['mostly-false', 'false']",2,True
+"Congressional benefits include “free health care, outrageous retirement packages, 67 paid holidays, three weeks paid vacation, unlimited paid sick days.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"""In WI, over 79% of Title X patients rely on Planned Parenthood for their basic health care.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""1 in 4 Rhode Islanders under the age of 65 does not have health insurance.""",half-true,half-true,['half-true'],1,True
+"Says Wisconsin Gov. Scott Walker eliminated ""cancer screenings for uninsured women"" and offered ""no alternatives.""",pants-fire,pants-fire,['pants-fire'],1,True
+"The Affordable Care Act ""provided over 200,000 West Virginians with health care coverage.""",true,true,['true'],1,True
+"""One-third of the health care dollar goes to no such thing as health care; it goes to the insurance companies.""",false,false,['false'],1,True
+"""Ron Johnson is trying to let insurance companies deny coverage to people with pre-existing conditions like cancer, depression, pregnancy, diabetes—or even COVID.”",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says the individual mandate is ""highly unpopular.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Between 2000 and 2006,  ""health insurance company profits quadrupled.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""7 million more Americans are uninsured now than when President Trump was elected.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Elon Musk criticized the UnitedHealthcare CEO shooter on X, saying, “It’s disgusting how everyone is turning this guy into some kind of folk hero.”",false,false,['false'],1,True
+"""We’ve got close to 7 million Americans who have access to health care for the first time because of Medicaid expansion.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"A report from the nonpartisan Congressional Budget Office ""confirms that the American Health Care Act will lower premiums.""",half-true,half-true,['half-true'],1,True
+"""Two-thirds of the top-rated hospitals in Florida were our hospitals.""",mostly-true,mostly-true,['mostly-true'],1,True
+"President Obama's health care law is ""a government takeover of healthcare.""",false,false,"['mostly-false', 'false']",2,True
+"""Today and every day, an estimated 14,000 Americans will lose their health insurance coverage.""",false,false,['false'],1,True
+"""There were 36 states where Republicans who were in charge refused to implement a state (health insurance) exchange.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""We pay far more for health care than any other country in the world, yet we have far worse outcomes than any other country in the world.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Planned Parenthood is ""nothing more than a referral service. … They don’t do anything except profit from killing babies and then selling body parts of those aborted babies.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""We have a president who wanted to throw 32 million people off of the health care they had.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Generally the deaths are still pretty flat because we've flattened the curve.”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+The Trump administration has had “zero unfulfilled equipment and supply requests from state governors.”,false,false,"['mostly-false', 'false']",2,True
+"Siobhan Dunnavant ""wrote the Republican bill that would let insurance companies deny coverage for pre-existing conditions.""",false,false,"['mostly-false', 'false']",2,True
+"""You can't give a child an aspirin in school without permission. You can't do any kind of medication, but we can secretly take the child off and have an abortion.""",true,false,"['mostly-false', 'false']",2,False
+"“On Feb. 25, I voted yes on a budget resolution that protects Social Security, Medicare, and Medicaid while cutting some spending elsewhere.""",false,false,"['mostly-false', 'false']",2,True
+"A juice of carrots, cucumbers and garlic will ""restore perfect vision in seven days.”",false,false,['false'],1,True
+"""FACT: Repealing Obamacare would be easier than repealing Prohibition.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"A friend’s sister ""died from Obamacare"" because Blue Shield ""completely just pulled out of California.""",pants-fire,false,['false'],1,False
+Says the WIC program was created by the Black Panthers to help feed single mothers and children in their communities.,false,false,['false'],1,True
+"The Moderna vaccine contains an ingredient that is “for research use only, not meant for human or veterinary use.”",false,false,['false'],1,True
+"""Obamacare"" is the ""biggest tax increase in American history.""",false,false,['false'],1,True
+"Eliminating ""Obamacare"" ... ""saves $95 billion a year.""",false,false,"['mostly-false', 'false']",2,True
+"Under his leadership, more people in Wisconsin ""have access to health care.""",half-true,half-true,['half-true'],1,True
+"""Obamacare cuts $500 billion in future Medicare funding in order to fund the new constitutionally questionable government mandate, even going so far as to scuttle Medicare's most popular (and successful) part, Medicare Advantage.""",half-true,half-true,['half-true'],1,True
+"""Florida is 49th in per capita spending on mental health care.""",true,true,['true'],1,True
+"""Do you know what the second sport with the most concussions is? Women’s soccer… And the third most dangerous sport? Cheerleading.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Abortion coverage is a standard insurance benefit ""in nearly 90 percent of private plans sold in the U.S.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""A lot of the ideas in terms of the (health insurance) exchange, just being able to pool and improve the purchasing power of individuals in the insurance market, that originated from the Heritage Foundation.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Boston Children’s Hospital is now offering 'gender-affirming hysterectomies' for young girls.""",false,false,"['mostly-false', 'false']",2,True
+"""Before this (federal health care) law was enacted, Florida parents ... were able to purchase inexpensive 'child-only' coverage for their children. The law’s 'consumer protections' have now eliminated that choice in Florida.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says Obama administration delay of health care law's employer mandate affects about 1 percent of the American workforce.,mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"If you look at last year's presidential campaign, ""you can't find a mention of public option.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Haley Stevens’ plan for “socialized medicine” would “eliminate 100,000 doctors and nurses.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"Former Alaska Governor Sarah Palin was right that President Barack Obama’s health care bill created what ""would, in effect, be death panels.""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+The Inflation Reduction Act expanded free health insurance to Americans under 65.,false,false,['false'],1,True
+"The Chris Hani Baragwanath in South Africa is ""the world’s third-biggest hospital.""",half-true,false,['false'],1,False
+"“First off, it’s in statute already in HIPAA that preexisting conditions are covered.”",mostly-false,false,['false'],1,False
+"""A study by the University of Virginia pulls back the curtain on Medicaid’s tragically bad outcomes, including ‘increased risk of adjusted mortality.’""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Congress, criminals, Scientologists and other groups are exempt from Obamacare.",mostly-false,false,"['mostly-false', 'false']",2,True
+"Rand Paul ""wants us to pay $2,000 just to get Medicare.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says, ""In Oregon in 2010, 49 percent of all pregnancies were unintended.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Obama ""said (the individual mandate) wasn't a tax.""",true,false,"['true', 'half-true', 'false']",3,True
+"Says indoor workers get ""less UV than outdoor workers, but they get more melanomas.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Project 2025 calls for restricting “access to IVF and contraception.”,mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"“The CDC is about to add the COVID vaccine to the childhood immunization schedule, which would make the vax mandatory for kids to attend school.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"When President Franklin D. Roosevelt started Social Security, ""it only affected widows and orphans,"" and when Medicare began, ""it was a small program.""",false,false,['false'],1,True
+"""One-third of the counties — think of it, one-third — only have one insurer left"" on the Affordable Care Act exchanges.",true,mostly-true,"['true', 'mostly-true']",2,True
+"Says the state’s pension and health benefits reform includes ""the destruction of public sector collective bargaining rights.""",half-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""According to (Barack) Obama’s newest unconstitutionally enacted law, health care professionals are now required to violate HIPAA privacy laws and submit medical data to the government,"" which is ""then used as justification for gun confiscation.""",false,false,"['mostly-false', 'false']",2,True
+"“The House voted to cap insulin prices to $35/month, just $420 each year! Richard Hudson voted NO.”",false,false,"['mostly-false', 'false']",2,True
+"Says Kay Hagan ""supports waivers for friends of Obama and special treatment for Congress and their staffs.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"""Neville Chamberlain told the British people: ‘Accept the Nazis. Yes, they will dominate the continent of Europe, but that is not our problem. Let's appease them. Why? Because it can't be done. We cannot possibly stand against them.’""",mostly-false,false,"['mostly-false', 'false']",2,True
+"McCain ""has opposed stem cell research.""",false,false,['false'],1,True
+Sen. Mark Kelly “voted to legalize abortion up until the moment of birth.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"""A majority of Wisconsinites opposed the government takeover of health care. But Russ Feingold voted for it anyway.""",false,false,['false'],1,True
+"Says the pension and health benefits reform ""eliminated collective bargaining for health benefits.""",half-true,false,"['mostly-false', 'false']",2,False
+"About 106,000 soldiers had ""a prescription of three weeks or more"" for pain, depression or anxiety medication.",true,true,['true'],1,True
+Rise in U.S. infant mortality rate connected to COVID-19 vaccines.,false,false,['false'],1,True
+"Says Tom Cotton’s vote in Congress to change Medicare ""will increase out-of-pocket expenses for every senior in Arkansas.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""I've always voted for keeping the government open. I’ve never cast a vote to shut down the government.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""In July 2010 the government said small businesses -- 60 percent -- will lose their health care, 45 percent of big business and a large percentage of individual health.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Seven out of ten doctors are not taking any new Medicaid patients as lower reimbursement rates make it cost-prohibitive.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Republicans would give seniors a (Medicare) voucher that limits what's covered, costing seniors as much as $6,400 more a year.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+"For people with insurance, the only impact of the health care law ""is that their insurance is stronger, better and more secure than it was before. Full stop. That's it. They don't have to worry about anything else.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"According to a federal report, Obamacare will increase the long-term federal deficit by $6.2 trillion.",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says potential GOP U.S. Senate candidate Tommy Thompson supported ""Obamacare""",half-true,half-true,['half-true'],1,True
+"""If you’re getting your insurance through (your employer), nothing changes"" under Trumpcare.",half-true,false,"['mostly-false', 'false']",2,False
+"""A California health care CEO is promising to reduce our prescription drug costs.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"In Cover Florida ""thousands already enrolled and climbing.""",half-true,half-true,['half-true'],1,True
+"""This year, 97 Missouri counties have only one insurer participating in the Obamacare exchanges. Last year, every Missouri county had at least two insurance options. In addition, most Missourians will see an increase in their premiums, with some facing an increase upward of 40 percent""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""A clause hidden in the Obamacare bill, which is now law, gives Obama the right to form a private army.""",pants-fire,pants-fire,['pants-fire'],1,True
+Sudden death in adults and Sudden Infant Death Syndrome are caused by vaccines.,false,false,['false'],1,True
+"Stock prices for health insurance companies are “up over 1,000% over a short period of time.”",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+“71 out of 72 Wisconsin counties filed lawsuits against Purdue Pharma. Brad Schimel refused to join them.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Obamacare passed by just one vote in the Senate. It wouldn’t have passed without Mark Warner’s vote.""",mostly-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Hillary Clinton is ""willing to have workers' wages garnisheed if they refuse to buy health insurance.""",half-true,half-true,['half-true'],1,True
+"""In some states, it is still legal to deny a woman coverage because she's been the victim of domestic violence.""",true,true,['true'],1,True
+“More than 91% of the spending in this $1.9 trillion package is not used for pandemic relief.”,mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Under the Graham-Cassidy health insurance bill, in ""states like Maine, Virginia, Florida, Missouri, there will be billions more dollars to provide health insurance coverage for those in those states who have been passed by by Obamacare.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says the national heath care reform is ""a government takeover of health care.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"As a candidate, President Obama ""declared that everyone deserves access to reproductive health care that includes abortion, and vowed that this 'right' would be at the heart of his health care reform plan if elected president.""",true,true,['true'],1,True
+"""When people enter the service, there’s not a mental health evaluation.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""74 percent of Republicans support the Affordable Care Act.""",false,false,"['mostly-false', 'false']",2,True
+"""A shocking 20 veterans are committing suicide each and every day, especially our older veterans.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""We've had the lowest health care inflation in history because of Obamacare.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Under Obamacare, members of Congress are required to purchase their health insurance from the new exchanges.",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+Says Donald Trump said the government is going to pay for everybody to have health care.,false,false,"['mostly-false', 'false']",2,True
+"""The difference between what I support and what you support, Vice President Biden, is that you require them to opt in (to a Medicare public option), and I would not require them to opt in. … They would automatically be enrolled. That’s a big difference. … Are you forgetting what you said two minutes ago?""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Between the year 2000 and 2006, (insurance) premiums in this country doubled.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says Rick Scott ""cut Medicaid"" so people can't ""get Obamacare.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says ""Donald Trump is a guy who has called for privatization"" of the Veterans Administration.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""The New England Journal of Medicine released a survey the week that President Obama signed Obamacare stating that over 30 percent of American physicians would leave the profession if the government took over health care.""",false,false,['false'],1,True
+"For the first time in U.S. history, a personal inaction will be deemed unlawful -- not purchasing a health-insurance plan",false,false,['false'],1,True
+"Says Sen. Mark Pryor voted for ""special subsidies"" for lawmakers and staff in Congress ""so they’re protected from Obamacare.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says the paperback edition of Mitt Romney's book deleted line that Massachusetts' individual mandate ""should be the model for the country""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Massachusetts, ""half of the primary care doctors are not accepting new patients.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""There is no clinical evidence that vaccinating healthcare workers protects patients.""",false,false,"['mostly-false', 'false']",2,True
+"Because of the new health care law, ""Americans no longer will see their coverage dropped or capped when illness strikes.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"In Florida, it’s not illegal for an immediate family member of state officials to prosper from legislation supported by a spouse.",true,false,"['true', 'half-true', 'mostly-false', 'false']",4,True
+"""500,000 people have signed up for #Obamacare.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Black lung cases are at a 25-year high.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"A bill to aid state and local governments ""is fully paid-for by closing costly corporate tax loopholes.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Obamacare … carries on even under a government shutdown.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"A measles outbreak in Gaines County, Texas, was caused by “a public health initiative” to “distribute free measles vaccines.”",false,false,['false'],1,True
+"""75 percent of the Obamacare tax falls on the middle class.""",false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"Says ""we are overcharging students . . . to help pay for the health care law.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“The true nature of cancer is a parasite, hence why, Ivermectin, in conjunction with mebendazole, and (fenbendazole) is so effective.”",false,false,['false'],1,True
+"The Affordable Care Act ""basically puts a penalty or a tax on employers for every new job they create.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The fastest-growing part of the Pentagon’s budget are health care expenses.""",true,true,"['true', 'mostly-true']",2,True
+"Health insurance companies are ""making record profits, right now.""",false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""In year No. 1, 14 million Americans lose coverage,"" according to the CBO.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Medicare monthly premiums will go up to $104.20 in 2012 and $247.00 in 2014 due to ""provisions incorporated in the Obamacare legislation, purposely delayed so as not to 'confuse' the 2012 re-election campaigns.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""Medicare has at least $80 billion worth of fraud a year. That's a full 20 percent of every dollar that's spent on Medicare goes to fraud.""",half-true,half-true,['half-true'],1,True
+"""Ron Johnson said specifically that he hopes the first steps occur to privatize the"" Veterans Administration.",half-true,half-true,['half-true'],1,True
+"Medicare insurance premiums will be rising to ""$120.20 per month in 2013 and $247.00 per month in 2014.""",pants-fire,false,['false'],1,False
+"The new health care law ""will cut $500 billion from Medicare. That will hurt the quality of our care.""",mostly-false,mostly-false,['mostly-false'],1,True
+"In the health care bill, ""The 'Health Choices Commissioner' will decide health benefits for you. You will have no choice. None.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""More Americans are uninsured today than when (President Donald) Trump took office.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""We have lost more lives in the last two years"" due to opioids ""than all of the lives lost during the Vietnam War.""",true,true,"['true', 'mostly-true']",2,True
+"""The Ryan budget gets rid of Medicare in 10 years and turns it into a voucher program.""",false,false,"['mostly-false', 'false']",2,True
+"Says that under Mitt Romney, 89 million Americans could be denied coverage if they have a pre-existing condition.",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Donald Trump promised to repeal Obamacare, build a wall, ban Muslims, and more.",mostly-true,true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Obamacare ""already has caused millions of hardworking Virginians to lose their health insurance.""",false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+“Abortion is never medically necessary in the last trimester. Literally never. They just do a C-section.”,false,false,['false'],1,True
+"When Rick Scott was governor, Florida ""invested record funding in HIV/AIDS prevention.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Health care reform legislation is ""likely to mandate free ‘sex change’ surgeries.""",false,false,['false'],1,True
+"The administration has issued rules for ""$1 abortions in ObamaCare"" and ""requires all persons enrolled in insurance plans that include elective abortion coverage to pay"" an abortion premium.",false,false,"['mostly-false', 'false']",2,True
+"""The Affordable Care Act is the single largest tax increase in my lifetime.""",false,false,"['mostly-false', 'false']",2,True
+"""Did you know ObamaCare will cost nearly twice as much as initially expected -- $1.8 TRILLION?""",false,false,['false'],1,True
+"Gov. Lincoln Chafee has imposed ""a mandatory abortion fee"" on all Rhode Islanders who buy health insurance through the state’s Obamacare exchange.",half-true,false,"['mostly-false', 'false']",2,False
+"The University of Texas is starting ""the first medical school at a major Tier One"" university ""in the last 50 years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"A public option for health care would end private insurance ""because the private insurance people will not be able to compete with a government option.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Nearly 46 million Americans don't have health insurance coverage today.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Nonpartisan government analysts say Obamacare will cost our economy up to 2.5 million jobs.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Last year, ""for the first time in 51 years, the cost of prescription drugs actually went down.""",mostly-false,false,['false'],1,False
+"""47 - New provisions ObamaCare charges the IRS with implementing, according to the Government Accountability Office.""",true,true,['true'],1,True
+"A ""massive"" federal computer network will make your medical records available to ""millions of people"" with a ""complete lack of privacy and confidentiality,"" while doctors and hospitals who don't take part face ""stiff penalties.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Health care mandate will require imprisonment and fines for Americans who can’t afford to purchase insurance or pay hefty government penalties.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Blue Cross Blue Shield cancelled all their individual (health care) policies in the state of Texas, effective Dec. 31.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"“You may be 55 years old in [Illinois] and a citizen and not eligible for Medicaid. But if you are an undocumented immigrant and 55 or older, you’re eligible for Medicaid.”",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""October 2013, Obama shut down the government for 16 days to force Obamacare.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"Health care reform ""establishes a new board of federal bureaucrats (the 'Health Benefits Advisory Committee') to dictate the health plans that all individuals must purchase.""",false,false,['false'],1,True
+Says Elissa Slotkin’s plan is to take Medicare away from current senior recipients.,false,false,"['mostly-false', 'false']",2,True
+"Says Scott Brown ""co-sponsored legislation to let employers deny women coverage for birth control.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""The VA negotiates prescription drug prices. Medicare doesn't do that.""",true,true,['true'],1,True
+"""‘TrumpCare’ would allow insurance execs to personally make millions off your health care.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Says Donald Trump promised ""to take care of everybody (through government-run healthcare and) the government's going to pay for it.""",false,false,"['mostly-false', 'false']",2,True
+"""(Obamacare) is a bill which has never once had a majority of Americans favor it.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Sixty-two percent of all personal bankruptcies are ""caused by medical problems.""",half-true,half-true,['half-true'],1,True
+"Says ""80 percent of the health care dollars are spent by 20 percent of the population.""",true,true,"['true', 'mostly-true']",2,True
+"""Michael Bennet cast the deciding vote"" for the stimulus and the health care bill.",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"In the past three years, state legislatures have ""enacted more of these restrictions (on abortion) than in the previous 10 years combined.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Up to 80 percent of small businesses will be forced to give up their current plans due to new Obamacare regulations.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+"""Currently, half a million Floridians have Alzheimer’s disease, and in less than 10 years, a 40 percent growth rate means that another 200,000 Floridians will develop this devastating illness.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+Orrin Hatch co-sponsored a 1993 health care bill that had an individual mandate.,true,true,['true'],1,True
+"""Health reform eliminates co-pays, deductibles, and other costs for preventative care and provides for free annual wellness checkups starting next year.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Speaking of an HIV outbreak in Indiana during his time as governor, says “we immediately deployed health resources.”",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Since the passage of the Affordable Care Act, U.S. health care spending grew at 3.9 percent for the last three years, the lowest growth rate in over 50 years.""",half-true,half-true,['half-true'],1,True
+"""4.7 million people have lost their insurance in 32 states"" due to Obamacare.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The United States spends ""almost three times per capita what they spend in the U.K."" on health care and ""50 percent more than they pay in France.""",true,mostly-true,"['true', 'mostly-true']",2,True
+The Obama administration has cut taxes on small businesses 17 times.,mostly-true,mostly-true,['mostly-true'],1,True
+"""Scientists tell us that we could have a cure in 10 years for Alzheimer's"" were it not for ""overzealous regulators, excessive taxation and greedy litigators.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""The vast majority of people in this country are keeping their (health insurance) plan.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"The House Republican health care bill ""guts protections against massive price hikes for Georgians with pre-existing conditions.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Massachusetts has ""less than 1 percent of our kids that are uninsured. You (Gov. Perry) have a million kids uninsured in Texas.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+There is majority support for the Democrats' health care plans.,mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Florida state senators ""are pushing a new government program that allows prescription drugs from China without FDA inspection.""",false,false,['false'],1,True
+"""In 2010, Mr. [Anthony] Gemma described himself as a 'pro-life' candidate. Now, he claims to be pro-choice.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Blue Cross Blue Shield pays your doctor a $40,000 bonus for fully vaccinating at least 100 patients under the age of two.""",false,false,['false'],1,True
+"Barack Obama's plan calls for ""mandates and fines for small businesses.""",false,false,['false'],1,True
+"""Bill O'Brien's Tea Party legislature tried to repeal kindergarten and compulsory education, defund Planned Parenthood and eliminate insurance coverage for birth control.""",mostly-false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Barack Hussein Obama will … force doctors to assist homosexuals in buying surrogate babies.""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"Sen. Marco Rubio ""helped write the law to raise prescription prices.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Black women in the U.S. are “three to four times more likely to die in connection with childbirth than other women.""",true,true,['true'],1,True
+"""Private insurance companies in this country spend between 12 and 18 percent on administration costs. The cost of administering the Medicare program, a very popular program that works well for our seniors, is 2 percent. We can save approximately $500 billion a year just in administration costs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Federal spending on entitlements ""is projected to consume all revenue by 2045.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""When Social Security was passed, there were all kinds of lawsuits,"" just as there have been in the legal battle over the new health care law.",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says under the Affordable Care Act, New Jersey’s ""new (Medicaid) enrollees won’t qualify for the matching federal funds simply because we added them onto the rolls before 2014.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Obamacare ""was invented by liberal academic theorists.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Right now, China controls 80% of all ingredients and raw materials going into our generic prescription drugs.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Drinking champagne could help prevent Alzheimer’s and other forms of dementia.,false,false,['false'],1,True
+"""200,000 students attempt suicide every year on college campuses.""",half-true,true,"['true', 'mostly-true']",2,False
+"Adam Laxalt ""wants to restrict"" and ""worked to limit access to birth control.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+Postpartum Medicaid coverage expanded from three states to 43 states because of the Biden administration.,true,true,"['true', 'mostly-true']",2,True
+"""Insured Floridians pay about $2,000 for every hospital stay to cover the cost of the uninsured.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""We currently have one guy who is in charge of painting the entire Milwaukee County parks system.""",half-true,false,['false'],1,False
+"Taking the Fifth Amendment in a deposition about the Columbia/HCA hospital chain he founded ""means a truthful answer to the questions that (Rick Scott) was asked would incriminate him.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Access for 12,000 women to use Planned Parenthood -- ""not for the right to choose,"" but for ""basic health care"" -- was ""taken away"" by Wisconsin Gov. Scott Walker and Lt. Gov. Rebecca Kleefisch.",mostly-true,mostly-true,['mostly-true'],1,True
+"In the House bill, “we’re not changing Medicaid,” only cutting “waste, fraud and abuse.”",false,false,"['mostly-false', 'false']",2,True
+"Says Scott Walker refused federal funds and ""Wisconsin families now pay nearly 50% more than Minnesotans for the same health care.""",mostly-false,mostly-false,['mostly-false'],1,True
+"The IRS is going to be ""in charge"" of ""a huge national database"" on health care that will include Americans’ ""personal, intimate, most close-to-the-vest-secrets.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"On the night of the Iowa caucuses, Obama ""promised the nation that he would do health care reform focused on cost containment, he opposed an individual mandate, and he said he was going to do it with Republicans.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Lower insulin prices were the work of the Trump administration, not “Crooked Joe Biden. He had NOTHING to do with it.”",false,false,"['mostly-false', 'false']",2,True
+"""The law says that mental health must be treated the same as physical health,"" but coverage by health insurers is unequal.",true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Nevadans will have a ""double-digit hike in their Obamacare premiums for the year"" and ""10 of Nevada’s 16 counties will only have one Obamacare...exchange insurer""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""If you like your health care plan, you can keep your health care plan.""",half-true,half-true,['half-true'],1,True
+"Republicans didn't ""increase state funding for nursing homes in the last budget.""",false,false,"['mostly-false', 'false']",2,True
+"""You have almost half the counties in America that have one provider or no provider for insurance"" on the Obamacare exchanges.",mostly-false,false,"['mostly-false', 'false']",2,True
+The diphtheria vaccine is a “poison dart” with side effects worse than the symptoms of diphtheria.,false,false,['false'],1,True
+Says Mitt Romney once supported President Obama’s health care plan but now opposes it.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""More people, almost twice as many, pay the penalty or take the waiver than signed up for (Obamacare).""",false,false,"['mostly-false', 'false']",2,True
+"Says ""Gov. Parson’s administration purged 100,000 kids from Medicaid rolls.""",mostly-true,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Hobby Lobby provided this (birth control) coverage before they decided to drop it to file suit.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Gov. Rick Scott ""is trying to get a waiver under the federal health care law that would deny consumers in Florida the right to the $60 million in rebates they have from their own HMOs.""",half-true,half-true,['half-true'],1,True
+"The CBO says the cost of health care reform will rise to $1.8 trillion, ""increasing the price to far greater than the $900 billion"" originally projected.",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under Obamacare, people who ""have a doctor they’ve been seeing for the last 15 or 20 years, they won’t be able to keep going to that doctor.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"AARP backed ""federal funding for Planned Parenthood.""",false,false,"['mostly-false', 'false']",2,True
+"""When Obamacare was signed into law, CBO estimated that 23 million people would be covered in Obamacare’s exchanges in 2017. They were off by more than 100 percent. Only 10.3 million people are covered by Obamacare.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Within the three miles surrounding the University Circle area, infant mortality exceeds some Third World countries.""",true,true,['true'],1,True
+"Says Mike Huckabee appeared in diabetes infomercials to endorse ""cures and treatments that no health agency supports.""",true,true,"['true', 'mostly-true']",2,True
+"""For the cost of $5 vanilla soy latte a day, you can get a sweet health insurance plan to match.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"""National studies are already showing the negative effects that the health care law is having on businesses and our economy. Businesses across the country are raising their prices … (or) cutting jobs as a result of the added cost.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"Says North Carolinians are ""already paying for"" Medicaid expansion, even though the state hasn’t expanded Medicaid.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""In Congress, Ron DeSantis demanded that any new health law eliminate protections for people with pre-existing conditions.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+"Says President Barack Obama initially said the national health-care mandate isn't a tax, but his administration now says it is a tax.",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Says that Tim Pawlenty eliminated health insurance for 33,000 to 35,000 people when he was governor of Minnesota.",half-true,half-true,['half-true'],1,True
+"""Secretly, unbeknownst to members of Congress, over $105 billion was hidden in the Obamacare legislation.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says that in fiscal year 2010, ""nearly 80 percent of women served"" in the Texas Women’s Health Program received services from a provider other than a Planned Parenthood clinic.",half-true,false,"['mostly-false', 'false']",2,False
+"Says Arabic ""is the third most-common language in Austin.""",false,false,"['mostly-false', 'false']",2,True
+"Says Bernie Sanders “opposed Obamacare, didn't like the fact we didn't push a single-payer option.”",mostly-false,half-true,"['true', 'mostly-true', 'half-true', 'false']",4,False
+"The new health care law crushes small businesses ""with billions in penalties.""",false,false,['false'],1,True
+"Says America spends ""over 17 percent of its GDP on health care costs when our closest competitor nations are spending about 12.""",true,true,"['true', 'mostly-true']",2,True
+Most state employees could pay twice as much toward their health care premiums and it would still be half the national average,true,true,['true'],1,True
+Says Gov Tony Evers’ administration deemed dentists non-essential,false,false,['false'],1,True
+"Says he ""turned down a Medicaid expansion under Obamacare,"" but because of actions he took, for the first time in Wisconsin's history ""everyone living in poverty is covered under Medicaid.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Obama's plan for health care reform ""ends exorbitant out-of-pocket expenses, deductibles or co-pays.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says an appointed board created under Obamacare ""will have the ability to come between you and your doctor in determining the best treatment options for you!""",false,false,"['mostly-false', 'false']",2,True
+"Says Scott Walker ""said that forcing women facing abortion to get invasive ultrasounds was 'just a cool thing.'""",mostly-false,mostly-false,['mostly-false'],1,True
+"Says the Texas Board of Nursing has a backlog of ""3,000 complaints against nurses, many of them sexual assaults, malfeasance.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Under the Democratic health plan, families ""will be forced to spend an additional $2,100 a year to keep their current health care.""",mostly-false,mostly-false,['mostly-false'],1,True
+"It’s “all true” that the measles vaccine wanes quickly, was never fully safety tested and contains fetal debris.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Ohio companies export more goods and services globally than 41 other states.""",true,true,['true'],1,True
+"""I didn't campaign on a public option.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says Congressman Bill Pascrell ""voted to remove the public option from the Affordable Health Care Act.""",false,true,"['true', 'mostly-true', 'false']",3,True
+"""Here in Wisconsin, we've put in previous budgets more money into mental health services than any governor has in the last 25 years.""",true,true,['true'],1,True
+Says the Affordable Care Act was a federal takeover of the student loan industry and ‘profits’ on the loans go to help pay for the health care law.,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Seventy percent of all uninsured live in households in which at least one person is working.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"Wisconsin is ""not walking away from a dime"" in federal funds by rejecting the Obamacare Medicaid expansion.",mostly-false,mostly-false,"['mostly-true', 'mostly-false']",2,True
+“We're bankrupting a lot of hospitals by forcing these hospitals  to provide care for people who don't have the legal right to be in our country.”,false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Paul Ryan would ""outlaw in vitro fertilization.""",half-true,false,"['mostly-false', 'false']",2,False
+"The ""Health Care Compact bill would end Medicare's guaranteed benefit for Tennessee's Medicare recipients and shift management of the federal health care plan to the state's TennCare program.""",false,false,['false'],1,True
+"Ezekiel Emanuel, one of President Obama's key health care advisers, ""says medical care should be reserved for the nondisabled. So watch out if you're disabled.""",false,false,['false'],1,True
+"Ohio is ""probably top five in the country, sadly, in terms of heroin overdoses. It’s now exceeded car accidents as the No. 1 cause of death in Ohio.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says 3,000 people ""did not die"" in two hurricanes that hit Puerto Rico. That death toll estimate was ""done by Democrats.""",false,false,['false'],1,True
+"Says Mitt Romney and Paul Ryan would ""eliminate the guarantee of Medicare.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Over 81 percent of the babies that are born at LBJ Hospital right here in Houston are born of women who are not here legally.""",false,false,['false'],1,True
+"""The numbers of people that support Obamacare and like it have been steadily dropping.""",false,false,"['mostly-false', 'false']",2,True
+"""Two thirds to three quarters of people without [health] insurance in Rhode Island work.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Kevin Cramer voted to let insurance companies go back to denying coverage for 300,000 North Dakotans with pre-existing conditions.",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Another one he should veto is the SCHIP program, which he should say 'Take the C out of, because now it's for everybody, like every other entitlement program.'""",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"If the Affordable Care Act were terminated, “that would mean over a hundred million Americans will lose protections for preexisting conditions.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says if the AHCA replaces Obamacare it will ""significantly reduce insurance premiums in"" North Carolina.",half-true,false,"['mostly-false', 'false']",2,False
+"Says Wisconsin Gov. Scott Walker ""slashed"" pensions and benefits for public employees.",half-true,half-true,['half-true'],1,True
+"Parasite cleanses ""kill herpes by starving the parasites in the stomach.""",pants-fire,false,['false'],1,False
+"""Thanks to #ObamaCare, average E.R. wait in California is 5 hours.""",false,false,"['mostly-false', 'false']",2,True
+Athletes are collapsing with heart-related issues due to the COVID-19 vaccines,false,false,"['mostly-false', 'false']",2,True
+"President Barack Obama suggested on national TV that the Democratic health care bill ""will have government decide"" that a healthy, 100-year-old woman in need of a pacemaker ""should take a pain pill"" instead.",false,false,['false'],1,True
+"Medicare is ""going broke. The trust fund goes bankrupt in 2026.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""More than 25 million Americans are unemployed. More than 50 million live without health insurance. Perhaps 100 million live in poverty.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Arkansas Republican Rep. Tom Cotton voted to provide Congress with ""taxpayer-funded health care for life.""",pants-fire,mostly-false,"['mostly-false', 'false']",2,False
+Says Mike Braun has supported two proposals and a lawsuit to end coverage for people with pre-existing conditions.,mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Originally, Democrats promised that if you liked your health care plan, you could keep it. One year later we know that you need a waiver to keep your plan.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Says President Barack Obama’s health care law is ""expected to destroy 2.3 million jobs.""",mostly-false,false,"['mostly-false', 'false']",2,True
+Says his policy is that “health insurance should always cover preexisting conditions. For anyone. Period.”,false,false,"['mostly-false', 'false']",2,True
+"Says New Jersey Rep. Leonard Lance voted repeatedly ""to let insurance companies charge more to people aged 50 and over.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says U.S. Senate opponent Tommy Thompson favors raising taxes on small businesses.,mostly-false,mostly-false,['mostly-false'],1,True
+"Says Hillary Clinton and Tim Kaine ""want to expand (Obamacare) into a single-payer program.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"COVID-19 is a synthetic version of “snake venom” that evil forces are spreading through remdesivir, the COVID-19 vaccines and drinking water to “make you a hybrid of Satan.”",pants-fire,pants-fire,['pants-fire'],1,True
+"""We now have longitudinal data that shows that children born around Superfund sites have dramatically higher rates of birth defects, dramatically higher rates of autism.""",mostly-true,mostly-true,['mostly-true'],1,True
+"California’s single-payer healthcare proposal would ""force seniors off of Medicare.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Texas ""ranks third in teen pregnancies... and it is No. 1 in repeat teen pregnancies.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""The Democrats are pushing for Universal HealthCare while thousands of people are marching in the UK because their U system is going broke and not working.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Before Congress, (Tom) Cotton got paid handsomely working for insurance companies and corporate interests.""",false,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Everyone in this country has access to health care.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The CBO now says the president's health care law will cut the number of full-time jobs in the United States by 2.3 million by 2021.""",mostly-false,false,"['mostly-false', 'false']",2,True
+“Breaking news: The Trump administration just announced that Medicare will stop covering telehealth starting April 1. … We need to stand up to these Medicare cuts.”,half-true,false,"['mostly-false', 'false']",2,False
+"The GOP health care plan ""would allow health insurance companies to continue engaging in unfair and discriminatory practices like denying coverage to people because of a pre-existing medical condition.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+“The spot where they are ‘getting a sample’ for the COVID-19 test is called your Blood-Brain Barrier.”,pants-fire,false,['false'],1,False
+"""Senator McCain would pay for part of his (health care) plan by making drastic cuts in Medicare — $882-billion worth.""",false,false,['false'],1,True
+"Around the world, people who exercise their ""health autonomy"" and don't get vaccinated are being put ""basically into internment camps.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says Bernie Sanders would “go beyond reform and reorder the economy in ways most Democrats — let alone most Americans — don’t support.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says ""as we sit right now, Medicare, if we do nothing, will be gone in eight years, if we do nothing to it.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""They delayed my swearing-in here in Massachusetts for a couple weeks so they could ram (the health care law) through.""",false,false,"['mostly-false', 'false']",2,True
+"Dan Helmer ""believes in abolishing our private insurance system.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""No Republicans voted for"" recent hikes in the income tax, payroll tax, capital gains tax, dividend tax and estate tax. ""These taxes were all passed under … Obamacare.""",pants-fire,false,"['mostly-false', 'false']",2,False
+The health insurance industry has “agreed to waive all co-payments for coronavirus treatments.”,false,false,['false'],1,True
+"Insulin for Medicare beneficiaries ""was costing 400 bucks a month on average. It now costs $35 a month.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says that Republicans ""bragged about how every bill was going to be paid for, right from the beginning"" and that the first vote, the repeal of health care reform, violated that rule.",mostly-true,mostly-true,['mostly-true'],1,True
+"""160 million people like their private insurance.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Children who receive COVID-19 vaccinations ""will be walking factories of spike proteins"" that will ""undoubtedly cause illnesses to spread like wildfire in schools.""",false,false,['false'],1,True
+"In Florida, ""300,000 people are going to lose their individual coverage because of Obamacare. Now those people next year, they don’t have health insurance.""",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+An increase in Medicare Part B premiums means “America’s seniors are paying the price for Biden’s inflation crisis.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"Forty-five percent of doctors ""say they'll quit"" if health care reform passes.",false,false,['false'],1,True
+“Adults over 51 can receive $$$ in additional spending for groceries and expenses.”,false,false,['false'],1,True
+"""Rand Paul’s speech ... on 'Gattaca' was totally ripped off of Wikipedia.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The public option is not funded with public money. It's funded with private insurance premiums.""",half-true,half-true,['half-true'],1,True
+"""Federal government reneging"" on Medicaid payments to Wisconsin caused about $240 million in extra costs in the 2013-’15 state budget.",false,false,['false'],1,True
+"The health care bills will be ""mandated spending. You can't cut it, regardless of the budget circumstances.""",half-true,half-true,['half-true'],1,True
+"""The (health care) law does not demand that all of these cancellations go out.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Mitt Romney and Paul Ryan ""want to turn Medicare into a voucher system.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""The Children's Defense Fund rated McCain as the worst senator in Congress for children.""",true,true,"['true', 'mostly-true']",2,True
+"Says the Congressional Budget Office ""said if you’re going to buy your own policy with these (health care) exchanges you’ll be paying 10 percent more ... about $2,100 more for a family.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"A provision in the health care reform bill for end-of-life counseling for seniors is not ""entirely voluntary.""",false,false,['false'],1,True
+Says more than 2 million Oregonians have received important medical services because of his health plan.,half-true,half-true,['half-true'],1,True
+"""Amniocentesis, does, in fact, result more often than not in this country in abortion.""",false,false,"['mostly-false', 'false']",2,True
+"Betty Sutton ""gutted Medicare by $500 billion"" with her vote for the president's health care bill.",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says he cured Charlie Sheen and the island of Comoros of HIV with ""milk from goats, which had arthritis.""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"Blue Cross Blue Shield ended ""2016 open enrollment with 1 million members in the Florida marketplace.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Even after Obamacare is fully implemented, there still will be tens of millions of people not covered.""",true,true,"['true', 'mostly-true']",2,True
+"""Seniors will see $500 billion in Medicare cuts to fund Obamacare.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says Rick Scott signed ""laws requiring mandatory ultrasounds and restricting access to abortion even in cases of rape or incest.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says the national health care law puts federal ""bureaucrats between an American citizen and her doctor.""",false,false,"['mostly-false', 'false']",2,True
+"Says she’s ""leading the fight"" to ""force insurance companies to cover pre-existing conditions.""",mostly-false,false,"['mostly-false', 'false']",2,True
+Says Joe Biden “tried to cut Social Security and Medicare for decades. … Now Biden’s promising your benefits to illegal immigrants.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"Obamacare ""prevents (Florida) from regulating insurance.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""If we make no changes over the next 10 years, Americans will reach into their pockets and pay out about $11 trillion on insurance premiums, copays, deductibles and uncovered medical expenses.""",true,true,"['true', 'mostly-true']",2,True
+"Says Betty Sutton and House Democrats ""gutted"" Medicare by $741 billion to pay for Obamacare.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Obamacare-caused paperwork will annually absorb 190 million hours or more--and Mount Rushmore could be built 1,547 times over ""with the paperwork.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Former President Donald Trump wants to take away the Affordable Care Act.,half-true,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,False
+"Repealing the health care law ""would save $95 billion in 2016.""",false,false,['false'],1,True
+"Says if Texas abortion measure passes, ""someone living in El Paso would have to drive 550 miles each way to San Antonio for something as simple as cervical cancer screening.""",pants-fire,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"Thirteen Democratic senators ""voted against cheaper medicines"" and took millions from ""big pharma since 2011.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Right now in Ohio 200,000 people are getting opioid treatment because they have insurance under the Affordable Care Act.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""In 1993 the Republicans embraced a health platform that proudly features an individual mandate as its main component.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"In 2010, Betty Sutton ""voted to destroy Medicare.""",false,false,['false'],1,True
+"""When (Marcy) Kaptur fought for the Democrats' prescription drug benefit for seniors, (Dennis) Kucinich voted no.""",false,false,['false'],1,True
+"""We actually have not required in this law that you carry health insurance.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says Joe Biden is a socialist.,false,false,"['mostly-false', 'false']",2,True
+"Says U.S. Senate opponent Tommy Thompson ""personally made over $3 million"" from a federal contract granted to his healthcare company, but left  9/11 first responders ""without the care they were promised.""",mostly-false,mostly-false,['mostly-false'],1,True
+"""The families that are covered through the Low Income Pool is a different group of individuals than are covered by Obamacare.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The health care reform bill ""is the largest tax increase in U.S. history.""",false,false,['false'],1,True
+"""We pay by far the highest prices in the world for prescription drugs, in some cases 10 times more than the people of any other country.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"The economic stimulus bill created a council that's ""modeled after the national board that controls Britain’s health system.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The Stupak Amendment doesn't just say you can't use your federal insurance subsidy to pay for an abortion, it says, if you're getting a federal subsidy of any kind, you're not allowed to buy an insurance plan that covers abortion even with your own money.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says Scott Brown co-sponsored legislation to let employers deny women coverage for mammograms.,mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Mitt Romney ... gave you government health care that is now bankrupting the state"" of Massachusetts.",false,false,['false'],1,True
+"""In the United States alone we lose more than 3,000 people a day to cancer.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""In states where the federal government helps run these (health care) marketplaces, the average American will have more than 50 different plans to choose from, with different levels of coverage.""",half-true,true,"['true', 'mostly-true']",2,False
+"The medical marijuana ballot initiative ""doesn’t require a physician writing a prescription"" and can be for conditions like ""having a back that needs to be scratched.""",half-true,false,"['mostly-false', 'false']",2,False
+"Thanks to negotiating drug prices ""our seniors, instead of paying $500 a month for drugs, are paying no more than 35 cents.""",false,false,"['mostly-false', 'false']",2,True
+"""I remember years ago looking at a CBO report that in 1964 predicted that Medicare would cost $9 billion 10 years later. And I think it was already over $100 billion at that point.""",false,false,"['mostly-false', 'false']",2,True
+"""Most people on Medicaid are kids, or seniors, or the disabled.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Americans increasingly want (the Affordable Care Act) to be repealed.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The majority actually want single-payer health care.""",false,false,['false'],1,True
+"""Congresswoman Kathy Castor voted to spend $2.6 million to teach prostitutes in China to drink responsibly.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""Current projections indicate that Medicare will go bankrupt by 2017, while Social Security will bottom out by 2037.""",half-true,half-true,['half-true'],1,True
+"""Pfizer CEO says it’s their dream to reduce the population by 50% in 2023.”",pants-fire,false,['false'],1,False
+"Says Paul Ryan’s budget plan ""ends Medicare.""",pants-fire,pants-fire,['pants-fire'],1,True
+Every child in Colorado who has been given medical marijuana for treatment for seizures has had diminished seizure activity.,half-true,half-true,['half-true'],1,True
+"Says uncompensated health care costs absorbed by Texas hospitals are adding $1,800 a year to Texas private insurance rates.",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Klein did not hold a single town hall meeting (on health care) where the general public was invited to ask questions or present their views.""",false,false,['false'],1,True
+"Says President Barack Obama made ""unilateral changes"" to Obamacare ""38 times.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Volunteer firefighters and communities they serve in Georgia and elsewhere are being devastated by Obamacare.,half-true,false,"['mostly-false', 'false']",2,False
+“We have 85 million Americans who have no health insurance.”,half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""43,000 people are going to be kicked out of nursing homes or denied nursing home entrance"" if the Texas House version of the state budget passes into law.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+“The five most-endangered hospitals in the country are all in (North Carolina).”,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""There is no reason for anybody to be losing any of their current benefits under Medicaid.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Six people in Florida die as a result of (not expanding Medicaid) every day.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"A study ""from the Massachusetts Institute of Technology, Harvard, and Dartmouth concluded that Medicaid’s value to its beneficiaries is significantly lower than the actual cost of the program.""",half-true,false,"['mostly-false', 'false']",2,False
+"The health care reform law ""reduces the deficit by nearly $1.2 trillion over the next two decades.""",half-true,half-true,['half-true'],1,True
+"""Nothing in any of the Democrat bills would require individuals to verify their citizenship or identity prior to receiving taxpayer-subsidized benefits.""",half-true,half-true,"['half-true', 'mostly-false']",2,True
+"In the case of a catastrophic event, the Atlanta-area offices of the Centers for Disease Control and Prevention will self-destruct.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""The No. 1 issue that the American people care about is getting America back to work.""",true,true,['true'],1,True
+"Seniors and the disabled ""will have to stand in front of Obama's 'death panel' so his bureaucrats can decide, based on a subjective judgment of their 'level of productivity in society,' whether they are worthy of health care.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Mark Warner cast ""the tiebreaking vote"" to pass Obamacare.",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""For too long, Obamacare has caused high premiums and dismal coverage. ... Under Obamacare premiums in job-based coverage have increased by $3,775""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Diane Black voted to fund Obamacare.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says he ""led the effort to build a new (University of Wisconsin-Milwaukee) engineering campus in Wauwatosa.""",false,false,['false'],1,True
+"The health care bill will subsidize families of four that make more than $80,000 a year.",true,true,['true'],1,True
+"Says Dino Rossi ""stripped"" health care ""from 45,000 children.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Medicare passed with virtually no Republican support.""",false,false,['false'],1,True
+"""After a decade of progress, the rate of uninsured children is now rising.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Health care is the ""No. 1 reason for bankruptcy.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Charlie Crist ""bizarrely vetoed"" $9.7 million for a teaching hospital at the University of Florida ""despite having previously argued the budget request had merit.""",true,true,"['true', 'mostly-true']",2,True
+"Former President Donald Trump could have destroyed the Affordable Care Act, but “he chose to build upon (it).""",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says that before health care reform, one of every three health care dollars spent -- more than $800 billion a year -- didn't go for health care.",mostly-true,mostly-true,['mostly-true'],1,True
+"Says ""Mike DeWine wanted to allow insurance companies to refuse to pay for pre-existing conditions.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says President Barack Obama ""has amended, delayed, or repealed 19 components of his very own (health care) law.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says state budget deal between Texas House and Senate leaders ""funds nursing homes, our public schools and universities and provides financial aid for college students.""",half-true,half-true,['half-true'],1,True
+"Cover Florida ""is available to any Floridian, offering basic coverage for about $150 a month, instead of the typical $600 a month.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"Missouri ""is leading the country when it comes to improving services for mental and behavioral health. Innovation is happening right here.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Missouri has one of the highest rates of uninsured children in the country.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""They’ve seen employer-supported coverage increase in Massachusetts after this law (Romneycare) was implemented.""",true,true,"['true', 'mostly-true']",2,True
+"""13 percent of Americans, the lowest ever, are without health care.""",half-true,false,"['mostly-true', 'mostly-false', 'false']",3,False
+"Says unions call Obamacare ""bad for workers.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Nobody dies because they don’t have access to health care.""",pants-fire,false,['false'],1,False
+"""Measles is one of the most common causes of child blindness worldwide.""",true,true,['true'],1,True
+"The tax penalty that the government imposes if you don't buy health insurance ""is lower than it would have cost to buy insurance.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""All the really great programs in American history, Social Security, was done without Republicans. Medicare was done without Republican support until the last vote where they realized they had to get on board.""",false,false,['false'],1,True
+"Under a new executive order, prescription drug prices will be reduced “almost immediately.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"""We are the only major country on Earth that doesn't guarantee health care to all people as a right.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A small business receiving a federal tax credit ""to provide health care for its employees ... would be barred under the Stupak Amendment from allowing their employees to use ... the health care that they offer them for abortion.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Jose Felix Diaz supports President Donald Trump's ""plan to slash Medicare, charge older Americans an age tax and cut coverage for pre-existing conditions.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""The repeal of Roe v. Wade has exacerbated the state’s OB-GYN shortage as residency programs report a decline in enrollment due to the inability of residents to receive training in-state.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Obamacare is ""hurting people right now"" with premium increases of up to 116 percent.",mostly-true,mostly-true,['mostly-true'],1,True
+"""Liberal Democrats"" who back Dan McCready ""cut $716 BILLION from Medicare to fund their healthcare scheme: Obamacare.""",mostly-false,false,['false'],1,False
+"Sheldon Whitehouse voted for a ""$525-billion tax increase on the middle class.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says U.S. House candidate Carlos Curbelo ""opposes the repeal of Obamacare.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We had an amendment in the health care law that said the federal government is going to take over education.""",false,false,"['mostly-false', 'false']",2,True
+"""Romney adviser admits Romneycare was blueprint for Obamacare.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Congress secured special Obamacare rules ""to prevent their healthcare costs from rising.""",half-true,half-true,['half-true'],1,True
+"Says ""Obamacare"" is ""the largest middle-class tax increase in history.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Says Tammy Baldwin’s ""Medicare for All"" plan means senior citizens would ""no longer have"" Medicare.",mostly-false,mostly-false,['mostly-false'],1,True
+"""If you don't pay income taxes ... you'll have more money"" under the Republican tax plan.",false,false,"['mostly-false', 'false']",2,True
+"""Barbara Boxer voted to cut spending on Medicare benefits by $500 billion, cuts so costly to hospitals and nursing homes that they could stop taking Medicare altogether.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Brendan Doherty wants ""to repeal Obamacare, increasing drug prices for seniors.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says the vaccine to prevent HPV can cause mental retardation.,false,false,"['false', 'pants-fire']",2,True
+"""Wisconsin is a Top 10 state for health care coverage.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Seniors with coverage under Medicare Advantage will give up ""more than their share"" because of health care reform",half-true,half-true,['half-true'],1,True
+"""Obamacare (hit) Americans with over $500 billion in new taxes.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Obamacare raised premiums by 100 percent and after that 91 percent of the people were covered, but we’re all paying 100 percent more.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Under the Affordable Care Act, anyone on Medicare who is admitted to a hospital for observation will be responsible for the bill. Medicare won't pay a cent.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"The government is ""going to have the right to get into your bank account with the health care bill and make transfers without you knowing it.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""We have a host of issues associated with high B.M.I.s. But correlation doesn’t prove causation, and there’s a significant body of research showing that weight stigma and weight cycling can explain most if not all of the associations we see between higher weights and poor health outcomes.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"""70 percent of Americans believe in improved and expanded Medicare for All.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Drug prices in this country actually came down last year for the first time in 50 years. That’s because Donald Trump’s president.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""In Texas, Republicans passed a law allowing rapists to sue their victims for getting an abortion.""",false,false,"['mostly-false', 'false']",2,True
+"Says the state “health secretary says don't go to hospitals or clinics, now the tourism secretary says don't recreate.”",mostly-false,false,"['mostly-false', 'false']",2,True
+"""One out of five Americans cannot afford the cost of prescription drugs.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""The folks in Washington"" are ""already forcing you to buy government health care.""",mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""What does Trumpcare do? Yank tax credits away from veterans unlike any other American.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""ADHD does not exist.""",false,false,['false'],1,True
+"""George Holding has voted 13 times to deny Kevin, and the 300,000 people like him in the 2nd Congressional District, coverage"" for their pre-existing conditions.",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Texas mothers are dying during childbirth at the highest rates in the nation.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says Steve Chabot ""voted to strip insurance protections for pre-existing conditions.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Democratic health care bill will ""collect higher taxes for 10 years  and provide health care for only six years.""",half-true,half-true,['half-true'],1,True
+"""PHARMACEUTICAL COMPANIES that manufacture vaccines have IMMUNITY FROM PROSECUTION!""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""Expanding Medicaid would require borrowing more money, drastically expanding our deficit.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says he ""never supported"" federal health care individual mandate.",false,false,['false'],1,True
+"An independent payment advisory board created by the health care reform law ""can ration care and deny certain Medicare treatments.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""A clear majority of Americans support removing the cost-sharing requirement for prescription contraceptive coverage.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Under the American Health Care Act ""people with pre-existing conditions are protected.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Obama ""only wants your children to have health insurance.""",false,false,['false'],1,True
+"Under President Obama’s health-care reforms, the premium for ""an average plan for a family didn't go down by $2,500 per year, it's gone up about $2,500 per year.""",half-true,half-true,['half-true'],1,True
+"The Massachusetts health care plan ""dealt with 8 percent of our population,"" far less than the ""100 percent of American people"" affected by President Barack Obama’s health care law.",pants-fire,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"""In Jeanne Shaheen, New Hampshire has a Senator who was the deciding vote to pass Obamacare.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Mark Pryor ""cut Medicare to pay for Obamacare.""",half-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"Buried in the Affordable Care Act is ""a huge government bailout.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Defensive medicine costs Georgia up to $14 billion a year.""",half-true,half-true,['half-true'],1,True
+Vaccines that are routinely given to children contain unsafe amounts of aluminum.,false,false,['false'],1,True
+"On key issues including taxes, health care, the Green New Deal, abortion, and guns, there is “no daylight between” Bernie Sanders and Joe Biden.",half-true,mostly-false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""Nobody has been talking about it (Medicaid fraud), focused on it, or paying attention to it.""",false,false,['false'],1,True
+"Businesses ""will be required to certify to the IRS – under penalty of perjury – that Obamacare was not a motivating factor"" for cutting staff.",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The House health care bill provides for ""free abortion services, and probably forced participation in abortions by members of the medical profession.""",false,false,['false'],1,True
+"""In the state of Rhode Island 25 percent of our current physicians are graduates of for-profit medical schools.""",false,false,"['mostly-false', 'false']",2,True
+"""Federal law requires that hospitals treat people whether or not they can pay. So someone (who) doesn’t have health insurance --  they can go to the hospital and get free care.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says his Patient OPTION Act is the only Republican plan ""that completely repeals Obamacare and it takes the federal bureaucrat out of decisions for you.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+“Every pro-life Governor up for election in November won – by a large margin.”,mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says state Rep. Sandy Pasch, her recall opponent, ""voted to allow public school employees to use taxpayer dollars to pick up the tab for…Viagra.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""Abortion is the second-most conducted surgical procedure in this country.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Forty years ago, hardly anybody in the country had health insurance.""",pants-fire,false,['false'],1,False
+"Ann McLane Kuster is ""for a government takeover of health care more radical than Obamacare. And she supports a $700 billion cut to Medicare for current retirees.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"There are""thousands of Georgia workers that are misclassified as independent contractors,"" who lose benefits, including health care.",mostly-true,true,"['true', 'mostly-true']",2,True
+"""This governor has cut funding repeatedly for people who have AIDS, who need drugs to save their life.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Recently Rick Scott ""closed 30 women’s health care centers across the state.""",pants-fire,false,['false'],1,False
+"Many uninsured Americans are ""young.""",mostly-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""The IRS is already planning on 19,500 new employees to administer"" Obama’s health care mandate.",pants-fire,false,"['mostly-false', 'false']",2,False
+"""Seventy percent of all Texans are overweight or obese.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"A national poll found that among people who oppose the Democratic health care reform bill, ""almost 40 percent"" opposed it not because it goes too far, but because ""they don’t think it goes far enough. ... They will not be unhappy when we pass health care reform.""",half-true,half-true,['half-true'],1,True
+"""In Wisconsin, only half of all the adults with serious psychological distress received mental health treatment or medication.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""If you're a black woman, you're 320% more likely to die from complications in childbirth.""",true,mostly-true,"['true', 'mostly-true']",2,True
+Says women who need a sonogram in the eighth to 10th week of pregnancy have to get a transvaginal sonogram.,mostly-true,mostly-true,['mostly-true'],1,True
+"""(Brendan) Doherty wants to raise the eligibility age for Social Security benefits for anyone born after 1960, with no regard for the challenges it would cause for people working in physically demanding occupations.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We are the only industrialized nation that relies heavily on a for-profit medical insurance industry to provide basic health care.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Because of U.S. Senate rules, Democrats need ""more than a majority ... to codify Roe vs. Wade.""",true,true,"['true', 'mostly-true', 'false']",3,True
+"Under a proposed medical marijuana amendment in Florida, ""you don't get refills -- you get it forever.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""We made parity between mental health and physical health. It was a fundamental breakthrough in how we thought about how things should work.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""Congress has cut funding, has slashed funding, for veterans' benefits over these last years.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Eight in 10 people this year can find plans for $75 a month or less.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""What they will do is socialized medicine.""",false,false,"['mostly-false', 'false']",2,True
+"""Most young Americans right now, they’re not covered"" by health insurance.",false,false,"['true', 'half-true', 'mostly-false', 'false']",4,True
+"According to the Congressional Budget Office, ""as many as 20 million Americans could lose their employer-based insurance thanks to Obamacare.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says President Barack Obama ""already passed all these Obamacare taxes. About a dozen of them hit middle-income taxpayers.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says there are ""$500 billion in Medicare cuts required to pay for this flawed [health care law].""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Polls show that Floridians don't want to repeal the Affordable Care Act.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The CDC issued a report commissioned by President Obama just earlier this year, and it found some very inconvenient facts. Armed citizens are less likely harmed by attackers. Effectiveness of gun control laws is mixed. Gun buybacks don't work.""",half-true,true,"['true', 'mostly-true']",2,False
+"“JD Vance actually sent a letter last year to the Department of Justice saying, ‘enforce the Comstock Act.’”",true,true,"['true', 'mostly-true']",2,True
+"David Perdue ""proposes rolling back the clock on women’s health care.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+There was an “attempt on the life” of Dr. Oz after he shared a blood pressure treatment.,false,false,['false'],1,True
+"Oregon Health Plan rations ""covered procedures under certain circumstances""",half-true,half-true,['half-true'],1,True
+"""After Texas cut"" its ""two-year family planning budget by $73 million, one in four clinics closed their doors.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says Ann Kirkpatrick walked out ""on constituents when questioned"" on the Affordable Care Act.",half-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""Thirty million Americans, including a lot of people in Florida, are going to be able to get healthcare next year because of that law.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Over 214,000 doctors opt out of Obamacare exchanges.""",false,false,"['mostly-false', 'false']",2,True
+"""It is estimated that more than 20 veterans die by suicide every day.""",mostly-true,true,['true'],1,False
+"Obamacare is ""costing 2 million jobs.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Trump’s Health Secretary Pick Wants a Medicare Phaseout by Summer 2017.""",false,false,"['mostly-false', 'false']",2,True
+"""The insurance companies are making that choice (to cancel or change policies), not the president.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Millions could lose their health care coverage and be forced into a government pool"" under the new health care law.",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+Jason Carter supports using Georgia tax dollars to promote Obamacare,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"John Adcock and Republicans’ plan for health care ""would get rid of coverage altogether for thousands of families and raise premiums on the rest of us.""",false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"Says the word ""Dhimmitude"" is on page 107 of the health care law and means ""Muslims are specifically exempted from the government mandate to purchase insurance.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""The IRS will have the ability potentially"" to deny or delay health care.",mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""Health insurance is more expensive in Massachusetts than anywhere else in the country.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"John McCain ""took on the drug industry.""",mostly-true,mostly-true,['mostly-true'],1,True
+"The Paul Ryan budget proposal would leave the country ""without Medicare.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We have 5 percent of world population. 80 percent of opioids.""",false,false,"['mostly-false', 'false']",2,True
+"""#GradInsurance debacle is a DIRECT result of #ObamaCare. #MIZZOU has to break the law to do the right thing.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Kids who don’t even know what day it is or their colors can decide to permanently change themselves” through medical gender transition.,false,false,"['mostly-false', 'false']",2,True
+"""If you sell your house after 2012 you will pay a 3.8 percent sales tax on it.""",pants-fire,false,['false'],1,False
+"The conservative proposal to replace the Affordable Care Act ""lowers premiums by giving New York the freedom to end Obamacare’s costly and ridiculous rules.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""A third of all the young people in America are not in America today because of abortion, because one in three pregnancies end in abortion.""",false,false,['false'],1,True
+"Says Walker ""wants to get rid of"" students’ ability to stay on their parents’ health insurance.",false,false,['false'],1,True
+"New federal projections estimate that the health care overhaul ""will cost $1.76 trillion over 10 years -- well above the $940 billion Democrats originally claimed.""",false,false,['false'],1,True
+"Says the Koch Brothers sponsored ""a study that shows that Medicare for All would save the American people $2 trillion over a 10-year period.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""The vast majority of people that got insurance under President Obama's Obamacare, the Affordable Care Act, got it through Medicaid.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"The ""president has given 1,100 special waivers to his friends"" for Obamacare.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"If you get a flu shot, you're ""poisoning yourself.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Harry Reid ""voted to use taxpayer dollars to pay for Viagra for convicted child molesters and sex offenders.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The average family in America forks over more of their hard-earned income to their local hospital than to the IRS.”",true,true,"['true', 'mostly-true']",2,True
+The fastest-rising expense in the U.S. Defense Department is health care.,true,true,['true'],1,True
+The COVID-19 vaccines were linked to the deaths of 80 Canadian doctors.,false,false,['false'],1,True
+"""If you're one of the more than 250 million Americans who already have health insurance, you will keep your health insurance.""",half-true,false,"['mostly-false', 'false']",2,False
+"""Seventy-three percent of our veterans are graduating from drug courts. By contrast, I think most of the people in the very good drug court program — the graduation rate’s like 53, 55 percent. The point of that is that drug courts are working for veterans.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"An amendment to the House health reform bill ""puts new restrictions on women's access to abortion coverage in the private health insurance market even when they would pay premiums with their own money.""",false,false,['false'],1,True
+"With Obamacare, ""we're fixing to get hit with the biggest entitlement program the American taxpayers have ever seen.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""If we choose Obamacare expansion, 600,000 will lose eligibility for their subsidies, of which 257,000 would be forced into Medicaid.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Over 300K home owner suicides attributed to foreclosures.""",pants-fire,false,"['mostly-false', 'false']",2,False
+“The CDC can detain anyone with a fever — indefinitely. … Vaccination (is) a way people could get out of detention.”,false,false,"['mostly-false', 'false']",2,True
+"Says ""President Obama just granted all of Congress an exception"" to Obamacare.",false,false,"['mostly-false', 'false']",2,True
+"Says Rick Perry wrote a letter ""supporting Hillarycare.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Pregnant women trying to buy health insurance on their own are barred from maternity coverage because they have a ""pre-existing condition.""",true,true,['true'],1,True
+"Says Reps. Rush Holt, Frank Pallone and Bill Pascrell are ""willing to jeopardize seniors’ access to coverage by gutting $741 billion from Medicare"" to pay for a ""big-government healthcare takeover.""",pants-fire,mostly-false,"['mostly-false', 'false']",2,False
+"Obamacare provision will allow ""forced home inspections"" by government agents.",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says ""if we do nothing and continue to let Obamacare siphon off that $700 billion dollars off the top of it, Medicare goes away in less than 10 years -- certain accounts of it -- and it just falls apart at the seams.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Most of home care is paid by government programs.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""You’re in danger” because the American Red Cross doesn’t label blood donations from donors vaccinated against COVID-19.",false,false,['false'],1,True
+"Says that according to ""many reports and even our own data,"" the state of Texas spent more through Medicaid on orthodontia than all other states combined.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""All private healthcare plans must conform to government rules to participate in a Healthcare Exchange.""",true,true,['true'],1,True
+"Because of Obamacare ""people’s premiums ... are going up 35, 45, 55 percent.""",half-true,false,"['mostly-false', 'false']",2,False
+C-sections are coded as abortions in hospitals.,false,false,['false'],1,True
+"Obamacare is ""one big fat VA system.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I actually in 2005 ran on Medicare for all.""",true,true,"['true', 'mostly-true']",2,True
+"Eighty-five percent of Floridians who will benefit from expanding Medicaid are ""single, childless adults.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Republicans ""have declared that they’re going to convert the Medicare program into a voucher program.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""I was the person who saved Pre-Existing Conditions in your healthcare.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Nearly half of all pregnancies in the U.S. are unintended.""",true,true,['true'],1,True
+"Says a man opted out of Obamacare after the marketplace launched on Oct. 1, 2013, and was informed he owed a $4,000 fine.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""ObamaCare will use your tax dollars to provide free Viagra to convicted rapists and registered sex offenders.""",half-true,false,"['mostly-false', 'false']",2,False
+"""A majority of Americans still oppose this health care bill.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""I never was in favor of shutting down the government. … (I) voted to fund the government fully.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says North Carolina Republican Senate candidate Thom Tillis ""supports a plan that would end Medicare as we know it.""",mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"If you don't count illegal aliens, people who qualify for other insurance, and people who make more than $75,000 a year, ""it leaves about 15 million people"" who are uninsured.",half-true,half-true,['half-true'],1,True
+"With Medicare for All, ""study after study has shown that ... the average middle-class families will save $3,000 each and every year on their health care bills.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The biggest job of the surgeon general is to translate health care and health care needs into plain English.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""Actually, on some procedures, you're more likely to die if you're on Medicaid than if you're uninsured.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A waiver in the American Health Care Act ""doesn’t apply to things like maternity coverage.""",false,false,"['mostly-false', 'false']",2,True
+"""Repealing and replacing Obamacare – that’s going to save $1 trillion over a 10-year period.""",false,false,['false'],1,True
+"Barack Obama and the Democrats have ""proposed a tax for not having health insurance.""",true,true,"['true', 'false']",2,True
+"""In the period from 2007 to 2011, the Office of Health Insurance Commissioner reported an 18 percent decline in the state’s total medical spending.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""Every county in the state of Texas has a veterans court.""",false,false,"['mostly-false', 'false']",2,True
+"U.S. Rep. Alan Grayson ""compared a former vice president to a vampire ... and compared America's health care system to the Holocaust.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Texas is LAST (50th) in spending for mental health care.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+“I have never sued a nun — any nuns.”,half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Right now, the (Congressional Budget Office) says up to 20 million people will lose their insurance as Obamacare goes into effect next year.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"“In New York state, if you’re white, you have to go to the back of the line to get medical help.”",pants-fire,false,['false'],1,False
+"Nearly 6 in 10 uninsured Americans ""can get health insurance for what may be the equivalent of your cell phone bill.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+The Senate health care bill does not contain limits on medical malpractice lawsuits.,true,true,['true'],1,True
+"Just 6 percent of Americans say Russia is the country’s most important issue, yet the story receives ""75 percent of the coverage"" in the media.",mostly-false,false,"['mostly-false', 'false']",2,True
+"The health care law is ""job killing.""",false,false,['false'],1,True
+"""Big pharmaceuticals pay off — they literally pay off — generics to keep the prices and the competition off the market.""",true,true,"['true', 'mostly-true']",2,True
+"""We spend more on health care than any other country, but we're ranked 47th in life expectancy and 43rd in child mortality.""",true,true,"['true', 'mostly-true']",2,True
+"""We know how to stop AIDS: persuade men not to have sex with men.""",pants-fire,false,"['false', 'pants-fire']",2,True
+Health care reform will not affect veterans' benefits.,true,true,['true'],1,True
+"""I don't know who (Jonathan Gruber) is.""",false,false,['false'],1,True
+"""When Social Security started, age expectancy for the average man was 58. It was 62 -- 62 for women.""",true,true,['true'],1,True
+"""A million people … could get health insurance right away"" if Texas expanded Medicaid under Obamacare.",true,true,"['true', 'mostly-true']",2,True
+“We’re not cutting science. We’re not cutting research.”,pants-fire,false,"['mostly-false', 'false']",2,False
+"Says his bill, HB 97, would prevent the use of taxpayer dollars on abortions.",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says Democrats first proposed prohibiting the government from negotiating prices for prescription drugs in Medicare Part D and he ""had nothing to do with"" that provision in the law.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The State of Texas is funding … women’s health services at historically high levels; they just increased their level another $50 million for the next two years.""",true,true,"['true', 'mostly-true']",2,True
+"""It will cost $50,000 per enrollee in Obamacare over the next 10 years.""",false,false,"['mostly-false', 'false']",2,True
+Forty-five percent of Americans went without needed care because of costs in 2007.,mostly-true,mostly-true,['mostly-true'],1,True
+"Says VA doctors are ""censored from being able to talk to their patients"" about marijuana, even in states where it is legal for medicinal use",mostly-false,mostly-false,['mostly-false'],1,True
+"Says Obama health reform law denies millions ""access to affordable insurance.""",false,false,['false'],1,True
+"States still face a ""mandate"" to expand Medicaid coverage under President Obama's health care reform law.",pants-fire,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""$21T in Pentagon accounting errors. Medicare for All costs ~$32T. That means 66% of Medicare for All could have been funded already by the Pentagon.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Expanding Medicaid will worsen health care options for the most vulnerable among us in Texas.""",false,false,"['mostly-false', 'false']",2,True
+"The Democratic health care plan is a ""government takeover of nearly 20 percent of our economy.""",pants-fire,pants-fire,['pants-fire'],1,True
+Almost every state has offered an insurance plan on its health exchange that does not cover abortion.,true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Republicans Chuck Grassley, John Boehner and John Mica flip-flopped on providing end-of-life counseling for the elderly.",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"Joe Biden ""put 20 million people on Medicaid who aren’t even eligible, then stopped states from taking them off.""",false,false,"['mostly-false', 'false']",2,True
+"Federal law for Obamacare navigators ""does not bar — or even require screening for — convicted felons, including individuals convicted of identity theft or fraud.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The IRS has been specifically forbidden ...  from ever actually pursuing either civil or criminal remedies"" for people who don’t purchase health insurance.",mostly-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+The COVID vaccine “has been proven to have negative efficacy.”,false,false,['false'],1,True
+"Says a Josh Hawley lawsuit ""would take away important prescription drug coverage for seniors through Medicare and end all of the consumer protections under the ACA.""",true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,False
+"Says a new report shows the ""devastating tax hikes (in the health care law) will have on middle-class Kentuckians.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Americans ""say that what they want is a choice"" to join a single-payer system like Medicare rather than ending private insurance.",true,true,"['true', 'mostly-true']",2,True
+"Says the state's Medicaid waiver proposal ""has languished in a file cabinet at the Centers for Medicare and Medicaid Services for more than two years.""",pants-fire,pants-fire,['pants-fire'],1,True
+I've shut down pill mills.,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The IRS is ""going to be in charge of our health care.""",false,false,"['mostly-false', 'false']",2,True
+"""The costs for families (in the individual market) for the same type of coverage that they're currently receiving would go down 14 percent to 20 percent.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+Says Thom Tillis has been “blocking his own party’s efforts to reduce the cost of prescription drugs.”,half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""This (Independent Payment Advisory Board) board can ration care and deny certain Medicare treatments so Washington can fund more wasteful spending.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"The Republicans' alternative health care plan ""will still let insurers raise premiums four times faster than wages.""",false,false,['false'],1,True
+"""Obesity kills 34 children per hour.""",pants-fire,pants-fire,['pants-fire'],1,True
+“Kamala Harris Tried to Put Pro-Lifers in Jail Who Exposed Planned Parenthood Selling Baby Parts”,false,false,"['mostly-false', 'false']",2,True
+Says Republican lawmakers delayed COVID-19 testing,mostly-false,false,"['mostly-false', 'false']",2,True
+Says Hillary Clinton opposed an individual mandate and favored an employer mandate back in 1993.,mostly-true,true,"['true', 'mostly-true']",2,True
+“Anybody that wants a test (for the coronavirus) can get a test.”,pants-fire,false,"['mostly-false', 'false']",2,False
+"""The Department of Health and Human Services is providing $160 million to the state of Pennsylvania to set up a new high-risk insurance pool program that would cover any abortion legal in the state.""",false,false,['false'],1,True
+"Under a new law regulating abortions, ""Even if you're raped, if you don't report it in the first 30 days, the Republicans will force you to have an ultrasound.""",half-true,half-true,['half-true'],1,True
+"Says Joe Straus ""was co-author of a bill that would have allowed Planned Parenthood to control public school sex education.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""Women take birth control, more than half of them, as a medication for other conditions.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"The Affordable Care Act alters the ""sensible doctor-patient-relationship-centered health care program ... we see today.""",false,false,"['mostly-false', 'false']",2,True
+“We are currently using only around 20% of our testing capacity.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+Says some Georgians can get health insurance for $105 a month.,mostly-true,mostly-true,['mostly-true'],1,True
+"Rick Scott ""was forced to resign as the head of a company that pled guilty to massive amounts of systematic fraud, including 14 felonies, leading to a historic $1.7 billion fine.""",true,true,"['true', 'mostly-true']",2,True
+"""We’ve saved over $100 million of (health care) costs"" in Milwaukee County. ""I did that.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Of hospitals in Rick Scott’s Columbia/HCA health care company, ""A top executive said they even turned away a poor man and left him to die outside their door.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Barack Obama's health care plan ""would leave 15 million Americans out.""",half-true,half-true,['half-true'],1,True
+Health insurance costs for Floridians are up 30 percent or more.,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"The Democrats' health care reform law is a ""government takeover of health care.""",false,false,['false'],1,True
+"“In West Virginia alone, overdoses have increased by 50% during the #COVID-19 pandemic.”",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says Donald Trump ""wants to replace"" Obamacare ""with a single-payer system.""",half-true,half-true,"['half-true', 'mostly-false']",2,True
+"""The United States Senate — Democrats and Republicans — (voted) to keep our government open.""",mostly-false,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says the Patient Protection and Affordable Care Act adopted last year contains ""a series of slush funds, set up to stay on the books automatically, with little or no oversight.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Oregon’s ""three largest employers, and 13 of the top 25, are health care providers.""",false,false,"['mostly-false', 'false']",2,True
+"""Recent census data shows that the average American family spends over $13,000 a year for health care coverage.""",false,false,['false'],1,True
+"In Ohio, due to Medicaid expansion, ""nearly 60,000 disabled citizens are stuck on waiting lists ... leaving them without the care they need for months or even years.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""You don't know if this (the H1N1 vaccine) is gonna cause neurological damage like it did in the 1970s.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Shows in a television ad that police took evidence from Solantic, Rick Scott's new health care company, after allegations emerged that the company was engaging in fraud.",false,false,['false'],1,True
+"""Abortion providers like Planned Parenthood do little other than provide abortions.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Says the new health care law delivers a ""$13 billion tax increase on families with special needs.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""People show up in the emergency room with a sprained ankle, 25 percent get an opioid prescription.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"In the Affordable Care Act, Democrats ""cut $500 billion from Medicare"" and ""put in place the Independent Payment Advisory Board, 15 unelected bureaucrats, which will be making decisions about health care for our seniors and for all Americans.""",mostly-false,half-true,['half-true'],1,False
+"Says Congressman Jon Runyan has a ""plan to raise Medicare costs $6,400 a year.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says Tammy Baldwin supports a law ""in which government will take over your decisions on medicine, on doctors and on hospitals.""",false,false,['false'],1,True
+"A data-storing microchip ""would be implanted in the majority of people who opt to become covered by the public health care option.""",pants-fire,pants-fire,['pants-fire'],1,True
+Says Marco Rubio endorsed Obamacare for his own family.,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We end the $100 billion a year that the health care industry makes.""",true,true,"['true', 'mostly-true']",2,True
+"""300,000 Floridians have lost their health insurance"" as a result of Obamacare.",false,mostly-false,"['mostly-false', 'false']",2,True
+"""When they passed Obamacare, they put a bailout fund in Obamacare. … We led the effort and wiped out that bailout fund.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"The health care bill will ""create 4 million jobs, 400,000 jobs almost immediately.""",half-true,half-true,['half-true'],1,True
+"Says ""wealthy people in Canada donate to hospitals"" to get better health care treatment.",mostly-false,false,['false'],1,False
+"""The Government Accountability Office estimated (Obamacare) will add to the long-term deficit by $6.2 trillion.""",mostly-false,false,"['true', 'false']",2,False
+"""Hospitals have already begun layoffs, a direct result of Republican inaction"" on Medicaid expansion.",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Live cats have holes drilled into their skulls,"" posts put into their heads and coils put into their eyes, and some have had their ears cut off or are intentionally deafened or starved at UW-Madison labs that do research to improve hearing in humans.",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"""We have been able to cut New York’s uninsured rate in half since 2013 from 10 percent to 5 percent of our population.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""We now have about one-third of New York’s population on Medicaid.""",true,true,"['true', 'mostly-true']",2,True
+"""Despite the administration telling us (health care reform) was going to reduce health care costs, they now acknowledge it's going to dramatically increase health care costs.""",false,false,['false'],1,True
+"""Dems want billions to go to Insurance Companies to bail out donors""",false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"""In about three weeks over a half million Floridians are going to lose their coverage again"" through Obamacare.",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Amid the ""crisis at our southern border,"" there are ""reports of illegal migrants carrying deadly diseases such as … Ebola virus.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Cuba has a lung cancer vaccine we in the US had no access to because we sanctioned Cuba.”",half-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"Insurance companies ""have made a fortune with Obamacare.""",false,mostly-false,"['mostly-false', 'false']",2,True
+Indiana expanded Medicaid when Mike Pence was governor,mostly-true,true,"['true', 'mostly-true']",2,True
+"Blue Cross headquarters has ""a $30,000 granite table.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Says Cathy Jordan was ""arrested"" and dragged out of her home by ""a SWAT team of hooligans"" for using medical marijuana.",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Male birth control testing stopped after men’s testicles start exploding in India.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Emails show that Fauci knew ""hydroxychloroquine worked [and] emailed friends about it being effective.""",false,false,"['half-true', 'mostly-false', 'false']",3,True
+Women pay 48 percent more for health insurance.,mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Rick Scott ""thinks employers should be able to deny women coverage for birth control.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Two million more people just dropped out of Obamacare. It is in a death spiral.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"The Texas Senate ""approved a bill to put a special label on the insurance cards of anyone who bought a plan through Obamacare"" that includes the letter ""S"" for subsidy.",mostly-false,false,['false'],1,False
+"""Congressman Nye voted against a bill which would have defunded the $5-10 billion"" the IRS needed to implement  health care legislation.",false,false,['false'],1,True
+"""When the Affordable Care Act was signed, 17 million American children"" had a pre-existing condition and were ""uninsurable.""",false,false,['false'],1,True
+Says the Affordable Care Act has already reduced the number of uninsured in Oregon by 10 percent.,true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""If someone is in a room that has measles and leaves and you walk in two hours later, you could get measles from that person.""",true,true,['true'],1,True
+"If parents ""don't have health insurance that Senator Obama wants them to have (for their children), they will be fined.""",half-true,half-true,['half-true'],1,True
+"""If you go to every hospital in this country and you ask them one question, which is, ‘How would it have been for you last year if every one of your bills were paid at the Medicare rate?’ Every single hospital administrator said they would close.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Health reform will ""give every American the same opportunity"" to buy health insurance the way members of Congress do.",false,false,['false'],1,True
+"Says Suzanne Bonamici ""supports the $500 billion cut to Medicare passed last year.""",false,false,"['mostly-false', 'false']",2,True
+"""No family earns too much to qualify"" for Oregon Healthy Kids program.",mostly-true,mostly-true,['mostly-true'],1,True
+"Page 992 of the health care bill will ""establish school-based 'health' clinics. Your children will be indoctrinated and your grandchildren may be aborted!""",pants-fire,pants-fire,['pants-fire'],1,True
+"""I asked the unions to pay into their own health care insurance ... and they said I was being unreasonable. I requested that they contribute toward their own pensions ... and they screamed it was unfair.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""By one leading measure, what business owners pay out in wages and salaries is now finally growing faster than what they spend on health insurance"" for the first time in 17 years.",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says that after the overdose death of a Tomah VA veteran, she ""brought both parties together to help pass a law"" to ""make the VA accountable and also to stop the overprescribing of"" opioids.",mostly-true,mostly-true,['mostly-true'],1,True
+"Says Rick Perry's ""Pay to Play"" politics led him to send $899 million to an offshore call center in Bermuda, driving down enrollment in children's health insurance",false,false,['false'],1,True
+"The health care reform law ""offset[s] 6 years of benefits with 10 years of tax increases.""",half-true,half-true,['half-true'],1,True
+"""Eighty percent of those who have applied for licenses have no cancer, no Parkinson's disease or glaucoma. They have nothing you would associate [with] the use of medical marijuana.""",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"""It took Obama six months to pick out a family dog,"" but he's ""cramming health care reform down the country's throat in a fraction of that time.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Barack Obama's health care plan is ""to mandate health care coverage and have a universal government-run program.""",mostly-false,mostly-false,['mostly-false'],1,True
+Republican legislatures “have targeted birth control” and in Wisconsin “refused to schedule a vote on a bill that would have codified a right to birth control.”,half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Warren Buffett recently said ""Scrap Obamacare and Start All Over.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says Charlie Crist supports ""cuts to the Medicare Advantage program.""",false,false,"['mostly-false', 'false']",2,True
+"""When one person sneezes, it goes all the way through the aircraft.""",pants-fire,pants-fire,['pants-fire'],1,True
+"Half of all personal bankruptcies in America ""are caused by medical bills.""",mostly-true,half-true,"['half-true', 'mostly-false']",2,False
+"Insurers delayed an Illinois man's treatment, ""and he died because of it.""",false,false,['false'],1,True
+"Says Paul Ryan ""voted for two wars that were unpaid for, voted for the Bush tax cuts that were unpaid for, voted for the prescription drug bill that cost as much as my health care bill -- but wasn't paid for.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says she voted to stop a new ""age tax"" under which ""Arizonans age 50 & over could be charged 5 times more for their health care.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""One thing that is much more unpopular than the Affordable Care Act is repealing the Affordable Care Act.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Sixteen thousand new Internal Revenue Service agents will be ""empowered to enforce"" the new health care legislation.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""I was the first presidential candidate to lay out a specific, truly universal health care plan.""",false,false,"['mostly-false', 'false']",2,True
+"Says as a Schedule 1 drug, marijuana carries a designation that means it ""should not be researched""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""14,000 Americans . . . lose their health insurance every single day.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says Brett Kavanaugh is ""pro-Obamacare.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Rhode Island has ""the most burdensome level of health-insurance mandates in the nation.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Ted Cruz tried to ban contraception"" five times.",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+Insurance companies have seen their profits soar by more than 400 percent since 2001.,half-true,half-true,['half-true'],1,True
+"The Affordable Care Act is ""making families pay double-digit premium increases.""",half-true,mostly-false,"['mostly-false', 'false']",2,False
+“Wisconsin is one of the nine states with the highest rate of infection per capita.”,mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"The health care law ""adds around $800 billion of taxes on the American people. It does not discriminate between rich and poor.""",false,mostly-false,"['mostly-false', 'false']",2,True
+"""Medicare does just as good, if not better, at keeping people healthy"" as Medicare Advantage.",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"""Marijuana has a unique impact on the developing brain. It can prime your brain for addiction to other substances.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""If Roe is overturned, Wisconsin has a law on the books that would immediately make abortion a crime.”",true,true,['true'],1,True
+"""We’re spending 18 percent of our GDP on healthcare while the average among industrialized countries is closer to 8 percent.""",mostly-true,mostly-true,['mostly-true'],1,True
+"“Bernie Sanders wants free health care for all and was asked how he would pay for it. His answer was raise taxes to 52% on anybody making over $29,000 per year.”",false,false,['false'],1,True
+"""I never had a filibuster-proof Senate.""",true,true,['true'],1,True
+"""Despite claims that you can 'keep the health care plan you like,' the Obama Administration has predicted that as many as 7 out of 10 Americans with employer-provided health coverage could lose their current health plan.""",false,false,['false'],1,True
+"""8.5 million Americans have gotten rebate checks because their insurance companies were spending too much money on executive bonuses and administrative costs and not enough on health care.""",mostly-true,half-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""The Department of Health and Human Services is considering a plan to adopt socialist price controls from foreign countries.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"North Carolina Republican Senate candidate Thom Tillis would let insurance companies ""deny coverage for pre-existing conditions.""",mostly-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,False
+"""They didn't allow"" Simone Biles ""to take her ADHD medication.""",false,false,['false'],1,True
+"About half the people who would qualify for Medicaid expansion in Florida ""can buy a health care plan for $30 a month"" on the federal health care exchange.",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Mark Udall ""decided Obamacare. ... He passed Obamacare with his vote.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""I personally am pro-choice. I always have been. And I made no qualms about that when I was elected governor.""",true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The measles vaccine has killed 108 people in the last decade, while no one has died of measles.",false,false,['false'],1,True
+"""Each vegan spares more than 100 animals every year.""",mostly-false,mostly-true,"['mostly-true', 'half-true']",2,False
+"""In Canada, for a number of decades, they have provided quality care to all people without out-of-pocket expenses. You go in for cancer therapy, you don't take out your wallet.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We have $60 billion in 2010 in Medicare fraud.""",half-true,false,"['mostly-false', 'false']",2,False
+“The World Health Organization has been working since 1974 on vaccines to create permanent sterility.”,false,false,"['mostly-false', 'false']",2,True
+"""We have got 20 million folks out there across this land who have told the federal government, ‘Phooey, nonsense, I’m not going to participate in your program, because it doesn’t do what I need done.’ """,mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Weeks after accepting a quarter-million-dollar campaign contribution"" from a hospital board chairman, Greg Abbott went to court against victims of a drug-taking neurosurgeon.",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says ""Hillary Clinton has pledged amnesty in her first 100 days, and her plan will provide Obamacare, Social Security, and Medicare for illegal immigrants, breaking the federal budget.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says ""74 percent of small-business people believe that Obamacare is a bad idea.""",false,false,['false'],1,True
+"Sen. Jack Reed ""cast the deciding vote in the Senate for the Affordable Care Act.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""We have one senator who’s a ‘yes’ vote ... but he’s in the hospital. And he’s a ‘yes’ vote. So we can’t do it by Friday. So we have the votes"" to pass a health care bill.",false,false,"['mostly-false', 'false']",2,True
+"Republicans “have shown themselves willing to cut millions off their health insurance and eliminate preexisting condition protections for millions more, even in the middle of this public health crisis.""",true,true,['true'],1,True
+"Says 1 in 5 Texans did not have health insurance coverage before the pandemic, and now “nearly 1 in 3 Texans under the age of 65 don’t have access to health care insurance.”",true,mostly-true,"['mostly-true', 'half-true']",2,False
+"The uninsured rate in California reached ""a historic low of 7.4 percent in 2016.""",true,true,"['true', 'mostly-true']",2,True
+"""Wisconsin pays 50% more than Minnesota for the same health care.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Obamacare is a ""massive, massive income redistribution"" with ""$250 billion a year in Medicaid expansion (and) in the subsidy structure that's basically being paid for by people on Medicare, through Medicare cuts, and a lot of tax increases.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Sherrod Brown voted ""for the $1.17 trillion health care law that adds a new tax on Ohio manufacturers.""",half-true,half-true,['half-true'],1,True
+"""Before we even passed health care, 4 millions kids got health insurance that didn't have it before, through the Children's Health Insurance Program.""",half-true,half-true,['half-true'],1,True
+"Obamacare medical device tax ""has led to the loss of thousands of jobs"" in U.S.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"President Barack Obama is ""ending Medicare as we know it.""",pants-fire,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+"If a woman in Texas takes “abortion pills voluntarily,” she would be “charged with murder.”",false,false,"['mostly-false', 'false']",2,True
+"People committed involuntarily for 72 hours under the Baker Act will get their guns back ""automatically and immediately upon discharge....and their commitment is never entered into a background check database.""",half-true,false,"['mostly-false', 'false']",2,False
+"""I helped write"" the Affordable Care Act.",mostly-false,half-true,"['mostly-true', 'half-true']",2,False
+"""Illegal aliens cost the state of Rhode Island $400 million a year.""",pants-fire,pants-fire,['pants-fire'],1,True
+Says the Democrats told the Catholic Church that they’ll use federal powers to shut down church charities and hospitals if the church doesn’t change its beliefs.,pants-fire,mostly-false,"['mostly-false', 'false']",2,False
+"""A couple of debates ago, (Donald Trump) said if you don’t support socialized health care, you’re heartless.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""Local law enforcement . . . will have access to the [Obamacare] Data Hub’s treasure trove of personal info.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says Joe Biden and Kamala Harris support abortion “up to the moment of birth.”,false,false,"['mostly-false', 'false']",2,True
+"Says Wisconsin measures have ""prevented the death of at least 300 Wisconsinites, and perhaps as many as 1,400 lives.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says it’s a ""statistical reality that most single moms are very poor, under-educated, can't get a job, and if it weren't for government assistance, their kids would be starving to death.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"There are ""10 or 20 deaths a year from foodborne illness"" in the United States.",false,false,['false'],1,True
+"An independent payment advisory board created by in the health care reform law is ""like a Medicare IRS with the power to cut Medicare in order to pay for new government programs.""",pants-fire,pants-fire,['pants-fire'],1,True
+"""Veterans can now download their electronic medical records with a click of the mouse.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says U.S. Rep. Ann Wagner “voted five times against protecting pre-existing conditions.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says opponent Sen. Tammy Baldwin “gave our taxpayer money to a transgender-affirming clinic … that does it without even telling parents.""",false,false,"['mostly-false', 'false']",2,True
+"Despite President Barack Obama's promise to cut healthcare costs, ""the average cost of a family policy is up $1,300.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Planned Parenthood is the biggest abortion provider in the country.""",true,true,['true'],1,True
+"""Romneycare sent costs spiraling out of control"" in Massachusetts, ""hiking premiums, squeezing household budgets.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"There ""are not cuts to Medicaid"" in the GOP health care proposals.",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Almost 1 million children ... have no health insurance in this state.""",true,true,['true'],1,True
+"""Back door gun control is in full effect in the United States"" due to ""Obama’s Environmental Protection Agency.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"About two-thirds of Medicaid beneficiaries are children, but they account for one-third of the program’s cost, while one-third are elderly, and they account for two-thirds of the cost.",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+Dr. Mehmet Oz promoted a weight loss supplement that can be added to coffee.,pants-fire,false,"['false', 'pants-fire']",2,True
+"""Remember, Obamacare created a new category of eligibility. Working-age, able-bodied adults with no dependents for the first time became eligible for Medicaid if their income is below 138 percent of the poverty level. We’re going to continue that eligibility. No one loses coverage.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Al Franken ""voted to exempt himself and Congress from enrolling in (the Affordable Care Act marketplaces).""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+ColoradoCare would have higher revenues than McDonald’s.,mostly-true,true,"['true', 'mostly-true']",2,True
+"Under Ryan plan, ""those 54 and younger would receive the same kind of healthcare options now enjoyed by members of Congress.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"The Senate version of the health care reform bill ""allows taxpayer money to pay directly for abortion in federal community health centers funded in the bill.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says Barack Obama's health care law ""will be the biggest job-killer ever.""",false,false,['false'],1,True
+"""Daraprim is still underpriced, relative to its peers.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says the Trump administration ""has banned the CDC even using the word ‘transgender.’ """,false,false,['false'],1,True
+"""The Republicans have demanded deep cuts in education. They've demanded cuts in cancer research and other research to find cures and treatments to diseases.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Because of Obamacare, you have so many part-time jobs.""",false,false,"['mostly-false', 'false']",2,True
+"Every family health insurance policy has ""a $900 hidden tax"" to subsidize health care costs of the uninsured.",true,true,['true'],1,True
+"Members of Congress ""specifically exempted themselves from many of the laws they have passed, such as being exempt from any fear of prosecution for sexual harassment"" ... (and) from the healthcare reform.""",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"""Teddy Roosevelt first called for (health care) reform nearly a century ago.""",true,true,['true'],1,True
+"""This (SCHIP) is socialized medicine. It is going to go to families that make $60,000 a year. Those aren't poor children.""",true,mostly-false,"['half-true', 'mostly-false', 'false']",3,False
+"Texas ""spent close to a third of its budget on Medicaid last year, a third of all state spending.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Says the average government worker won't be impacted in the first two years under the reform of state health benefits.,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"“With school-based professional social workers, the recommendation is 400-to-1, and in Wisconsin, we’re almost triple that.”",true,true,"['true', 'mostly-true']",2,True
+"Says Dave Brat ""voted against protecting pre-existing conditions.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""If we had been on 'Obamacare' and a bureaucrat was trying to tell me when I could get that CAT scan, that would have delayed my treatment.""",false,false,['false'],1,True
+"Says ""Scott Walker favors cutting up to 350,000 families and children off health care.""",half-true,half-true,['half-true'],1,True
+"""We have over 300 state agencies. Forty-five of those agencies are related to health care.""",false,false,['false'],1,True
+"Obamacare includes ""a $63 charge every American will begin paying (in 2013) as a way to cover some of the increased costs associated with providing health insurance to those with pre-existing conditions.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Obamacare ""is in a death spiral.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says ""Dan Bishop doubles down on removing coverage for people with pre-existing conditions. Under his sham ‘association health plans,’ insurance companies don't have to pay for medications for pre-existing conditions.""",half-true,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"When George W. Bush was governor of Texas, ""the percentage uninsured went down."" Under his successor, Rick Perry, ""it's gone up.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The GOP’s health bill will protect people with pre-existing conditions ""every bit as well as Obamacare did.""",false,false,['false'],1,True
+"Jim Renacci ""voted repeatedly to end Medicare.""",false,false,['false'],1,True
+"Says Scott Walker is ""forcing some women to undergo a transvaginal probe to get an abortion.""",half-true,half-true,['half-true'],1,True
+"Says Donald Trump’s health care policies have ""left millions more Americans uninsured since he took office.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""Every month, we get the reports from the Bureau of Labor Statistics that say even more people have given up looking for work.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""A strong bipartisan majority"" in the House of Representatives ""voted to defund Obamacare.""",false,mostly-false,"['mostly-false', 'false']",2,True
+Florida's cost for the Medicaid expansion will be $1.6 billion a year or  more.,half-true,false,"['mostly-false', 'false']",2,False
+"Greg Abbott was ""charged with overseeing the state cancer research fund. But he let his wealthiest donors take tens of millions of taxpayer dollars without proper oversight. They showered Abbott with gifts and free vacations.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says House Democrats ""voted to use your tax dollars for abortions"" by voting against bill defunding Planned Parenthood.",false,false,"['mostly-false', 'false']",2,True
+"""In many instances, (people's) health care costs are more than their mortgage costs or their rent, which, by the way, is a first in American history.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Wisconsin is not as obese as the national average is. The national average, 35.7 percent of the population is obese. In Wisconsin, it's closer to 26 percent.""",mostly-false,mostly-false,['mostly-false'],1,True
+"Says Mitch McConnell voted to raise Medicare costs for a current Kentucky senior by $6,000.",false,false,"['mostly-false', 'false']",2,True
+"""It's important to pay attention to the Russian spy drama, but let's not ignore the fact that the following (10) bills have been introduced"" in the House.",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"When the Milwaukee County mental health facility is full, ""cops sit out there in their squad cars with a mentally ill patient""  and sometimes ""spend an entire shift out there doing that.""",false,false,['false'],1,True
+"Barack Obama ""wants the government to take over health care, spend hundreds of billions of dollars of new money for health insurance for everyone.""",mostly-false,mostly-false,['mostly-false'],1,True
+"A ""hidden"" provision in the health care law taxes sporting goods as medical devices.",pants-fire,pants-fire,"['false', 'pants-fire']",2,True
+"Says she ""brought together business, labor and hospitals to give 94,000 Oregon children health care.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""Hospitals, doctors, MRIs, surgeries and so forth are more extensively used and far more expensive in this country than they are in many other countries.''",mostly-true,mostly-true,['mostly-true'],1,True
+"""Obamacare will mean 2.1 million fewer jobs by 2021.""",half-true,half-true,['half-true'],1,True
+"""Seven presidents before (Barack Obama) -- Republicans and Democrats -- tried to expand health care to all Americans.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Things went wrong with the Medicare prescription D plan that George Bush rolled out.""",true,true,"['true', 'mostly-true']",2,True
+"""Obamacare takes $500 billion out of Medicare and funds Obamacare.""",half-true,half-true,['half-true'],1,True
+"""The reality is, with a $2 trillion-a-year health care budget, we're spending more on health care, nearly 17 percent of our gross domestic product, versus 3.8 percent of GDP on the entire military budget.""",mostly-false,mostly-false,['mostly-false'],1,True
+"A post comparing two construction workers — “Joe legal” and “Jose illegal” — says “Jose” pays no taxes yet gets free medical care, food stamps, welfare, and 'head of the class' priority for his children in applying for college.",false,false,"['false', 'pants-fire']",2,True
+"U.S. Sen. Bill Nelson was ""the deciding vote for the health care law.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"An Iowa policy ""provides for a state round up of Iowa citizens who might be exposed to the swine flu virus.""",false,false,['false'],1,True
+"All members of Congress are required to be in Obamacare, but Obama and members of his administration ""have their own gold-plated health care plans that they're in.""",half-true,half-true,['half-true'],1,True
+"Says Ohio U.S. Rep. Steve Chabot ""voted to cut health care for kids, affecting up to half the families at Cincinnati’s own Children’s Hospital.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"American taxpayer dollars provide “free housing, free medical, free state identification” to immigrants in the country illegally.",false,false,"['mostly-false', 'false']",2,True
+"""Over half of the young people"" in medical, dental and law schools are women.",false,false,"['mostly-false', 'false']",2,True
+"Says Scott Walker's defunding of Planned Parenthood ""left women across the state stranded with nowhere else to turn"" for cancer screenings, breast exams and birth control.",half-true,half-true,['half-true'],1,True
+"Says the Washington Post fact-checked a charge he opposed pre-existing condition protections for health insurance ""and gave that Four Pinocchios.""",pants-fire,false,"['mostly-false', 'false']",2,False
+Tennessee has become the first state in the U.S. to ban Bill Gates’ mRNA from being pumped into the food supply.,false,false,['false'],1,True
+"""Less than 5 percent of registered users in states allowing medical marijuana have cancer or AIDS.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says cuts to Medicare affect people who have already ""paid in. We paid for it.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says many local governments in Wisconsin already require employees to pay 20 percent, 30 percent or even 40 percent of their health insurance premiums.",false,false,['false'],1,True
+"""There's a 1.5 percent to 2 percent overhead in Medicare. The insurance companies have a 20 percent to 30 percent overhead.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says he ""got lobbied"" by a woman with late-stage cancer about vaccinating Texas girls against a virus that can cause cervical cancer.",false,true,"['true', 'mostly-true']",2,False
+“Pete Buttigieg is a favorite candidate of Wall Street and the health care industry.”,half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"Says Gov. Scott Walker has ""led people to believe that if Wisconsin doesn’t implement a (health-care) exchange, Obamacare doesn’t happen here.""",mostly-false,mostly-false,"['half-true', 'mostly-false']",2,True
+"""It's four or five states where the number of insurance options have narrowed"" under the Affordable Care Act.",false,false,"['mostly-false', 'false']",2,True
+"Says Hillary Clinton helped ""get done"" the Children's Health Insurance Program.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""X marks the spot at every HCA location where (Gov. Rick Scott) probably defrauded taxpayers.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false']",3,True
+"""Twenty-three million Americans suffer from addiction, but only 1 in 10 get treatment.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+Says he didn't support the lawsuit to repeal the Affordable Care Act.,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Eighty-seven percent of private insurance plans currently include (abortion) coverage.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""If you want out of the individual mandate... all you have to do now is tick off the box that says 'hardship' and you're out.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"As California's Insurance Commissioner, ""Steve Poizner pledged to block immigrant children from ever getting MediCal health insurance.""",half-true,false,"['mostly-false', 'false']",2,False
+"""2.4 million people in Wisconsin have pre-existing conditions"" and Leah Vukmir supports letting insurance companies ""deny coverage to people with pre-existing conditions.""",half-true,half-true,['half-true'],1,True
+"""Granite Staters who hold individual policies from Anthem...can indeed renew their policies and keep their current doctors and hospitals"" in 2014.",true,mostly-true,"['true', 'mostly-true']",2,True
+"Obamacare ""cuts seniors’ Medicare.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""95% of over-the-counter pharmaceuticals"" in the U.S. come from China.",false,false,['false'],1,True
+“It’s not unusual for hospitals to sit at max or near max capacity on any given day.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Obama ""won health care for 150,000 people.""",true,true,['true'],1,True
+"Federal law adopted ""under Tommy Thompson's watch"" prohibits the government from negotiating for ""better prices"" on prescription drugs for senior citizens",true,true,['true'],1,True
+"""Medicare and Medicaid are the single biggest drivers of the federal deficit and the federal debt by a huge margin.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""The benefits that were offered to me as a congressman don’t even compare to the benefits that you get as a state employee. I just experienced that myself. They’re not nearly as good.""",half-true,half-true,['half-true'],1,True
+COVID-19 is “here to stay” and “we need to accept that and be prepared to deal with COVID long term.”,mostly-true,true,"['true', 'mostly-true']",2,True
+Says President Donald Trump “took more than a month to allocate Congress’ emergency funding to tribes — and only did so after tribes sued.”,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says ""by reducing chronic health care costs in the State of Georgia, we can reduce the $32.8 billion lost each year due to lack of productivity and economic costs.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Mitch McConnell opposed ""legislation to create and protect Kentucky jobs . . . help for the unemployed. . .  health care for Kentucky's children,"" and ""fair pay for women.""",mostly-false,mostly-false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Ohioans can expect to pay up to 41 percent more for their insurance premiums when Obamacare takes effect next year.""",half-true,half-true,['half-true'],1,True
+"Says Bernie Sanders’ health care plan would ""empower Republican governors to take away Medicaid, to take away health insurance for low-income and middle-income working Americans.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Tim Sheehy told us his health care plan: ‘We need to return health care to pure privatization.’ That would eliminate Medicare.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"""Individuals and small businesses will be hit by increases in health insurance premiums as high as 39 percent.""",mostly-true,mostly-true,['mostly-true'],1,True
+"""15 years ago, cancer drugs cost an average of $10,000 a year. Now it’s $10,000 a month.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+“Big drug companies charge as little as $7 for an inhaler overseas and nearly $500 for the exact same one here in the US.”,mostly-true,true,"['true', 'mostly-true']",2,True
+"The House Republican health care ""plan doesn't get rid of Medicaid expansion.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Says Joni Ernst ""supports the lawsuit that's headed to the Supreme Court that will” repeal the Affordable Care Act.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says ""any attempt to try to compare"" the Massachusetts health care law with the federal health care law is ""completely, intellectually dishonest. Governor Romney did not raise one tax in doing what he did.""",mostly-false,mostly-false,"['half-true', 'mostly-false', 'false']",3,True
+"The Senate health care bill ""would leave 24 million people without insurance coverage.""",true,true,['true'],1,True
+"""There’s 400 more people working in health care today in New Hampshire than when we passed the budget.""",false,false,"['mostly-false', 'false']",2,True
+Obamacare has led to fewer health insurance options for millions of Americans.,mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"Planned Parenthood is ""the only health care that a significant number of women get. About 30 percent of women, that's their health care.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"Says there is a report ""that showed that, should we move to cover more people to a Medicare for All system, we could actually save the system trillions over an extended period of time.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"“Taxpayers spent $70,000,000 to develop this drug ( remdesivir).""",true,true,"['true', 'mostly-true']",2,True
+"The growth in health care costs ""has been reined in through the Affordable Care Act.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+A six-month study from Pfizer shows that its vaccine “reduces severe COVID symptoms/hospitalizations by .1%.”,mostly-false,false,"['mostly-false', 'false']",2,True
+"""For what we spend in just one week in Iraq, 800,000 children could get health insurance for an entire year.""",mostly-true,mostly-true,['mostly-true'],1,True
+"Says Donald Trump was seen ""looking deliberately over a disabled child's head, ignoring his outstretched hand.""",pants-fire,false,"['true', 'mostly-false', 'false']",3,False
+"""The first (state) budget that came out of our Republican leadership slashed funding to Planned Parenthood...It resulted in the reduction of hours, the elimination of days, elimination of access to women in my city and all over my state.""",true,true,"['true', 'mostly-true']",2,True
+California is leading the nation in holding drug companies accountable and fighting prescription drug prices.,half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""One in three people who’s receiving treatment for (opioid) drug problems gets some help from Medicaid to pay for that.""",mostly-true,mostly-true,['mostly-true'],1,True
+"“A lot of times, health care comes with a job.”",half-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Says Cory Booker has accepted over $400,000 from the pharmaceutical industry during his political career.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Medicaid ""is contributing to 70 percent of our budget deficit right now. It’s the one that is in our lap because of Obamacare.""",mostly-false,mostly-false,"['mostly-false', 'false']",2,True
+"""The price of insulin has been jacked up by Big Drug Corporations.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Before Obamacare, Wisconsin’s ""high-risk pool"" for health insurance ""had eight or nine"" plans to choose from, people ""could go to any doctor or any hospital they wanted, and their premiums and co-pays were cheaper than they are under Obamacare today.""",half-true,half-true,['half-true'],1,True
+"The House health care bill pays for ""about six years of program with a decade of revenue, with the heaviest costs concentrated in the second five years.""",half-true,half-true,"['mostly-true', 'half-true']",2,True
+"The government will ""go out and buy my breast pump for my babies.""",false,false,['false'],1,True
