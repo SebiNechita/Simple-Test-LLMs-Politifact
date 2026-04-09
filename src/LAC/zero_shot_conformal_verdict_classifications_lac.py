@@ -19,9 +19,10 @@ import argparse
 # CONFIGURATION
 # ==========================================
 
+# MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.3"
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MAX_SAMPLES = None  # Set to None to use all data
+MAX_SAMPLES = 50  # Set to None to use all data
 CALIBRATION_SPLIT = 0.5  # 50% for calibration, 50% for test
 ALPHA = 0.1  # Miscoverage rate (1-alpha = 90% coverage)
 TRIALS = 2 # Number of trials to average results over (for stability)
@@ -332,6 +333,11 @@ def parse_args():
         description="LLM verdict classification with conformal prediction."
     )
     parser.add_argument(
+        "--model-name",
+        default=MODEL_NAME,
+        help=f"Model name or path (default: {MODEL_NAME}).",
+    )
+    parser.add_argument(
         "--data-path",
         default="datasets/politifact-english-no-media.json",
         help="Path to the JSON dataset file.",
@@ -360,7 +366,6 @@ def main():
     print("="*80)
     print("LLM Verdict Classification with Conformal Prediction")
     print("="*80)
-    print(f"Model: {MODEL_NAME}")
     print(f"Device: {DEVICE}")
     print(f"Calibration Split: {CALIBRATION_SPLIT:.2f}")
     print(f"Miscoverage Rate (alpha): {ALPHA:.2f}")
@@ -368,6 +373,8 @@ def main():
     args = parse_args()
     max_samples = None if args.max_samples in (None, 0) else args.max_samples
     RESULTS_FOLDER = "results/zero-shot-lac" if args.output_folder is None else args.output_folder
+    model_name = args.model_name if args.model_name else MODEL_NAME
+    print(f"Model: {model_name}")
 
     print(f"Data path: {args.data_path}")
     print(f"Number of trials: {args.nums_trials}")
@@ -391,11 +398,11 @@ def main():
     all_trial_results = []  # Store per-statement results
     
     # Load model once (outside trials loop for efficiency)
-    print(f"\nLoading model: {MODEL_NAME}...")
+    print(f"\nLoading model: {model_name}...")
     try:
         generator = pipeline(
             "text-generation",
-            model=MODEL_NAME,
+            model=model_name,
             device=DEVICE,
             torch_dtype=torch.float16 if DEVICE == "cuda" else torch.float32,
         )
