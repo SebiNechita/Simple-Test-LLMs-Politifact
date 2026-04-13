@@ -354,6 +354,11 @@ def parse_args():
         description="LLM verdict classification with APS conformal prediction."
     )
     parser.add_argument(
+        "--model-name",
+        default=MODEL_NAME,
+        help=f"Model name or path (default: {MODEL_NAME}).",
+    )
+    parser.add_argument(
         "--data-path",
         default="datasets/politifact-english-no-media.json",
         help="Path to the JSON dataset file.",
@@ -382,7 +387,6 @@ def main():
     print("="*80)
     print("LLM Verdict Classification with APS Conformal Prediction")
     print("="*80)
-    print(f"Model: {MODEL_NAME}")
     print(f"Device: {DEVICE}")
     print(f"Calibration Split: {CALIBRATION_SPLIT:.2f}")
     print(f"Miscoverage Rate (alpha): {ALPHA:.2f}")
@@ -391,10 +395,13 @@ def main():
     args = parse_args()
     max_samples = None if args.max_samples in (None, 0) else args.max_samples
     RESULTS_FOLDER = "results/zero-shot-aps" if args.output_folder is None else args.output_folder
+    model_name = args.model_name if args.model_name else MODEL_NAME
+    print(f"Model: {model_name}")
     
     print(f"Data path: {args.data_path}")
     print(f"Number of trials: {args.nums_trials}")
     print(f"Results will be saved to: {RESULTS_FOLDER}")
+    
 
     # Load data once
     try:
@@ -414,11 +421,11 @@ def main():
     all_trial_results = []  # Store per-statement results
     
     # Load model once (outside trials loop for efficiency)
-    print(f"\nLoading model: {MODEL_NAME}...")
+    print(f"\nLoading model: {model_name}...")
     try:
         generator = pipeline(
             "text-generation",
-            model=MODEL_NAME,
+            model=model_name,
             device=DEVICE,
             torch_dtype=torch.float16 if DEVICE == "cuda" else torch.float32,
         )
