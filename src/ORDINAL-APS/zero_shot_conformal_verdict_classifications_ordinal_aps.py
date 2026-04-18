@@ -6,21 +6,6 @@ Implements Ordinal Adaptive Prediction Sets (Ordinal-APS) from:
     "Improving Trustworthiness of AI Disease Severity Rating in Medical Imaging
      with Ordinal Conformal Prediction Sets"
 
-This version is a FAITHFUL reproduction of Algorithm 1 in the paper:
-  - Initialise mass q = 0 (mode mass is NOT included up-front).
-  - Expand greedily outward from the mode, always adding the higher-probability
-    neighbour (ties: left wins — deterministic and shared across cal/test).
-  - Stopping rule uses `while q <= lambda` (paper line 3), so the final
-    interval has mass strictly greater than lambda (or equals it at the step
-    it crosses). Consequence: the mode-alone singleton is never the output;
-    the smallest possible set is mode + one neighbour.
-  - Calibration score = cumulative mass AFTER the step that first admits the
-    true label, using the same <= convention.
-
-Because calibration and prediction use exactly the same nested family T_lambda
-and the same mass convention, the marginal coverage guarantee holds:
-    P(Y_test in T(X_test)) >= 1 - alpha.
-Conditional / class-conditional coverage is NOT guaranteed.
 """
 
 import json
@@ -39,7 +24,7 @@ import argparse
 # ==========================================
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MAX_SAMPLES = 100  # Set to None to use all data
+MAX_SAMPLES = None  # Set to None to use all data
 CALIBRATION_SPLIT = 0.5  # 50% for calibration, 50% for test
 ALPHA = 0.1  # Miscoverage rate (1-alpha = 90% coverage)
 TRIALS = 2  # Number of trials to average results over (for stability)
@@ -161,25 +146,23 @@ def get_token_probabilities(generator, messages):
 
 def _ordinal_aps_entry_mass(prob_array: np.ndarray, target_idx: int) -> float:
     """
-    Calibration score for Ordinal-APS (faithful to paper Algorithm 1).
+    Calibration score for Ordinal-APS (size-1-allowed variant).
 
-    Returns inf { lambda : target_idx in T_lambda }. Under `while q <= lambda`,
-    this is the cumulative mass immediately BEFORE the step that adds
-    target_idx to the greedy interval.
-      - If the true label IS the mode, it is in T at initialisation (q = 0),
-        so the score is 0.
-      - Otherwise, run the greedy expansion; record q just before the step
-        that admits target_idx, and return that value.
+    Returns inf { lambda : target_idx in T_lambda }.
+      - If target_idx IS the mode: score = 0 (mode is in T for all lambda >= 0).
+      - Otherwise: run greedy expansion; score = cumulative mass BEFORE the
+        step that admits target_idx. This is the smallest lambda for which
+        that iteration still fires under `while mass <= lambda`.
     """
     mode = int(np.argmax(prob_array))
     K = len(prob_array)
 
-    # If the true label is the mode, it's in T_lambda for every lambda >= 0.
+    # Mode is in T_lambda for every lambda >= 0.
     if target_idx == mode:
         return 0.0
 
     lo, hi = mode, mode
-    mass = 0.0  # q starts at 0, per Algorithm 1 line 2
+    mass = float(prob_array[mode])  # mode included from initialisation
 
     # Greedy outward expansion until target enters the interval.
     while True:
@@ -188,7 +171,7 @@ def _ordinal_aps_entry_mass(prob_array: np.ndarray, target_idx: int) -> float:
 
         if not can_left and not can_right:
             # Full label set reached without admitting target (shouldn't
-            # happen). Defensive fallback.
+            # happen for a valid index). Defensive fallback.
             return mass
 
         # Paper line 5: pick the neighbour with the higher probability.
@@ -200,8 +183,8 @@ def _ordinal_aps_entry_mass(prob_array: np.ndarray, target_idx: int) -> float:
         else:
             expand_left = False
 
-        # CRITICAL: record q BEFORE the increment. This is the smallest lambda
-        # for which the iteration that admits target would still have fired.
+        # Record mass BEFORE the increment; this is the smallest lambda for
+        # which the iteration that admits target would still have fired.
         pre_mass = mass
 
         if expand_left:
@@ -277,12 +260,11 @@ def get_conformal_threshold(scores, alpha):
 
 def get_prediction_set_aps(probs, threshold):
     """
-    Create prediction set using Ordinal-APS (faithful to paper Algorithm 1).
+    Create prediction set using Ordinal-APS (size-1-allowed variant).
 
-    Starts with T = {mode} and q = 0. Expands greedily outward using the
-    `while q <= lambda` rule from line 3 of Algorithm 1. Because q starts
-    at 0 and the loop condition uses <=, the singleton {mode} is never
-    returned (for any lambda >= 0): at least one expansion always happens.
+    Starts with T = {mode} and mass = p[mode]. Expands greedily outward while
+    mass <= threshold; the loop stops once mass has strictly exceeded the
+    threshold. Output size = 1 when p[mode] > threshold.
 
     Result is always a contiguous interval on the ordinal scale, e.g.
     ["mostly-true", "half-true", "mostly-false"].
@@ -292,10 +274,10 @@ def get_prediction_set_aps(probs, threshold):
 
     mode = int(np.argmax(prob_array))
     lo, hi = mode, mode
-    mass = 0.0  # q starts at 0 (paper Algorithm 1 line 2)
+    mass = float(prob_array[mode])  # mode included from the start
 
-    # Paper line 3: while q <= lambda do <expand>
-    # i.e., keep expanding while current mass has not strictly exceeded lambda.
+    # Expand while mass has not yet strictly exceeded the threshold.
+    # If p[mode] > threshold, loop doesn't run and output is {mode}.
     while mass <= threshold:
         can_left = lo > 0
         can_right = hi < K - 1
@@ -320,8 +302,6 @@ def get_prediction_set_aps(probs, threshold):
             mass += float(prob_array[hi])
 
     prediction_set = LABEL_ORDER[lo:hi + 1]
-    # Under the faithful algorithm this should never be empty (the mode is
-    # always inside), but we guard anyway.
     if not prediction_set:
         prediction_set = [LABEL_ORDER[mode]]
 
@@ -500,7 +480,6 @@ def main():
     print(f"Device: {DEVICE}")
     print(f"Calibration Split: {CALIBRATION_SPLIT:.2f}")
     print(f"Miscoverage Rate (alpha): {ALPHA:.2f}")
-    print(f"Method: Ordinal Adaptive Prediction Sets (Lu et al., 2022) — faithful Algorithm 1")
 
     args = parse_args()
     max_samples = None if args.max_samples in (None, 0) else args.max_samples
