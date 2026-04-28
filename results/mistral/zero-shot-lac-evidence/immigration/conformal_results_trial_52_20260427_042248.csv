@@ -1,0 +1,685 @@
+statement,true_verdict,predicted_verdict,prediction_set,set_size,is_covered
+"Says a 2007 immigration bill “was opposed by (the League of United Latin American Citizens), the largest Latino organization in America. The Southern Poverty Law Center called its guest-worker programs akin to slavery. … And you know who voted with me on that one, Joe? Barack Obama.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""It’s possible that non-citizen voters were responsible for Obama’s 2008 victory in North Carolina.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Congressman Jeff Denham ""has agreed all illegal immigrants should be detained, arrested and deported.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Joe Biden has driven the current coronavirus surge because he “imported more virus from around the world by having a wide open southern border.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Sen. Bob Casey, D-Pa., “is trying to change the outcome of the election by counting NON-CITIZEN votes.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says drug cartels are using social media to offer rebates so more children from Central America get smuggled to the United States.,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Nobody knows about it, nobody talks about it, but under Obama, millions of people have been moved out of this country, they've been deported.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Many of the countries in question (in Trump’s travel ban) don't even have a U.S. embassy there to help us vet.""",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""As of 2014, illegal aliens made up roughly 3.5 percent of our population, and committed over 10 percent of all murders.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Joe Biden “has effectively ordered a shutdown of ICE, halting virtually all deportations, everyone, murderers, everybody, no more.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Martha’s Vineyard ""used the military to deport every last illegal migrant from their island.”",false,false,"['false', 'pants-fire']",2,True
+"""Phoenix, Arizona, is the No. 2 kidnapping capital of the world.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Apprehension rates at the southern border have plummeted since the 1980s, and apprehensions of Mexicans specifically have reached their lowest point in nearly half a century.""",mostly-true,true,['true'],1,False
+"""Close to half of the folks in this country illegally entered legally (but) overstayed (their ) visas.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Miami’s immigration courts have the “largest backlog of any court in this country with 10% of the overall immigration cases,” and “more than 90%” of people lose their asylum claims.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says comprehensive immigration reform ""will add $700 billion to our economy.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says Sen. Lindsey Graham said a newly elected Donald Trump “will round up and deport LEGAL immigrants.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Our university campuses by federal law do not check the immigration status of their students just as our public schools don’t.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Wealthy foreigners can obtain visas through a special program, but only a small number ""invest in true high-unemployment areas. Almost every other EB-5 project uses gerrymandering to qualify as distressed.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says ""72% of refugees admitted into U.S. (2/3 -2/11) during COURT BREAKDOWN are from 7 countries: SYRIA, IRAQ, SOMALIA, IRAN, SUDAN, LIBYA & YEMEN.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Tim Kaine doesn’t want a border at all. He wants to get rid of Immigration and Customs Enforcement and basically the border patrol as well.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""We've had Muslims in America since George Washington.""",true,true,"['true', 'false']",2,True
+“Biden has implemented a formal policy that illegal aliens who intrude into the United States are granted immunity from deportation.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Our government, wrongly, is saying if you’re born in this country you’re automatically an American citizen.”",false,false,"['mostly-false', 'false']",2,True
+There is “zero impact” from Alligator Alcatraz on the Florida Everglades.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Within just a few years, immigration as a share of national population is set to break all historical records.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We have a legal immigration system in America that accepts 1 million people a year, legally. No other country in the world even comes close to that.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says he ""won the popular vote if you deduct the millions of people who voted illegally.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Planes full of unvetted ‘refugees’ are being accepted at the Milw. & Madison airports!”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In the 2014 elections, ""the American people overwhelmingly said we don't want Obamacare … and we don't want amnesty.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We stopped traffic coming through -- 78 percent.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The federal government is sending refugees to states with governors who are ""Republicans, not to the Democrats.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says President Barack Obama ""himself has granted waivers allowing into the United States refugees who provided material support to terrorists.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“Amy Klobuchar vows to resettle 500 percent more refugees, none in her neighborhood.”",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“More than 200,000 DACA recipients are essential infrastructure workers” including “41,700 DACA recipients in the healthcare industry”",mostly-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""In 1992, the Democratic Party had in their platform provisions that said that illegal aliens were coming in this country, committing felonies, sent back and then they were right back across the border to do the same thing.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""People tracking the ICE deportation flights have found” the agency is throwing migrants into the middle of the ocean.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We have seized more currency, more drugs, more outbound arms in the past year than any year in our country’s history.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says that during the first 19 months of the Obama administration, the U.S. detained people from nations designated as state sponsors of terrorism on the southwestern border.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Undocumented immigrants paid more taxes last year than Amazon, GM, IBM & Netflix combined.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Australia Closing Borders in a few hours for 6-months”,half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"Mike Huckabee ""supported taxpayer-funded scholarships for illegal aliens.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"U.S. Rep. Ilhan Omar is ""facing 40 years in prison and deportation after seven new crimes uncovered.""",false,false,"['false', 'pants-fire']",2,True
+"In 2005 or 2006 U.S. Sen. Chuck Schumer ""voted for the wall.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"""Illegal immigration and the crime rate are as low as they’ve been in decades.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""We're pretty much at the 50 percent mark"" on deportations of MS-13 gang members.",false,false,"['mostly-false', 'false']",2,True
+Says Donald Trump said “good” during the final presidential debate in reference to families being separated at the border.,false,false,"['false', 'pants-fire']",2,True
+"Says President Dwight Eisenhower ""moved 1.5 million illegal immigrants out of this country.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+Says the Texas Education Agency follows up to make sure undocumented immigrants paying in-state tuition at Texas colleges are applying for permanent residency.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""When Chuck Schumer and Marco Rubio tried to push amnesty, it was Ted Cruz who stopped them.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Hillary on child aliens in 2014: Send them back.""",mostly-true,false,"['true', 'false']",2,False
+"""Nearly 20% of our residents"" are born abroad.",true,true,['true'],1,True
+"Prince William County ""has cut violent crime in half"" since instituting a crackdown on illegal immigration.",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+President Donald Trump signed an executive order for “a total border shutdown with no set reopening date” on July 1.,false,false,"['false', 'pants-fire']",2,True
+"Says that as of March 2018 compared with 2017, ""there’s been a more than 200 percent increase in the number of people who are apprehended coming across the border. And, I’ll tell you this, there’s been a more than 200 percent increase in apprehension of heroin coming across the border.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says the Potomac River ""has gotten dirtier and dirtier and dirtier and dirtier. I go down there and that litter is left almost exclusively by immigrants.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says President Donald Trump's travel ban could ban Somalis ""from getting relief (from famine) through coming to the United States.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Obama administration kept illegal Mexican kids in detention camps as ‘experiment’""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""There have even been Republican congressmen who have said, ‘If you give us more money we don't know where we would even put additional Border Patrol agents.’ """,mostly-false,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Under the Arizona immigration law, police are required to check immigration status if someone's ""lawn is overgrown"" or if a dog is ""barking too loudly.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Right now, one third of all illegal aliens are going to California.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Sen. Chuck Schumer in 2014 ""helped put together and signed a $25 billion deal to fund a border wall"" and now opposes Trump's $5 billion request for a border wall ""just because he's a Republican."" ​",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Rick Scott got a majority of the Hispanic vote in Florida.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The immigration bill includes free ""Obamacars,"" motorcycles or scooters.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In 2022, illegal immigrants will have MORE FREEDOMS and easier access to healthcare and ballot boxes than most Americans... Just think about that.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In Washington, McCaskill joined the liberals for giving amnesty to 11 million illegal immigrants.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“Biden’s let in 8 million people just in four years.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“We see an uncompleted wall that was duly appropriated dollars during the Trump days to build over 700 miles. Only 150 miles were constructed.”,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says the Biden administration is choosing to send baby formula to the border as one of its “out-of-touch priorities.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Senate immigration legislation is the ""Obama-Reid plan to give illegal immigrants amnesty.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""When they say Mexico can't pay for the wall, I say of course they can. We have a trade deficit with Mexico that's unbelievably big. ... It's billions and billions of dollars -- far more than what we're talking about for the wall.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"When Haitians go to school in Springfield, Ohio, they “take the place of our children in school” and “each one will have a private interpreter.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Beto O’Rourke wants ""open borders and wants to take our guns.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""NYC to give ILLEGALS $53 Million in Prepaid Credit Cards.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Huckabee supported ""a tuition break to the children of illegals that are here illegally when citizens are having to pay a higher rate.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"A ""catch and release"" immigration policy ""is a Democrat rule, Sherrod Brown, this is a Democrat rule.""",false,false,"['mostly-false', 'false']",2,True
+"""In Congress, (Cresent Hardy) voted to defund DACA.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Biden and Democrats have dismantled border security.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Ted Cruz ""helps run two national organizations that have been leading the push to give amnesty to illegal immigrants.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says she has ""quadrupled agents to secure our border.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""25 percent of federal inmates are noncitizens.""",mostly-true,false,"['half-true', 'mostly-false', 'false']",3,False
+"Says Karen Handel voted with Donald Trump, ""gutting health care for millions, supporting horrific child separation policies"" and for ""abortion bans.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says ""we allow more people into America legally than all other countries on the planet combined.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Mark Pocan’s proposal to eliminate the U.S. Immigration and Customs Enforcement (ICE) would ""eliminate border enforcement.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“America now has a government that forbids border agents from using deadly force, but is training IRS agents to use SWAT-team tactics on law-abiding citizens.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says his parents ""came to America following Fidel Castro's takeover"" of Cuba.",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“There have been more illegal encounters under Biden than the previous two administrations combined.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Donald Trump says he'd deport 16 million people.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says a 9-year-old girl was recently raped in Austin, Texas, by a guy previously ""caught four times and released.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“Report: Biden administration busing ‘thousands’ of illegals to red states to get permanent status.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Mexico is paying for the Wall through the new USMCA Trade Deal.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says the United States is the only nation that affords citizenship to anyone born here, ""whether you are here legally or illegally.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Katie Porter is part of a ""radical group of Democrats with an extreme agenda to abolish ICE.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says 326,000 migrants were flown to Florida with taxpayer dollars under President Joe Biden’s secret migrant flight program.",false,false,"['false', 'pants-fire']",2,True
+"""McCain used to buck his party on immigration by fighting for comprehensive reform. . . . But when he was running for his party's nomination, he . . . said that he wouldn't even support his own legislation if it came up for a vote.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“The Biden Administration is buying Kamala Harris’ book with our taxpayer dollars.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"As Florida secretary of state, Kurt Browning ""allowed 1,800 illegal voters to register in Florida.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""You lie!"" (in response to President Obama saying health reform would not insure illegal immigrants.)",false,false,"['mostly-false', 'false']",2,True
+"""Illegal aliens are costing Georgia taxpayers over a billion dollars every year.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"A federal system that verifies employees are authorized to work in the U.S. is inaccurate ""anywhere from 50 percent all the way up to in excess of 80"" percent of the time.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Speaking of immigration cases, says, ""We have thousands of judges.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"As governor, Tim Kaine ""oversaw a huge increase in illegal immigration, a tremendous increase.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says ""85 percent (of immigrants) don’t show up for a scheduled court hearing or call to schedule a court hearing.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Chuck Schumer said ""it’s racist to only allow citizens to vote.""",false,false,"['false', 'pants-fire']",2,True
+"""Immigrants start businesses at a faster rate; they seem to grow those businesses more successfully.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Martha's Vineyard declared itself as a sanctuary city until the buses arrived.,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says U.S.-Mexico border has ""1 million legal border crossings each and every day.""",mostly-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Gwinnett Medical Center is operating in the negative,"" in part, because of illegal immigrants.",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says neither President Barack Obama nor Mexico President Felipe Calderon ""have been on the border to see what's happening to the citizens of Mexico, and for that matter the citizens of Texas.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Just last year, over 5,000 refugees came to New York state, and 94 percent settled outside of New York City.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the last five years, 28,000 people have been killed along the U.S.-Mexico border.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""Nancy Pelosi came out in favor of MS-13.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Every couple days we have a caravan size group of people apprehended trying to come into the country illegally, or coming to the ports of entry without documentation.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says ICE and border patrol officers ""unanimously endorsed me for president.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Larry Taylor gave ""in-state tuition to illegal immigrants.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""In 2014, Mexico alone received over $24 billion in remittances sent from the U.S., while other South and Central American countries received over 15 percent of their (gross domestic product) in the form of remittances.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The children coming across the southern U.S. border ""were never examined after they got here and quarantined if they had a disease. They were just sent out across the country. Many of them had measles ... We now have an outbreak of it all because of our immigration policy.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""There are at least three sectors of the border, one in particular, that are just completely insecure.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Treasury Department's inspector general found ""there's $4 billion a year in excess payments"" going to people that shouldn’t get them. ""These are mostly Mexicans.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""America has already taken in one-fourth of Mexico's entire population.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Fall River, Massachusetts was not 'built by immigrants.' """,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Immigrants are supposed to “apply for asylum in the country where they are, and then they try to come into the United States.”",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Nothing in any of the Democrat bills would require individuals to verify their citizenship or identity prior to receiving taxpayer-subsidized benefits.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""If Rick Scott had his way he would encourage racially profiling immigrant communities here in Florida. He also opposed allowing Dreamers to remain in the U.S.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""So the number on DACA is 800,000, but every one person can bring in their entire extended family once they reach a certain status. So it's 3 or 4 million, right?""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Hillary Clinton is for open borders.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"When undocumented children are picked up at the border and ""told to appear later in court ... 90 percent do not then show up.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The United States' southern border is ""basically open"" and is ""a super spreader event.”",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Existing law right now requires 700 miles of double-layered border fencing"" on the Mexico border.",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+A document shows Minnesota shooting victim Renee Good had a record of child abuse.,false,false,"['false', 'pants-fire']",2,True
+"Immigrants get $2,000 each time they cross the border illegally.",false,false,"['false', 'pants-fire']",2,True
+"Says that ""18 children died while in custody of Border Patrol"" during the Obama administration.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“For the first time in American history, if you're seeking asylum ... you can't do it from the United States. … You’ve got to seek asylum from abroad.”",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""President Donald Trump signed DEPLOYMENT ORDERS for the 82nd Airborne Division of the United States Army, instructing them to deploy from Ft. Bragg, NC, to the U.S. southern border at Mexico.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Democratic opponents Cal Cunningham and Erica Smith support sanctuary policies.,half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“Texas just gifted Trump 355,000 acres for deportation camps.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Since the day of my election, we've already cut illegal immigration at the southern border by 61 percent.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Secure Communities ""has a proven track record of enhancing public safety by focusing on violent offenders and those that pose a threat to our communities and our national security.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We’ve had about 3,000 murders"" in connection with lax border security.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Harry Reid has voted ""to give illegals Social Security benefits even for the time they were here illegally.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"DACA was ""a mere memo from the Department of Homeland security under Barack Obama, which violated the laws.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“There’s about 1,400 criminal illegal aliens that, right now, are in North Carolina and Charlotte’s jails that they refuse to turn over to ICE law enforcement.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says six eradicated diseases such as whooping cough and the bubonic plague are making a comeback ""thanks to refugees and illegal immigrants.""",false,false,"['false', 'pants-fire']",2,True
+Immigrants illegally in the country are treated “better than military veterans.”,false,false,"['false', 'pants-fire']",2,True
+Sen. Mark Kelly voted “for benefits to illegals.”,false,false,"['mostly-false', 'false']",2,True
+"""The number of new illegal immigrant families who have crossed the border so far this year already exceeds the entire total from 2015.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Joe Biden “is letting millions of people from jails, from prisons, from insane asylums, from mental institutions, drug dealers pour in.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says HHS Secretary Alex Azar called family separations at the border and detention of children in cages ""one of the great acts of American generosity and charity"" and ""is now in charge.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“Carnage"" is being caused ""by people who are coming across the border.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Most (immigrants) do show up in court.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""[Federal] law says that you can't give in-state tuition to an illegal alien … unless you first offer it to any other student regardless of their state of residence.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“FEMA has been directed back to North Carolina with $2 billion in emergency funds: ‘We transferred it from the programs that fund welfare for illegals. They don’t be needing it.’”,false,false,"['false', 'pants-fire']",2,True
+"When visa holders exit the United States and enter Mexico, ""if they leave through a land port of entry we literally have no clue if they are still here or have returned to their country of origin.""",mostly-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says President Trump ""has ended up attracting larger numbers of people coming to the United States presenting themselves for asylum status at our border than we’ve ever seen.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Congress set aside $50 billion for the Secure Fence Act in 2006,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Once people become citizens under the DREAM Act ""and turn 21, they can sponsor their illegal immigrant parents for legalization.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says the 2014-15 state budget ""cut border security and funding to fight criminal gangs.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Presidents Hoover, Truman and Eisenhower collectively ordered the deportation of at least 15 million illegal aliens.",false,false,"['false', 'pants-fire']",2,True
+"“(Homeland Security Secretary Alejandro) Mayorkas said, ‘Hey you don’t have to detain aggravated felons,’ those are rapists, child predators, you know, murderers.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Democrats announce they will abolish ICE if they win 2020 election.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""ISIS camp a few miles from Texas, Mexican authorities confirm.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The Mexican government ... they send the bad ones over.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Beto O’Rourke ""voted to shield MS-13 gang members from deportation.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"President Obama said ""22 times"" he could not authorize immigration reform by executive order.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“We’ve seen an 800% increase in the Swanton sector, which is the part of the northern border that I represent, in illegal crossings.”",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says the Obama administration plans to reduce the number of beds devoted to holding individuals violating immigration laws and to ""release hundreds of dangerous criminals into our communities.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Thirty percent of U.S. medical residents are international medical graduates, and 10,000 of 43,000 residency spots are filled by H-1B visa holders.",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Marco Rubio says ""Solo Ingles"" (English only).",false,false,"['true', 'false', 'pants-fire']",3,True
+"""My grandparents were proud immigrants to the United States of America, here to Illinois in the late 1800s. My grandparents did not speak English when they were young.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Loopholes in current law prevent ‘Unaccompanied Alien Children’ (UACs) that arrive in the country illegally from being removed.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says President Joe Biden “is in talks to pay illegal immigrants $450,000.”",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Phoenix, Ariz., is the No. 2 kidnapping capital of the world.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""The federal government has not engaged in (border security) at all.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""18 million illegal immigrants got their government checks this month"" while federal workers remain unpaid.",pants-fire,false,"['false', 'pants-fire']",2,True
+"Sen. Kamala Harris is ""supporting the animals of MS-13.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Obama secretly gave citizenship to 2,500 Iranians as part of nuke deal.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The number of people in the U.S. illegally is “upwards of 20, 25, maybe 30 million.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I spend a lot of time in Iowa, and believe it or not, in Ottumwa, Iowa, this is the heartland, the newspaper, the regular newspaper for Ottumwa, Iowa, is (a) bilingual newspaper.""",false,false,"['false', 'pants-fire']",2,True
+"In-state tuition available ""for non-U.S. citizens after three years … veterans have to wait five years.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The number of illegal immigrants ""could be 3 million. It could be 30 million.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The president said he’s going to bring in 250,000 (Syrian and Iraqi) refugees into this country.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""In Biden's America, 7 million people illegally crossed the border and are given a free cellphone and airline tickets.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"More than 100,000 people are waiting for public housing in Houston and people who are in the country illegally are taking their spaces.",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+Latina who enthusiastically supported Donald Trump on stage in Las Vegas in October 2015 has been deported.,pants-fire,false,"['true', 'false', 'pants-fire']",3,True
+"""Intensifying Hurricane Willa headed directly toward 10,000 migrant caravan path.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Democrats want open borders so they can bring in and amnesty tens of millions of illegal aliens — that’s their electoral strategy.”,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Simply being in this country without documentation is not a crime""",mostly-true,true,['true'],1,False
+"""According to Pew Research, 99 percent of the people in Afghanistan support oppressive Sharia law.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Says ""we"" have put more boots on the U.S.-Mexico border ""than at any time in our history, and illegal crossings are down by nearly 80 percent from their peak in 2000.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Undocumented immigrants ""pay $12 billion a year into Social Security.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Kerr County, Texas, sheriff “said he would apply for a green card for the Mexican rescue team that saved his family.”",false,false,"['false', 'pants-fire']",2,True
+"""When Donald Trump spoke in Phoenix, he looked the audience in the eye and he said ‘no, we're building a wall and we're deporting everybody.’ He said, quote, ‘they will all be gone. They will all be gone.’ This is one of the ones where you can go to the tape on it and see what Donald Trump has said.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In 2011, Carlos López-Cantera ""staunchly supported"" a Florida bill modeled after Arizona’s immigration law",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"A Haitian woman was arrested in Springfield, Ohio, for eating a cat.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Smart! 'Kuwait issues its own Trump-esque visa ban for five Muslim-majority countries.' """,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Nobody applies to the United States for refugee status. They apply to the United Nations.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""A single immigrant can bring in unlimited numbers of distant relatives.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""You have to be a citizen to vote,"" but with same-day voter registration, ""you have places where people just walk in and vote.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says immigrants with temporary protections in Springfield, Ohio, are “illegal immigrants.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Vice President Kamala Harris “wants struggling seniors to pay more Social Security taxes while she gives Medicare and Social Security to illegals.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Donald Trump’s been completely consistent"" about his plan for nonviolent undocumented immigrants.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Due to the arrangements that I've reached with (Mexico) President Obrador, the number of migrants coming … to our shared border unlawfully in recent months has dropped dramatically.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Here in Nevada, the DMV registers everybody (to vote) and so that means illegals. They don’t check.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Ben Carson said ""illegal immigrants caught voting should be stripped of their citizenship.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“One of (Joe Biden’s) first acts in office was sending an immigration bill to Congress to grant mass amnesty to illegal immigrants.”,half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We’re the only nation in the world that does not use the military to secure our border.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Under Governor Almond the RI DMV had a program that allowed undocumented [people to] use their Personal Tax Identification Number . . . to apply [for] and receive a RI driver’s license.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""By funding the authorization that’s already happened a decade ago (in the Secure Fence Act of 2006), we could start the process of meeting Mr. Trump’s campaign pledge to secure the border.""",true,true,"['true', 'false']",2,True
+Adam Laxalt is “anti-DACA” and “fought against the protections for DACA recipients when he was attorney general.”,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Sheriffs Call For Obama’s Lynching While Leader Meets With GOP Senators""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says diversity visa immigrants are not vetted.,false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says Hillary Clinton once ""supported a border wall until she ran for president in 2016.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Under ""his own legislation,"" Donald Trump's ""own family would not have been allowed into the country.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The public health order Title 42 is ""the last tool Border Patrol has to stop the overwhelming flood of illegal immigrants pouring into our country.”",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Under David Dewhurst’s leadership, the Texas ""Senate passed an expansion of in-state tuition and free health care to illegal immigrants.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"President Barack Obama has the ""power to stop deportation for all undocumented immigrants in this country.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""The RI Board of Elections has heard official testimony from Providence residents who claim to have witnessed known illegal aliens voting in local elections.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Charlie Crist ""attacks me for positions he held, like, six months ago, (when) he was running in the Republican primary.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Communicable diseases like HIV and TB (tuberculosis) have skyrocketed” after Haitian migrants came to Springfield, Ohio.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Joe Biden ""voted to expand deportations and indefinite detention for immigrants multiple times.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Joe Biden's executive orders meant ""for the first time in American history we have a president who will not detain the people who enter this country illegally.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says Joe Biden “tried to cut Social Security and Medicare for decades. … Now Biden’s promising your benefits to illegal immigrants.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Asked about asylum seekers in camps in Mexico, “This is the first time ever you've had to seek asylum in a third country.”",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Sometime in the next decade, there will be more Latinos in the state of Texas than there are Anglos. That will happen sometime in the next five to eight to ten years.""",true,true,['true'],1,True
+"As a senator, Barack Obama supported ""an amendment that basically gutted the legal temporary worker program.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""President (Ronald) Reagan did a similar thing. George H.W. Bush did a similar order"" as former President Barack Obama’s Deferred Action for Childhood Arrivals, or DACA.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“That’s why they are allowing these people to come in — people that don’t speak our language — they are signing them up to vote.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Marco Rubio ""opposes immigration reform. Worse, Rubio supports Donald Trump. His plan would deport 800,000 children, destroying families.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""In 20 years there will be enough Muslim voters in the U.S. to elect the president by themselves.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Over 81 percent of the babies that are born at LBJ Hospital right here in Houston are born of women who are not here legally.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The Biden-Harris administration “brought over” 10 million migrants who got 9 million jobs.,false,false,"['false', 'pants-fire']",2,True
+"There is ""no system to vet"" refugees from the Middle East.",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""Gov. Romney was very clear, he would veto the DREAM Act.""",true,false,"['half-true', 'mostly-false', 'false']",3,False
+"Says ""I’ve been proven right"" about ""Hillary Clinton's radical call for open borders, meaning anyone in the world can enter the United States without any limit at all.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The state of California is begging us to build walls in certain areas. They don’t tell you that.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Hundreds of ‘illegals’ were dropped off at Florida hotel.,false,false,"['false', 'pants-fire']",2,True
+"""Nearly 200,000 Florida voters may not be citizens.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Undocumented drivers ""have protections that US citizens don’t receive under Green light bill.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We admit about 100,000 permanent immigrants from the Middle East every year.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"On immigration reform, Marco Rubio ""all along has been saying, 'We have to have border security first' "" and then ""he gets on Spanish TV, he ends up saying, 'No, no. That will never get in the way.' """,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""By some estimates, as few as 2 percent of the 50,000 (Central American) children who have crossed the border illegally this year have been sent home.""",mostly-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We don’t have a (military) reserve force if something happens.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""When (Ron DeSantis) was in Congress, he supported amnesty.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Already this calendar year, since January 1, we have had more than 20,000 people come across the border, apprehended, unauthorized.""",true,true,"['true', 'false']",2,True
+Democrats don’t deport undocumented migrants “because every illegal is a highly likely vote at some point.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Israel cut its illegal immigration rate by ""99 percent"" by constructing a 143-mile fence along its southern border.",mostly-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+The U.S. Census included a citizenship question “for over 150 years” before the Obama administration.,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“Less than 500 people a year killed by all rifles combined” and “4,000 a year killed by illegals.”",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Rick Perry wrote a newspaper item saying he was ""open to amnesty"" for illegal immigrants in the United States.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""She is the only candidate who has stood by our community and immigration reform from the beginning.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says the Democratic presidential candidates ""support giving illegal immigrants free health care at our expense.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We have laws on the books where people can walk right up to our ports of entry, say ‘I have a credible fear of persecution,’ and we bring them in. We don’t send them back.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""They voted for (a border wall) in 2006. Then-Senator Obama voted for it. Sen. Schumer voted for it. Sen. Clinton voted for it.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says of flood of non-Mexicans being apprehended at the border: ""These are people that are coming from states like Syria that have substantial connections back to terrorist regimes and terrorist operations.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Over half of the foreign-born population in Rhode Island is white.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says there are ""probably 2 million, it could be even 3 million"" criminal immigrants in the country illegally.",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Under Hillary Clinton’s plan ""illegal immigrants convicted of committing crimes get to stay.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"""During the first 3 months of FY2022 Customs& Border Protection recorded 518k encounters w illegal immigrants at S border That’s up 137% from same point in FY2021.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says President Joe Biden sparked a migrant caravan from Honduras and questioned the loyalty of U.S. troops at the inauguration.,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Under President Ronald Reagan, illegal immigrants ""were not pouring in like"" they are now.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Hillary Clinton ""wants to increase Syrian refugees to this country by 550 percent.""",true,false,"['mostly-false', 'false']",2,False
+"“Pelosi’s new coronavirus bill allows illegals to receive billions in relief funds in past, current, and future payments.”",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""With three months remaining in the Fiscal Year, (the border patrol) has already encountered more illegal immigrants along the Southwest border"" than in any previous fiscal year.",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false']",4,False
+"""The startup rate of Hispanic businesses is three times the national rate.""",half-true,true,"['true', 'false']",2,False
+"Immigrants ""can show up at any embassy or consulate abroad"" to make their asylum claims.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Sen. Harry Reid voted ""against declaring English our national language, twice.""",true,false,"['true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Fact: Over 90,000 kids were detained under Obama. And no one cared.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In Texas, ""the No. 1 name for new male babies — many of whom will vote one day — is Jose.""",true,true,['true'],1,True
+"""Right here (in West Virginia), they are building new houses … so that 321 Syrian Muslims can move down into this neighborhood in two months. … (A funeral home) is to be torn down in two months, and a mosque is going to built there.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Last year, we were in the range of 850,000 and that was the most in five years. … We are letting more people become citizens than has happened in years.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Numbers on illegal immigrants ""are down in terms of apprehensions, which indicates fewer illegal crossings, but also up in terms of actual enforcement actions.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""We spend $18 billion a year on making sure that the federal government has immigrant enforcement agents. That's more than DEA and the ATF and the FBI and all the other enforcement (agencies) combined.""",half-true,true,"['true', 'false']",2,False
+Says he “strongly supports legalization for Dreamers.”,half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I have watched ICE liberate towns from the grasp of MS-13.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Even among ""second and third generation"" Muslims in the United States, ""there's no real assimilation.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""American voters remain steadfast in their support for immigration reform with a path to citizenship, with more than 70 percent who want to see reform passed this year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Recent immigration raids ""are not business as usual. The raids are being done indiscriminately. They’re not focused simply on criminal aliens.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We are dealing with an administration that, quite frankly, has shown a reluctance to enforce the immigration law.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Department of Homeland Security Secretary Alejandro Mayorkas' border policy is ""personally responsible"" for fentanyl crossing the border",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""One third of all federal prisoners today are illegal immigrants.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says over 25 percent of the Texas budget funds services to non-U.S. citizens.,pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Gov. Rick Perry has been ""begging"" for the federal government to send the Coast Guard to patrol two lakes on the U.S.-Mexico border.",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The most popular name is no longer John or Steven. It's Jose, Camilo and Maria.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"President Barack Obama ""said over 20 times he did not have the legal authority"" to act as he did on immigration.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""There isn't a system"" for reuniting families separated under Trump’s zero tolerance border policy.",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Says Ronald Reagan said immigrants ""brought with them courage and the values of family, work, and freedom. Let us pledge to each other that we can make America great again.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"Said Sen. Thom Tillis ""co-sponsored a bill that not only provided amnesty, but provided a clear path to citizenship for illegal immigrants.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“This is the era where people are given smartphones when they cross the border and enter our country.”,half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"“Approximately 60,000 Canadians currently live undocumented in the USA.”",mostly-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Right now we're focused on Minneapolis because that's where we have the highest concentration of people who have violated our immigration laws.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Both murderers in Texas were not only illegals, but gang members” and were “most likely tied to MS-13.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""A majority of the men and women on this stage have previously and publicly embraced amnesty. I am the only candidate on this stage who has never supported amnesty.""",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"The Secure Communities Program and 287(g) immigration programs ""were programs that worked"" but were ""recklessly gutted"" by the Obama administration.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""According to data provided by the Department of Justice, the vast majority of individuals convicted of terrorism and terrorism-related offenses since 9/11 came here from outside of our country.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""I sponsored and was the co-sponsor of the only legislation that ever passed that had E-Verify provisions in it back in 2010 when I served in the Legislature.""",false,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Donald Trump hired illegal workers ""from Poland and he had to pay a million dollars or so in a judgment.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""More than half of all drivers' licenses issued in California this year have gone to illegal aliens.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Says ""precisely zero terrorists, terrorist groups or terror plots have ever been connected with the U.S.-Mexico border to do harm to people within the United States.""",false,true,"['true', 'false', 'pants-fire']",3,True
+"""In Congress, (Patrick) Morrisey wrote the health care law giving free health care to illegals.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says the Obama administration catches and releases nonviolent illegal immigrants.,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Border Patrol agents take migrants ""to the Yuma airport, put them on a plane to any destination they want. ... And they pay their ticket. And then they get reimbursement from FEMA.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Donald Trump ""used undocumented labor to build the Trump Tower.""",true,false,"['mostly-false', 'false']",2,False
+"Under current U.S. immigration policy, ""literally one person with a green card"" can, in the extreme, bring in more than 270 of his relatives.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Forty percent of people in this country, illegally, are overstaying visas.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Senate voted this week to allow illegal aliens access to Social Security benefits.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""We saw the increases (of unaccompanied minors at the southern U.S. border) dating back almost a year.""",mostly-true,mostly-true,"['mostly-true', 'half-true']",2,True
+"Says Andrew Gillum ""wants to abolish ICE and doesn't believe in doing any type of immigration enforcement.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Hillary Clinton ""wants to bring in thousands of refugees to America from all around the world without any kind of security screening.""",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says if a Florida bill (HB 697) punishing sanctuary cities becomes law ""it will be the only law of its kind in the nation.""",mostly-true,true,"['true', 'mostly-false', 'false']",3,False
+"Says U.S. Rep. Kyrsten Sinema ""voted to cut ICE.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Building a wall"" on the U.S.-Mexico border ""will take literally years.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says ""Hillary Clinton's plan would bring in 620,000 refugees in her first term, alone, with no effective way to screen or vet them. Her plan would cost $400 billion in terms of lifetime welfare and entitlement costs.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""My position hasn’t changed"" on using executive authority to address immigration issues.",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Of Sen. Jeff Sessions, ""you've objected to immigrants volunteering to serve in our armed forces, saying, 'In terms of who's going to be most likely to be a spy, somebody from Cullman, Ala., or somebody from Kenya?'""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“BREAKING – A large convoy of trucks just breached the U.S. border patrol checkpoint in Arizona.”,false,false,"['false', 'pants-fire']",2,True
+"Illegal immigration on the U.S.-Mexico border is ""the lowest in 17 years.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Why was there no news coverage of this raid on the Arizona border? … Seizure was just five days ago. Right on the Arizona border!""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Says ""Hillary (Clinton) wants to increase the number (of Syrian refugees) by 500 percent.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Border agents discover body of 6-year-old girl: 'She was raped By 30 men'.""",false,false,"['false', 'pants-fire']",2,True
+"In 2008, Maggie Hassan voted against legislation to ""prevent sanctuary cities in New Hampshire.""",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"Says Newt Gingrich said ""Spanish is the language of the ghetto.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Says using E-Verify is ""a fair amount of cost,"" about $20 per person that does not match.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""2,267 caravan invaders have tuberculosis, HIV, chickenpox and other health issues""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Civil war erupts in Sweden as irate Swedes burn nine Muslim refugee centers to the ground""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"When New York Gov. Eliot Spitzer wanted to ""provide driver’s licenses to those who are undocumented. (Hillary Clinton) said don’t do it.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"The DREAM Act ""was written by members of both parties. When it came up for a vote a year and a half ago, Republicans in Congress blocked it. The bill hadn’t changed. ... The only thing that had changed was politics.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""This is the only state in the country that bypassed the General Assembly to authorize [in-state tuition for undocumented immigrants].""",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Senate Bill 1070, simply, just mirrors federal law.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Barack Obama, Chuck Schumer and Hillary Clinton ""all voted for"" a border wall as senators.",half-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says about 80% to 90% of people seeking asylum do not have a valid claim.,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Mike Coffman said two different things: ""stop the deportations"" in a Spanish-language debate and ""you're going to be deported"" in an English-language TV interview.",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Since May of last year, we have removed or returned more individuals than in any year since 2015.”",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Syrian refugees are not being vetted, and ""the FBI is not even being told where they are.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Bill Clinton passed a law in 1996 that separated children from adults illegally entering America.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Agriculture has always required a significant workforce from abroad.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+The majority of Supplemental Nutrition Assistance Program recipients are not U.S. citizens.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""22 times Barack Obama said he did not have the authority to implement this type of"" anti-deportation ""measure. And then the day after he signed this into law, he said, quote, ‘I just changed the law.’""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We have right now, … in the state of California, 55 percent of all immigrants are on public assistance.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Migrants at the U.S. border are ""able to pay cell phone bills"" after a ""two-month excursion across four separate countries.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Democrats are nowhere to be found on DACA.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The various people who have, in fact, committed terrorist acts in this country, from 9/11 on, none of them came from any of the seven countries that are the subject of the president's executive order.""",half-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Bill White ...offered sanctuary to illegal immigrants.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Illegal aliens cost the state of Rhode Island $400 million a year.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says President Donald Trump ""put out a $297 million contract to a vendor to show him how to hire Border Patrol. So, the first payment they made was $14.8 million. You know how many Border Patrol they hired with $14.8 million? Two.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says the 2015 vote on the American Security Against Foreign Enemies Act ""was not a vote to deny access to the U.S.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""If you're a Mexican, you get sent back. ... But if you're from a noncontiguous country like the Central American countries"" then you can stay in the United States.",true,false,"['mostly-false', 'false']",2,False
+"Says Joe Biden “shut down travel from 8 countries in response to the Omicron variant, but he refuses to require a #COVID19 test for illegal immigrants crossing our Southern border.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The federal government right now does not deport criminals.""",false,false,"['mostly-false', 'false']",2,True
+"""BREAKING: Trump family donates $1 billion to wall fund.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"U.S. Rep. Jim Langevin  didn't want a border fence to block illegal immigration ""because he is  afraid that someone will get hurt trying to go around the fence.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Many of the people in DACA, no longer very young, are far from ‘angels.’ Some are very tough, hardened criminals.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Phoenix, Arizona, I'm told, is now the No. 2 kidnapping capital in the world, right behind Mexico City.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""With the exception of slavery and the Chinese Exclusion Act, our laws have never barred persons from becoming citizens.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""Illegal border crossings are up 173% from 1 year ago and 28% since January when President Biden stopped the wall & deportations and started catch & release.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""There are about 350,000 people who succeed in crossing our borders illegally each year.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Undocumented students who qualify for in-state Oregon tuition are ""actively working toward U.S. citizenship.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Every single strawberry that is served to Members of Congress will have passed through the rough hands of an undocumented immigrant.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""When you get a commercial pilot’s license, you learn to communicate in English no matter where you are in the world.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The Republican plan would cut federal law enforcement officers — 30,000 — including 11,000 FBI agents, 2,000 border agents, DEA agents, and so on.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Every student paying out-of-state tuition actually covers more than the cost of instruction.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We're experiencing a net outflow of illegal, undocumented workers from America back to Mexico.""",true,true,"['true', 'false']",2,True
+"A Muslim immigrant in Michigan can list his second, third or fourth wives as ""extended family"" and qualify for welfare.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Florida had five sanctuary cities while Jeb Bush was governor.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says there are ""2,000 inadmissible migrants arriving every day""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Less than three months ago, Kamala Harris and her administration blocked 300,000 unvetted Haitian migrants from being deported out of our country.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The DREAM Act the ""would give amnesty to over two million illegal aliens.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says Democratic Senate candidate Mandela Barnes “supports abolishing ICE.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“In August 2023, illegal immigration outpaced American births.”",false,false,"['false', 'pants-fire']",2,True
+"""Seventy-six percent of the American people support us passing the DREAM Act … with citizenship and legalization as part of it all. … More than 60 percent of Republicans support that.""",true,true,['true'],1,True
+"Says President Barack Obama promised a ""pathway to citizenship"" to undocumented immigrants and ""didn't deliver jack squat on any of it.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"U.S. Sen. Lindsey Graham says South Carolina ""has a labor shortage and wants more immigration.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Half of all immigrant households receive benefits from our social welfare system.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+The Biden administration seeks to end voter ID requirements to allow immigrants in the country illegally to vote.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Rather than work to secure the border, (Marco Rubio) supported Obama’s amnesty plan for illegal immigrants.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+The border surge is “challenging” because the immigration system that had been in place for decades “was dismantled in its entirety by the Trump administration.”,half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"U.S. Bureau of Labor Statistics statistics show, “We have 1.6 million illegal aliens that have gone home voluntarily.”",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Undocumented workers crossing the border right now is at a 12-year low.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""There are at least 23 countries that refuse to take their people back after they’ve been ordered to leave the United States, including large numbers of violent criminals.""",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false']",4,False
+"Says U.S. Immigration and Customs Enforcement “will be at every polling station” on Nov. 3, 2020.",false,false,['false'],1,True
+"""The American people will not support doing anything about people that are in this country illegally until the law is enforced first.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Arizona Democrats “needed a lawsuit to force them to remove 50,000 noncitizens from voter rolls.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We could build 30 walls with the $150 billion Obama gave to Iran.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Congress only funded half the wall"" between Mexico and the United States.",mostly-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Washington Heidi supports sanctuary cities, where illegal immigrants can be released on our streets, like this criminal, who was let go and then sexually assaulted a child.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Our veterans, in many cases, are being treated worse than illegal immigrants.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Will Hurd ""cosponsored a bill that would militarize our border and allow 200 miles of new roads to be built in the Big Bend region -- cutting up our beloved park.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says 11 soccer players on the U.S. Men’s National Team are immigrants.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says President Barack Obama could ""basically"" legalize all immigrants here illegally ""by the sign of a pen.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Sen. Joe Manchin ""stands with Hillary Clinton and D.C. Dems on gun control, higher taxes, amnesty, and Planned Parenthood.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Just on the issue of immigration alone, it is next to impossible to find a policy difference between (Donald) Trump and Congressman (Joe) Heck.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Georgia crackdown on illegal immigration costs state farmers $400 million last year.,mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""I had five of my citizens that were killed last week"" because of border security problems.",half-true,half-true,"['mostly-true', 'half-true', 'false']",3,True
+Says Travis County’s sheriff refuses to enforce 8 USC 1373.,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+American citizens “pay $155 billion annually to make sure illegal immigrants are taken care of better than American citizens”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Migrants in New York City are receiving prepaid debit cards with up to $10,000 and no restrictions.",false,false,"['false', 'pants-fire']",2,True
+"Says Hillary Clinton wants illegal immigrants ""collecting Social Security benefits.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Increased encounters at the southwest border in April 2022 compared to April 2020 are attributable to changes in border policy.,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says Martha McSally “voted to take away money from Fort Huachuca to pay for the border wall.”,half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+The FBI admitted that Venezuela emptied its prisons and sent the inmates to the U.S.,false,false,"['false', 'pants-fire']",2,True
+"""Interior deportations under Obama were down 40 percent and at a nine-year low.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Immigrants are responsible for 96 percent of our small biz growth since 2000.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“The Biden Administration is recklessly releasing hundreds of illegal immigrants who have COVID into Texas communities.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Barack Obama's plan gives a driver's license to any illegal who wants one.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Federal border officials are allowing undocumented immigrants who are “known criminals who possess an arrest warrant to fly on U.S. aircraft (which) threatens our homeland security.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""President Obama has the most border patrols and border security deployed at the border of any previous president.""",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+Joe Biden’s immigration order limiting asylum is “pro-child trafficking.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A post comparing two construction workers — “Joe legal” and “Jose illegal” — says “Jose” pays no taxes yet gets free medical care, food stamps, welfare, and 'head of the class' priority for his children in applying for college.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The city that I was mayor of was 50 percent Latino, and I won with 90 percent of the vote...""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The fact is it's not amnesty.""",true,true,['true'],1,True
+"Says Donald Trump ""asserted that immigrants would quote, ‘carve you up with a knife’.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“The removal of birthright citizenship only applies to the children of those that are here ILLEGALLY.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A Homeland Security study ""showed 120 murders took place that could have been prevented had communities been working with ICE and Homeland Security.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Nikki Haley argues in support of bringing Gaza refugees to America.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Undocumented immigrants get Medicare for free.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""One in four inmates is an illegal immigrant.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says the term ""illegal alien"" is ""a legal term, it’s in statute, it’s a federal term.""",half-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Joe Donnelly ""voted to grant amnesty to millions of illegal immigrants, including criminals, drunk drivers, domestic violence, and worse.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says the Obama administration ""didn't lock people up in cages.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Children are crossing the border because President Barack Obama said ""if you come, you’re going to be able to stay, because we’re not going to enforce the law.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"John Cornyn ""voted twice in 2013 to back Obama’s amnesty plan.""",pants-fire,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"A ""substantial number"" of probationers participating in a pilot project to ease the farm labor shortage are able to ""finish the work.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Four million more people live in Florida, but New York gets $20 billion more for Medicaid, because it covers illegal immigrants and adults without chronic illness.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In 2017, ICE ""arrested more than 127,000 illegal immigrants with criminal convictions or facing charges of breaking our nation's’ laws,"" and removed nearly 5,000 gang members.",true,true,['true'],1,True
+"Says the diversity visa lottery program is ""a Chuck Schumer beauty.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"President Barack Obama, Nancy Pelosi and Harry Reid support Rick Perry’s ""decision to give in-state tuition to illegal immigrants.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“Illegal” Haitians in Springfield, Ohio, are “reportedly killing and eating pets.”",pants-fire,false,"['false', 'pants-fire']",2,True
+"In the U.S. asylum system, ""claims of 'fear to return' have skyrocketed, and the percentage of claims that are genuinely meritorious are down.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Aaron Bean voted to give illegal immigrants in-state tuition.,mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Says that when President Obama visited El Paso, he ""pronounced that the border with Mexico and the United States was safer than it ever was in history.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Migrants who enter the U.S. illegally get U.S. passports immediately after leaving a border processing center.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The actions I’m taking"" are ""the kinds of actions taken by every single Republican president and every single Democratic president for the past half-century.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says ""Mike Coffman is with Trump.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Marco Rubio ""went on Univision, and in Spanish he promised that he would not on the first day in office rescind President Obama's illegal executive action.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Leticia Van de Putte ""voted to give illegal immigrants in this country free health care--not emergency health care but total free health care.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In New York City “local elections, illegal immigrants can vote.”",false,false,['false'],1,True
+"""Every poll you see, the overwhelming majority of people want [E-Verify].""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Democrats ""want to give (undocumented immigrants) cars.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"H-1B guest workers are “being employed as dog trainers, massage therapists, cooks, and English teachers.”",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""When I became governor, we banned sanctuary cities and we also did E-Verify.""",mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Germany ""is crime-riddled right now"" because of migration to Europe.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says detained immigrant parents separated from their children at the border are being charged ""as much as $8 a minute to call their children.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Public schools, colleges and state-funded day care centers ""will be made into sanctuaries by Bruce Rauner signing SB 31.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Tyson Foods announced it would hire 52,000 migrants.",false,false,"['false', 'pants-fire']",2,True
+"The Obama administration estimates the number of children at the border is ""going to increase to 150,000 to 200,000 next year.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Immigration and Customs Enforcement agents raided Los Angeles' Gratts Learning Academy during a June graduation ceremony.,false,false,"['false', 'pants-fire']",2,True
+"Says Ron DeSantis ""voted in an agricultural bill to give food stamps to illegal immigrants.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Trump administration is ""raiding money"" from military service member pensions to pay for the border wall.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""More than 100,000 DACA applicants have been arrested—Murder, Rape, DUI.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Americans ""would run out of avocados in three weeks"" if imports from Mexico were stopped due to a border closure.",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"Mexico receives ""approximately $24 billion a year in remittances from Mexican nationals working in the United States. The majority of that amount comes from illegal aliens.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""There's been a 1,700 percent increase in asylum claims over the last 10 years.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The immigration bill ""has a specific provision that says that Secretary Napolitano does not have to build any fence if she chooses not to.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Sixty-four percent of Americans support the Arizona immigration law.''",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+Richard von Coudenhove-Kalergi planned “the ethnocide of the peoples of Europe” through “the encouragement of mass non-white immigration.”,false,false,"['false', 'pants-fire']",2,True
+"Says that the George W. Bush administration in 2005 revived a long-standing law when it ""decided to charge those that crossed the border with criminal violations, rather than civil ones.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Rep. Kyrsten Sinema supported a bill that is ""essentially encouraging child trafficking.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. ""Donald Trump doesn't.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Among Syrian refugees, ""there aren't that many women, there aren't that many children.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Hillary Clinton’s immigration platform would ""create totally open borders.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Newt Gingrich ""supports amnesty for illegal immigrants.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Paul Workman authored legislation providing amnesty for illegal immigrants.,half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Wisconsin politicians get daily expense payments ""even if they don’t spend a dime on meals, or lodging or travel,"" and ""no receipts are required for them to get paid.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Six million or 7 million people have “come illegally under Biden.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We proudly handed the Biden administration the most secure border in history. All they had to do was keep this smooth-running system on autopilot.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Nikki Haley “opposed Trump’s border wall” and “Trump’s travel ban.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Every time we go to court,"" against the Trump administration, ""for the most part, we win.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have more illegal immigrants here"" than we did five years ago.",false,false,"['mostly-false', 'false']",2,True
+"""The major immigration issue was about Poles, and Bulgarians, and Romanians,"" and that they weren’t contributing economically. ""The unemployment rate among Poles in Britain is lower than the unemployment rate among Brits.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Report: 3 million votes in presidential election cast by illegal aliens.""",false,false,"['false', 'pants-fire']",2,True
+"""Sen. Mark Begich cast the deciding vote in favor of President Obama’s authority to issue executive amnesty to illegal aliens.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says the Biden administration’s Unaccompanied Alien Children process has “no vetting, no transparency.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"In Miami-Dade County, ""we spend at our school system over $20 million every year"" educating recent immigrants.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"A federal judge said President Barack Obama’s executive action on immigration is ""unconstitutional.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Says ""all my grandparents"" immigrated to America.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The government is arming “illegal immigrants.”,false,false,"['false', 'pants-fire']",2,True
+"Says Donald Trump promised to repeal Obamacare, build a wall, ban Muslims, and more.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Title 42 and other Trump-era holdovers are forcing migrants into dangerous, overcrowded conditions in Mexico.”",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Almost 40 percent of all (undocumented) immigrants come by plane and they overstay their visas.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“The biggest threat to your unions is millions of people coming across the border, because you're not gonna have your jobs anymore.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Vice President Kamala Harris “endorsed free taxpayer-funded government health care for all illegal aliens.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says that in Illinois, ""fewer than 20% of those actually deported have been charged with any serious crime.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Gov. Andrew Cuomo and Democratic lawmakers are “granting free tuition to illegal immigrants while closing Excelsior Scholarship applications to citizen students.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“Gas prices highest in a decade. Worst jobs report in 2 decades. Highest inflation in 3 decades. Highest increase in illegal immigration in 4 decades.”,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“Joe Biden’s open border” means that there are “more Democrat voters pouring into this country.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""'Caravan' Migrant Army Paint Swastika on American Flag, Burn It in the Street.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Seventy four percent of Californians are absolutely against sanctuary state"" policies.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Housing is expensive “because we flooded the country with 30 million illegal immigrants” and because of a housing shortage.,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""In the first full month of my administration following the issuance of my executive orders, illegal immigration on our southern border fell by an unprecedented 40 percent.""",mostly-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says children at Homestead migrant facility ""get 30 minutes over a month to talk to family members. If they were in a prison — a federal prison — they would get 300 minutes.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Illegal immigration costs our country more than $113 billion a year.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+This is the 911 call placed by the migrants trapped in the truck found in San Antonio.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The federal government is ""making the decision, whether we like it or not, to send 425 refugees to our state"" from Syria.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The United States is the only nation ""that grants legal permanent residency to more than a million people per year.""",true,true,"['true', 'false']",2,True
+"""The border is down 78 percent. Under past administrations, the border didn’t go down -- it went up.""",false,false,"['mostly-false', 'false']",2,True
+Harvard University “refuse(s) to tell us” who its international students are.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Breaking: Czech Republic arms citizens. You can now shoot terrorists on sight.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Migrants DEMAND $50,000 each to go home, or else …""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Donald Trump ""said illegal immigration has been a problem in America for 'thousands of years.' """,false,false,"['false', 'pants-fire']",2,True
+"Says his conviction is ""a political witch hunt by holdovers in the Obama justice department.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Dan McCready ""believes in open borders and sanctuary cities.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Obama ""voted for and even sponsored amendments that were intended to kill the (immigration overhaul) legislation.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""There have been some estimates that if you deported everybody who is in Texas illegally,"" it ""would create an economic recession for the state.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says an ICE detainer request ""is not a valid warrant.""",true,false,"['true', 'half-true', 'mostly-false', 'false']",4,True
+"""The Congressional Budget Office, a nonpartisan office, did an analysis and said that passing comprehensive immigration reform will reduce the federal deficit by $200 billion over the next decade.""",true,true,['true'],1,True
+"The migrant caravan from Tapachula, Mexico “is the population of Minneapolis.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Joe Biden grants voting rights to 500,000 invaders.”",false,false,"['false', 'pants-fire']",2,True
+"Says that in New Mexico, ""illegals are issued emergency welfare EBT cards with $1k a month +$200 for each child, for at least 5+ years until they see a judge.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Under the SAVE Act, “if you are a woman that has changed your name from your birth certificate, let’s say through marriage … you are no longer eligible to vote.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Donald Trump posted on Truth Social, “Only criminals carry guns on our streets, we need law and order.”",pants-fire,false,"['false', 'pants-fire']",2,True
+"""If it weren’t for me … (illegal immigration) wouldn’t even be a big subject.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Newt Gingrich’s immigration plan offers ""a new doorway to amnesty.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Says ""109 people out of hundreds of thousands of travelers"" were affected by the immigration executive order.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We've had examples like in Yuma County, where we've been able to stop 97 percent of the illegal (immigration) flow, and those programs, they abolish.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“Biden wants to give illegals ID cards so they can start collecting American benefits.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The Democrats' health care bills would provide ""free health care for illegal immigrants.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""ICE is required to fill 34,000 beds with detainees every single night and that number has only been increasing since 2009.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Current immigration ""apprehension numbers are worse than the 'crisis' Biden/Obama/Pelosi acknowledged in 2014!""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says guns are required to be registered.,mostly-false,false,"['mostly-false', 'false']",2,True
+"Since a new immigration program was implemented, the number of Venezuelans trying to enter the U.S. illegally decreased “from about 1,100 per day to less than 250 per day on average.”",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In February alone there were enough illegal immigrants who crossed the border to fill this (Kansas City Chiefs’ Arrowhead) stadium.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The Trump administration’s policy of separating families is ""the same way Barack Obama did it.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In Springfield, Ohio, “murders are up by 81%.”",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"College students ""who are NOT U.S. Citizens and who get the PELL Grant"" plan to return to their home countries after getting free gas cards and child care.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Under @BarackObama illegal immigration dropped to a 50-year low.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The Senate immigration bill is … filled with things like rewards for au pair agencies, Alaskan seafood processors and Vegas casinos.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The chances of being killed by a refugee committing a terrorist act is 1 in 3.6 billion.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says the cartels are so bad in a Mexican border state that the U.S. government issued a ‘Do Not Travel’ warning -- the same warning it issued for Syria.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""If you're from Guatemala and you are found illegally in Mexico, you are automatically jailed.""",false,false,['false'],1,True
+"Says immigrant military service members applying for U.S. citizenship ""are getting rejected at higher numbers than those who are not veterans.""",true,false,"['true', 'half-true', 'mostly-false', 'false']",4,True
+"""Liberals in County Hall want our community to be a sanctuary county""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Because of violence spreading from Mexico, ""you’ve got bullets hitting the city hall in El Paso. You’ve got bombs exploding in El Paso.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"""What the Arizona law does is make a state crime out of something that already is... a federal crime.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Police officers in this state have that right,"" to check the immigration status of people they arrest.",true,true,['true'],1,True
+"""Update: van full of illegals caught voting at multiple Alabama polling locations.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Marco Rubio ""is the one for an open border.""",pants-fire,false,"['half-true', 'mostly-false', 'false']",3,False
+"Illegal ""immigration is lower than it’s been in 40 years.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Some 8.1 million of the estimated 11 million to 12 million people ""in this country illegally are working.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"President Joe Biden’s day one approach to immigration included ""blanket amnesty and halting border wall construction.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Tony Evers wants to give in-state tuition and drivers licenses to ""illegal aliens.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""Spanish was the first European language spoken in this country.""",true,true,"['true', 'false']",2,True
+"Chicago city officials ""have adopted an official policy of protecting criminal aliens who prey on their own residents.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Eric Cantor ""was the co-author of the House GOP principles on immigration reform. Both the 'New York Times' and the 'Washington Post' said that that captured the essence of what was in the Senate immigration bill.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""I never said that"" Marco Rubio was Mark Zuckerberg’s personal senator.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"South Carolina has a labor shortage, specifically in the meatpacking industry.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""California To Register Illegal Aliens To Vote – Automatically.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""When NAFTA was passed, there was an acceleration of immigration from Mexico because people were
+in search of jobs.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+Donald Trump “never changed one immigration law.”,mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+The southern U.S. border “is now open to anyone from anywhere in the world who wishes to enter our country.”,false,false,"['true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Law enforcement in the state of Arizona supports"" the state's new immigration law.",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""There's a survey done in Guatemala. A third of Guatemalans intend to migrate to the United States. That's about 5.8 million people.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The United States is the only country with unrestricted birthright citizenship.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""All the Democrats on the entire stage — every Democratic candidate said they want to give free health care to illegals.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Ted Cruz ""is a supporter of legalizing people that are in this country illegally"" and ""proposed giving them work permits.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says that had E-Verify been in place in Florida when 9/11 terrorists lived here, ""we might have saved the lives of 3,000 Americans.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""ICE just endorsed me.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""Ronald Reagan’s signature on the 1986 amnesty act"" gave Barack Obama about 15 million additional Hispanic votes in 2012.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says President Donald Trump said asylum seekers ""aren't people. These are animals.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We are accepting more legal immigrants than we ever have in the history (of the United States.)""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The Z-visa that was offered in that Senate bill let everybody who's here illegally, other than criminals, stay here for the rest of their lives.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The United States does ""not have a system through which growers and dairies can bring a workforce legally into the U.S.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Section 1325 of U.S. immigration law was ""put into place in 1929, by a segregationist.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+“BREAKING: Rep. Maxine Waters calls for the United States to grant citizenship to every undocumented protester in Los Angeles” 2025 protests.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""nothing"" in Obama’s $3.7 billion request to address the child immigrant situation ""actually secures the border.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Nearly 65 percent -- almost two-thirds -- of all new permanent residents obtained that status by virtue of their family status.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Dan Patrick ""proposed Arizona-style show-me-your-papers legislation.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Joe Biden is “now saying he inherited ‘a mess’ at the border. Fact: 9,000 illegals all of 2020. So far in 2021 108,000 entered U.S.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Maxine Waters said Trump supporters are “not welcome here” and “we must welcome everyone who crosses our borders.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says the Constitution ""specifically states the Congress shall write legislation for immigration policy,"" so Barack Obama lacks the authority to defer the deportation of young illegal immigrants.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Uses a picture of a mansion to say that Rep. Nancy Pelosi lives surrounded by ""a high perimeter wall with gun toting security.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"More than 3,000 homicides were committed by ""illegal aliens"" over the past six years.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In 2006, Arizona had four ballot issues that were ""very tough on illegal immigration... Forty-seven percent of the Hispanics in Arizona voted for them.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""National Guard storms Mexico border, makes game-changing impact in just 30 days""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Border Patrol has 20,000 agents – more than twice as many as there were in 2004.""",true,true,['true'],1,True
+"""Last year, out of the 500,000 (in) population growth we had in the state of Texas, about 250,000 of the 500,000 came to Texas... from the other 49 states.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says Madison and Milwaukee County both carry sanctuary status for illegal immigrants and  released undocumented immigrants who have committed multiple crimes including sexual assault of a child,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"A ""majority in every state favors path to citizenship for undocumented immigrants.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Over a million people apprehended at the border this year, ""meaning probably another 2 or 3 million have come in illegally.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""President Trump has announced a plan to prosecute the Biden administration for the 325,000 kids that went ‘missing’ into human trafficking & sex slavery during their open border policies.”",false,false,"['false', 'pants-fire']",2,True
+"Phoenix is the kidnapping capital ""of the Western Hemisphere.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Senate report admits Clinton ‘gifted’ children to human traffickers""",false,false,"['false', 'pants-fire']",2,True
+"""Before taking executive action on immigration, President Obama stated 22 times that he does not have the authority to change immigration laws on his own.""",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+Says the Biden administration is canceling immigration detainers and “requiring our law enforcement leaders to release” serious criminal offenders.,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We could cut unemployment in half simply by reclaiming the jobs taken by illegal workers.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Of all the illegals in America, more than half come through Arizona.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""220,000 New Yorkers would have immediately benefitted had President Obama’s executive action been affirmed. So almost a quarter million of our fellow New Yorkers who are hurting right now whose rights and opportunities were taken away by the Supreme Court.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""California won’t let law enforcement officers like you and your people transfer prisoners to ICE custody or even to communicate with ICE that you’re about to release them from your custody — people that ICE is looking for.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Obamacare ""will provide insurance to all non-U.S. residents, even if they are here illegally.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Only about 20%” of people who apply for asylum qualify for it.,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Hillary Clinton once ""wanted a wall"" on the Mexican border.",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"“Just last year,” Miami-Dade Public Schools “had over 14,000 new children, 10,000 of which came from four countries of Cuba, Nicaragua, Venezuela and Haiti.”",true,true,"['true', 'false']",2,True
+President Joe Biden announced tax incentives for families willing to take in migrants in a new “Housing for Labor” initiative.,false,false,"['false', 'pants-fire']",2,True
+"""Evidence surfaces of Vatican funding caravans targeting America with cash.""",false,false,"['false', 'pants-fire']",2,True
+"Romney failed to take action against ""sanctuary cities"" in Massachusetts.",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+The Trump administration “built nearly 500 miles of border wall.”,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“They’re going to be giving these people who come across the border, giving them smartphones.”",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""@realDonaldTrump is coming to San Antonio, which is 60% Mexican-AMERICAN.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Let’s talk about the facts and where we are today. There are still nearly 2,600 children who are separated from their parents"" due to the Trump administration’s zero-tolerance policy.",true,true,['true'],1,True
+"Says Rep. Martha McSally ""is a #FlipFlopBorderHawk.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The mayor said … 'if you happen to be in this country in an undocumented status . . . then we welcome you here.  We want you here.  We'll protect you here.' """,true,true,['true'],1,True
+"""I am the only person in this field who is against amnesty. Every other person in this field wants to allow people who are here illegally to be able to stay here, in one form or another.""",false,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“You may be 55 years old in [Illinois] and a citizen and not eligible for Medicaid. But if you are an undocumented immigrant and 55 or older, you’re eligible for Medicaid.”",false,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The 2017/2018 budgets gave (President Donald) Trump billions for border upgrades. He’s spent ALMOST NONE of it. 6%.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""More lives have been lost because of the war with the drug cartels in Juarez alone, just a few blocks from the United States of America, than have been lost in the war in Afghanistan.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says there’s ""never (been) so many apprehensions ever in our history.""",false,false,"['false', 'pants-fire']",2,True
+"Says El Paso was named America’s ""Safest Large City"" a year after San Antonio, Houston and Dallas had the nation’s highest crime rates.",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Promises kept: negative net migration (in the U.S.) for the first time in 50 years!”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says Kay Bailey Hutchison voted for sanctuary cities.,false,false,['false'],1,True
+"""Since 2001, 63,000 of us were murdered by illegal aliens.""  ​",false,false,"['false', 'pants-fire']",2,True
+“Joe Biden flew hundreds of thousands of illegals into Florida last year.”,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says most illegal immigrants draw ""welfare benefits, they’re sending their kids to school, they’re using the public services.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The voting bill known as H.R. 1 would mean “that millions of illegal immigrants are quickly registered to vote.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Ending (Temporary Protected Status) and deporting legal workers would cost the United States ~$164 billion in GDP over a decade.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Tear gas was used on average once a month during the Obama administration for very similar circumstances.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Workers who pick produce in Georgia’s fields can make $12 to $18 an hour.,half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Mayor Giuliani made New York City what's known as a 'sanctuary city,' where illegal aliens were allowed to come. And he instructed the leaders of the city not to enforce the law, not to enforce immigration law.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"""When Phoenix dropped its sanctuary city policy in 2008, its murder rate fell 27 percent the following year.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says border ""crossings remain at historically low levels.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“300,000 illegal immigrants were able to use a simple app to get a free flight to our country.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""One in three women is sexually assaulted on the dangerous journey north.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Just 6 percent of Americans say Russia is the country’s most important issue, yet the story receives ""75 percent of the coverage"" in the media.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A proposed immigration bill will ""bankrupt Georgia"" if passed.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Last month, we saw a 64 percent reduction in illegal immigration on our southern border.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Congress quietly repealed the McCarran Warner Act of 1952 forbidding Muslims from holding office.""",false,false,['false'],1,True
+"U.S. Sen. Sherrod Brown voted to “give illegals taxpayer funded stimulus checks, health care, even Social Security.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Florida’s in-state college tuition waiver for immigrants in the country illegally costs the state $41 million.,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The ""priorities"" of more than three-quarters of Americans are to increase the minimum wage, create a path to citizenship for illegal immigrants, and require background checks for gun buyers.",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Migrant mother and ‘crying girl’ on Time cover never separated.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says ""Stacey Abrams wants to give illegal aliens the right to vote.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says the nation is locked down and there’s “a wide open border.”,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""ISIS is running through a border made porous by Barack Obama’s policies.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Coca-Cola “sells out its own workers to ICE.”,false,false,"['false', 'pants-fire']",2,True
+"Says Donald Trump ""games the U.S. visa system so he can hire temporary foreign workers at low wages.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that ""along the southern border of the U.S.,"" the government apprehends ""seven individuals a day who are either known or suspected terrorists.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Unemployment has been on the rise throughout Wisconsin"" as Paul Ryan stepped up his advocacy of ""immigration increases.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“Just last week, Ruben Gallego voted to let the millions of people who poured into our country illegally cast a ballot in this upcoming election.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Every single Senate Democrat voted against hiring more border agents. They voted against deporting felons. And they voted against ending catch and release.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Craigslist ad was “recruiting people for LA ‘protests.’”,false,false,"['false', 'pants-fire']",2,True
+"""We have over a million (legal immigrants) a year, more than at any time in the history of this country. We have the largest percentage of immigrants, almost tied now with the historical high as a percentage of immigrants living in this country.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“We have our government giving people who came into this country illegally $5,000 gift cards.”",false,false,"['false', 'pants-fire']",2,True
+"""Incredibly, some Tallahassee politicians want to make Florida a sanctuary state.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“80% of the American people support our Dreamers. Over 70% think they should have a path to citizenship, and that's Democrats, Republicans, independents.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We have just built this powerful Wall in New Mexico. Completed on January 30, 2019 — 47 days ahead of schedule!""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a bill he vetoed to give driver licenses to certain immigrants known as Dreamers would have changed ""nothing.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Apple CEO Steve Jobs told President Obama that the company moved factories to China because it needed 30,000 engineers.",true,true,"['true', 'false']",2,True
+"""Recent reports state that the U.S. Customs and Border Protection has apprehended several members of known Islamist terrorist organizations crossing the southern border in recent years.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Home Depot signed a deal that pays them $250 million with DHS, allowing ICE agents to stake out their parking lots and arrest immigrants.”",false,false,['false'],1,True
+"""89,000 children were separated from their parents under Obama"" and ""only 1,900 children have been separated under Trump.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""David Simpson actually voted for driver's licenses for illegal immigrants.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""FBI crime statistics have found that labeled ‘sanctuary’ cities experience lower rates of all crime types, including homicides.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Biden changes his mind and now wants to resume building Trump’s wall.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Newt Gingrich ""has said that we should make the 11 million illegal workers that are in this country legal.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says he was the only statewide elected official to speak in favor of a federal guest worker plan at the 2012 Republican Party of Texas convention.,true,true,"['true', 'false']",2,True
+"“NYC will give $1,000 taxpayer-funded credit cards to migrants.”",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"President Obama’s uncle and aunt ""are illegal aliens ...  who've been allowed to stay in this country.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""The spillover violence (from Mexico) in Texas is real and it is escalating.""",mostly-false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Savings that I achieved"" helped fund cameras on the border. ""As a result, more than 21,500 arrests have been made and 46 tons of narcotics confiscated.""",half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We will have more people enter our country illegally than were born in this country in one year.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says 95 percent of people caught crossing the U.S.-Mexico border said in a survey ""we are coming because we’ve been promised amnesty.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Rep. Paul Gosar asks Capitol Police to arrest illegal immigrants attending State of the Union.""",true,true,"['true', 'false']",2,True
+"""Over the last several years, 40 percent (of) the jobs created in Texas were created for illegal aliens.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""A lot of these migrants that are coming, we have no way to screen their backgrounds for either health or for security.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Ketanji Brown Jackson has ""a weak record — defund police, abolish ICE and now a completely open border policy.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The Arizona law basically parrots the federal immigration law.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"Says Donald Trump promised ""the mass deportation of Latino families.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"""Comprehensive immigration reform, the bill we had back in 2013 ... brought the debt down $158 billion.""",half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Every time they’ve done those border patrols, they’ve taken out people who have trafficked drugs. That’s the federal government’s role. They’re doing their job.""",half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Under the DREAM Act, after two years of higher education or military service ""you are eligible for citizenship. Once a citizen, this paves the way to bring the rest of (your) extended family to the United States.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says the United States loses ""250 Billion Dollars a year on illegal immigration, not including the terrible drug flow. Top Border Security, including a Wall, is $25 Billion. Pays for itself in two months.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Mexico has ""very strong border laws -- ours are pathetic.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""One out of every 30 people in the Greater Boston area is an illegal alien.""",true,true,"['true', 'half-true', 'mostly-false', 'false']",4,True
+"""The annual cost of free tax credits alone paid to illegal immigrants quadrupled to $4.2 billion in 2011.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""In 2010, the non-partisan Government Accountability Office found that only 6.5 percent of the U.S.-Mexico border was under full control of the Border Patrol.""",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"""It has been the law since the beginning of the country that the children of American citizens born ... abroad are American citizens by birth.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Forty percent of the Fortune 500 were started either by immigrants or children of immigrants.""",half-true,true,"['true', 'half-true']",2,True
+"The United States is at ""historic record highs"" of individuals being apprehended on the border from countries with terrorist ties such as ""Pakistan or Afghanistan or Syria.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We are not even into February and the cost of illegal immigration so far this year is $18,959,495,168. Cost Friday was $603,331,392. There are at least 25,772,342 illegal aliens, not the 11,000,000 that have been reported for years, in our Country.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"January 2022 fentanyl seizures show ""illicit drugs are flowing into the country at an alarming rate because of Biden’s open border.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Now in half the homes in California, people speak a language other than English in their own homes.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Democrats mistakenly tweet 2014 pictures from Obama’s term showing children from the Border in steel cages.""",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Over half"" of science, technology, engineering and mathematics students ""receiving advanced degrees are not citizens of the United States of America.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"“There have now been 16 straight months of OVER 150,000 illegal border crossings.”",mostly-true,false,"['true', 'half-true', 'mostly-false', 'false']",4,False
+"Says Rick Perry ""proposed a binational health insurance program with Mexico.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Chicago now has City ID Cards which allow illegal immigrants to vote in local, state & federal elections.""",false,false,"['false', 'pants-fire']",2,True
