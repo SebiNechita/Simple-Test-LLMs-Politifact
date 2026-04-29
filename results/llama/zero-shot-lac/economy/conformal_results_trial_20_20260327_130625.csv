@@ -1,0 +1,980 @@
+statement,true_verdict,predicted_verdict,prediction_set,set_size,is_covered
+The “‘Inflation Reduction Act’ increased inflation and drove prices sky high!”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Ohio’s electricity rates are 10 percent below the national average.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The average CEO makes $10,000 more every day ... than what the average worker makes every year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Right now, we only keep 50 percent of Georgia Tech's graduates.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Under President Obama’s health-care reforms, the premium for ""an average plan for a family didn't go down by $2,500 per year, it's gone up about $2,500 per year.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Current immigration policy imposes as much as $300 billion annually in net fiscal costs on U.S. taxpayers.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Government imposed lockdowns do NOT reduce [COVID-19] cases or stop spikes.”,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""A million Democrats deserted (Howard Dean’s) party and joined my party because of Donald Trump in Ohio this year.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""More than one in five of veterans aged 20 to 24 can’t find a job to support their family or to ease the transition to civilian life.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""The stock market does better when you have a Democratic president in the White House.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says the Congressional Budget Office ""is expecting a protracted economic malaise for at least the next decade under current policies.""",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"The proposed mine in northern Wisconsin would be built without any government oversight, and will be nine miles long.",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says he ""voted no on the Wall Street bailouts.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The health care bill will ""create 4 million jobs, 400,000 jobs almost immediately.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Some individuals or businesses in Wisconsin are charging $2 or $2.25 an hour for child care.,mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""The deficit ... is coming down, and it’s coming down rapidly.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Under Scott Walker, Wisconsin ""unemployment's up"" from 4.8% to 6.2%",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""My 7-step plan"" creates 700,000 jobs in 7 years.",mostly-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Mike Trainor...still owes $250,000 to the state.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false']",3,True
+Virginia’s economic growth “has stalled at less than 1% per year for eight years.”,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Since Donald Trump's inauguration, we have seen an 11% decline in the value of the dollar, the steepest decline in more than a half a century.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that Sen. Sherrod Brown is ""out there egging on a lot of these protesters who are spitting on policemen and going to the bathroom on policemen’s cars at these protests on Wall Street and other places.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Today in America, 70 percent of us are earning the same or less than we were 12 years ago, and this is the first time that that has happened this side of World War II.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Of all the jobs President Obama claims to have created since he started, only 38.5 percent are women. So 61.5 percent have gone to men.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""Ninety-four percent of small businesses will face higher taxes under the Democrats' plan.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Joe Manchin ""strongly supported and voted for Hillary Clinton after she said, ‘We’re going to put a lot of coal miners and coal companies out of work.’""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Cobb County businesses have already been awarded contracts worth $250 million on construction of a new Braves stadium.,mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Scott Walker ""wants state taxpayers to dole out up to $250 million annually in incentives"" to Foxconn ""to lure a manufacturing plant to Wisconsin that he claims will generate $181 million in tax revenue.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Democrats rang up a $1.42 trillion budget deficit in 2009 — the single largest in American history.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Joe Biden’s tweet is proof that a helicopter crash that killed six Nigerian billionaires was planned by Biden.,pants-fire,false,"['false', 'pants-fire']",2,True
+"""Fifteen years ago, the assets of the six largest banks in this country totaled 17 percent of GDP ... The assets of the six largest banks in the United States today total 63 percent of GDP.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+Vice President Kamala Harris “is a communist. … She is really a Marxist.”,pants-fire,false,"['false', 'pants-fire']",2,True
+"""Research performed by economists has shown no consistent, positive impact on jobs, income or tax revenues arising from stadiums or sports franchises.""",true,true,"['true', 'mostly-true']",2,True
+"Under Scott Walker, Wisconsin is ""still 16,000 manufacturing jobs lower than we were during the recession.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Ohio, Michigan, and Pennsylvania actually in the latest jobs data have lost jobs, not gained them.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Salaries of Austin residents who don't work for city government ""have not been going up 3 percent a year for the last several years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""70 percent of the income tax that the state collects happens to come from Westchester, Nassau, Suffolk and New York City""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""From 2010-2014, median household income"" in Wisconsin ""has actually gone up 7.4 percent.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Washington D.C.-area ""never has a recession.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Horse racing could boost Georgia's economy by $1 billion a year and create 10,000 to 20,000 jobs.",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Apple has just announced it plans to invest a total of $350 billion in America, and hire another 20,000 workers.""",half-true,true,"['true', 'mostly-true']",2,False
+"""The biggest contribution"" behind a decrease in U.S. unemployment ""was 1.2 million people leaving the workforce""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Nearly a quarter of all adults in this state have some college credit without a degree.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""We spend less than 2 percent more every year. That is the lowest increase in spending since they have been keeping numbers.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Perdue mismanaged Pillowtex, and nearly 8,000 people got laid off.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""West Virginia added the highest percentage of new construction jobs in 2017 in the United States, at 14.4%. This amounted to 4,300 additional jobs! In fact, #WV was the only state with double-digit growth!""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Over the last 15 months, we've added more than 2 million jobs in the private sector. That's far in excess of what it was in the comparable period after the last recession.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Over the last few decades, the income of the top 1 percent grew by more than 275 percent -- to an average of $1.3 million a year.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Since the first of the year, 153 businesses at last count had moved out of California to Texas.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The U.S. has ""over $62 trillion in unfunded liabilities.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Sen. Robert Bennett, R-Utah, cast votes for TARP, the stimulus, and an individual mandate for health care.",mostly-false,true,"['true', 'mostly-true']",2,False
+"Says Lloyd Doggett voted for the health care, stimulus and cap-and-trade bills.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Richard Burr voted to protect tax breaks for companies that ship jobs overseas but voted against a tax break to help working people.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"At General Motors, CEO Mary Barra ""took home almost 22 MILLION DOLLARS last year alone (295x your company's average employee).""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Americans will pay more in taxes in 2011 than they will spend on groceries, clothing and shelter combined.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Most state employees did not receive any pay raise from 2009 to 2012.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The poverty rate for families in which a husband and a wife work is 5 percent, but in families headed by one person … ""it's 30 percent today.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Mitt Romney's companies were pioneers in outsourcing U.S. jobs to low-wage countries.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says with the ongoing economic downturn, child abuse is on the rise.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Bill Clinton presided over ""the biggest expansion of the American economy since World War II.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"“Kamala Harris has promised amnesty for the 10 million illegals she allowed in as border czar, making them eligible for Social Security. Studies warn this will lead to cuts in your Social Security benefits.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“A higher percentage of American workers are working today than ever before.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Rick Scott’s record on jobs includes Florida ""ranked 2nd in the nation in long-term unemployment.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Women make 77 cents for every dollar earned by men.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""There are currently 6 million jobs available in this country that are due in part to the skills gap.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"When COVID-19 struck, the Illinois Department of Employment Security “was hit with something no one expected: 10 to 20 times the claims, even during the worst recession of my lifetime.”",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Most of the stimulus money will be spent ""not this year, not next year, but in 2011.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We've seen 115,000 jobs created in the American auto industry since GM and Chrysler emerged from bankruptcy.""",half-true,true,"['true', 'mostly-true']",2,False
+"Tampa Bay is ""leading the state in jobs creation.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the United States, if there was equal participation of women in the labor market, GDP would be up by 5 percent.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Under three years of my administration, net farm income has already gone up nearly 50%.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Let's pay attention to kids who are not going to college, which ends up being about 60 percent of the kids... and get them trained for the jobs that are there. Because, you know, there are auto mechanic jobs paying $50,000, $60,000 that they can't get filled. There are airline mechanic jobs paying a lot of money that can't get filled."" Remarks at AFSCME forum 6/19/2007",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""The much-trumpeted job growth in the last year was ENTIRELY part-time jobs.""",half-true,false,"['mostly-true', 'mostly-false', 'false']",3,False
+Says unemployment would be at 10 percent if people who have quit looking for work were included in federal labor force calculations.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says ""by reducing chronic health care costs in the State of Georgia, we can reduce the $32.8 billion lost each year due to lack of productivity and economic costs.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Since the end of the 2020 fiscal year, President Biden and Senator Baldwin have added over $7.3 trillion of debt, more than the first 228 years of our nation’s history combined.”",half-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,False
+“Corporate income has increased as a share of” gross domestic product.,half-true,true,"['true', 'mostly-true']",2,False
+"""Since February 2009, the private sector has lost millions of jobs while the federal government has grown by hundreds of thousands of workers.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Under Governor Crist, 3,000 teachers laid off.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Cranston's 2014-2015 ""budget funds 100 percent of the local police and fire pension and other retiree benefit costs.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""First, Donald Trump said wages are too high, and both Donald Trump and Mike Pence think we ought to eliminate the federal minimum wage.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""This decision is an unfortunate example of why those of us in Montpelier need to work together to make Vermont a more affordable place to do business and make sure our policies help businesses thrive rather than creating unique burdens and barriers to growth that make us less competitive with other states.""",false,mostly-true,"['true', 'mostly-true']",2,False
+"""The senior senator from Arizona (John McCain) said he couldn't support repealing 'don't ask, don't tell' because of the economy.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Forty percent of the Fortune 500 were started either by immigrants or children of immigrants.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Since the beginning of the year we've created a net increase of 45,000 jobs.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+An estimated 56 million Americans don't have bank accounts.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Over the past five years, the American automobile industry has ""created about 500,000 new jobs.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""The country is now in a manufacturing recession.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The U.S. is “taking in almost $2 billion a day in tariffs.”,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""This is the slowest job recovery since Hoover.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The economy began its nose dive when Democrats took control of Congress in January 2007.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Inequality in Texas is steadily getting worse, with very few rich people, a great many poor people, and fewer and fewer in the middle.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Congressional Budget Office ""says 8 (percent) unemployment till 2014!""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""California has added twice as many jobs as Florida"" over the past year.",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"""Our African-American communities are absolutely in the worst shape they've ever been in before. Ever. Ever. Ever.""",pants-fire,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+"President Barack Obama ""has now spent three years proving that he kills jobs in energy, he kills jobs in manufacturing.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says that under his presidency, the unemployment rate has “been below 4% for the longest stretch in 50 years in American history.”",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Hillary Clinton called the Trans-Pacific Partnership ""the gold standard. You called it the gold standard of trade deals. You said it’s the finest deal you’ve ever seen.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says he lived up to a 2008 promise when he ""closed corporate tax loopholes that were sending profits overseas.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says she ""called for addressing risks of derivatives, cracking down on subprime mortgages and improving financial oversight"" early on in the financial crisis.",true,true,"['true', 'mostly-true']",2,True
+"""Fifty percent of Americans will go hungry at some time in their lives.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""After a decade of decline, this country created over half a million manufacturing jobs in the last two and a half years.""",true,true,"['true', 'mostly-true']",2,True
+"""Following the catastrophic, cascading collapse of major investment banks on Wall Street in 2007.....Nobody was prosecuted, no hearings were held and no reforms were implemented.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The labor force participation rate -- the share of the potential workforce that is actually working or looking for work-- currently stands below 63%, the lowest level since the 1970s.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"Massachusetts under Gov. Mitt Romney initially ranked last among states in job growth, but by the end of his governorship, ""we were in the middle of the pack.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Tourism and retirees are the dominant economic engines in our state.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Gov. Bill Haslam is ""making our Economic Development department Sharia compliant"" by hiring a woman ""who specializes in Sharia compliance. That’s what her job is.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Understand, this is unemployment insurance. It’s not welfare, as a lot of my Republican colleagues like to suggest it is. You pay into it when you’re working. You get help when you’re not.""",mostly-true,true,"['true', 'mostly-true']",2,True
+Says Mitt Romney and Bain Capital are to blame in a woman’s premature death when they closed the plant where her husband worked.,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We have the lowest percentage of Americans actually holding a job in 40 years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""If the House of Representatives fails to extend the middle-class tax cuts, 400,000 middle-class Rhode Island families will see their federal income taxes increase.""",false,true,"['true', 'mostly-true']",2,False
+"""Virginia now is the number one exporter of (agricultural) products to Cuba. We have now jumped to number one.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Midland, Texas, now beats the San Francisco area in the percentage of jobs created by startups.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We have more women living in poverty in this state than almost anywhere else.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""More than 30 cents of every state tax dollar goes to Medicaid.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Donald Trump ""rooted for the housing crisis, because he knew he could make money off of it.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"California's credit rating is ""the worst in the country.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“40% of  jobs in this country pay less than the average unemployment check of $750/week.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Some Republicans who voted against the stimulus ""have been all too happy to claim credit for Recovery Act projects and the jobs those projects have produced. They come to the ribbon cuttings.""",true,true,"['true', 'mostly-true']",2,True
+"Says the United States is in ""the worst recovery from an economic recession since World War II.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The unemployment rate among blacks in Texas is 9.5% -- far more than double white unemployment -- and wages have fallen for black workers in Texas since 2000.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Nonpartisan government analysts say Obamacare will cost our economy up to 2.5 million jobs.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I said no to these big bank bailouts.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The state of New York is the ""worst in the nation in economic recovery.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We rank below Ethiopia, I'm told, in terms of our exports per capita, well below any of the other developed countries we trade with, and well below China and (South) Korea.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+“Gov. Tony Evers brought Republicans and Democrats together to cut income taxes for the middle class.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Federal spending is ""the highest it's been as a share of our economy in 60 years (and) revenue is the lowest it's been as a share of our economy in 60 years.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says Lee Fisher ""wanted a $1.1 billion tax increase which could have driven countless jobs out of state.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""60 percent of people on food assistance are working.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"After the minimum wage for tipped workers was raised in Maine, the state ""reversed that decision due to restaurant employees organizing en masse against the measure.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Gov. John  Kasich incorrectly claimed Ohio’s economy was 38th in the nation when he took office. ""We were sixth in the nation in terms of economic job growth.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Housing prices dropped for the 30 months prior to Barack Obama taking office, ""and they have stabilized, they've been about flat since the president came in.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Houston is ""the third-most toxic city in the United States of America.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"When Mitt Romney was governor, Massachusetts lost 40,000 manufacturing jobs, a rate twice the national average, and fell to 47th in job creation, fourth from the bottom.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Mercedes said high taxes and the cost of doing business in New Jersey worked to Georgia’s advantage in landing the company's USA corporate headquarters.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We are one of only two states to have eight consecutive months of declining unemployment. Twenty-one states had increased unemployment last month. Ours went down.""",true,true,"['true', 'mostly-true']",2,True
+"""The majority support (raising) the minimum wage.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""The ratio of corporate profits to wages is now higher than at any time since just before the Great Depression.""",true,true,"['true', 'mostly-true']",2,True
+"""The studies have shown us that [drug testing for welfare recipients] will be saving us money""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Our president has labeled Americans as soft.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Wisconsin has ""the fastest-shrinking middle class in the country.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We had bipartisan legislation that got through the Senate"" that would have prevented bonuses like AIG's ""and then somehow mysteriously disappeared.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says ""President Obama and his National Labor Relations Board"" sued Boeing over its decision to open a plant in South Carolina.",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Pennsylvania, President Barack Obama’s policies have increased unemployment 19 percent, led to the loss of 37,900 manufacturing jobs, and left 189,000 more people in poverty.",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""Thirty percent of [Sheldon Whitehouse' campaign] money is coming from special interests.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Donald Trump’s ""Make America Great Again"" caps are ""made in China.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Florida ranks ""45th out of 50 states'' for its regulatory climate for business.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The first round of stimulus ... it created zero jobs.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""75 percent of the jobs created in the state of Ohio are created in small business. They are not created by huge corporations and those who are very wealthy.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""More than half of our unemployed Ohioans have been out of work for six months or more.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Rhode Island has a [inmate] recidivism rate of over 60 percent.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""On a per capita basis, Irving-Las Colinas has more Fortune 500 companies than any city in the United States of America.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In 2006, Donald Trump was hoping for a real estate crash.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Two years ago, Bob Casey promised us his vote will reduce inflation. ... Casey’s vote for reckless spending” made inflation worse.",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says that in 2011, Oregon had ""the second fastest growing economy in the nation.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""One in five American households have nobody under the same roof that's got a job.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Food Stamp participation hits 10 year low.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the federal government is earning more tax revenue now ""than any other time.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Redistribution"" has ""never been a characteristic of America.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Thanks to President Trump and Republicans over the past year through July, U.S. manufacturing added 327,000 jobs, the most of any 12-month period since April 1995, when the figure added a healthy 345,000 positions.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""So far, the Recovery Act is responsible for the jobs of about 2 million Americans who would otherwise be unemployed. ... [And] the Recovery Act is on track to save or create another 1.5 million jobs in 2010.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"(Since 1990) ""every continent has seen substantial gains, with individual incomes growing by more than a third in every region of the developing world.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""I wrote to Secretary Paulson, I wrote to Federal Reserve Chairman Bernanke [in March 2007], and told them this is something we have to deal with, and nobody did anything about it.""",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"The United States is ""seeing greater income inequality now than any time since the 1920s.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+Says North Carolina just landed an auto plant.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Joe Biden “passed a tax bill that gave us all these privileges for depreciation and for tax credits. We built a building, and we get tax credits like the hotel on Pennsylvania Ave.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There is no disagreement that we need action by our government, a recovery plan that will help to jump-start the economy.""",false,true,"['true', 'mostly-true']",2,False
+"""Lake Erie supports nearly 10 percent of Ohio's jobs and generates $750 million in state and local taxes.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Since 2009, ""after-tax incomes are up nearly 14 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In manufacturing, ""I brought back 700,000 jobs. (Obama and Biden) brought back nothing.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The money supply has doubled in the last year.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""After shedding jobs for more than 10 years, our manufacturers have added about 500,000 jobs over the past three.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"Because of its higher minimum wage, New York State is ""already showing signs of various companies picking up and leaving.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The small cell bill is expected to create more than 20,000 jobs and attract $2 billion in capital investment, resulting in nearly $4 billion in economic growth over the next few years.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Overwhelming Democrat and Republican votes"" in 2011 for legislation in two special sessions on jobs demonstrated the bipartisan nature of the Wisconsin Legislature.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says James Langevin voted to spend ""$3 billion for a jet engine no one wants.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Women are paid 77 cents for every $1 men get for the same work.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The collective net worth of Americans has taken a $5.5 trillion hit ... mainly due to plummeting home values.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Forty percent of gross domestic product ""is state, local, or federal money.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says the Texas Department of Agriculture seeks to purchase up to 300,000 promotional stress balls.",true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Two-thirds of the people who receive the minimum wage are female.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Seven out of the 10 states with the lowest unemployment rates (have) Republican governors … That approach that Republicans are using is working.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Groceries are down. Energy is way down. ... Was $4 and $5 for a gallon of gas.”,half-true,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Rhode Island has ""the most burdensome level of health-insurance mandates in the nation.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In the past 27 months, President Barack Obama has created more private-sector jobs than ""in the Reagan recovery.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""I cut more as a percentage out of government than any state in the country this past decade. And where is Michigan in terms of its economic growth? Cutting did not result in economic growth.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"A year since the ""Recovery Summer,"" there has been been ""a fall, winter and spring of no recovery.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+A “default on our debt” would be unprecedented in American history.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+''The leading Democratic candidate once said that the unfettered free market is the most destructive force in modern America.'',false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The largest tax increase that we have ever had in our state is yours – it is the business margins tax that you signed, governor.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The House Democrats' so-called 'stimulus' has been stuffed with an astonishing $335 million to fund prevention programs of sexually transmitted diseases.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says the state tax burden per citizen in New York is twice as high as in Florida.,mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""(After the auto bailout) General Motors is back on top as the world’s No. 1 automaker.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Those 30-, 40-year mortgages” prove that banks know climate change “is not going to happen.”",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""It's been 17 years that we've had unemployment higher than the national average in Oregon.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I have repeatedly said that many of the predatory loans that were made in the mortgage system did target African-American and Latino communities.""",true,true,"['true', 'mostly-true']",2,True
+"Under Barack Obama, the U.S. now has the ""lowest workforce since (President Jimmy) Carter.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"In economic growth, ""Obama's best year was slower than Bill Clinton's worst year.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says President Barack Obama ""did not come into office with the economy in a free fall.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Most Americans are now getting their news from Facebook.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"West Virginia has ""the nation’s lowest workforce participation rate, which hovers around 50 percent, when the national average is about 63 percent.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+Says that the oil and gas industry comprises 35% of the Texas economy.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Buffalo's SolarCity project, ""Andrew Cuomo will create maybe 500 jobs if it ever happens at all, at about $1.5 million per job.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""More Americans have lost their jobs under Barack Obama than any president in modern history.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Wisconsin lost over 600 farms last year & our farmers can't afford the #TrumpShutdown.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Since 2000, nearly 12 million Americans have slipped out of the middle class and into poverty.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The labor participation rate is at an all-time low.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Tax Foundation figures Rhode Island as the 10th highest state for state and local tax burden per capita in the country. We're the 6th worst in the country for the business tax index. We're the 3rd highest per capita in the country for all taxes.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+Says Texas economy is about 30 percent larger than Australia’s.,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The commercial property tax [in Providence] is second highest in the country behind Detroit.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Egg prices came down 50%”,half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Ohio has ""created 45,000 new manufacturing jobs since 2010. And that's due in large part to the fact that the auto rescue has helped Ohio.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""A recent Department of Labor study guessed Wall Street fees cost a worker 28 percent of the value of your plan over the span of your career.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"Milwaukee’s problems include ""52 percent black male unemployment.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Only about 6.8 percent of the (stimulus) money has actually been spent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Thanks to failed Dem policies, beer is 9.1% more expensive.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""We’re not even remotely close to a point to say that we’re at rising inflation.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""General Motors is the largest corporation in the world again.""",false,pants-fire,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Independent analysts say (Donald Trump) would add $30 trillion to the national debt.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Congressional Budget Office has this economic model where they measure the economy going forward, and they are now telling us that the entire economy crashes in the year 2037 because their computer simulation can't conceive of any way in which the U.S. economy can continue.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Donald Trump ""doesn't believe in equal pay.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When I was campaigning, I was talking about 18 and 20 years (when) wages effectively went down. Now, for the first time in a long time, they're starting to go up for people.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Last year, Korea sold nearly half a million cars in our country. ... The United States, you know how much we sell to them? Six thousand. What kind of deal is that?""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Wisconsin women ""are paid 81 cents to the dollar of a man doing the same job.""",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"Small businesses in West Virginia make up ""99 percent of the total number of businesses in the state"" and employ ""nearly 50 percent of the state’s workforce.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says Milken Institute rated San Antonio as nation’s top-performing local economy.,true,true,"['true', 'mostly-true']",2,True
+"Real wages ""went up last year 1.1%.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Kamala Harris voted in favor of passing a law in 2022 to tax tips.,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Big soda has a lot of money. They make a lot of profit off their product and they market in neighborhoods that suffer from these very things that we’re trying to cure.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""For the first time since 1990, American manufacturers are creating new jobs.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since President Obama took office, over 88,000 Ohio workers have lost their jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Wages have gone up higher, faster than inflation.”",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""The people of Tiverton have historically supported [gambling measures] at a rate higher than the rest of the state.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Rhode Island has the highest percentage of uninsured adults of any state in New England.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says President Barack Obama thinks Americans are lazy.,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In the last 29 months, our economy has produced about 4.5 million private-sector jobs.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""It cost us more to shut the government down than to keep it open.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""As governor, Ted Strickland left only 89 cents in Ohio’s rainy day fund.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The wages of about 60,562 state and local government employees would be affected if the minimum wage is increased to $10.10 in Georgia, for a combined cost to taxpayers of more than $164 million annually.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Rob Portman is ""the one who actually sucked the jobs out of the (Mahoning) Valley and sent them to China.""",false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The Legislature spent the last decade passing laws deliberately making it even harder for people to access these critical supports when they need it most, exacerbating the problems with our already-outdated system.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""We cut property taxes by one-third.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Obama broke his promise to help homeowners facing foreclosure.,mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""What’s clear is (Romney) likes firing people.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since June 2009, about 48 percent of all the jobs created in America were in Texas.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Tax increases under Michigan Gov. Jennifer Granholm led to state unemployment going from 6.8 percent to 15.3 percent.,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Rhode Island has invested less in tourism, economic development and economic development personnel than four nearby states.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Almost 100,000 people left Puerto Rico last year.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In Rhode Island today, 25 percent of our households either don't have a bank account at all, or they have a bank account and they're still relying on high-cost financial services like payday loans, pawn shop check cashing and so on.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Ron Johnson pushed through a special tax loophole that benefited his own family's business … Then he cashed out of the company for $5 million … (he has) doubled his wealth since taking office.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“We’ve created close to 800,000 manufacturing jobs since I’ve taken office.”",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+U.S. military uniforms are manufactured in China.,pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says the Associated Press was wrong to report that ""Income Inequality grew to largest in 50 years"" because in a ""new Census report all four measures of income inequality SHRUNK, reversing rise over past five decades.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""If you look at the jobs lost in the private sector as opposed to the job gains in the public sector, it's out of whack. The government's growing and the private economy's shrinking.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Some ""20,000 Delphi salaried retirees lost up to 70 percent of their pensions"" as a result of ""political favoritism and backroom deals.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When (Barack Obama) took office, 2.3 million people were out of work. Five-plus years later, we have 5 million-plus out of work.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"After Britain’s vote to leave the European Union, ""within 24 hours, Americans lost $100 billion from our 401(k)s.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Experts say the property tax ""is the most harmful to economic growth and . . . the sales tax is least harmful.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have roughly between 85,000 (and) 95,000 open jobs in Wisconsin.""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+Says opponent Eric Hovde “opposes efforts to negotiate with the big pharmaceutical companies to lower the price of prescription drugs.”,mostly-false,true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""We know that tax cuts are remarkably un-stimulative when you compare them with different kinds of government spending.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"“There is a direct connection between discriminatory policies within the USDA and the enormous land loss we have seen among Black farmers over the past century.""",true,true,"['true', 'mostly-true']",2,True
+"The Export-Import Bank ""doesn’t cost taxpayers anything.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The number of jobs created and people lifted out of poverty during Bill Clinton’s presidency was ""a hundred times"" what it was under President Ronald Reagan.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Due to ""over-incarceration … in 1950, two out of three young black men were in the workforce. Today, it's one out of three black men are in the workforce.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+The cost of a Fourth of July cookout in 2022 increased by 67.2% because of inflation.,false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The American economy is continuing its longest monthly streak of job growth in history, with 3.9 million jobs added since President Trump was elected.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The region I represent, both currently and in the future, has more automotive plants than the entire state of California.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The Biden administration’s American Jobs Plan will be “the biggest non-defense investment in research and development in the history of our country.”,mostly-true,true,"['true', 'mostly-true']",2,True
+"“Gasoline prices have collapsed under President Trump.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The minimum wage is ""lower right now than it was when Ronald Reagan took office.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Former President Donald Trump “has the worst record of job loss of any president.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Only ""18 percent of jobs are accessible by transit for metro Atlanta residents. 33 percent for those living in the city.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Federal law requires residents to participate in the U.S. government’s American Community Survey.,mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Republican National Convention ""is a Super Bowl times four.""",false,pants-fire,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says U.S. Rep. Lamar Smith supported the $700 billion  Wall Street bailout in 2008, ""but now he is standing in the way of  reforms that would assure these bailouts would never happen again.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Twenty-two million jobs were created during Clinton’s two terms but only 3 million during Bush’s.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""We've recovered (from the recession) faster and come farther than almost any other advanced country on Earth.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Hillary Clinton surged the trade deficit with China 40% as Secretary of State, costing Americans millions of jobs.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In January, I outlined a plan to help revive our faltering economy, which formed the basis for a bipartisan stimulus package that passed the Congress.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"The average Georgia family makes $6,000 less than the average family did 10 years ago when inflation is factored in.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that Rep. Betty Sutton ""would rather riot with Occupy (Wall Street) than stand up for Ohio families.""",pants-fire,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We have more people working in clean and green energy than in oil and gas in this country.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""More Texans have new jobs today than the entire population of Fort Worth.""",true,pants-fire,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The health care law is ""job killing.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We've got more revenue than we ever have.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 1995, the top 400 wealthiest families have seen their incomes go up 400 percent and their tax rates go down 40 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Although we have twice the population of Greece, the state of Florida employs three times fewer government employees.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says President Obama promised ""he'd keep unemployment below 8 percent"" if the stimulus passed.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The United States ""has never been richer, if you look at per capita GDP.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since I took office, over 319,000 new private sector jobs have been created in Georgia with nearly 93,000 of those coming in the past 12 months.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Companies are moving back, creating job growth the likes of which our country has not seen in a very long time.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Taxpayers pay $18,000 a month for House Speaker Nancy Pelosi's district office in downtown San Francisco.",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says that before Rick Perry became governor, ""only 4 percent of our total labor force was a minimum wage job ... Today, that number has more than doubled (to) 9.5 percent.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""General Motors is making record profits.""",half-true,true,"['true', 'mostly-true']",2,False
+"""For every dollar we put in unemployment, it pays back about $1.60.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"The Obama administration ""was successful in rushing a massive spending bill through Congress in just two days — after which it sat on the president's desk for three days, while he was away on vacation.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+FedNow is a new “monetary system” that’s “going to cost you.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We know this now. The banks no longer loan (Donald Trump) money because he's a terrible risk. So he goes to these (Russian) oligarchs and borrows money.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+New York City mayoral candidate Zohran Mamdani is a communist.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Under Republicans, recessions happen four times as frequently as under Democrats.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says President Barack Obama has opened up no new trade relationships with other nations.,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""New business startups are at the lowest levels in 30 years.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says tax revenue was lower than expected in May and ""that's basically a clear indication the governor's counselors are probably right -- that we are still not out of the woods yet.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says excessive speculation is pushing up oil prices and a recent report estimates it ""adds 56 cents to every gallon of gasoline siphoned from the pump.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Gov. Tony Evers ""wanted to increase your taxes by $1 billion just for heating your homes. Instead, Republicans cut your taxes by more than $2 billion.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The states that have raised the minimum wage (this year) have had faster job growth than the states that haven’t raised the minimum wage.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The tax cut deal is giving ""$700 billion to millionaires and billionaires.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Sen. Tammy Baldwin ""claims to support a 'Buy America' philosophy, but her actions speak louder than her empty words.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Nearly half of all persons under 30 did not go to work today.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Says Democrats raised taxes over 115 times in the past 10 years, ""making New Jersey increasingly unaffordable and chasing jobs to neighboring states.""",half-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Rick Scott changed his promise from 700,000 jobs created ""on top of what normal growth would be"" to just 700,000 jobs.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Before NAFTA, trade between the US and Mexico was around $50 billion. Now it stands at more than $500 billion.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Immigrants are responsible for 96 percent of our small biz growth since 2000.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Donald Trump’s ""only economic agenda is imposing massive taxes on the American people with a 40 percent tax hike of a giant tariff.""",half-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We in Indiana have . . . the highest credit rating in the nation.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“New York, for all of their complaining, Gov. Cuomo's complaining, has only had a 1.5% decrease in revenue” due to the coronavirus pandemic.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Rhode Island has the second highest per enrollee (Medicaid) cost of any state in the country, which is 60 percent higher than the national average.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"Says that in his first two years, ""Wisconsin has seen its best two-year job growth in a decade.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""State economic development dollars were used to support a project where goods were manufactured in China.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The significant drop in Florida’s unemployment rate is a good economic sign.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Missouri ""is the state with the lowest paid workers.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The median income in America has dropped by 10 percent in the last four years.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Florida didn’t offer special incentives to Deutsche Bank, which announced it will add 300 jobs in Florida.",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Together we added more jobs than any other area"" while I was Dane County executive.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Hispanic unemployment has been ticking down from an all-time high of 13.9 percent because of the policies we’ve implemented.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""President Obama's proposed 'spending freeze' will only reduce the $42 trillion in government spending proposed between 2011 and 2020 by little more than one-half of 1 percent.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Over the last few years, more Virginians are moving away from Virginia than are moving to Virginia from the other 49 states.”",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""92 percent"" of President Barack Obama's administration has ""never worked outside government.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Nearly 6 out of 10 believe that money and wealth should be more evenly distributed among a larger percentage of the people in the U.S.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"GM has ""repaid our government loan, in full, with interest, five years ahead of the original schedule.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Congressional Budget Office estimates that for every $1 we spend on unemployment benefits, $1.90 is put into our economy.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""[E]mployment in Gwinnett is up more than 3 percent over last year, and unemployment is the lowest of the five core metro counties.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"The Milwaukee Bucks are ""actually younger than the Marquette team.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The four big meat packers are raking in record profits … ”,true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""There haven't been tax cuts for the rich"" in Rhode Island.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The legislature was never given the opportunity to debate or vote on loaning $75 million to 38 Studios.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Providence's port is ""200 miles closer to Europe than any other Eastern port.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Even before the pandemic, America went into a manufacturing recession.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""AIG executives ... (took) a junket for over $400,000. Twice.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"""We now have more jobs in solar than we do in oil.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The pension fund in the city of Providence is only 30 percent funded, about the same level as when he [Taveras] took office.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Wisconsin’s economy has ""tanked"" under Gov. Scott Walker and ""so far in 2015 over 6,685 people have been laid off, already more than in all of 2014.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Federal employees are making twice as much as their private counterparts.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""There is no evidence Biden’s spending produced one job. Nonpartisan projections for job growth in 2021, not including that American Rescue Plan, showed higher job growth than Biden produced.”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"John McCain, ""one of the richest people in a Senate filled with millionaires,"" says the solution to the housing crisis is for people to get a ""second job"" and ""skip their vacations.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Mitch McConnell credits Republicans ""for recent economic improvements"" even though they took control of the Senate only ""days ago.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the last 22 months, businesses have created more than 3 million jobs. Last year, they created the most jobs since 2005.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Gov. Tony Evers has “only gotten one-third of the money meant for COVID relief out the door. He is sitting on $930 million in ARPA funds left unspent. In fact, he still has CARES Act money from two years ago.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Fourteen million Americans' mortgages are greater than the value of their homes.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"A bipartisan payroll tax cut championed by the White House has meant that ""the average family has an extra $1,000 in their pocket"" this year.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""For four years, we balanced the budget and paid off $405 billion in debt.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The (federal) debt is growing by more than $4 billion a day.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The number of new businesses started per year has dropped by 100,000 during this president’s term.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We have more scientists and engineers per square mile than anywhere in the world.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Gov. Tony Evers “has the authority and revenue necessary” to upgrade the Wisconsin unemployment system without the Legislature.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Tens of billions of dollars (from taxpayer-funded bailouts) ... flowed straight through AIG into the coffers of foreign corporations and foreign banks.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Within a few years, we will be spending more on interest payments than on national security.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Over half of the black workers in this country earn less"" than $15 an hour.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Water transportation is the most fuel efficient, least polluting, safest, and least expensive means of moving cargo.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""The major immigration issue was about Poles, and Bulgarians, and Romanians,"" and that they weren’t contributing economically. ""The unemployment rate among Poles in Britain is lower than the unemployment rate among Brits.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Republican leader of the Senate said his main goal after this election is simply to win the next one.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In the ‘old days’ if you were president and you had a good economy, you were basically immune from criticism.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Repealing the sales tax on boats in Rhode Island has spawned 2,000 companies, 7,000 jobs and close to $2 billion a year in sales activity.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"A 50-50 public-private split for paying for a new Milwaukee Bucks arena would ""be much better -- in terms of the portion of the public financing -- than most of the other arena projects done around the country.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"The Great Reset advocates replacing capitalism with an economic system that is “kind of socialism, kind of communism” but “mostly just fascism.”",false,mostly-false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We've created or saved up to 1.6 million jobs, according to the CBO -- the Congressional Budget Office -- through the Recovery Act.""",half-true,true,"['true', 'mostly-true']",2,False
+"""For the last decade, Floridians’ salaries have shrunk substantially"" when adjusted for inflation.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Congressional Budget Office, a nonpartisan office, did an analysis and said that passing comprehensive immigration reform will reduce the federal deficit by $200 billion over the next decade.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Job creation fell by 70 percent in Wisconsin in 2016"" under Scott Walker.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“California provides $83.1 billion more than we receive from the federal government. Texas? Receives $71.1 billion more than they provide to the federal government. 71% of the U.S. GDP comes from blue counties.”,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Secretary Geithner has left the option on the table"" of abandoning the dollar for a multinational currency.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+State governments have little ability to stimulate job growth in the short run.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""New York state spends more than $8 billion in taxpayer money each year on job-creation programs - more than the combined total of the next three largest states""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says that when Democrats controlled Congress and the White House, federal spending as a share of the Gross Domestic Product leapt from 18.2 percent in 2001 to 25.2 percent in 2009 -- the largest such increase in any eight-year period since World War II.",mostly-false,true,"['true', 'mostly-true']",2,False
+"“We’ve brought in more than $81 billion in economic investment, more than four times any previous administration.”",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Broward County’s unemployment rate of 5.3 percent is ""the lowest in Florida.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+More private-sector jobs were created in the second year of the Obama administration than in the eight years of the Bush administration.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Pelosi’s new coronavirus bill allows illegals to receive billions in relief funds in past, current, and future payments.”",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"“We have 76% of Americans living paycheck to paycheck, meaning they are one paycheck away from poverty.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The stock market “hit an all-time high under President Biden and not under President Trump.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Oregon’s ""three largest employers, and 13 of the top 25, are health care providers.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Under Gov. Scott Walker, ""employer confidence now stands at 95 percent,"" compared to ""only 10 percent"" at the end of the ""Gov. Jim Doyle-Mary Burke administration.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In Bakersfield, where there’s a lot of oil drilling going on, there’s more solar jobs now in Bakersfield and around that area than there are oil jobs.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Our economy still has three people looking for every job (opening).""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We are last in the nation in startups — 50th.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"President Obama was saying success ""is the result of government,"" not ""hard-working people,"" when he said, ""If you've got a business, you didn't build that. Somebody else made that happen.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""One-third of all bank tellers (are) on public assistance.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Under Barack Obama and the big government economy, the median wage for women has dropped $733.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Under the previous administration it was … $100 to fill a car. American energy has delivered. Now it's $60. That’s $40 you have in your pocket … that you wouldn’t have.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""And over the last six years, Chicago’s economy has grown faster than the economies of New York City, Washington, D.C., or the national average.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""About 80 percent of (the manufacturing and agriculture) tax credit goes to claimants who are making $1 million or more.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The Buffalo Billion is ""still breaking every job promise""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In Wisconsin, a woman only earns 80 cents for every $1 a man earns.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""By the time I left"" the State Department, ""economic growth was up and opium production was down"" in Afghanistan, while ""infant mortality declined"" and school enrollment rose by more than sevenfold.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Today, there are more Hoosiers going to work than ever before in the 200-year history of the great state of Indiana.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The stock market has almost tripled since April of 2009.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says under his leadership ""Wisconsin median household income"" is up 2.7%, while it is down 1.3% nationally under President Obama.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""For years now, we have spent more money than we have taken in.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Sherrod Brown supported President Obama's $453 billion tax increase.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""John McCain’s chief economic adviser during the ’08 race … estimated that Trump’s promises would cause America to lose 3.5 million jobs.""",half-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""In 1986, President Ronald Reagan"" cut the business tax rate to 34 percent and ""it worked -- our economy boomed, the middle class thrived and median family income increased.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Every time we've cut taxes, revenues have gone up, the economy has grown.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Ninety percent of the job growth in Virginia has been in the private sector.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Migrants in New York City are receiving prepaid debit cards with up to $10,000 and no restrictions.",false,false,"['mostly-false', 'false']",2,True
+"""For the first time in 35 years, we have more businesses dying than we do starting.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""A quarter of our workers make $18,000 per year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Savannah is home to ""the fastest-growing port in the nation.""",mostly-true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Since President Obama took full control of Washington … every single day, more than 1,500 of our jobs have been lost.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"According to the most recent jobs report, ""we've got more Americans leaving the workforce than we have finding jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Scott Walker has even removed the 250,000 jobs promise from his website.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""As Virginia lost over 65,000 jobs, (Tim) Kaine put partisan ambitions first"" by serving as DNC chairman during the last year of his governorship.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Food “costs 40%, 50%, 60% more than it did just a few years ago.”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The United States ranks second worst in income inequality across developed countries,"" after taxes and transfers.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Just 6 percent of Americans say Russia is the country’s most important issue, yet the story receives ""75 percent of the coverage"" in the media.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"DNC chair Debbie Wasserman Schultz ""denied unemployment went up under Obama.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We have 25 million Americans out of work.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Donald Trump called pregnant employees ""an inconvenience.""",true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""In an average grocery store, roughly 75 percent of processed foods contain genetically modified organisms, or GMOs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""More than 90 percent of the gains have gone to the top 1 percent.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""We have 650 people who move to Texas every day.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a group ""estimates that the annual cost to Oregon taxpayers for government services to illegal aliens, after any income tax revenue from them, is $1 billion.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We now consume at the federal level 25 percent of the gross domestic product. Historically we were at 20 percent. So we've taken 5 percent away from the private sector.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Job losses are so certain under this new cap-and-tax plan that it includes a provision accommodating newly unemployed workers from the resulting dried-up energy sector, to the tune of $4.2 billion over eight years. So much for creating jobs.""",mostly-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“The racial wealth gap is the smallest it’s been in 20 years.”,half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says illegal immigration is ""costing us $130 billion a year to house and feed and give benefits to people that shouldn’t be even in the country.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"After hearing ""the frustrations parents and teachers have with the FCAT,"" next year ""we begin improving our testing system.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The vast majority of minimum wage workers get a raise within a year.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"As state treasurer, Alexi Giannoulias ""lost $73 million in our kids’ college savings.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Senator Chris Dodd, chairman of the Senate Banking Committee, placed an amendment in the ‘stimulus’ bill that allowed for banks bailed out with taxpayer money — including AIG — to hand out huge bonuses.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says his promise of 250,000 new private sector jobs was a ""big goal.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The last quarter, it was just announced, our gross domestic product … was below zero. Who ever heard of this? It's never below zero.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Debt has almost doubled in Austin under Gov. Perry.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Tom Barrett ""has directed that tens of millions of City of Milwaukee tax dollars be used for the construction of a downtown trolley at the expense of: health and public safety; repair and replacement of public infrastructure; public education; and, job creation and economic development.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have lost 600,000 jobs over the period of the last 10 years. Only Michigan and California have done worse.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Saudi Arabia will stop using the US dollar for oil sales and will not renew the 50-year petro-dollar agreement with the U.S.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""For only the second time since 2000, there are more job openings than Americans who are unemployed.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"The economy is ""creating jobs at the fastest pace since 1999.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+The American Rescue Plan “helped create nearly 10 million new jobs.”,mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""More than 25 million Americans are unemployed. More than 50 million live without health insurance. Perhaps 100 million live in poverty.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+“Wage increases have exceeded” the cost of inflation.,half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+Rhode Island spends less than 10 percent of what the average state spends promoting tourism.,mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+The national debt grew an estimated $15 billion last weekend.,true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Deepwater's own testimony . . . is they said they'll create six jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Elon Musk said “Tesla is finished” and needs “drastic changes immediately.”,false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""While the government grew, we lost more than 2 million jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Sen. McConnell says it's not his job to bring jobs to Kentucky.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Wages are up after being adjusted for inflation.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"Says that in some Texas communities, ""our unemployment rate is still at 10 and 20 percent.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Unemployment numbers ""are artificial numbers. These are numbers that are massaged to make the existing economy look good, to make this administration look good when, in fact, it's a total disaster.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Youth unemployment in minority communities is about 40 to 45 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Tim Michels pushed for years to raise (Wisconsin’s) gas tax.”,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have the third-lowest minimum wage … of developed countries.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the month of January, Canada created more new jobs than we did.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Eric Hovde “claims anyone who believes in transitioning to a clean energy economy is ‘smoking crack cocaine.’”,false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Ben Bernanke has been the most ""inflationary"" chairman in the history of the Federal Reserve.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Vice President Joe Biden ""admits that the American people are being scammed"" with the economic stimulus package.",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Today New Mexico (has) the sixth-fastest growing economy.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"Rep. Peter Petrarca ""voted on two pieces of legislation that helped auto body shops ... and at that point I think there is a conflict of interest.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Wisconsin ranks No. 2 in economic growth"", according to the Federal Reserve Bank of Philadelphia.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The federal government could save $500 million annually by circulating $1 coins instead of $1 bills.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""What was the reality for most Americans during the Obama presidency? Most lost wealth and their incomes fell, particularly for those at the bottom of the ladder.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Oregon ""is the most trade-dependent state in the nation""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Of six Rhode Island tax-credit programs worth about $35 million, ""three companies got 90 percent of that -- CVS and two companies not even located in the state of Rhode Island.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Eighty-five percent . . . of Rhode Island tax returns that were filed for the year 2010 . . . were from individuals who earned $30,000 or less.""",pants-fire,true,"['true', 'mostly-true']",2,False
+"""We're only inches away from no longer being a free economy.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We just had the best year for the auto industry in America in history.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""When you're white ... you don't know what it's like to be poor.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says our national debt is greater than our gross domestic product.,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"McCain economic adviser Phil Gramm is ""the architect of some of the deregulation in Washington that helped cause the mess on Wall Street.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Ohio currently ranks 50th out of all states in income growth.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""As governor, in the face of partisan attacks, (Charlie Crist) had the courage to save jobs and lead his state into economic recovery.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Congresswoman Kathy Castor voted to spend $2.6 million to teach prostitutes in China to drink responsibly.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says “100% of net job creation under the Biden administration has gone to the foreign-born.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Every county, including Chittenden, has fewer people available for work.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Utah was ""the No. 1 job creator in this country during my years of service"" as governor, with a 5.9 percent increase in jobs.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The only time government employment has gone down during a recession has been under me.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Over the last four years, 53 percent of black wealth has just disappeared.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Last year we had the eighth fastest-growing economy in the country in West Virginia.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“During Biden’s first 30 months in office, just 2.1 million new jobs were created, and by contrast, during my first 30 months in office we created 4.9 million new jobs.”",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Since President Obama took office, ""2 million jobs. Gone.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The Affordable Care Act ""basically puts a penalty or a tax on employers for every new job they create.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+President John F. Kennedy “was planning to end the Federal Reserve.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We’ve lost 26 million jobs … since (Obama’s) been president.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+All the talk about socialism during the campaign made young people more interested in it by Election Day.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says 1 in 7 American families is on food stamps.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Under Gov. Kasich, Ohio wages have increased by $10.3 billion.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+The U.S. government is offering Americans loans to pay for flights out of Lebanon while they have been flying Israeli citizens out of Israel on chartered flights for a year “on our dime.”,false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"""Every time we raise the minimum wage, the number of jobless people increases.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""American homeownership rate in Q2 2016 was 62.9% - lowest rate in 51yrs.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Wisconsin’s dead last in Midwest job growth.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Florida ""unemployment has dropped more than 2 percentage points, down from 12 percent to 9.9 percent, the second-largest drop in the nation.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When (Ronald) Reagan came in, from 1978 to 1982, economic growth averaged less than 1 percent a year. There’s only one other four-year period where that’s true. That’s true from 2008 to 2012.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"""If you sell your house after 2012 you will pay a 3.8 percent sales tax on it.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Less than 10 percent of Obama's Cabinet appointees ""have any experience in the private sector.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Since 1988, Congress has raised its own salary 15 times 'to reflect rising costs.' But raised the minimum wage only three times.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+Says combined inflation and unemployment rates in October 2011 were the highest since Ronald Reagan succeeded Jimmy Carter.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Here in Wisconsin, prescription drug costs grew at a pace of nearly twice as much as the average Wisconsinite's income from 2015-2019.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Says Texas is 1st in business climate, 49th in education.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Florida has experienced positive job growth for 39 consecutive months.""",mostly-false,true,"['true', 'mostly-true']",2,False
+"“When I came into office, Iran had $70 billion in foreign exchange reserves. … By the time I left, they had nothing. They were broke.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Since the salary for state lawmakers was raised to $79,500, ""that purchasing power has now been reduced to $53,000.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""After years of wage stagnation, we are finally seeing rising wages.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Florida's revenue ""is growing at a faster rate than almost any state in the country.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""China has been stealing our manufacturing, costing Wisconsin almost 90,000 jobs.""",mostly-false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+John McCain said last year he didn't know of a solution to the mortgage crisis.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says her congressional district has 10,000 medical-device industry jobs and 1,000 will be lost because of health-care law tax.",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Ohio is losing over 700 family farms a year, some of them just to pay the inheritance tax.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Under Gov. Mitt Romney, Massachusetts ranked ""47th in job creation.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Depending on which study you look at, either 68% or 5 out of 6 individuals ... are making more on unemployment than they did on the job.”",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Our rainy day fund has gone from 89 cents to $240 million.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""This year, we have added an average of 200,000 jobs per month, a majority in the private sector, a stark contrast to the Bush Administration record of losing an average of nearly 750,000 jobs per month in its last three months.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"“All schools in Canada are closed for the rest of the school year, each family will receive $950 every two weeks for the next 15 weeks, banks were notif(ied) to suspend mortgage payments for at least 6 months, and student loans deferred.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Between the first and second quarters of 2018 — after the tax cuts were enacted — real wages fell by 1.8 percent.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,False
+"""A grant for $5,000 [from the Governor’s Workforce Board] went to teach an employee at a company that makes ornamental business card holders how to use Facebook and Twitter.""",mostly-false,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"A Congressional Budget Office estimate of people who stand to lose insurance from President Donald Trump’s tax and spending law said “about 5 million … have other insurance,” so “if they lose one (type of coverage), they're still insured.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"State pension fund staffers ""lost billions. Then Sink gave them bonuses.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have a worse economy than any other country in the world that's going through COVID-19 by a factor of three.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Under a bill before the legislature, ""you’d have to go to court to fire an employee.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Florida's economy ""became a bad economy ... because of a huge spike in oil prices in the summer of 2008.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Obama policies contributed to gas prices rising from $1.89 in January 2009 to $3.51 today.,mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Barack Obama promised to halve the deficit in his first term.,true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Sherrod Brown ""has stood side by side"" with President Barack Obama, presiding ""over the most rapid increase in the debt over the last 2.5 years"" and hurtling toward "" the worst jobs record in the modern era.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Hillary Clinton's plan ""would tax many small businesses by almost 50 percent.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Small businesses ""create 70 percent of the jobs in America.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Texas U.S. Rep. Pete Sessions said the GOP's goal is to ""go back to the same exact policies that were in place before this president took office... policies that crashed the economy.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Macaulay Culkin’s “Home Alone” shopping trip that cost $19.83 in 1990 would cost $72.28 today, up from $44.40 in 2022.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""6.4 million more Americans living in poverty under President Obama.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Under Gov. Ron DeSantis, “in the last five years, spending has gone up 30%"" in Florida.",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"Says Ohio’s economic recovery ""started in February 2010.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Unemployment now pays $24/hour, even if your wages were lower. Why don’t ‘essential’ people forced to still work get $24, too?”",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Most countries have no debt ceiling.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Small businesses (are) going out of business in record numbers.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Letting the Bush tax cuts expire would raise taxes on small businesses.,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Two years after the worst recession most of us have ever known ... corporate profits are up.""",true,true,"['true', 'mostly-true']",2,True
+"""Since 2010, America has put more people back to work than Europe, Japan, and all advanced economies combined.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We suspended the (Foxconn) work around October, November last year because the weather there was snowy and icy cold.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Inflation “was 9% when I came to office.”,false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says Joe Biden repeatedly told Americans he's going to raise their taxes.,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The U.S. economy is ""recovering slower than Europe """,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Only one out of 10 minimum wage workers today are teen age or a young person.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Company may close, ""all because government essentially says if they don't hire a lifeguard to watch their workers, they can't stay open.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the California congressional district he represents ""has a higher GDP than Russia.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Rhode Island ""there are 150 different pension plans for public workers.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Wisconsin is below the national average in wage growth and job growth.,true,mostly-true,"['true', 'mostly-true']",2,True
+"For more than 30 years after World War II, there was a steady reduction in U.S. debt as a percentage of gross domestic product.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There are close to 900,000 unemployed veterans in America right now.""",true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""Eight million Americans have dropped out of the work force since (Barack) Obama became president. ... The real unemployment rate is 19 percent.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“82% of Americans...would experience a tax increase if Biden were elected.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Most Americans don’t own stocks.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"All 28 members of NATO have ""pledged to spend at least 2 percent of their economy on defense. But only three countries do -- Britain, Greece and us.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“The national coin shortage was done intentionally, the Mint is no longer releasing coins into circulation aka this is the beginning of the end of paper money.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Rhode Islanders pay among the highest auto repair bills in the nation.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Ken ""Block supports Obamacare.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We got [the Quonset Business Park] for free and we’re getting zero dollars out of it into the state coffers … other than the fact that it produces the jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+Says Donald Trump supports the Wall Street bailout.,mostly-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I did not — I did not — I do not say that. I do not say that"" climate change is a hoax perpetrated by the Chinese.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In the United States, we’ve had ""12 years in a row of wages declining.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Small businesses ""create two out of every three American jobs.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We jumped 11 places since beginning this year in terms of being job-friendly.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Our unemployment rate has been higher than 8 percent for more than two-and-a-half years, far above what the Obama Administration promised with the 'stimulus.' """,mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+There were more job losses per month in the last three months under President Bush than in the past three months under President Obama.,mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Illegal immigrants mow the grass around the (Texas) Capitol.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Georgia is now the eighth most populous state in the nation, moving from the number 10 position in just four years.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"“After 30 years of Wisconsin’s checking account running a deficit, we've ended every fiscal year I've been governor with a positive balance. Today, we have a $4.5 billion positive balance, and a record-high balance in our state savings account.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""Since we took office, we have been outpacing the nation in job growth.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""the area damaged by Hurricane Sandy represents roughly 10 percent of our nation's economy.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Farmers ""are now dumping milk into the ditches"" because of a trade dispute with Canada",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We are not producing jobs. We created 80,000 jobs last month. We don't talk about the jobs that we lost. The net of it all is that we lost jobs.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“A lot of people can get an additional $2,400” from the CARES Act “and they can do it every month!”",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Since the week ending March 14, Wisconsin actually saw a drop in tourism spending compared to last year of $1.7 billion.”",true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""President Obama took more money from Wall Street in the 2008 campaign than anybody ever had.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Nearly 90% of all UW graduates stay in Wisconsin 5 years after they graduate.”,true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Greece is not a big economy. It's about the size of metropolitan Miami.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Last year, out of the 500,000 (in) population growth we had in the state of Texas, about 250,000 of the 500,000 came to Texas... from the other 49 states.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Barack Obama said, ""If we keep talking about the economy, we’re going to lose.""",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""When I took office last year we faced historic budget deficits of $6 billion here in Virginia.  And we closed those deficits by cutting spending.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The stimulus ""has delivered $43 billion in tax relief to American working families and businesses""",half-true,true,"['true', 'mostly-true']",2,False
+"Under Gov. Tom Corbett, ""Pennsylvania ranks 49th in job creation.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a Congressional Budget Office report on spending by House Democrats in the economic stimulus concluded it ""is just not stimulus. It won't help the economy grow.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Six of the nation’s 10 wealthiest counties, ""according to median income, are in and around the Washington, D.C. area.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Sadly during the course of the pandemic one-third of our small businesses have closed.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Chris Christie ""instituted an Internet sales tax.""",mostly-false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""If you look at states that are right to work, they constantly do not have budget deficits and they have very good business climates.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Women and men both are making less when you adjust for inflation than when"" John Kitzhaber was first elected governor.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"Says he worked with the Democratic legislature to balance spending with revenues so that ""at the end of my four-year term, the rainy day fund was established at more than $2 billion.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I delivered a flat tax for my state. I took my state to No. 1 in job creation. With all due respect to what Rick Perry has said about Texas, we did a little bit better.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The U.S. unemployment rate has ""been massaged, it’s been doctored.""",pants-fire,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""We have a $2 trillion to $3 trillion infrastructure deficit. We’ve got work that needs to get done. We’ve got people that want to go to work.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Despite raising taxes on the wealthy and hiking the minimum wage, Minnesota ""is creating jobs at a record pace, unemployment is at a historic low, median income is skyrocketing, and (the) state has a billion-dollar surplus.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Tourism accounts for 439,000 jobs in the state of Ohio, and visitors spend $36 billion annually.""",true,true,"['true', 'mostly-true']",2,True
+"""Wisconsin is #1 in the Midwest for personal income growth over the year.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I vetoed more than $3 billion in spending. Lawmakers and I cut taxes for 40,000 small businesses. Now Texas is No. 1 in job creation. The nation’s five best housing markets are right here in Texas. We balanced five state budgets and we cut state spending.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Sen. Jeff Merkley ""voted six times for more debt.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""If you threw a barbecue yesterday for the Memorial weekend, it was 29 percent more expensive than last year because Barack Obama's policies have led to groceries going up 29 percent.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Bernie Sanders voted against the auto bailout,half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Wisconsin has seen over 63 billion dollars of federal pandemic-related funding funnel into our state over (Gov. Tony Evers') tenure.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Mayor Tom Barrett’s policies drove unemployment up 27 percent in Milwaukee, pushing it to ""one of America’s 10 worst cities for unemployment.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+Cash App founder Bob Lee’s death is connected to FedNow.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We are in the sixth year of recovery, and median income is below what it was at the start of the recovery.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Chained CPI would save $1 trillion in the second decade off the federal budget debt,"" a report shows.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Deals struck on his first foreign trip as president made and saved ""millions of jobs.""",false,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Barack Obama has ""doubled our national debt. Doubled it. It's going to be close to $20 trillion when he leaves.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Lincoln Chafee ""settled a union strike by giving the teachers a 19-percent-raise.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Over 3 million Americans are employed in the growing green-collar workforce,"" which is more than the number ""of people working in the fossil fuel industry.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""We have created new jobs here in Cranston -- more than 1,000.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Before I was state treasurer, my Rhode Island business helped create over 1,000 jobs.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I said two years ago that the Fannie and Freddie thing was a very serious problem and we had to work on it.""",mostly-false,true,"['true', 'mostly-true', 'half-true', 'false']",4,False
+"""More businesses are closing than are opening for the first time in our nation's history.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Obama ""closed offshore tax safe havens.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+The cost of eggs has gone up 700%.,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The median income in this country has declined 10 percent in the last four years.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 2014, Mexico alone received over $24 billion in remittances sent from the U.S., while other South and Central American countries received over 15 percent of their (gross domestic product) in the form of remittances.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Only 25 percent of what people buy is subject to Rhode Island’s sales tax.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"Says Joe Biden said Jon Corzine is ""the smartest guy that I know, in terms of the economy and on finance, I really mean this.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"Wisconsin’s monthly job reports have a ""margin of error"" of 75 percent and were ""way off"" in eight of first 10 months of 2011.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The 1990s were a time of prosperity. We created more than 22-million new jobs, moved 8-million people out of poverty, and turned our economy around.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Giving the facts:  73,000 jobs created ... since '11.  Do you know how many direct jobs in the auto industry?  1,800.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“There’s an Amazon distribution center that was advertising, last time I was there, up to $12.75 an hour. Your parents made that three decades ago.”",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We took Wisconsin from the Bottom 10 for business to the Top 10.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The right-to-work states have much lower level of unemployment than the union states do.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“Nobody's ever seen a number like this… (33.1%) economic growth is four times greater than what the experts expected.”,half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“Take-home pay for workers is going up.”,half-true,true,"['true', 'mostly-true']",2,False
+"The tax policies of George W. Bush ""created a dynamic effect of high growth.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""As President George W. Bush’s trade representative, Portman failed to address China’s currency manipulation, which was inflated to as much as 40 percent in 2006.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"The cost of ""college education has gone up 1,200 percent since 1978.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The past (Obama) administration was the first administration that never had a whole year of 3 percent growth.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“It wasn’t all women that lost jobs (in the December jobs report), it was mostly Black and Latina women. In fact, white women gained employment.”",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Rhode Island's state pension system ""underperformed the median three out of the four years that Mr. [Frank] Caprio was in office.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The share of working-age men choosing to work is the lowest it has ever been.”,half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""Every single one of the 41 Republican senators who just blocked a raise in the minimum wage will receive a $2,800 cost-of-living adjustment on January 1, 2015.""",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""Since the governor took office, Oregon’s unemployment rate has dropped to its lowest point in three years.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We've seen six months of positive job growth by the private sector.""",true,mostly-true,"['true', 'mostly-true']",2,True
+"Says the Koch brothers want to ""protect tax cuts for companies that ship our jobs overseas.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the last decade, the average income of the bottom 90 percent of all working Americans actually declined. The top 1 percent saw their income rise by an average of more than a quarter of a million dollars each.""",half-true,true,"['true', 'mostly-true']",2,False
+"Says unemployment in Ohio ""is significantly higher than the unemployment rate in states which are not forced union states and it’s always been that way.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says she ""stood up to"" Gov. Scott Walker on tax cuts ""for wealthy corporations"" while her congressional opponent voted with Walker.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says President Barack Obama’s ""own economists say the stimulus cost $278K per job ‘created.’ """,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In 2011, NJ economy ranked 47th--at the bottom with Alabama, Mississippi & Wyoming. Under Christie, NJ is falling behind.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When Mitt Romney was governor, Massachusetts lost 40,000 manufacturing jobs, a rate twice the national average.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that ""unlike Texas, Missouri has a perfect AAA credit rating.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"There was a ""loss of eight million jobs during the Bush eight years.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""Every month, we get the reports from the Bureau of Labor Statistics that say even more people have given up looking for work.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that during President Barack Obama’s tenure, the United States has created ""15 million new jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Last year the IRS audited Americans earning less than $25,000 a year at five times the rate of other groups.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Hedge fund managers ""pay less in taxes than nurses and truck drivers.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“We have automobile plants being built at levels we've never seen … and they're going up fast.”,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Our median household income in 2013 was the highest in the nation.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says 
+""With nearly 75 percent of Americans supportive of the construction of the pipeline, Schrader needs to explain to Oregon families why he voted against this needed project.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says the 3C Corridor train would have taken  ""an hour and 15 minutes longer"" to carry passengers across Ohio ""than it would have taken on a New York Central train in 1935.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""One-hundred times as many people worked their way from poverty into the American middle class"" during his presidency compared to Ronald Reagan's presidency.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Because of my policies, Black Unemployment has just been reported to be at the LOWEST RATE EVER RECORDED!""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Under Scott Walker, ""right now, we’re 46th in the country in terms of new businesses started.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""It is a fact that the economy does better when we have a Democrat in the White House.""",half-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The typical Wisconsin worker makes $5,000 less each year than our neighbors in Minnesota"" under Gov. Scott Walker’s policies.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 67 different ways, Governor McCrory has raised taxes on middle income families.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Donald Trump promised ""to take care of everybody (through government-run healthcare and) the government's going to pay for it.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Last year, American oil production reached its highest level since 2003.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Wisconsin Governor (Tony) Evers wanted to raise your taxes by $1 billion in a pandemic. Republicans stopped him and delivered the largest tax CUT in state history.”,mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""We're up 123,000 jobs over the last year and three-quarters. We're actually, according to the Bureau of Labor statistics, down 500 ... auto jobs in Ohio.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says fluid milk production limitations mean grocery stores are short on milk even as farmers are dumping it,half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The average time someone used to hold a share of stock back in the ’60s was eight years. Now, the average time is four months.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since Mr. Foster's been mayor, we have less small businesses in the city of St. Petersburg.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Under Obamacare, ""75 percent of small businesses now say they are going to be forced to either fire workers or cut their hours.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The economy bled $24 billion"" due to the government shutdown.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Tens of thousands"" of people leave New York every week.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says about universal basic income, ""Thomas Paine was for it at our founding ... Martin Luther King, champion in the ‘60s, called it a guaranteed minimum income for all Americans… It passed the U.S. House of Representatives twice in 1971.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Even before the pandemic, (Donald Trump) lost manufacturing jobs, by most people’s estimates at least 200,000.”",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"Clinton said ""great things about NAFTA until she started running for president.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The national economy was strong in its largest expansion of private sector jobs before President Trump came into office.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We've achieved a historic increase in defense spending to get our troops the support they so richly deserve.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When you sanction the Iranian central bank, that will shut down (Iran's) economy.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""America used to be the third easiest country to get established in a business. It's now number 17.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Manufacturing wages today in America on a per-hour basis are actually a bit lower than average wages in the economy as a whole.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Small businesses in West Virginia ""make up about 96 percent of our state's economy.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""California is growing a hell of a lot faster than Texas.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""40 percent of American households have female primary breadwinners.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""President Trump in his first year and a half has already tripled what President Obama did (for African-American employment) in eight years.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The jobs bill includes ""President Obama's tax on soup kitchens""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Our businesses have created nearly twice as many jobs in this recovery as they had at the same point in the last recovery, when there was no Obamacare.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Small business confidence is at an all-time high.""",true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"“Our economy created over 6.5 million new jobs just last year, more jobs in one year than ever before in the history of the United States of America.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Over the last 10 years, incomes for the top 1 percent ""have grown."" Meanwhile, the bottom half of the country, ""they've seen their wages stagnate.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Our trade deficit in goods reached nearly … $800 billion last year alone.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The CBO’s latest report confirms what Republicans have been saying for years now. Under Obamacare, millions of hardworking Americans will lose their jobs.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Mark Zandi, who wrote a report criticizing Donald Trump’s economic proposals, is ""one of Sen. John McCain's former economic advisers.""",half-true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""Rhode Island has a very generous unemployment compensation rate compared to most other states.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In #WI, over 44,000 jobs depend on trade with Mexico and Canada.""",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""More than a quarter of mortgage borrowers are underwater, and 11 percent of all homes are vacant.""",half-true,true,"['true', 'mostly-true']",2,False
+"""Today 46 percent of all Floridians owe more on their home than it is worth.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Twenty-five or 24 million people"" are ""out of work or stopped looking for work.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Put simply, less government spending equals more private sector jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The Democratic Congress has already taken significant steps to create jobs and jump-start the economy, resulting in the lowest tax rates in over 50 years and the creation of over 500,000 new jobs so far this year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Due to differing lockdown orders, New York has more COVID-19 cases, deaths, hospitalizations and job losses than Florida, and New York also lags on vaccinations.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“In every other major industrial country in the world … inflation is higher.”,half-true,mostly-true,"['true', 'mostly-true']",2,False
+"Bing Energy said it decided to move to Florida because of Gov. Rick Scott’s ""plan to eliminate the corporate tax.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Our tax code is . . . 80,000 pages.""",false,true,"['true', 'mostly-true', 'half-true']",3,False
+"Every time the price of gasoline rises 1 cent, ""it's a billion dollars out of our economy that goes to Saudi Arabia.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Currently it costs more than a penny for the U.S. Mint to make a one cent coin and more than a nickel to make the five cent piece.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the 18th Congressional District, 100% of electric generation comes from coal.""",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""CEOs now earn 431 times what their workers earn.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says to Hillary Clinton, ""You heard what I said about (the Trans-Pacific Partnership trade deal), and all of a sudden you were against it.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""When Marcy Kaptur brought home $42 million for new manufacturing jobs, Dennis Kucinich voted 'no'.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Georgia’s 5th congressional district, represented by John Lewis, is ""in horrible shape and falling apart (not to mention crime infested).""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"The Dow Jones Industrial Average ""jumped 1000 points in last 5 weeks, Record fastest 1000 point move in history.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 2011, there were more than 28,000 new Tennessee jobs created and over $4 billion in capital investment. Our Jobs4TN plan is working.""",half-true,true,"['true', 'mostly-true']",2,False
+"He has ""ushered in $3 billion in new investment.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“This country’s working people actually got a raise.”,mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"“Tens of thousands of auto jobs were lost nationwide during Trump's presidency,” but during Biden’s presidency, “we've created more than 250,000 auto jobs.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Personal income is growing faster in Tennessee on average than any other state in the country.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Under Randi Shade,"" Austin has ""had the highest cost of living of any large Texas city.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Mark Kelly criticized the (Paycheck Protection Program), then turned around and took money for his own multi-million dollar company.”",mostly-false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says John Boehner ""admits 'we are not going to be any different than we’ve been' "" by returning to ""the same failed economic policies"" that ""wrecked our economy.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"Says a manufacturing operation in his hometown that made gunstock for Remington rifles ""closed down, we lost those jobs and it's been devastating for my little town.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Thousands (in China) owe their jobs to Mitt Romney's companies.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Under Jim Justice,” West Virginia had “the lowest unemployment rate in state history.”",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""The impact of President Biden being beholden to the Green New Deal radicals in his party has electricity costs through the roof in Texas.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We cut our deficits by more than half.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+When Joe Biden “walked into this administration …  20 million people were on unemployment insurance benefits.”,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""For the last 10 years, our economy has grown at less than 2 percent on average every single year for 10 years. We have not had a decade like that in a century in America.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Since 2008, Gwinnett County’s population has grown 15 percent, while the county government staff has increased only 1 percent.",true,mostly-true,"['true', 'mostly-true']",2,True
+"""Ninety percent of people born in the 1940s ended up doing better financially than their parents. But those born in the 1980s, the much-maligned Millennials, have only a 50-50 chance of doing better (financially) than their parents, despite being the best-educated generation in our history.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""The law is very clear! 'The monies recouped from the TARP shall be paid into the general fund of the treasury for the reduction of the public debt.'""",true,true,"['true', 'mostly-true']",2,True
+"""Your politicians in Tallahassee today are saying, in your area, that they don't need any more jobs. That is exactly what Rep. Paul Renner said.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says 94 percent of Wisconsin employers think the state ""is heading in the right direction"" and a majority say they will ""grow their companies in 2012.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Robert Hurt ""supports the tax loopholes that send American jobs overseas.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The White House promised us that all the spending would keep unemployment under 8 percent.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The Biden administration inherited gains of “50,000 jobs a month. We're now finally back to 500,000 jobs a month. We inherited a country where 4,000 people a day were dying from Covid. That's now down 75%.”",half-true,mostly-true,"['true', 'mostly-true']",2,False
+"""It’s gotten to a point where the average federal worker makes twice as much as the average private sector worker.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The Obama administration spent ""$205,075 in ‘stimulus’ funds to relocate a shrub that sells for $16.""",mostly-false,pants-fire,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""There are many studies that indicate"" that the longer people get unemployment insurance, ""it provides some disincentive to work.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"A recent economic uptick appears to ""coincide"" with ""the expectation of a new Republican Congress.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""new mandates are already reducing full-time employment.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""For the first time in history, most new hires of prime working age are minorities and women.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"If you work 40 hours a week at the proposed minimum wage of $10.10 an hour, ""you get out of poverty.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Unemployment report shows “America is bouncing back.”,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"AIG ""said they were giving $57 million (in retention payments) to people who were being terminated.""",true,true,"['true', 'mostly-true']",2,True
+"""At the beginning of the last decade ... America had a budget surplus of over $200 billion. By the time I took office, we had a one-year deficit of over $1 trillion and projected deficits of $8 trillion over the next decade.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""In North Carolina, they used stimulus money to hire one new state worker. His job, apply for more stimulus funds from the taxpayers by the way of the federal government.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Gov. Tony Evers’ 2021-22 state budget ""increases taxes $1 billion +""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""Right now we are spending at an all-time high, close to 25 percent of our GDP [is] being spent on the federal government. But our revenues are at an almost all-time low of about 15 percent [of GDP].""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""For the first time in over a decade, business leaders around the world have declared that China is no longer the world’s No. 1 place to invest; America is.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"For African-Americans between the ages of 17 and 20, ""the real unemployment rate … is 51 percent.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Although California has ""the sixth largest economy in the world, we also have one of the highest poverty rates"" in the nation.",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Over the last four years, the deficit has gone up, but 90 percent of that is as a consequence of"" President George W. Bush’s policies and the recession.",false,mostly-true,"['true', 'mostly-true', 'half-true']",3,False
+"“There are more job openings than there are people on unemployment"" in Iowa.",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We cut taxes for 95 percent of working families.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Says David Wu has presided over ""137 months"" in which ""Oregon's unemployment rate has been above the national average.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The United States' regulations ""are among the most difficult in the world.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"House Republicans ""weren't part of the negotiations"" on the Wall Street bailout plan.",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Minnesota has passed and Indiana has passed"" right to work laws making union membership and dues optional",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The nine-day deer hunt contributes more than $1.3 billion in revenue to the state of Wisconsin.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We spend more money on antacids than we do on politics.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In February alone, nearly 1 million jobs held by native-born Americans disappeared.""",false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Under the Obama administration’s bailout of General Motors, Ohio dealerships were forced to close.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Today California is kicking our butt, creating more jobs and more economic growth than Texas.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that according to one economist, $1 of unemployment benefits boosts the economy by $1.61.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Passage of Clinton budget bill in 1993 ""led to an enormous flowering of the economy in America.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The minimum wage has risen $2.35 in the last two years. That's 31 percent.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The U.S. economy ""is three times as big as China's.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"California has ""the sixth largest economy on planet Earth.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"Says the Republican  ""state convention is  actually larger than the Republican National  Convention.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Don't believe those phony numbers when you hear 4.9 and 5 percent unemployment. The number's probably 28, 29, as high as 35. In fact, I even heard recently 42 percent.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""There's a tax credit of $2,400 to bond [former inmates] that an employer would get for hiring a convicted felon. There's a federal bonding program -- you can get $5,000 to $25,000 in federal money to hire a convicted felon. And there's federal grants for felons to set up their own small businesses.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says in the last six months of the Bush administration, the U.S. lost 3.5 million jobs, including 760,000 jobs during January 2009 alone.",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""A report just came out that if we continue with President Obama's policies, we're looking at over 9 percent unemployment next year in the fourth quarter.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Barack Obama is in an economy that's only worsened since he's been president of the United States.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Connecticut's take on slot machines is 25 cents on the dollar. And the state's take on table games:  zero.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Tariffs are a “direct, regressive tax on Americans” and President Joe Biden’s new tariffs on Chinese goods will “hit every family.”",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"North Carolina has ""one of the fastest growing populations as well as the fastest growing economy in the country.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“In April last year, our state unemployment rate hit a record low of 2.4%. Last year, Wisconsin had an all-time lowest number of unemployed workers ever in modern history.”",true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""I didn't endorse"" the federal stimulus bill.",pants-fire,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"""The (Russian) ruble is already going down.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Under President Barack Obama, income levels and unemployment numbers ""are worse now than just about ever"" for African-Americans.",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"As CFO, Alex Sink oversaw ""a $27 billion loss in the state's pension fund.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that under President Obama, there’s been a substantial increase in federal government jobs.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""You look at today, only half the 30-year-olds are doing better than their parents were at age 30. When I was being raised, it was 90%.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Sherrod Brown ""gave huge bonuses to executives.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,False
+"South Carolina has ""the fastest-growing economy in the Southeast.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Wisconsin now ranks among the top 10 states for out-migration.""",mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"Inside the stimulus package ""is anti-Christian legislation that will stop churches from using public schools for meeting on Sundays, as well as Boy Scouts and student Bible study groups.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The Fed created $15 trillion in the bailout process"" and $5 trillion went overseas.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There are actually half a million fewer government employees now than there were when (President Barack) Obama took office.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Over the last 20 years, the world has changed. It used to be that one could make a career out of working for one company. Today, the average worker stays at his or her job for barely four years.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""More Texans have jobs today than ever before in the history of our state.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Texas has ""outstripped the national poverty rate"" since ""at least 1959.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The state of Ohio has one of the lowest unemployment rates in the nation right now and is leading the pack in terms of job creation.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Over the history of Austin, it’s always gotten more expensive.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Says Bernie Sanders would “go beyond reform and reorder the economy in ways most Democrats — let alone most Americans — don’t support.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Most private sector jobs in the history of Buffalo exist in Buffalo today""",true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+“The global cost of corruption is as much as 5% of the world's GDP.”,false,true,"['true', 'mostly-true']",2,False
+"Under Scott Walker’s policies, ""the typical Wisconsin family has actually seen their real income drop by nearly $3,000 in the last four years.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Despite touting the economic stimulus as a great triumph, ""The very same report, however, notes that unemployment will average 10 percent for the rest of the year.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+Says President Donald Trump “took more than a month to allocate Congress’ emergency funding to tribes — and only did so after tribes sued.”,mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""We have a retiree that is collecting a $17,000 paycheck a month . . . tax free.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In ""the fall of 2009, only 21 percent of Texas high school graduates enrolled in a four-year public university.""",half-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"“Thanks to the insane tax-and-spending spree of President Joe Biden and Democrats in Washington, we are seeing six straight months of raging inflation.”",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Coca-Cola has lost $4 bil in market value as people are boycotting Coke for their ‘try to be less White’ statement.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We have the lowest percentage of Americans working today of any year since 1977.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There's not a single, solitary example that"" signing the bill to end Glass-Steagall ""had anything to do with the financial crash.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The debt will soon eclipse our entire economy.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The Inflation Reduction Act, which Rep. Elissa Slotkin supported, “drove inflation higher.”",false,false,"['mostly-true', 'mostly-false', 'false']",3,True
+"After losing 750,000 jobs a month before this administration, the U.S. economy under Barack Obama has had 20 straight months of growth, has added 2.8 million jobs in the private sector and added ""millions of jobs in manufacturing.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"Gas prices have gone up 99 percent since Obama became president, ""the highest gas price increase since Carter.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"According to an article in the Economist magazine, Americans are ""guaranteed"" to live above the poverty line if they graduate from high school, keep their first job for over a year and get and stay married.",half-true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"With recent growth ""it is very clear that private-sector jobs have been doing fine.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"After Ronald Reagan cut taxes in 1981 the U.S. enjoyed ""exponential growth.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""I (found) the Republican votes for the Recovery Act, Obamacare, help us from falling into a Great Depression.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""The average 401(k) in America of a person who's 60 years old is under $100,000.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"After hiring a campaign manager in 2006, ""I got this $100 and something fee ... for hazardous materials.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"U.S. inflation is ""now down close to 3%, the lowest among the world’s leading economies.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In June, jobless ranks were higher in nearly 90 percent of U.S. cities.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“We had an agriculture export deficit that increased from zero when President Trump left to $49 billion” under former President Joe Biden.,mostly-false,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+Says more Republicans than Democrats voted for the Wall Street bailouts.,false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Seventy-seven of the top 300 cities with the highest poverty rate"" nationwide are in California.",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""As we've seen that federal support for states diminish, you've seen the biggest job losses in the public sector -- teachers, police officers, firefighters losing their jobs.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+Says U.S. Rep. Ron Kind has “spent more $ in 100+ days than was spent fighting WWII,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+McCain called for less regulation 21 times just this year.,mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The average minimum wage worker is 35 years old.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Florida led the nation in job creation"" while Bush was governor.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Every day in the United States, we are losing 15 factories.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Josh Mandel opposed federal loans to the auto industry.,false,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""Every year, more than $40 million are leaving Missouri for the Lone Star State.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Credit card debt is above $1 trillion for the FIRST TIME EVER.""",mostly-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says a ""Pro-Stimulus economist admits it is not working … """,pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Kanye (West) looks and he sees black unemployment at the lowest it’s been in the history of our country. He sees Hispanic unemployment at the lowest it’s been in the history of our country. He sees (women’s unemployment) the lowest it’s been in now almost 19 years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“The flu killed 80,000 Americans last year according to the CDC.”",mostly-false,true,"['true', 'mostly-true', 'false']",3,False
+"""In other states (where illegal immigrants have been allowed to get driver's licenses) their insurance premiums for everybody have gone down.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Fifty-three percent of teens  in Central Falls are getting pregnant.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says when New York ""implemented a program"" to tax the wealthy at higher rates it saw a revenue shortfall ""because of the outward migration of their top earners.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Blue Cross headquarters has ""a $30,000 granite table.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Georgia ""has the lowest minimum wage in the country.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Thom Tillis cut almost $500 million from education.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says HB2 has hurt North Carolina’s economy by ""one-tenth of 1 percent of our annual GDP.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Last month, 44 of the 50 states saw an increase in the unemployment rate.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“There are fewer Iowans working today than when Gov. Reynolds took office.”,mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""If you look at Latino kids between 17 and 20 who graduated high school, 36 percent of them are unemployed or underemployed. … African-American kids are unemployed or underemployed to the tune of 51 percent.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Taxes for every New Yorker are lower today than when I started""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The national debt is ""larger than our entire annual economy.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Gov. Rick Perry ""has overseen the highest Texas unemployment in 22 years.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Since the Democrats’ stimulus went into effect last year, Ohio has lost about 150,000 Jobs.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""(John) Kasich was the architect who balanced the budget, cut spending, created a surplus, igniting record job creation.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Across the country, $174 billion of the Recovery Act have been committed in its first 130 days.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""We have 93 million people out of work. They look for jobs, they give up, and all of a sudden, statistically, they're considered employed.""",false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Joe Biden “inherited inflation of 1.7%. Now we're well over 8% and growing.”,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Of 1 million green cards issued a year, ""almost none of those green cards are based on job skills or demonstrated economic needs.""",mostly-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""By voting to approve [Question 1], we can . . . save 900 jobs"" at Twin River.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says the success of his economic agenda is supported by the fact ""we went from unemployment at 9.2 percent when I decided to run for governor four years ago to two points lower.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says iPads and iPhones ""are built in the United States of America.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Gov. Tony Evers has declared Wisconsin “permanently closed” for business.,false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""When I was your governor, we reduced insurance rates by 10%.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""A case before Washington’s Supreme Court seeks to effectively end public labor unions.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Of all the 62 counties in New York state, all of them, unemployment is going up except for the five counties of New York City.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Unemployment has fallen from 10 percent during the president’s first year in office to 8.5 percent today.""",half-true,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,False
+"After not having any foreign trade offices overseas for the past decade, New Jersey opened offices in Shanghai and London in the past six months, and has seen an 18 percent increase in exports.",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Of course you've got a low unemployment rate when people've got to work two and three jobs just to make ends meet.""",pants-fire,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,False
+"""Our economy is not growing.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“There is a consensus among economists left, right, and center… that we can’t spend too much” on COVID-19 relief.",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Wisconsin’s economy is in the best shape it’s been since 2000.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since the president became the president, we have lost 3.3 million jobs in the private sector. But you know who's done OK and who's not complaining today? The public sector. We've gained 590,000 public sector jobs.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""According to one study, the minimum wage today is worth $2 less than in 1968.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Productivity has risen 18 percent ...yet wages have stayed flat... There are 5-million more people in poverty here in our country than there were in 2000.""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""The bill reported out of committee sets up a $50 billion slush fund that, while intended for resolving failing firms, is available for virtually any purpose that the treasury secretary sees fit.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“We used to rank No. 1 in the world in research and development, now we rank No. 9. China used to rank No. 8, now it ranks No. 2.”",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Geithner still didn't correct the same type of error for some years, even after the Internal Revenue Service flagged him for the failure to pay the taxes in other years.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Georgia loses ""millions of dollars of revenue because people go out of state to buy fireworks.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Prices are going up. Unemployment is continuing to go up.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Democratic presidents ""have been considerably more effective at creating private-sector jobs.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Last year, we borrowed $1.4 trillion -- or 41 cents of every dollar we spent. Over half of this debt is held by foreign investors.""",true,true,"['true', 'mostly-true']",2,True
+"""Milwaukee’s hotels and restaurants are already filled during the summer. The RNC convention will simply replace those who normally visit our city.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""the Texas unemployment rate has even grown more than the nation's as a whole.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In the 1980s, ""The lowest income people had the biggest gains.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In the last seven years of my tenure, Texas created 1.5 million new jobs. As a matter of fact, without Texas, America would have lost 400,000 jobs.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The projected revenue from the Mayweather/Pacquiao fight is ""larger than the annual GDP of 29 different countries.""",pants-fire,pants-fire,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Biden wants to end Shareholder Capitalism.. that's your 401k..your pensions.. your retirement.. are you voting for that???""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Unemployment among Oregon high school graduates aged 18 to 20 increased more than 200 percent from 2008 to 2011, while the U.S. average increased only 30 percent.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Missouri families’ ""earning power is about $5,000 less today than it was at the turn of the century.""",mostly-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,True
+"""On average, Americans spend less than 10 percent of their disposable income on food. Compare that to folks in Mexico, who spend 22 percent, China, 28 percent and Russia, 37 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The average American worker has already seen a $500 wage increase this year.”,half-true,false,"['false', 'pants-fire']",2,False
+"Jorge Elorza ""wants to impose a municipal income tax.""",false,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Donald Trump is ""against minimum wage.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"After Reagan took office, ""we didn't raise taxes and we didn't cut entitlements. What we did was we cut taxes.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The financial regulatory bill ""will kill jobs.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The stock market has hit record numbers, as you know. And there has been a tremendous surge of optimism in the business world.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says that President Obama promised that with the stimulus plan, ""unemployment would never go above 8 percent. He even said it would be 6 percent by now.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Veterans’ unemployment is actually now lower than (the) general population. It was higher when I came into office.""",half-true,true,"['true', 'mostly-true']",2,False
+"Economic Development Commission Executive Director Keith Stokes ""sent me a letter and he said the taxpayers will never be on the hook for these bonds"" for 38 Studios.",true,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""If you have a job in this country, (there's a) 97 percent chance that you're not going to be in poverty.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Scott Walker gave Wisconsin job creation money to his cronies: corporate friends who contributed to his campaigns"" and got $570 million in job-development incentives",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The governor’s not taking his own fiscal advice. ... In the first fiscal quarter of this year, we’ve seen a 13.5 percent increase in spending, double-digit spending out of the executive branch in the State of Texas.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Oregon’s per capita income is 9 percent below the national average and getting worse. This is a state that’s actually getting poorer.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We now have historic low unemployment in America among all groups of people.""",half-true,mostly-true,"['true', 'mostly-true', 'mostly-false']",3,False
+"""No one in the country has ever built a brand new sports facility and created this kind of development at the same time.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“Any American who needs $2,000 a month can get it now” thanks to a new government program.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""When we've got CEOs making more in 10 minutes than ordinary workers are making in a year ... then something is wrong.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""The Fed created $1.2 trillion out of nothing, gave it to banks, and some of them foreign banks, so that they could stabilize their operations.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Nevada is No. 1 in unemployment, violent crime, car theft, divorce, robberies and foreclosures.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Women have come through the recession worse off than men … the numbers bear that out. We went from a 7 percent unemployment rate for women when he (President Barack Obama) was elected to an 8.1 percent now.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""We are already almost halfway to our 2010 goal of creating 700,000 new jobs in seven years.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"President Obama told people ""to skip coming here (Las Vegas) for conventions and meetings.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“We cut the federal deficit by $160 billion because Medicare will no longer have to pay those exorbitant prices to Big Pharma.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The United States of America, right now, has the strongest, most durable economy in the world.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"The president's budget ""would take ... non-defense spending to its lowest level ... as a percentage of the economy since JFK.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"The economy is ""too weak to raise income levels.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Unemployment has been on the rise throughout Wisconsin"" as Paul Ryan stepped up his advocacy of ""immigration increases.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Texas has ""a higher unemployment rate than neighboring states.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We lost more jobs in this great recession than the last four recessions combined.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says Travis County's unemployment rate is below the national average while its poverty rate exceeds the national average--and local poverty is rising.,mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Since President Obama took full control of Washington,"" every day, 13,000 more people ""have been put on food stamps.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+Welfare programs caused more long-term damage to Detroit than the atomic bomb caused to Hiroshima,pants-fire,pants-fire,"['mostly-false', 'false', 'pants-fire']",3,True
+"Claims Joe Biden said ""coal is more dangerous than terrorists.""",mostly-false,false,"['mostly-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""We doubled the size of the company (Hewlett-Packard).""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Greece ""has a GDP the size of the Dallas-Fort Worth Metroplex.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We got a million jobs.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Trump and McConnell are blocking stimulus checks for Americans married to immigrants.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The average student comes out of college hundreds of thousands of dollars in debt.""",false,mostly-true,"['true', 'mostly-true']",2,False
+"The ocean is now ""much more acidic . . . than it has been for many millions of years.""",half-true,true,"['true', 'mostly-true']",2,False
+"""If your employer is mandating any pokes, do not quit. Make them fire you. That way you get unemployment benefits.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“We now have more job openings than we do people who are on unemployment. We have 60% more job openings today than we did the month before the pandemic hit the state of Texas.”,true,mostly-true,"['true', 'mostly-true']",2,True
+"Russia ""has an economy the size of Italy.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""When this campaign began, I said that we’ve got to end the starvation minimum wage of $7.25, raise it to $15. Secretary Clinton said let's raise it to $12.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"New Jersey has had ""seven credit downgrades"" since Chris Christie became governor.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since 1961 … our private economy has produced 66 million private-sector jobs. So what's the jobs score? Republicans 24 million, Democrats 42 (million).""",true,mostly-true,"['true', 'mostly-true', 'half-true']",3,True
+"""Foxconn is bringing 13,000 high-tech jobs to Wisconsin.""",half-true,true,"['true', 'mostly-true']",2,False
+"A national paid leave program ""would potentially put into the economy $21 billion dollars annually.""",mostly-false,mostly-true,"['true', 'mostly-true']",2,False
+"""The federal minimum wage is worth about 20 percent less than it was when Ronald Reagan"" gave his first address to a joint session of Congress.",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""On the pace that we're on with job creation in the last four months ... we will have created more jobs in this year than in the entire Bush Presidency.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The proportion of Rhode Islanders entering substance abuse treatment primarily due to marijuana use has reached its highest point in 20 years.""",false,true,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"""In the past year, Floridians, not government, created almost 135,000 new private sector jobs. We netted more than 120,000 total jobs in the first 11 months of 2011; the third most of any state in the nation.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"""Rhode Island’s exports have increased by 53 percent in the last two years.""",true,false,"['true', 'mostly-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Under the ""Obama economy ... utility bills are higher.""",half-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“President Biden has created more jobs in his first 7 months than any POTUS in history.”,half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Hillary Clinton advocates ""a freeze on foreclosures. Barack Obama said no.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We have the second highest corporate tax rate among our trading partners.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 2013 we had the largest, the best, private sector job growth we’ve had in this state since the 1990s.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Minimum wage = $16,000/year CEO-Goldman Sachs (Lloyd Blankfein) $16,000/Hour.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The United States has a massive trade deficit with Japan. It's anywhere from $69 billion to a $100 billion a year.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"“West Virginia University just came out with a study that showed that there will be almost 20,000 jobs created in clean energy in West Virginia if (President Joe Biden’s) agenda is passed.”",half-true,true,"['true', 'mostly-true']",2,False
+"The Tampa Bay Rays' ""prices have been judged the most affordable in all of professional sports.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The average bonus [on Wall Street] is about $100,000...The bonuses on Wall Street are down 44 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The only growth sector that we’ve had in the last two years in America is government growth.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The U.S. is borrowing approximately $2.52 for every $1 of economic growth so far in 2012.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Roy Barnes ""made Georgia dead last in education"" and Georgia ""led the nation in job losses.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Last week the Blue Chip Economic Indicators came out that surveys lots of private forecasters. Almost all of them are predicting a turnaround in the third quarter and positive growth in the fourth quarter.""",true,true,"['true', 'mostly-true', 'half-true', 'false']",4,True
+"""When we had a conservative Republican president we were losing 750,000 jobs a month.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Because of the steps we took, there are about 2 million Americans working right now who would otherwise be unemployed.""",half-true,true,"['true', 'mostly-true']",2,False
+"""The (economic stimulus) legislation could open billions of taxpayer dollars to left-wing groups like the Association of Community Organizations for Reform Now (ACORN).""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Rob Portman ""said the auto rescue was a lousy deal for Ohio.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Our bold reforms have Wisconsin’s unemployment rate down to an all-time LOW of 2.9 percent, and the number of people working at an all-time HIGH!""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""We've had the lowest health care inflation in history because of Obamacare.""",mostly-false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Job growth in the United States is now at the ""fastest pace in this country's history.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""One out of two Americans … are living either in or near poverty. That means 150 million Americans, half of us.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""For every one job created under the Obama administration, 75 people went on food stamps.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Factories are opening their doors at the fastest pace in almost two decades.""",mostly-true,true,"['true', 'mostly-true']",2,True
+"""History tells us that job growth always lags behind economic growth.""",true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""Under Gov. Rick Perry’s leadership [Texas] has created more jobs over the last decade than the rest of the states combined.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Ohio has lost more population than every other state in the country except for two.""",false,true,"['true', 'mostly-true']",2,False
+“My company was building the Keystone Pipeline when (President Joe) Biden canceled it.”,mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Contrary to popular belief, we actually don’t have that many public employees…We are well below average in the number of public employees.’’",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"Every 1 percent increase in the number of Ohioans with bachelor’s degrees ""means economic activity growing the next year and for each year thereafter (by) $2.5 billion dollars.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Very close to 160 million people are now working in the United States. Nobody's ever even come close to that number.”,mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Trump’s tax plan is ""completely focused on the wealthy and the powerful - not the middle class.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Americans ""invented ‘Pong,’ ‘Space Invaders’ and the iPhone.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Under Charlie Crist, Florida lost 825,000 jobs and the unemployment rate increased from 3.5 percent to 11.1 percent.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Agriculture ""is the strongest industry in Ohio.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""When President Obama took office, we were losing 700,000 jobs a month. Now we've had job growth, I think, for 24 consecutive months.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says Texas state funds were spent on ""a TV series on spouses cheating on their wives, kind of glorifying the act of cheating.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Budget analysts say the looming tax hikes and spending cuts would  ""take us into a recession and kill jobs.""",true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
+"""Six institutions in our country now control two thirds of the capital.""",false,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Agriculture contributes $71 billion to Georgia’s economy annually, making it the state’s largest industry.",mostly-true,true,"['true', 'mostly-true', 'false']",3,True
+“We have a national debt the size of our nation’s economy for the first time since World War II.”,half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Nissan just announced 9,000 layoffs in Tennessee “to avoid severe losses due to expected tariffs.”",false,false,"['true', 'mostly-true', 'mostly-false', 'false']",4,True
+"Says he created ""over 500,000 new jobs -- with a surge in female employment last month.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""A Gallup report recently said that nearly 50 percent of small business owners aren't hiring because of what they call ‘regulatory uncertainty.’""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In 2024, “China made $1 trillion off trade with the United States.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We have created more jobs in this last year than the Bush administration (did) in eight years.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The health care reform law ""reduces the deficit by nearly $1.2 trillion over the next two decades.""",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false']",4,True
