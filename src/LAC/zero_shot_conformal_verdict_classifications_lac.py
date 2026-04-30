@@ -26,7 +26,7 @@ MAX_SAMPLES = None  # Set to None to use all data
 CALIBRATION_SPLIT = 0.5  # 50% for calibration, 50% for test
 ALPHA = 0.1  # Miscoverage rate (1-alpha = 90% coverage)
 TRIALS = 2 # Number of trials to average results over (for stability)
-RESULTS_FOLDER = "results/zero-shot-lac" # Default folder to save results 
+RESULTS_FOLDER = "results/llama/zero-shot-lac" # Default folder to save results 
 
 
 # Map verdicts to single-token letters to prevent tokenizer collisions
