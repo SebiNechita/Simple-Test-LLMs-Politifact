@@ -1,0 +1,21 @@
+Bootstrap: docker
+From: python:3.11-slim-bookworm
+
+%files
+    requirements.txt /code/requirements.txt
+    src/ /code/src
+
+%post
+    mkdir -p /code
+    cat /code/requirements.txt
+
+    cd /code
+    ls
+    ls src/
+    ls src/ORDINAL-APS
+    pip install --no-cache-dir -r requirements.txt
+    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+%runscript
+    cd /code
+    python src/ORDINAL-APS/zero_shot_conformal_verdict_classifications_ordinal_aps.py "$@"
