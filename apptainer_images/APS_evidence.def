@@ -10,9 +10,7 @@ From: python:3.11-slim-bookworm
     cat /code/requirements.txt
 
     cd /code
-    ls
-    ls src/
-    ls src/LAC
+    ls src/APS
     pip install --no-cache-dir -r requirements.txt
     pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
