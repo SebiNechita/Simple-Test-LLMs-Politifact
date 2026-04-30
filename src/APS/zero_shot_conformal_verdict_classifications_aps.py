@@ -3,6 +3,15 @@ LLM-based Verdict Classification with Conformal Prediction using APS
 Uses token probabilities to create prediction sets with finite-sample coverage guarantees.
 Implements Adaptive Prediction Sets (APS) for efficient conformal prediction.
 Corrected to use single-token labels to avoid tokenizer collisions.
+
+CORRECTED VERSION:
+  - compute_nonconformity_scores_aps now uses the standard randomized APS score
+    s(x, y) = sum_{j: pi_j > pi_y} pi_j + U * pi_y, with U ~ Uniform(0, 1).
+  - get_prediction_set_aps uses the matching inclusion rule:
+    include y iff (mass strictly above y) + U * P(y) <= q_hat.
+  Both halves now satisfy the score-set duality required for exact (1 - alpha)
+  marginal coverage. The previous deterministic version was conservative and
+  produced overcoverage / inflated set sizes.
 """
 
 import json
@@ -132,16 +141,22 @@ def get_token_probabilities(generator, messages):
 
 def compute_nonconformity_scores_aps(data, generator):
     """
-    Compute nonconformity scores for calibration set using APS.
-    Score = cumulative probability up to and including the true label
-    (when labels are sorted by decreasing probability).
-    
-    APS is more efficient than LAC because it respects the ranking of probabilities,
-    leading to smaller prediction sets on average.
+    Compute nonconformity scores for calibration set using RANDOMIZED APS.
+
+    Score for true label y at point x:
+        s(x, y) = sum_{j : pi_j(x) > pi_y(x)} pi_j(x)  +  U * pi_y(x),
+    where U ~ Uniform(0, 1) is drawn fresh per calibration point.
+
+    Randomization is required for exact (1 - alpha) marginal coverage.
+    Without it, scores are conservative and produce overcoverage and
+    inflated prediction sets.
+
+    Must match the inclusion rule in get_prediction_set_aps:
+        y in C(x) iff (mass strictly above y) + U * pi_y <= q_hat.
     """
     scores = []
-    
-    print("\nComputing nonconformity scores on calibration set (APS)...")
+
+    print("\nComputing nonconformity scores on calibration set (APS, randomized)...")
     for item in tqdm(data, desc="Calibration"):
         prompt = create_prompt(
             item['statement'],
@@ -149,36 +164,43 @@ def compute_nonconformity_scores_aps(data, generator):
             item['statement_date'],
             item['statement_source']
         )
-        
+
         try:
             messages = [{"role": "user", "content": prompt}]
             probs = get_token_probabilities(generator, messages)
-            
+
             true_label = item['verdict']
-            
+
             # If the dataset has a label not in our map (unlikely), handle gracefully
             if true_label not in probs:
                 print(f"Warning: Label '{true_label}' not in target set.")
                 scores.append(1.0)
                 continue
 
-            # APS Nonconformity score:
             # Sort labels by probability (descending)
             sorted_labels = sorted(probs.items(), key=lambda x: x[1], reverse=True)
-            
-            # Compute cumulative probability up to and including true label
-            cumulative_prob = 0.0
+
+            # Randomized APS score:
+            #   (cumulative mass strictly above true label) + U * P(true label)
+            u = np.random.uniform(0.0, 1.0)
+            cumulative_above = 0.0
+            score = None
             for label, prob in sorted_labels:
-                cumulative_prob += prob
                 if label == true_label:
+                    score = cumulative_above + u * prob
                     break
-            
-            scores.append(cumulative_prob)
-            
+                cumulative_above += prob
+
+            # Defensive fallback (should not occur if true_label is in probs)
+            if score is None:
+                score = 1.0
+
+            scores.append(score)
+
         except Exception as e:
             print(f"\nError in calibration: {e}")
-            scores.append(1.0) # Conservative max score
-    
+            scores.append(1.0)  # Conservative max score
+
     return np.array(scores)
 
 def get_conformal_threshold(scores, alpha):
@@ -200,31 +222,39 @@ def get_conformal_threshold(scores, alpha):
 
 def get_prediction_set_aps(probs, threshold):
     """
-    Create prediction set based on APS conformal threshold.
-    Include labels in decreasing probability order until cumulative
-    probability exceeds the threshold.
-    
-    This ensures smaller prediction sets compared to LAC while maintaining
-    the same coverage guarantee.
+    Create prediction set using RANDOMIZED APS with the inclusion rule
+    matching the calibration score:
+
+        y in C(x) iff (mass strictly above y) + U * P(y) <= q_hat,
+
+    with U ~ Uniform(0, 1) drawn once per test point. Because the per-label
+    score (cumulative_above + U * P(y)) is non-decreasing in rank when
+    labels are sorted by descending probability, the resulting set is
+    always a prefix of the ranking.
     """
     # Sort labels by probability (descending)
     sorted_labels = sorted(probs.items(), key=lambda x: x[1], reverse=True)
-    
+
+    # Single U per test point (standard APS variant)
+    u = np.random.uniform(0.0, 1.0)
+
     prediction_set = []
-    cumulative_prob = 0.0
-    
+    cumulative_above = 0.0
+
     for label, prob in sorted_labels:
-        cumulative_prob += prob
-        prediction_set.append(label)
-        
-        # Stop when cumulative probability exceeds threshold
-        if cumulative_prob >= threshold:
+        score = cumulative_above + u * prob
+        if score <= threshold:
+            prediction_set.append(label)
+            cumulative_above += prob
+        else:
             break
-    
-    # Fallback: if set is empty (shouldn't happen with APS), include the argmax class
+
+    # Fallback: ensure non-empty set (rare edge case when even the top label's
+    # randomized score exceeds q_hat). Including the argmax keeps the output
+    # well-defined; with valid calibration this happens at rate <= alpha.
     if not prediction_set:
         prediction_set.append(sorted_labels[0][0])
-        
+
     return prediction_set
 
 def classify_with_conformal_aps(data, generator, threshold):
@@ -390,7 +420,7 @@ def main():
     print(f"Device: {DEVICE}")
     print(f"Calibration Split: {CALIBRATION_SPLIT:.2f}")
     print(f"Miscoverage Rate (alpha): {ALPHA:.2f}")
-    print(f"Method: Adaptive Prediction Sets (APS)")
+    print(f"Method: Adaptive Prediction Sets (APS, randomized)")
 
     args = parse_args()
     max_samples = None if args.max_samples in (None, 0) else args.max_samples
