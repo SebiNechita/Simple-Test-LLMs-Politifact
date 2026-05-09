@@ -1,0 +1,551 @@
+statement,true_verdict,predicted_verdict,prediction_set,set_size,is_covered
+"""Last year, South Carolina spent $21,756 per prison inmate and $11,552 per student.""",mostly-true,true,['true'],1,False
+"“In 2021, 65 people in Milwaukee have lost their lives due to reckless driving accidents, and more than 9,000 cars have been stolen, double the amount in 2020.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In light of the leak of my financial disclosure info which is a felony I will be contacting @FBI and the @TheJusticeDept""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Drone technology now allows an individual to be recorded in their homes by drones as small as birds and immediately uploaded to the internet.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Austin’s Stop Abuse for Everyone has seen in its offices ""sexual assault survivors that report being attacked by their ridesharing drivers, at a rate of one per month.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""SIX of the most prominent activists during the Ferguson riots have all been found burned to death in their cars. There are no coincidences here.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Florida leads the nation in elected officials charged with crimes.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Marco Rubio said that ""felons should not have their voting rights restored"" but that ""convicted felons should be allowed to own guns after they have done their time.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""America’s gun-related homicide rate … would be about the same as Belgium’s if you left out California, Illinois, D.C. and New Jersey, places with some of the strictest gun control laws in the U.S.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Illegal aliens cost the state of Rhode Island $400 million a year.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The United States has ""more of our people in prison than Russia, China, and North Korea combined.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Donald Trump ""says organized crime runs wild on reservations.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"On Jan. 6, 2021, U.S. Capitol “protestors carried no weapons.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"David Dewhurst is ""the first lieutenant governor in history to have a personal security detail.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Before April 22, ""we have restored the rights of more than 18,000 individuals, which is more than the past seven governors combined in their four-year terms.""",true,true,['true'],1,True
+Ethnic Russians face “genocide perpetrated by the Kyiv regime.”,false,false,"['false', 'pants-fire']",2,True
+"""Rhode Island has a [inmate] recidivism rate of over 60 percent.""",mostly-true,false,"['half-true', 'mostly-false', 'false']",3,False
+"""Washington has incentivized the militarization of local police precincts.""",true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"Says Debbie Mucarsel-Powell's family received $700,000 from the firm of ""violent warlord Ihor Kolomoisky,"" who is compared to Fidel Castro and Nicolás Maduro.",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Says ""the No. 2 cause of death in the U.S. (for) women under 50 is being killed by their spouse or domestic partner.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Merrick Garland is investigating Donald Trump’s “tax evasion case.”,false,false,"['false', 'pants-fire']",2,True
+Hacker Hamza Bendelladj was executed.,false,false,['false'],1,True
+"""Animal abuse is often an indicative trait of future acts of violence against humans.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+BREAKING: Illegal Muslim From Iran Arrested For Starting California Wildfire,pants-fire,false,"['false', 'pants-fire']",2,True
+"""Every 28 hours"" an unarmed black person is shot by a cop.",false,false,"['mostly-false', 'false']",2,True
+"""90% of Americans want national background checks that close loopholes.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""My Treasury team eliminated a 900-case backlog in the Crime Victim Compensation Program.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“As California attorney general, (Kamala Harris) redefined child sex trafficking, assault with a deadly weapon, and rape of an unconscious person as a totally nonviolent crime.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Because of voter fraud, Republican candidates ""need to do a point or two better"" to win statewide elections in Wisconsin.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""It was a 100 percent lie that (Donald Trump’s) election unleashed anti-Semitism. … Hundreds of Jewish community centers had bomb threats called in. To the best of our knowledge to this day, 90 percent of them were called in by an American Jewish kid living in Israel, and the other 10 percent were a black radical who was trying to impress his girlfriend.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"There were ""63 murders this weekend"" in Chicago and Mayor Rahm Emanuel’s legacy is ""more murders in his city than ever before.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"University of Texas students ""signed a petition seeking the legal right to abort newborn babies up to five-years-old.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Says Gerald Daugherty advocated lowering the penalty for crimes like strangulation in domestic violence cases because ""they just ‘throw more people into the’"" jail ""‘system.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Tony Evers ""wants to cut Wisconsin's prison population in half, a dangerous plan that today would mean releasing thousands of violent criminals back into our communities.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In Chicago, they've had thousands of shootings, thousands since Jan. 1. Thousands of shootings.""",true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""The weak illegal immigration policies of the Obama Admin. allowed bad MS 13 gangs to form in cities across U.S. We are removing them fast!""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Broward County Sheriff fired for lying about Parkland.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Rhode Island's graduated driving license ""has saved hundreds of lives.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Federal agents directly incited people on Jan. 6, 2021, and ""intentionally entrapped"" American citizens.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Dontre Hamilton, who was killed during a confrontation with a Milwaukee police officer, was ""unarmed.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Since the passage of (the Violence Against Women Act), annual rates of domestic violence have dropped by 63 percent.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""A [bank] surveillance camera capturing a criminal’s face and other identifiable traits would certainly discourage robbery attempts and serve as a deterrent to robbers.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In Florida, “any woman who has an abortion after six weeks — and any doctor who gives her care — will be guilty of a felony.”",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""The attorney general requires that rape victims pay for the rape kit.""",pants-fire,false,"['mostly-false', 'false']",2,False
+Say a boy was 'caged' in a wire enclosure.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“More cops are killed responding to domestic violence calls than anything else.”,false,false,"['mostly-false', 'false']",2,True
+"""According to the FBI, Mexican drug cartels are working with 100,000 street gang members in Chicago alone.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Washington, D.C., has 41 homicides per 100,000 people, “No. 1 that we can find anywhere in the world.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says handing over arrested undocumented youth to ICE ""was an unintended consequence"" of a 2008 San Francisco policy that she supported.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Three white former police officers were sentenced to less prison time — combined — for killing three Black people than a Black man was for selling marijuana.,half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In 2016, an officer was assaulted in America on an average of every 10 minutes.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"“When we discovered, I discovered, that we were doing many, many, too many stop and frisks, we cut 95% of it out.”",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Midtown crime is up by 30 percent the last quarter.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says imposters in hazmat suits are going door to door in Stockton, Calif., saying they are checking residents for fever or COVID-19, but they “will enter your home and physically attempt robbery.”",false,false,"['mostly-false', 'false']",2,True
+"""There are currently delays of up to six months in the processing of DNA evidence at the state run crime lab.""",half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Under President (George W.) Bush, prosecution of gun crimes was 30 percent higher than it is under President Obama.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“The idea that there’s political violence or violence in America like this is just unheard of.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""50 percent of murders in Texas have been linked to illegal aliens.""",false,false,"['false', 'pants-fire']",2,True
+"""Crime is rising.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""David Cicilline was the state representative who opposed tough mandatory sentences for those convicted of domestic violence  and child abuse.""",true,false,['false'],1,False
+"""Only in the Third World do you see this habitual use of prosecutions of former leaders.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Mexico is ""now rated the number one most dangerous country in the world.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Many firearms experts determined the Las Vegas shooter’s use of a bump stock actually prevented more casualties and (injuries) due to its inconsistency, inaccuracy, and lack of control.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Black people are eight times more likely to be arrested than white people"" in Madison.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“The subway burning victim's name was Amelia Carter.”,false,false,"['false', 'pants-fire']",2,True
+"The ACLU didn't call for an investigation (of the Newark police department), they called for an immediate federal monitor.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Almost 400 arrests in the city last year for panhandling-related offenses involved just 78 suspects, an indication that the same people are panhandling over and over.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Florida Agriculture Commissioner Nikki Fried “suspended gun rights — no due process — just because she says these people were merely ‘involved’ in January 6.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says ""About 7 in 10 of Oregon’s inmates are in prison for violent crimes and serious sex offenses.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Andrew Gillum ""oversaw a 52 percent increase in murder.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says a Senate resolution would restore $140 in monthly general assistance payments and prevent people from committing crime.,pants-fire,false,"['half-true', 'mostly-false', 'false']",3,False
+"Says Cathy Jordan was ""arrested"" and dragged out of her home by ""a SWAT team of hooligans"" for using medical marijuana.",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Andrew Gillum has presided over ""the highest crime in Florida four years running.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""The majority of Georgians incarcerated in local jails have never been convicted of crime. They are simply too poor to pay their bail.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Savings that I achieved"" helped fund cameras on the border. ""As a result, more than 21,500 arrests have been made and 46 tons of narcotics confiscated.""",half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""We have 33,000 people a year who die from guns.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"The war on drugs led to ""a 500 percent increase in incarceration in our country, disproportionately affecting poor and disproportionately affecting minorities.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Human trafficking is the third-biggest criminal enterprise in the world.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Sen. Kamala Harris is ""supporting the animals of MS-13.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Say a ""left wing extremist, chases down, rams car over Trump bumper sticker.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+“Violent crime rate dropped like a rock following West Virginia’s adoption of permitless carry.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“There is a serial killer in Cincinnati.” Seven bodies were found “chopped up.”,false,false,"['false', 'pants-fire']",2,True
+"Says Patrick Murphy is trying to ""hide his drunken assault of a police officer.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"After attacking Emma Gonzalez, U.S. Rep. Steve King is ""facing arrest.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says that under a new program jail ""time for non-violent, mentally ill offenders has been reduced by 50 percent.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There are places in America that are among the most dangerous in the world. You go to places like Oakland. Or Ferguson. The crime numbers are worse. Seriously.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Assaults on Wisconsin law enforcement officers are up 224 percent statewide since 2005,mostly-true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+They were “never my comments” that a woman can’t get pregnant from rape.,half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"More ""than 80 percent of sex trafficking victims in America are U.S. citizens.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The president's own FBI director said that the greatest domestic terrorist threat is white supremacists.,true,true,['true'],1,True
+"""Our larger domestic threat is from racial supremacist groups.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Rhode Island is ""almost dead last"" among Northeastern states in the length of time first-degree murderers must spend in prison before they’re eligible for parole.",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+A list shows violent crimes in Los Angeles that “people will be set free on as of today.”,false,false,"['false', 'pants-fire']",2,True
+"For every $1 spent on afterschool programs, ""we can save over $5, almost $6, in crime costs down the line.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+Voting-rights legislation proposed by Democrats in Congress called H.R. 1 “would force states to restore the voting rights of convicted felons—including violent felons convicted of murder or rape.”,half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+The Bipartisan Safer Communities Act led to “a 12% reduction in urban homicides in this country.”,half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Rifles “were involved in 297 deaths” in the U.S. in 2022 and “constipation killed 2,167.”",false,false,"['false', 'pants-fire']",2,True
+“Portland is burning to the ground.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I have watched ICE liberate towns from the grasp of MS-13.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"News interview proves that the Buffalo, New York supermarket shooting was staged.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""What we have now is the most generous, in my opinion, 'good time' bill in the entire United States.""",false,false,"['false', 'pants-fire']",2,True
+"Says Mitch McConnell voted ""two times against the Violence Against Women Act.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Antonio Villaraigosa's ""recklessness (as mayor of Los Angeles)  ... left no funding to test 7,000 rape kits, putting public safety at risk.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says a young Texas rapper charged with capital crimes faces the death penalty but the alleged Santa Fe High School shooter faces prison and then parole after 40 years.,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Dan Patrick has ""called immigration into Texas an invasion"" and ""said immigrants coming into Texas bring ‘third-world diseases.’""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The Justice Department has been investigating fraud in Minnesota “for months. So far, we have charged 98 individuals.”",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Breaking: Santa Fe killer expresses his love for Obama.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Mass shootings went up 200 percent in the decade after the assault weapons ban expired.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Muslims in America have been subjected to more insults, attacks and hate crimes in the last two or three years than ever before, specifically more than after 9-11.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The violent crime rate has risen, and the homicide rate has risen by more than 20 percent in just two years, really after 30 years of decline in violent crime.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"A ""study showed as many as one in four people have had a package stolen from their residence.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+The southern U.S. border “is now open to anyone from anywhere in the world who wishes to enter our country.”,false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“There are people trying to make legal age of consent 4 years old.”,false,false,['false'],1,True
+"Under the current procedure, if someone ""on a terror watch list"" tries to buy a gun, authorities are notified.",half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In 2010, 48,000 felons and fugitives lied and illegally tried to purchase guns. They [The Obama administration] prosecuted only 44 of them.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Romney refused to pardon ""a decorated soldier"" returning from Iraq who had been charged with a crime involving a BB gun when he was 13.",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+There are “many unanswered and obvious questions” about the 2001 death of a staff member of Joe Scarborough.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The man who killed a motorist who fatally struck a 2-year-old was ""back on the street"" because he had received a 13-year sentence for bank robbery but only ""served two years.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""It costs $10,000 a year to keep a child in school; it costs $30,000 a year to keep someone in prison.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""It’s nothing I do, but the probation office here in the Eastern District of Missouri is the best in the country. They have about a 7.5% recidivism rate, compared to national averages of 70 or 80%""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""While many urban areas across the country saw a sharp increase in crime over the last year, the Philadelphia Police Department successfully lowered part one crimes.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""Monica Lewinsky Found Dead"" in a burglary.",pants-fire,false,['false'],1,False
+"Says President Barack Obama ""appointed Eric Holder as attorney general. Eric Holder said he viewed his mission as brainwashing the American people against guns.""",half-true,false,"['mostly-false', 'false']",2,False
+"""Already this calendar year, since January 1, we have had more than 20,000 people come across the border, apprehended, unauthorized.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Texas has lost the most law enforcement officers in the line of duty of any state in America.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"“Joe Biden wants to eliminate a regulation that requires school districts to report allegations of teacher on student rape, alleged rape, and sexual assault.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Phoenix is already one of the kidnapping capitals of the world.""",false,false,"['false', 'pants-fire']",2,True
+"Says President Donald Trump ""cut funding from the Justice Department to investigate these domestic terrorist groups, these white supremacist groups.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"Says Jacky Rosen ""voted against stopping criminals from re-entering the United States.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says 85 percent of Milwaukee shootings involve ""people with extensive criminal records shooting other people with extensive criminal records.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“There’s been a 43% increase in violent crimes since I left office.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Jacob Blake, shot by police in Kenosha, had a warrant for sexual assault and prior convictions for gun use",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"""We have cut crime across every single zone in the city of Atlanta by between 10 percent and 16 percent, depending on the zone.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""The LGBT community is more often the victims of hate crimes than any other recognized group.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“A dangerous Hispanic couple” is “on the run after killing 3 female police officers.”,false,false,"['false', 'pants-fire']",2,True
+"Says that each year, about 25,000 American women become pregnant through rape or incest.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says America’s most violent cities are that way because of their Democratic politics,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""Nancy Pelosi came out in favor of MS-13.""",false,false,"['mostly-false', 'false']",2,True
+"Says that unless the recipient called back about ""your tax filings,"" you ""will be taken into custody by the local cops as there are more serious allegations pressed on your name.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Eric Schneiderman helped NXIVM sell child sex slaves to the Clintons""",pants-fire,false,"['false', 'pants-fire']",2,True
+"The ""six largest cities in Ohio all have higher rates of violence and crime than every major city along the U.S.-Mexico border.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"""At the end of 2016, there were 23 percent fewer federal prosecutions than in 2011, so (prosecutors) looked at this scourge (opioid deaths) and they let it go by.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"Emails show Democrats, Hillary Clinton and George Soros instigated and orchestrated racial protests in Charlottesville by trying to ""control"" and keep people ""desperate.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"New York state is outpacing the rest of the country, because shootings in New York are down 10%, and across the country the drop is only 2%.",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Since the federal Violence Against Women Act was adopted in 1994, ""cases of domestic violence have fallen by 67 percent.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Obama did in fact unconstitutionally spy on Trump throughout the presidential election.""",false,false,"['false', 'pants-fire']",2,True
+"""In my first year in office, Aurora homicides went down by 40%.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""In our nation’s capital, killings have risen by 50 percent.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"California has seen a ""56 percent decline in the gun murder rate"" since the 1990s.",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+Cook County’s criminal courts “have been shut down for 15 months.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Gov. Rick Perry has been ""begging"" for the federal government to send the Coast Guard to patrol two lakes on the U.S.-Mexico border.",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Under Tom Barrett’s leadership, violent crime in Milwaukee has decreased by over 20% -- to its lowest levels in more than 20 years.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"It ""is Hillary Clinton's agenda"" to ""release the violent criminals from jail. She wants them all released.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The city (of St. Louis) is no stranger to violence. There were 5,762 violent crimes in 2015 alone, including 188 homicides. The highest rate per capita in the country, according to FBI crime statistics.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says ""in our gun laws we’re allowing domestic abusers to sidestep this ban on getting a gun. The loophole allows a convicted abuser to walk into a gun show and walk out with a gun, no questions asked.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""In 2013,"" Dan Patrick voted ""against funding to test the backlog of rape kits, allowing rapists to walk free.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The truth is David Cicilline voted for tougher laws against child abusers, domestic abusers and abusers of the elderly.""",true,true,['true'],1,True
+"""You’ve got almost twice as many cops in New York City as you do on our entire border. That’s nuts.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Team Trump has accused Ted Cruz of fraud"" in Iowa, Texas, Colorado, Oklahoma, Louisiana, Kansas, Maine, Utah and Wisconsin.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""There are nearly 500,000 registered sex offenders across the country and at any one time about 100,000 are unaccounted for.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Police budgets are at their highest they've ever been, there hasn’t actually been any defunding the police.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says El Paso was named America’s ""Safest Large City"" a year after San Antonio, Houston and Dallas had the nation’s highest crime rates.",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Georgia has the country’s second highest number of fraudulent tax refund claims.,half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The shooting at an elementary school in Uvalde County, Texas, was a false flag.",pants-fire,false,"['false', 'pants-fire']",2,True
+There have been 317 criminal indictments under three recent Republican presidents and only three indictments under three recent Democratic presidents.,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"In Washington, D.C., “We always have a murder a week.”",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Surveys of teens in high school reveal that knowing a classmate who sells cannabis is 90 times more common than knowing a classmate who sells alcohol.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Since 1965, California has built ""six (college) campuses but 23 prisons.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""There was almost a 70 percent reduction in police-related shootings under my tenure because of training, supervision and policy decisions.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The “president of Drag Queen Story Hour” was “arrested, charged with child pornography.”",false,false,"['false', 'pants-fire']",2,True
+"""I’m running the second-largest county district attorney’s office … at 1985 staffing levels.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Kamala Harris Tried to Put Pro-Lifers in Jail Who Exposed Planned Parenthood Selling Baby Parts”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Saturday's shootings reflect a disturbing trend. Mass shootings have become commonplace since the Virginia Tech massacre in 2007. There have been dozens of incidents where three or more people have been fatally wounded. Hundreds have died.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""It’s against the law in Texas to let any loaded gun get in the hands of a child.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"During Gov. Hochul’s tenure, there has been “more crime on our streets.”",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Neil Gorsuch ""comes down on the side of felons over gun safety.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Secure Communities ""has a proven track record of enhancing public safety by focusing on violent offenders and those that pose a threat to our communities and our national security.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Leticia Van de Putte ""voted to stop schools from removing teachers convicted of a felony.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"“There was no violence on the Senate side, in terms of the chamber.”",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Parents that go to school board meetings"" and question the curriculum are being ""flagged by the Department of Justice and the FBI for attending a meeting.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Leftist justice reform” is the reason that the NYC subway shooting suspect wasn’t in jail at the time of the attack.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Fulton County District Attorney Fani Willis “campaigned and raised money on, ‘I will get Trump.’”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""When we held recent economic dialogues with China, we agreed on over 100 different things  —  including wildlife trafficking and volcano research. None of these 100-plus points of agreement addressed cybersecurity.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""African Americans are three to four times more likely to be arrested for drug crimes, and nine times more likely to be imprisoned.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Crime rises in communities with casinos.,half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Only five states, including Georgia, do not have a hate crimes law.",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Say that according to the Los Angeles Times, “95% of warrants for murder in Los Angeles are for illegal aliens,” more than two-thirds of all births in Los Angeles County “are to illegal alien Mexicans” on Medicaid, “nearly 60% of all occupants of HUD properties are illegal,” and Nancy Pelosi “wants to put a windfall tax” on retirement fund profits.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""Ken Buck's (District Attorney's) office? His spending skyrocketed by 40 percent.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Kill a White on Sight” appears on Black Lives Matter/Antifa flyers.,false,false,"['false', 'pants-fire']",2,True
+"""The conviction rate is almost exactly the same"" for whites and blacks who commit murder.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Bricks are being “randomly placed all over Detroit.”,false,false,['false'],1,True
+"""The average rate of fraud"" in the Earned Income Tax Credit, Medicare, Medicaid and food stamps programs ""is 20 to 25 percent.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Since the Sandy Hook tragedy, more than seven children PER DAY have died from gun violence.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""While Richard Cordray was Attorney General, 12,000 rape kits like Allyssa's were left untested. Cordray's failure left serial rapists free to strike again. Then Mike DeWine became Attorney General. He tested all 12,000 rape kits. Now hundreds of rapists are behind bars.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"There were ""50 percent more murders"" in Orlando and Orange County, Fla., last year ""than in all of Sweden.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"“My opponent, Cindy Axne, has actively sought to defund the police.”",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Florida is enjoying its lowest crime rate in 39 years.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Deidre DeJear refused to stand for police.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Neighborhoods have become more violent"" under President Barack Obama's ""watch.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says a 9-year-old girl was recently raped in Austin, Texas, by a guy previously ""caught four times and released.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"On Jan. 6, 2021, 274 FBI agents were “probably acting as agitators and insurrectionists, but certainly not as ‘law enforcement officials.’”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Felony crimes in the city of Atlanta are the lowest they have been since 1969.,true,true,['true'],1,True
+"""At a minimum, 40 percent of those who view child pornography end up molesting children as a result.""",mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"""If there is a firearm available, it is 17 times more likely to be used either for suicide or for assaulting a friend, relative, an acquaintance than it is to be used in fending off an intruder.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"The 1994 crime bill ""did not generate mass incarceration.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says John Cox ""parroted, parroted Trump — almost verbatim — on the children’s separation issues at the border.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The vast, overwhelming majority of [crimes that occur with a firearm] are committed by people who don’t legally possess that firearm in the first place.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+Says George Floyd has “hair in one shot but is bald in the shots of him laying on the ground.”,pants-fire,false,"['false', 'pants-fire']",2,True
+"If the sequester hits, federal prosecutors will have to ""let criminals go.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Donald Trump and Ron Johnson ""oppose a woman's right to choose and Johnson voted against the Violence Against Women Act.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The Biden administration “halted deportations for all illegal aliens — murderers, rapists, terrorists, MS-13 gang members are not being deported.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says the Texas Board of Nursing has a backlog of ""3,000 complaints against nurses, many of them sexual assaults, malfeasance.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Here’s the simple and undeniable fact: The overwhelming majority of violent criminals are Democrats.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Over the last two years, the number of murders in America and America’s major cities has dropped, unlike here (Chicago), by more than 10%.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The Australia bushfires have nothing to do with climate change; it was arson.""",false,false,"['mostly-false', 'false']",2,True
+"""Fifty-six percent decline in overall crime. A 73 percent decline in motor-vehicle theft. A 67 percent decline in robbery. A 66 percent decline in murder. This is way beyond what happened in the nation during this period of time.",true,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,False
+"""Ron Johnson has voted against funding for law enforcement and recently opposed a plan to recruit and train new officers """,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""So many of these shooters turn out to be communist Democrats.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Under the Hate Crimes bill, ""any pastor, preacher, priest, rabbi or imam who gives a sermon out of their moral traditions about sexual practices could be found guilty of a federal crime.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“We’re facing situations these days where you have to have two officers in the evidence room in case there’s an accidental (fentanyl) exposure.”,true,true,['true'],1,True
+“One in six local election officials have received threats of violence” and threats against judges have doubled over four years and threats against members of Congress have increased by 10 times over five years.,mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""The White House fully cooperated with the Special Counsel’s investigation.""",false,false,"['mostly-false', 'false']",2,True
+"""In Rhode Island, 28 percent of adults released from state prisons are re-incarcerated within a year.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Police made ‘no arrests’ of protesters who blocked Durham Freeway,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Because of violence spreading from Mexico, ""you’ve got bullets hitting the city hall in El Paso. You’ve got bombs exploding in El Paso.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"""What has happened since 2005? We’ve seen violent crime continuously go down"" due to Florida's ""stand your ground"" law.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The Milwaukee County sheriff’s department  ""plays only a limited role as a traditional law enforcement agency"" and in 2009 reported far fewer crimes to the FBI than the University of Wisconsin-Milwaukee police did.",half-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""A third of the budget for the city of Ferguson (Missouri) was being reaped by civil fines.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""In American history since 9/11, we've had 85 major attacks in our country, 73 percent of them have been by white nationalist hate groups.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Just last year, alone, 710 police officers"" were assaulted in New York state.",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"When Atlanta Police Chief George Turner was interim head of the department, overall crime fell 14 percent and violent crime dropped 22.7 percent.",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says that Bill Clinton ""basically"" told then-Attorney General Loretta Lynch in 2016 that ""we killed Vince Foster.""",pants-fire,false,"['mostly-false', 'false']",2,False
+"""There are over 2,000 crimes recorded per 100,000 population in the U.K.,"" compared to ""466 violent crimes per 100,000"" in the United States.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Homicides are intraracial. When you look at white-on-white crime, it's 84%. Right? Homicides. White people kill white people.”",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""$53 million a week is coming across the border in drugs.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Here are the facts: there is no massive wave of migrants pouring into California. Overall immigrant apprehensions on the border last year were as low as they’ve been in nearly 50 years (and 85 percent of the apprehensions occurred outside of California).""",true,true,['true'],1,True
+"""Private prison systems are calculating how many new beds (they will need) based on the ... number of third graders.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We live in the most incarcerated country in the world.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says special counsel Robert Mueller ""has brought in Democrat campaign donors at a very high level"" on his team of lawyers.",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“The 9/11 Memorial in NYC was just defaced with graffiti.”,false,false,['false'],1,True
+"Law-abiding gun owners stop crimes ""2.5 million times a year,"" according to the federal Centers for Disease Control.",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Scores of politicians and others are on a “list” of sex cases from newly unsealed Ghislaine Maxwell court documents.,false,false,"['false', 'pants-fire']",2,True
+Former North Carolina Gov. Roy Cooper “bears direct responsibility” for the fatal stabbing of a woman on the Charlotte rail system.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The murder rate in Atlanta is on the rise this year.,true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Phoenix is the kidnapping capital ""of the Western Hemisphere.""",false,false,"['false', 'pants-fire']",2,True
+"""You're more likely to be the victim of a violent crime in Milwaukee than in 96 percent of the country.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Since 2013 alone, the Obama administration has allowed 300,000 criminal aliens to return back into United States communities. These are individuals encountered or identified by (Immigration and Customs Enforcement), but who were not detained or processed for deportation because it wouldn't have been politically correct.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says ""the most dangerous time for children"" is from ""3 to 6 p.m., during which time juvenile crime rates triple""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Germany ""is crime-riddled right now"" because of migration to Europe.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“If you look at some of these places that (reduced police funding), they’ve already seen crime go up.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Violent crime in Manhattan is ""now at a record level.""",false,false,['false'],1,True
+"Says House Republicans ""tried to change the definition of rape.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""US representatives promise implement of UN gun-control plans""",mostly-false,false,"['false', 'pants-fire']",2,False
+Says Donald Trump “proposes cutting a half a billion dollars of local police support.”,mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""If Governor Cooper's proposed bill for repealing HB2 becomes law, it will create a state-sanctioned 'Look But Don't Touch' policy in our bathrooms.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Idaho shooting suspect Wess Roley faced criminal charges and had a no-contact order from his family.,false,false,"['false', 'pants-fire']",2,True
+"Says ""Florida is a model"" for successful pretrial release programs.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Rhode Island is ""at the top of the country for alcohol-related fatalities.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says he's arrested more criminals, ""including thousands of child predators and sex offenders,"" than any previous Texas attorney general.",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says carbon monoxide is still employed to euthanize dogs and cats in 29 Texas animal shelters.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Phoenix, Arizona, I'm told, is now the No. 2 kidnapping capital in the world, right behind Mexico City.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In the eight years that I was mayor, (there was a) nearly 50 percent drop in violent crime, gang crime — crime went down because we grew our police department, we focused on constitutional community policing, we did some of the most innovative prevention, intervention, job re-entry programs in the nation.""",mostly-true,true,"['true', 'mostly-true', 'half-true']",3,True
+"""In 1972, we had a 179,000 human beings in jail in this country. Today, it's 2.3-million, and 70 percent of them are black, African-American.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"“Biden said today, if he loses, his people will keep burning, looting and killing.”",false,false,['false'],1,True
+"In Parkland, Fla. ""the mass murderer was immersed in Islamic and leftwing hate.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"The Justice Department has been “calling parents that are concerned about what their kids are being taught, they are labeling them terrorists.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""When we look at the number of murders in the United States (in) 2009, we had 9,500 people murdered. When we look around the world, we see ... large countries, the U.K., Germany, Japan had 200 or less killed in a year.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Cuomo ended cash bail ... and now the crime rate has gone through the roof.”,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""There’s actually a court order that prevents keeping the kids with the parents when you put the parents in jail.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Barack Obama has consistently voted against tougher penalties for criminals.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Defendants charged with producing, directing or promoting an obscene sexual performance by a child will be arraigned & set free.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+Says he led the fight to add 200 new police officers to make the City of Milwaukee safer.,half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Before 2020, “crime had been falling, every year, year after year, in the city of Buffalo.”",mostly-true,true,['true'],1,False
+"The death penalty ""is a deterrent that does affect and impact people.""",mostly-false,false,"['mostly-false', 'false']",2,True
+"""In the city of Milwaukee, we’ve still got a mayor and a police chief who are furloughing police officers at a time when we have violence all across the city.""",mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Crime is down in Arizona.""",true,true,['true'],1,True
+"Says that in Texas, it’s ""already illegal to enter a bathroom to harm someone.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"A University of Texas ""student pulled out a concealed handgun"" on a knife-wielding suspect ""and made him back down.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In 2016, Dallas, Texas, has fewer ""police officer-related shootings than any large city in America.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Hate crimes against American Muslims and mosques have tripled after Paris and San Bernardino.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Of all the people in federal prison for possession of illegal substances, 77 percent of them are not citizens of the United States.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Only a few months ago the FBI arrested three Broward County Commissioners for accepting millions of dollars in trade for illegal favors.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Children who witness domestic violence are ""twice as likely to commit it themselves.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The crime decline in the United States would be fairly small if it wasn't for the crime decline in New York City.""",false,false,"['mostly-false', 'false']",2,True
+"""Greg Abbott and his surrogates have referred to women who have been the victims of rape or incest as though somehow what they are confronting is a minor issue.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Kamala Harris said looters are just feeding their hungry kids.,false,false,"['false', 'pants-fire']",2,True
+“They are trying to make it illegal to question the results of a bad election.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Look at what’s happening last night in Sweden. Sweden, who would believe this? Sweden. They took in large numbers. They’re having problems like they never thought possible.""",false,false,"['mostly-false', 'false']",2,True
+"Says Paul Manafort’s alleged crimes were ""years ago, before Paul Manafort was part of the Trump campaign.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""More whites than blacks are victims of deadly police shootings.""",half-true,false,"['mostly-false', 'false']",2,False
+"Gov. Charlie Crist ""sought for and got approved the automatic restoration of felon rights for nonviolent offenders for the first time in Florida history.""",false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says that like Todd Akin, all Texas Republicans in U.S. House cosponsored a bill ""that attempts to distinguish between ‘forcible rape’ and other sexual assaults.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Democrat Hank Gilbert ""has a criminal conviction for theft, has multiple years of unpaid taxes, has multiple tax liens and fines, unsafe driving convictions (and) has recently been accused of taking a bribe and is on record lying to the press this year about his criminal record.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says ""no, you’re wrong,"" responding to the assertion that stop-and-frisk was ruled unconstitutional in New York.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""A Trump fan was just charged with trying to murder Maxine Waters on same day Trump threatened her.""",false,false,"['false', 'pants-fire']",2,True
+"Says of MS-13 gang members, ""We are getting them out of our country by the thousands.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Most of your serial killers, most of your people who commit domestic violence, they start off by abusing animals.""",false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says a study indicates up to $8.5 billion in lost GDP and up to 185,000 lost jobs if Texas lawmakers approve a measure limiting transgender bathroom choices.",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Florida's new fingerprint identification system is improving our rate of solving cold cases by 300 percent.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""There is a big correlation between third grade reading level and whether you go to college or whether you go to prison. And in Florida right now only 56 percent of kids are coming out of third grade at third grade reading level.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Sex traffickers are using a zip-tie contraption on the door handles of vehicles “to trick females into looking down and digging for something in their purse to cut with ... Once they’re distracted, boom! They are quickly forced into another vehicle, never to be seen again by their people.”",false,false,"['false', 'pants-fire']",2,True
+Says Nancy Pelosi was arrested after ripping a copy of the State of the Union speech.,pants-fire,false,"['false', 'pants-fire']",2,True
+A political map circulated by Sarah Palin’s PAC incited Rep. Gabby Giffords’ shooting,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Cheri Beasley was “encouraging (riots) all across our state and all across our country in 2020.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Crime is escalating to a level we haven’t seen in decades as a direct result of Democrats’ defund the police movement and Biden-Harris open-border policies.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+A bar graph compares homicides for various racial groups,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Last year, handguns killed 48 people in Japan, 8 in Great Britain, 34 in Switzerland, 52 in Canada, 58 in Israel, 21 in Sweden, 42 in West Germany and 10,728 in the United States.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Last year, ""we saw the first reduction in the federal prison population in 32 years.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"In Texas, ""sexting is a felony sex offense for teenagers — that can mean up to 10 years in prison.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"The ""House-passed budget proposal could cut funding for programs that help keep local neighborhoods safe, slash more than $1.7 million in anti-terror funds for Ohio.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"On Sept. 5, 1993, ""Vince Foster went to Fort Marcy Park and shot himself 3 times in the back of the head to avoid testifying against Hillary Clinton.""",false,false,"['false', 'pants-fire']",2,True
+“Joe Biden called Black youth super predators.”,false,false,"['false', 'pants-fire']",2,True
+"The Super Bowl has ""one of the highest levels of human sex trafficking activity of any event in the country.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"There are ""more gun deaths by far"" in the United States than any other country in the world.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""‘The largest bust in U.S. history’ 412 Muslims arrested from Michigan!""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says in Chicago, ""we take more guns off the streets than New York or L.A.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"A record number of immigrants not from Mexico are ""being apprehended at the border.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Harry Reid ""voted to use taxpayer dollars to pay for Viagra for convicted child molesters and sex offenders.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""some [states] with the largest reductions in crime have also lowered their prison population.""",true,true,['true'],1,True
+"""The UK has an unarmed police force and a firearm fatality rate that is 40 times lower per capita than in the U.S.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Since I was elected, crime rates have been at their lowest in over a decade.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Local authorities in 43 states refused to honor more than 16,000 detainer requests from ICE from October 2013 to December 2015. Only in Alaska, Delaware, Hawaii, Maine, Montana, Vermont and Wyoming did local officials honor all requests, and detainers are relatively rare in those states.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""At his father's bank, Alexi made tens of millions in risky loans to convicted mobsters. Then, the bank collapsed.""",half-true,half-true,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""A man using bath salts reported that raccoons had set fire inside his home and stolen his cell phone.""",true,true,['true'],1,True
+The Club Q shooting was a “false flag.”,pants-fire,false,['false'],1,False
+"Says under Mayor Cory Booker, Newark has seen ""violent crime up five years in a row, murder up five years in a row.""",half-true,false,"['half-true', 'mostly-false', 'false']",3,True
+"Russia’s interference in the 2016 election amounted to ""a couple of Facebook ads.""",pants-fire,false,"['false', 'pants-fire']",2,True
+The officers who beat Tyre Nichols targeted him because he was “allegedly dating” one of their wives.,false,false,['false'],1,True
+"""When the mayor of Providence's brother wrote over 100 grand in bad checks to the city, Joe Fernandez didn't have the guts to prosecute him. He let him off the hook.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Measure 11 is ""one of the most significant reasons"" for decrease in violent crime.",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""I deployed the Texas National Guard"" to the Texas-Mexico border. ""And the policy worked; apprehensions at the border declined 74 percent.""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+“Jan. 6 now does look like it was an inside job.”,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In New Hampshire, 93 percent of Democrats, 79 percent of Republicans, 82 percent of gun owners and 60 percent of NRA households support background checks.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Joe Biden “is letting millions of people from jails, from prisons, from insane asylums, from mental institutions, drug dealers pour in.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"President Donald Trump ""announced that he would reinstate a national day of remembrance for fallen officers that the traitor before him had done away with.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Says Leah Vukmir ""wrote a letter seeking leniency for a fellow state legislator convicted of sexual assault.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""The city of… is being warned to be alert & vigilant as there is a serial killer on the run,”  Robert Thibodeau.",false,false,"['false', 'pants-fire']",2,True
+Three churches were targeted during arson attacks over the summer “because they protect unborn babies and women in need.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Studies have shown Latinos are more than 40 percent less likely to call 911 when they have been a victim of a crime.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+Says a Michigan funeral home employee was “cremated by mistake while taking a nap.”,pants-fire,false,"['false', 'pants-fire']",2,True
+"""The murder rate in our country is the highest it’s been in 47 years.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“Congress files charges against Nancy Pelosi.”,pants-fire,false,"['false', 'pants-fire']",2,True
+"""DUI arrests dropped significantly in Tampa once Uber began operating here.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"A serial killer is targeting women in Hot Springs, Ark.",false,false,['false'],1,True
+"""We have killed lots of innocent people in the state of Texas.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""In the 1990s, the Biden Crime Bill added 100,000 cops to America's streets. As a result, murder and violent crime rates went down eight years in a row.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"As part of the Obama administration's criminal justice reforms, “38,000 prisoners were released from federal prison.”",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Sixty percent of the auto thefts that we have in (St. Petersburg) are caused by people leaving their keys in the car.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In Chicago, which has the toughest gun laws in the United States, probably you could say by far, they have more gun violence than any other city.",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Protest vandalism in Richmond “all started two weeks ago when Mayor Stoney’s police gassed - tear gassed - a peaceful crowd of protesters, moms and children, at 7:30 p.m. sharp.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""John McCain was pardoned for treason""",pants-fire,false,['false'],1,False
+"""If you give guns to gangs, you can get out of jail free, if (California’s Proposition 57) passes. If you do a drive-by shooting, you can get out of jail free, if Proposition 57 passes. If you discharge guns on a school yard, you can get out of jail free.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""We’ve had a dramatic drop in violent crime since this law (‘stand your ground’) has been in effect.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Bill White spent his city billions of dollars into debt (and) saw crime rates soar while he backed gun control.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Well over 90 percent of felony cases, all over the nation, are committed by defendants who grew up in father-absent households.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A Republican bill that would change John Doe criminal investigations is ""creating exceptions in the law for politicians.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says the United States has the highest incarceration rate in the world with 2.3 million inmates, and the majority of Americans are imprisoned because they sold small amounts of drugs.",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Milwaukee County Executive Chris Abele ""eliminated"" sheriff’s office funding for providing security for presidential and presidential campaign visits.",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Almost half of all vehicles stolen in Texas each year had keys left inside.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Undocumented immigrants commit less crimes than the native born.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“The entire city (of Portland) is ablaze all the time.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Under Wisconsin law, ""anyone who knows anything about a John Doe"" secret criminal investigation ""can't talk about it.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""Because of (the 1994 crime bill), we had a 25-year low in crime, a 33-year low in the murder rate, and listen to this, because of that and the background check law, a 46-year low in the deaths of people of gun violence.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Says Milwaukee County Sheriff David Clarke has ""deputies collecting overtime while sitting passively in chairs watching courthouse security personnel work.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""In Florida felonies can be things like buying weed, tampering with an odometer or disturbing a lobster trap. So basically spring break.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""In the states that allow open carry, violent crime was 23 percent lower.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"""Californians are overwhelmingly against this concept of the illegal sanctuary state.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Say North Carolina Gov. Roy Cooper was arrested for driving while intoxicated in Stanly County.,false,false,['false'],1,True
+"Says the Central Park Five ""admitted their guilt.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"From 2000 to 2008, we averaged ""about five mass shootings a year. We're now averaging 15. So that's a three-fold increase.""",mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""By the time I finish this speech, two Americans will be slain, six women will be raped, 27 of us will be robbed, and 50 more will be beaten.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Says Rick Santorum ""voted to let convicted felons vote.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+The Jeffrey Epstein plea agreement “was a sweetheart plea deal that was made under the Obama administration.”,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Recently released Jan. 6 footage shows ""these cops using massive amounts of force against unarmed Trump supporters, including women.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Scott Walker cut funding to local governments in Wisconsin, contributing to the ""second-largest increase in violent crime"" in the Midwest.",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""The fact is voter fraud is rampant.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says the Obama administration catches and releases nonviolent illegal immigrants.,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Joe Biden brought Republicans and Democrats together to pass the 1994 crime bill, putting 100,000 cops on the streets and starting an eight-year drop in crime across the country.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""FBI Uniform Crime Report for 2016 shows more than four times as many people were stabbed to death than were killed with rifles of any kind.""",mostly-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Says getting ex-cons to successfully return to society is important ""so we are not always faced constantly with recidivism, which is a big problem in the penitentiary today – in the 70 to 80 percent range.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"A new Missouri bill “would put teachers on the sex offense registry if they ‘contribute to social transition’” of transgender students, including by using gender-affirming pronouns.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""100 percent of the crime is committed, in estimate, by about 15 percent of the population.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Domestic violence ""is seen as a pre-existing"" health condition and ""women had to pay 50 percent more for health care because of gender ratings,"" but under Obamacare, ""all of that is over.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""This type of mass violence does not happen in other advanced countries. It doesn’t happen in other places with this kind of frequency.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says NBC News reported that Hillary Clinton ""covered up elite pedophile ring at state department.""",false,false,"['false', 'pants-fire']",2,True
+"A legal settlement that reined in Chicago police ""resulted in approximately 236 additional victims killed and over 1,100 additional shootings in 2016 alone.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"California has lower homicide rates than Alabama, Arkansas and Oklahoma.",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says a Washington Post reporter who broke news on Judge Roy Moore story has a criminal history of ""faking.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Worldwide credit card transactions, the credit card fraud rate is 0.04 percent, compared to almost 8 percent, 9 percent, 10 percent of Medicare fraud.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Seventy four percent of Californians are absolutely against sanctuary state"" policies.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""More people are driving under the influence of drugs than are driving under the influence of alcohol. A recent roadside survey showed that 16 percent of the people tested, tested positive for illicit or licit drugs. That's significantly higher than alcohol.""",half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"People on pot ""shoot each other ... stab each other ... strangle each other, drive under the influence, kill families.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The stories from women saying he groped or forced himself on them ""largely have been debunked.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""I had to lay off 48 people last year,"" which has exacerbated the lack of law enforcement officers in the county that respond quickly to crime calls.",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Texas has ""the lowest crime rate in this state since 1968"" because of changes in law regarding nonviolent drug offenders.",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says the proposed Texas Privacy Act ""is very different from"" North Carolina’s law ""in that theirs covers a whole list of things that the Texas Privacy Act does not.""",half-true,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"The slaying of two Israeli embassy employees in Washington, D.C., is a false flag.",pants-fire,false,"['false', 'pants-fire']",2,True
+"Says “Lucy McBath voted to release criminals from prison. Murderers, rapists.”",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Says Patrick Mahomes said, “I believe George Zimmerman is innocent.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"New York is ""leading the nation with the lowest imprisonment rate of any large state”",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""President Obama became the first president since Carter to leave the White House with a smaller federal prison population than when he took office.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There are hit squads being trained all over this country” to violently oppose a second term for President Donald Trump.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says U.S. Sen. Ron Johnson ""threatens citizens with arrest if they continue asking for a town hall.""",pants-fire,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""More than one person, on average, a day is murdered in Philadelphia.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"In Ferguson, Mo., ""you've got three black officers and 50 white officers with a town that is 67 percent African-American.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There’s 21 congressmen and senators that have been convicted of felonies that still get their retirement, even in jail. They don’t have to wait until they’re 65.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"A loophole ""still exists which allows members of Congress and high-powered executive branch appointees to exploit 'insider' knowledge of the financial industry in order to turn personal profit.""",true,true,['true'],1,True
+"""Investigators: Anthony Bourdain was killed by Clinton operatives.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""We lose an average of 90 Americans every day because of guns.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"The federal Hate Crimes Prevention Act bill would create ""special protection for pedophiles.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""How many people have with a concealed carry permit have committed a crime in Virginia? ...The answer is zero.""",false,false,"['false', 'pants-fire']",2,True
+"""Across the board, violent crime in jurisdictions that recognize the Right to Carry is lower than in areas that prevent it.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Texas does not regulate the appearance of some kinds of imitation firearms sold in Texas.,mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"It's ""not true"" that since he's been the president, executions in Iran have increased by four times.",false,false,"['false', 'pants-fire']",2,True
+"""You see 34 people (are) murdered every single day"" by gunfire in America.",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Alex Jones ""said that the victims of the Sandy Hook massacre were child actors and no one was actually killed there.""",true,false,"['false', 'pants-fire']",2,False
+"No one “with a concealed carry permit ever committed a mass shooting.""",false,false,"['false', 'pants-fire']",2,True
+"A bill backed by Sean Duffy and other House Republicans ""could actually require the Internal Revenue Service to conduct audits of rape victims"" who get an abortion.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Austin mayoral candidate Steve Adler has ""never been active in anything that has to do with City Hall.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Crime statistics “no longer include data from 30% of the country including the biggest and most violent cities.”,false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Donald Trump staged the shooting at his rally in Butler, Pennsylvania.",pants-fire,false,"['false', 'pants-fire']",2,True
+Says white vans with external locks are “utilized for sex trafficking.”,false,false,"['mostly-false', 'false']",2,True
+"Says that in Illinois, ""fewer than 20% of those actually deported have been charged with any serious crime.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Transporting drugs ""is the price of admission"" for people crossing the border illegally.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says George Floyd’s criminal history includes “23 arrests,” “3 car thefts” and many violent crimes.",false,false,"['mostly-false', 'false']",2,True
+"""In New England, Rhode Island has the second highest number of police officers being assaulted.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says 194 people were killed in mass shootings in 2018 while undocumented immigrants killed 83,211 people.",false,false,"['false', 'pants-fire']",2,True
+“California store owner prices all items at $951 so thieves can be prosecuted.”,false,false,"['false', 'pants-fire']",2,True
+"""In 2020, more journalists were killed in Mexico than in any other country in the world.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Florida sheriffs unequivocally support"" the ""stand your ground"" law.",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says 88 Texas constables have died in the line of duty.,true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+The Obama administration shut down the Amber Alert program because of the government shutdown.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Switzerland (where the government) issues every household a gun . . . has the lowest gun related crime rate of any civilized country in the world!!!""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""If you're a terrorist you can't fly,"" but ""an assault weapon you can buy.""",mostly-true,mostly-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Netflix show “Adolescence” is based on Southport, England, knife attacker but the show “race swapped the actual killer from a black man/migrant to a white boy.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Louie Gohmert of Texas ""blamed the mass shooting at a movie theater in Colorado on ‘the ongoing attacks on Judeo-Christian beliefs.'""",mostly-false,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"“In Virginia, Black people are eight times (8X) more likely than white people to die of gun homicide.”",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""According to a recent study from the University of California Riverside, (sanctuary) cities with these policies have more violent crime on average than those that don’t.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Arizona was safe” when she moved to the state in 1994, but has become “unsafe.”",false,false,"['half-true', 'mostly-false', 'false']",3,True
+"By clicking on a link from a fake USPS text message, “you are sending your precise location to sex traffickers in your local area” so they can kidnap you.",false,false,"['mostly-false', 'false']",2,True
+"""Smallville star confesses she sold children to Rothschilds and Clintons.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Says ""some Planned Parenthood chapters have been selling the body parts of aborted fetuses for profit.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+The Brooklyn subway attack was a false flag.,pants-fire,false,['false'],1,False
+"""Al-Qaida operatives, have said, 'Hey, we want you to use this loophole (for purchasing guns despite being on a watch list) to attack and kill Americans.'""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Super Bowl Sunday has the highest rate of domestic violence.""",pants-fire,false,"['false', 'pants-fire']",2,True
+Under New York’s Clean Slate Act “violent crimes … will now be automatically sealed after a set time - like they never happened.”,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says Barack Obama ""said black males are two times more likely to be shot by a law enforcement officer than white males"" and ""that is a lie"" because ""there is no data.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Nicole Galloway's campaign “is being bankrolled by the same extremists who want to defund our police.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Rhode Island’s teen binge drinking rate is double the national average.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"In Wisconsin, ""we have a bill that would allow hidden, deadly weapons -- every single person to carry one -- no training, no background check, even around schools.""",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+Says “Property crime rising in Austin. This is the kind of thing that happens when cities defund and deemphasize police. Residents are left to fend for themselves.”,mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+Says murder is the chief cause of death for pregnant women.,mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Substack article shows manifesto of Luigi Mangione, the suspect in health care executive's killing.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""African-Americans are more likely to be arrested by police and sentenced to longer prison terms for doing the same thing that whites do.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says El Paso is the ""safest city of our size in the nation.""",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says “the city of Austin is a disaster if you haven’t been there. A great city, now one of the most dangerous cities in America and definitely in Texas.”",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Raphael Warnock ""ran over his wife"" and was ""arrested for obstructing an investigation into child abuse.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""Political violence, it's just a statistical fact that it's a bigger problem on the left.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+“President Obama and Vice President Biden never even tried to fix this (police reforms) during their eight-year period.”,false,false,"['mostly-false', 'false']",2,True
+"Boston Marathon bombing suspect Tamerlan Tsarnaev is buried ""not far"" from President Kennedy’s grave.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Beto O’Rourke ""voted to shield MS-13 gang members from deportation.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"In Springfield, Ohio, “murders are up by 81%.”",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""if you are shot in the city of Newark, you have over an 80 percent chance that you've been arrested before an average of 10 times.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""As a result of National Rifle Association and other private-sector (safety-education) programs, fatal firearms accidents are at the lowest level in 100 years.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Studies have shown that voter fraud is non-existent in Texas.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"“Just last week, Ruben Gallego voted to let the millions of people who poured into our country illegally cast a ballot in this upcoming election.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Say Matt Wand cut Troutdale police, created a slush fund for himself.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""If you go strictly by the numbers, crime is down across the board. Last year we had a 10 percent decrease in the most serious crimes.""",true,true,['true'],1,True
+“My opponent wants to abolish” law enforcement.,false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The average age a child is trafficked into the commercial sex trade industry is between 11 and 14 years old.""",half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""Texas has a higher incarceration rate than Russia or Iran.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"Says Dontre Hamilton ""was shot 14 times by police for resting on a park bench in Milwaukee.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"In Milwaukee, ""murder is up an astonishing 57 percent.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""I've been here almost every day.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says unemployment in Trenton is ""twice as much as what we see in every other area of the state"" and, as a result, ""we have seen an increase in crime.""",mostly-false,mostly-false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"Says ""Catherine Cortez Masto indicted (Brian Krolicki), who was an innocent man, in order to save Harry Reid's political career""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Missouri, in general, has more crime, percentage-wise, than the rest of the country. So, we are seeing overall crime throughout the country is going down but not here in Missouri.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""The Obama administration has used the Espionage Act to go after whistleblowers who leaked to journalists ... more than all previous administrations combined.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""New Jersey police chief says black people ‘have no value’ and should all be executed.""",mostly-true,false,"['mostly-false', 'false']",2,False
+"''Over 40 percent of African-American men in (Milwaukee County) have been going to prison for low-level drug offenses, and I think a hundred times that in the city of Madison.""",false,false,"['false', 'pants-fire']",2,True
+"""People who die from a home invasion make up a sad but minuscule .04% of all gun murders in the U.S. And over a third of them are killed by their own gun that the criminal has either stolen or wrestled from them.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says it was ""a crime for Nixon to wiretap the Democrats at Watergate but OK for Obama to wiretap Republicans at Trump Tower.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""The number of SWAT raids have gone up by 1,400 percent since the 1980s.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""There have not been any public safety issues"" in cities that allow transgender people to use the bathroom of the gender they identify as.",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"At the Pelosi house, “the glass it seems was broken from the inside to the out, so it wasn’t a break-in, it was a breakout.”",pants-fire,false,"['false', 'pants-fire']",2,True
+Says crime statistics show blacks kill 81 percent of white homicide victims.,pants-fire,false,"['false', 'pants-fire']",2,True
+"Of the approximately 6 million disenfranchised felons in the United States, ""one-quarter are Floridians.""",mostly-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Says Milwaukee County buses are no less safe now than a year or two ago.,mostly-false,false,"['half-true', 'mostly-false', 'false']",3,True
+"Congress includes 36 people accused of spousal abuse, 84 arrested for drunk driving in the past year, 71 with terrible credit and more.",pants-fire,false,"['false', 'pants-fire']",2,True
+"""The truth of the matter is that during my administration, the FBI's crime statistics show that violent crime was reduced in Massachusetts by 7 percent.""",true,true,['true'],1,True
+"""One out of every 5 people that the federal government charges with murder is an illegal alien.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""In Mobile, it’s something like, 1,700 families generate 80 percent of the crime. We know who those families are.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Not a single banker, a CEO from Wall Street, anyone from corporate America — nobody, (there was) not one arrest of any of these people who brought down the economy in 2008.""",mostly-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+“Cal Cunningham has been silent on this on defunding the police; I assume his silence is consent.”,false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"""Transgender individuals in the U.S. have a 1-in-12 chance of being murdered.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says Texas Department of Public Safety numbers show that 1.6 percent of crime is committed by unauthorized immigrants.,half-true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+"""They eliminated the funding for community policing.""",false,false,"['mostly-false', 'false']",2,True
+"Tony Evers “wants to let out between 9,000 and 10,000 more” Wisconsin prisoners",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+Says left-wing activist John Sullivan “incited (the) insurgence of (the) US Capitol.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Black Lives Matter ""injures 1000 police officers kills 36 people and does $8 billion in damage.""",false,false,"['false', 'pants-fire']",2,True
+"""We’ve already started (the border wall). We started it in San Diego.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"A ""ghost bus … filled with FBI informants dressed as Trump supporters deployed onto our Capitol on January 6th.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""There's no evidence that white supremacists were responsible for what happened on Jan. 6. That's a lie.”",false,false,"['false', 'pants-fire']",2,True
+"""Murder went up"" when Romney was governor. ""Robbery went up. Violent crimes went up.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"""There is a 34 percent increase in violent crime in the state of California. … And that’s just within the last year.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"During her tenure as county attorney in Minnesota, ""there was a 65 percent decrease in incarceration of African-Americans.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Sharron Angle supported ""a Scientology plan to give massages to prisoners.""",half-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+“Many law enforcement agencies didn’t submit their (hate crime) data to the FBI.”,true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Ted Cruz ""never denied"" his father was photographed with Lee Harvey Oswald.",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says Mark Pocan’s proposal to eliminate the U.S. Immigration and Customs Enforcement (ICE) would ""eliminate border enforcement.""",pants-fire,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+The racial and ethnic makeup of the Gwinnett County Sheriff’s Office mirrors the community it serves.,true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,False
+"Greg Abbott ""has campaigned with a sexual predator who has bragged about having sex with underage girls.""",half-true,false,"['mostly-false', 'false', 'pants-fire']",3,False
+"Under Mayor Tom Barrett, the number of Milwaukee police officers ""has not increased.""",true,false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",6,True
+Georgia ranks No. 9 in the rate of women murdered by men.,true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Research found that ""over the course of the existence of the Brady Bill ban, the use of assault weapons in crimes decreased by two thirds.""",half-true,half-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Violent crime in South Bend doubled during Mayor Pete’s tenure.”,mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+People are participating in “National Rape Day’” on April 24.,false,false,"['false', 'pants-fire']",2,True
+"Says Rick Scott has ""teamed up with a felon convicted of running a Ponzi scheme to smear Charlie Crist.""",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Gangs have increased by 40 percent since this president was elected.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Last year, (Bill McCollum) spent more than $2.2 million dollars to produce and air campaign-style TV ads where you were featured in almost every frame.""",mostly-true,mostly-true,"['true', 'mostly-true']",2,True
+"Says ""I disagreed"" with President Obama’s Secure Communities deportation program",half-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+A document shows Minnesota shooting victim Renee Good had a record of child abuse.,false,false,['false'],1,True
+"""Hillary Clinton spied on President Trump.""",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""An elderly British politician has been savagely beaten to a bloody pulp by a gang of anti-Trump protestors because he ‘welcomed’ the U.S. president to the United Kingdom.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+“I cooperated far more” than Joe Biden in the classified documents investigations.,pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says since Australia passed tough gun laws, ""homicides by firearm have declined almost 60 percent.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"Says Texas has ""had over 600,000 crimes committed by illegals since 2011. Over 1,200 homicides.""",pants-fire,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"The wife of the Ferguson, Mo., police chief said African-Americans in Ferguson ""are feral and violent.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"""The state that has the highest per capita number of … guns that end up committing crimes in New York come from Vermont.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says of the Milwaukee mass shooter:  ""Supposedly he is black. A noose was hung on his locker and he addressed the issue and he was fired! So he returned the next work day and killed who he all thought were involved.""",mostly-false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"""To call what happened on January 6 an armed insurrection, I just think is not accurate.""",pants-fire,false,"['false', 'pants-fire']",2,True
+"Under a GOP bill on cash bail, ""a large quantity of people who are accused of crimes, including anyone who even witnesses certain crimes, could now be detained and subject to bail.""",half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+A 0.05 standard for drunken driving means having a glass of wine at dinner could make a person drunk.,mostly-true,mostly-true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"""Homicides against blacks have tripled"" since Florida’s ""stand your ground"" law has been in existence.",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"Says ""160,000 kids stay home every day because they are afraid to go to school because of bullying.""",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Sarah Palin endorsed a Wasilla policy that charged sexual assault victims for their ""rape kits.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+"“This year, there have been 13,000 deaths by gun violence. The vast majority, 95% of them, are in inner cities, where you have some of the strictest gun control laws in the country.”",mostly-false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""According to ATF data, 70 percent of firearms recovered and traced in drug cartel crimes in Mexico originated from the United States.""",mostly-true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"More women were killed by their husbands or boyfriends since Sept. 11 than ""all the Americans who were killed by 9/11 or in Afghanistan and Iraq.""",true,true,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+"There are ""paid protesters"" involved in the Stephon Clark demonstrations.",false,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"""Breaking! Terrorist attacks Trumps at Mar A Lago.""",false,false,"['false', 'pants-fire']",2,True
+"Shinzo Abe was assassinated because he “didn’t mandate vaccines, sent 1.6 million doses back and gave citizens ivermectin.”",false,false,"['mostly-false', 'false', 'pants-fire']",3,True
+"About ""1 percent of all the gun sellers are responsible for more than half of the guns that are used in crimes.""",half-true,half-true,"['mostly-true', 'half-true', 'mostly-false', 'false']",4,True
+The rate of U.S. female homicide victims outnumbers 24 other developed countries by more than 2½ to 1.,half-true,false,"['half-true', 'mostly-false', 'false', 'pants-fire']",4,True
+"Says Donald Trump's claim that ""there was insufficient evidence and therefore, in our country, a person is innocent"" directly contradicts Special Counsel Robert Mueller’s statement.",mostly-true,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+"Democrats ""want virtual immunity for illegal aliens who have created horrible crimes and murder.""",false,false,"['mostly-false', 'false']",2,True
+Says drug cartels are using social media to offer rebates so more children from Central America get smuggled to the United States.,mostly-false,false,"['mostly-true', 'half-true', 'mostly-false', 'false', 'pants-fire']",5,True
+“12 white female bodies in garage freezer tagged ‘Black Lives Matter.’”,pants-fire,false,"['false', 'pants-fire']",2,True
+"""The spillover violence (from Mexico) in Texas is real and it is escalating.""",mostly-false,mostly-false,"['true', 'mostly-true', 'half-true', 'mostly-false', 'false']",5,True
+“Kenosha car dealer kills himself after insurance won’t cover … damages caused by the riots.”,pants-fire,false,"['false', 'pants-fire']",2,True
