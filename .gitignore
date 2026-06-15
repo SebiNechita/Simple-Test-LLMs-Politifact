@@ -56,6 +56,9 @@ conformal_results_2026*.csv
 # *.csv
 # *.tsv
 
+# Large dataset files (>100MB, exceeds GitHub limit)
+datasets/evidence/politifact_evidence-english-no-media.json
+
 # Environment variables
 .env
 .env.local
